@@ -1,0 +1,25 @@
+data Surreal = Surreal [Surreal] [Surreal]
+
+left :: Surreal -> [Surreal]
+left (Surreal xs _) = xs
+
+right :: Surreal -> [Surreal]
+right (Surreal _ ys) = ys
+
+(<=) :: Surreal -> Surreal -> Bool
+a@(Surreal aL _) <= b@(Surreal _ bR) =
+    and (not . (<= b) <$> aL) && and (not . (a <=) <$> bR)
+
+--(<=) :: Surreal -> Surreal -> Bool
+--(<=) a@(Surreal aL _) b@(Surreal _ bR) = (&&) --(not ((<=) aL b)) (not ((<=) a bR))
+--    (foldr ((&&) $ not . (<= b)) True aL)
+--    (foldr ((&&) $ not . (a <=)) True bR)
+
+
+--and (not . (<= b) <$> aL)
+--and (not . (a <=) <$> bR)
+--and (map (\al -> not ((<=) al b)) aL)
+--
+--(foldr (\al acc -> acc && not ((<=) al b)) True aL)
+
+
