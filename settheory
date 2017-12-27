@@ -385,9 +385,9 @@ Without further ado, the Fundamental Theorem of Arithmatic
 
         characteristic :: Integer -> [Integer]
 
-        where any number x greater than (vonNeumann 1) has the properties that
+        where any number x strictly greater than zero has the properties that
 
-        x == prod $ LiftA2 (^) (toList Primes) (charcteristic x)
+        x == prod $ zipWith (^) (toList Primes) (charcteristic x)
         x == y <-> charcteristic x == characteristic y
 
         Intuitively, the first proposition shows the existance of a list, and the
@@ -433,8 +433,8 @@ these particular sets, we define the following operators.
     prod = fold (*) {Null}
 
 Note that I am being pretty abusive with my usage of n, what I really mean
-is zero :: n -> Module and zero _ = Null, but I can't be concerned with
-writing that much boiler plate.
+is zero :: n -> Modulo and zero _ = Null, but I can't be concerned with
+writing n -> before all my function types.
 
 The most interesting thing to note is, we now have a definition of - that is
 closed under the set.
