@@ -1,0 +1,484 @@
+The purpose of this document is to informally talk of set theory from
+a functional programming point of view. We will start by refering to sets
+as a data type, similar to lists, and work to show that sets behave like
+a member of MonadPlus. From this, we can develop notions such as set
+equality, subsets, and elements in terms of functional lambdas.
+
+Since this is Psuedocode, I will not be concerned with things such as
+namespace clashes and order of operations. It is generally obvious the
+order of infix operators, and I may at some point work on a table detailing
+the fixity of operators, but at this point if there is eggregious ambiguity,
+I will use parens to resolve it.
+
+Also, I will use {a} to denote Set a, similar to [a] denotes List a. This
+liberty is to aid in readability, since again, this is not code that is
+meant to be compiled.
+
+A note on computability. The purpose here is to create a mathematical framework
+of numbers in set theory using lambdas because I understand lambdas better than
+I understand set theory, and I'm a recent Haskell advocate and want to show
+how lambda caluclus can be used to reason about sets. However, I am not concerned
+with the computability of any of our functions, and many of them could indeed,
+and as a matter of fact will indeed, run forever without halting. This is not
+due to laziness on my part, this is a fundamental property of some of the
+functions which we are going to be working with. This is okay,
+because the fact that these functions are not computable as they are written
+doesn't make the mathematics that they represent any less true, only impossible
+to compute. It is a subtle distinction, but you will commonly see me fold
+an infinite set, and use that value in some other function. I don't mind that
+the infinite fold doesn't halt, all that matters is that the structure is foldable.
+
+    Data Set a = Null | Set a (Set a)
+
+Note the similarity to lists. In fact, many bookkeeping notions can be resolved
+by creating a toList and fromList function, so while we could write functions
+such as fmap and >>=, it becomes easier to just say that we are not concerned with
+implementation details and instead are more interested in just that the
+operation exists and that it behaves in the way it should. For instance,
+our implementation of insert is O(n) and we could do O(log n) if we were
+to implement sets as binary trees, but we don't care and would rather the
+simplicity and transparency.
+
+--FUNDAMENTAL OPERATIONS
+    (@) :: a -> {a} -> Bool
+    insert :: a -> {a} -> {a}
+    delete :: a -> {a} -> {a}
+
+    a @ Null = False
+    a @ (Set b s) = a == b || a @ s
+
+    insert a Null = Set a Null
+    insert a s@(Set b t) = if a == b then s else (Set b $ insert a t)
+
+    delete a Null = Null
+    delete a (Set b s) = if a == b then s else (Set b $ delete a s)
+
+Many of these instance declarations could be defined similarly to lists,
+so we will not bother to write them here. It is worth noting that the
+difference between sets and lists at this point is only that we don't
+have the concept of "head" and "tail" and that we can only add and remove elements
+using the insert and delete function, requiring the uniqueness property of sets
+For most all purposes, syntactically speaking, one can use lists to the
+same effect as sets and acheive similar results
+
+    instance Foldable Set where
+        foldr = ...
+    instance Functor Set where
+        (<$>) = ...
+    instance Applicative Set where ...
+    instance Monad Set where ...
+        return a = Set a Null
+        (>>=) = ...
+    instance MonadZero Set where
+        mempty = Null
+    instance MonadPlus Set where
+        (++) = fold insert
+    instance MonadMinus Set where
+        (--) = fold delete
+    instance Eq Set where
+        Null == Null = True
+        a == b = a -- b == Null && b -- a == Null
+    instance Ord Set where
+        (<=) a b = a ++ b == b
+
+The first intesting instance declaration is MonadPlus, and here we
+have defined it in the way that would indicate that ++ means set union.
+Next, we make up a typeclass called MonadMinus, and define -- to mean
+set subtraction, or a -- b = the set of all element in a with the elements of b
+removed. It is then easist to talk of equality such that, if you remove
+all b from a and get the null set, and you remove all a from b and get
+the null set, then a == b. We then define a partial ordering as the standard
+subset definition. It is worth noting that this is not a full ordering,
+because there exists sets a and b where neither a <= b nor b <= a
+so this is not a proper haskell class Ord, but again, we're not concerned
+with specifics.
+
+At this point I would like to write down some laws that are unique to sets
+for the operations we have written down. In theory one could make a Set
+typeclass using any @ and insert that obey these laws, but we're not going
+to do that.
+
+--LAWS
+    a @ insert a _ = True
+    insert a $ insert a s = insert a s
+    a @ s -> insert a (delete a s) = s
+    not (a @ s) -> delete a (insert a s) = s
+    insert a s == s <-> a @ s
+    delete a s == s <-> not (a @ s)
+
+I could keep going with laws about subsets and inserts and such, but one
+could look in your favorite book on ZFC set theory to find them.
+
+At this point we are missing definitions for intersection, and it is not
+immediately obvious how to go about defining it recursively. However, note that
+since we have defined set as an instance of monad, we have the power of
+list comprehensions at our disposal, so long as we get past the notion of
+correct syntax. We can then write intersection as
+
+    (^^) s t = {x <- s | x @ t}
+
+or in words, s ^^ t is the set of all x in s such that x is also an element of t
+Obviously there is some syntactic sugar to define here, as it would be more
+correct to write
+
+    (^^) s t = s >>= (\x -> guard (x @ t) >> return x)
+
+but no one wants to try and read that. We will suppose that any sugar needed
+is defined as one would expect, being careful in not adding anything new
+by applying magical sugaring.
+
+Lastly, I would like to define union and intersect, as well as
+
+    union :: {{a}} -> {a}
+    union = fold (++) Null
+    intersect :: {{a}} -> {a}
+    intersect Null = Null
+    intersect (Set s ss) = fold (^^) s ss
+
+At this juncture, we have defined all of the operations we would like to use on
+sets, given we apply symetry to definitions such as a <= b <-> b >= a
+where neccesary. Now, I would like to begin to formulate the ordinal numbers
+using these sets, and define operations on these sets in the way we would like to.
+
+Before we begin, I must have a word about using numerals. Haskell, and any
+other programming language, will always have the numerals built in to the
+language. This is well and good for saying things like VonNeuman 0 == Null,
+but in general, the built in integers will only be used for functions such as this,
+and no where else. This exposes the purity of set theory, and a similar notion
+will be used when talking of surreal numbers. Also, we will be able to say
+things like (VonNeuman (a + b) = VonNeuman a + VonNeuman b), and in general
+this should hold for any operator on numbers, meaning that the operation on
+the sets should produce the same result as applying the operation on the numbers,
+but here we must be careful in distinguishing sets and numbers.
+
+So at this juncture, we need to have a conversation about the type of ordinals.
+We are working with sets of sets here. One could imagine a set of sets, and
+another layer deeper of sets of sets of sets. We are taking this to its inductive
+extreme, saying that an ordinal is a set of sets, where each set is a set of sets.
+I am not sure at this moment if this notion is absurd or not, but for now we will
+go with it and see if we run into anything silly.
+
+    Type Ordinal = {{}}
+
+    zero :: Ordinal
+    succ :: Ordinal -> Ordinal
+    max :: {Ordinal} -> Ordinal
+    min :: {Ordinal} -> Ordinal
+    pred :: Ordinal -> Ordinal
+    (+) :: Ordinal -> Ordinal -> Ordinal
+    (*) :: Ordinal -> Ordinal -> Ordinal
+    (^) :: Ordinal -> Ordinal -> Ordinal
+    sum :: {Ordinal} -> Ordinal
+    prod :: {Ordinal} -> Ordinal
+
+    zero = Null
+    succ s = s ++ insert s Null
+    max = union
+    min = intersection
+    pred = max
+    (+) a Null = a
+    (+) a b = succ a + pred b
+    (*) a Null = Null
+    (*) a b = a + a * pred b
+    (^) a Null = {Null}
+    (^) a b = a * a ^ pred b
+    sum = fold (+) Null
+    prod = fold (*) {Null}
+
+This is nice, because for Ordinals x and y, x <= y iff x is a subset of y,
+so we have already defined notions of order and equality of Ordinals. One
+can also prove to oneself that the usual laws of addition and multiplication
+hold, such as a + 0 = 0 + a = a, a * 1 = 1 * a = a, a + b = b + a,
+a <= b -> a + c <= b + c, etc.
+
+We now define a way of talking about ordinals in terms of built in operators
+Here, Integer refers to some way a compiler will reason about integers,
+different than sets. We don't know in what way these integers are encoded,
+nor should we care, as long as we have the operations defined above for
+another encoding of integers these functions will work, one just has
+to be careful in distinguishing + :: Ordinal -> Ordinal -> Ordinal with
++ :: Integer -> Integer -> Integer. In this way, we could define integers
+using a church encoding of lambda expressions, and define the operations on
+church numerals, and these functions would still be entirely valid and correct.
+
+    VonNeumann :: Integer -> Ordinal
+    VonNeumann 0 = Null
+    VonNeumann x = succ . VonNeumann $ x - 1
+
+    Ord2Int :: Ordinal -> Integer
+    Ord2Int Null = 0
+    Ord2Int a = 1 + Ord2Int (pred a)
+
+The first thing to show is that Ord2Int . VonNeumann = id, and I don't feel like
+writing a proof but it is pretty clear once one understands the definitions.
+One could also prove things like a <= b -> VonNeumann a <= VonNeumann b or
+a + b == c -> VonNeuman a + VonNeumann b == VonNeuman c, and again,
+I am not going to write a proof but encourage the reader to verify any of these
+properties to whatever degree of rigor they see fit.
+
+Now we are going to define Z+ in terms of the Ordinals
+
+    type Integer = {{}}
+    Z+ :: {Ordinal}
+    Z+ = {zero} ++ {succ z | z <- Z+}
+
+In other words, the set Z+ is the set of all ordinals obtained by applying the
+succ function to zero any number of times. Of course, the set Z+ is closed
+under the succ function.
+
+It is worth noting that the set Z+ is itself an ordinal, and is usually denoted
+as omega. However, we don't plan on getting too crazy about infinities, at least
+not in the context of ordinals, and are using this as merely a stepping stone
+to begin talking about the natural numbers into the rationals into the reals.
+
+A quick note on type definitions, the astute reader will notice that Ordinals
+and Integers have the same type alias. This is true, because in this formulation,
+everything is a set, so of course they are both sets. The type definitions are
+only used as a indicator to the reader of what kinds of sets are meant to be
+used for a function, and doesn't actually restrict anything about the types
+being used.
+
+At this juncture, we have defined the natural numbers, and the next step
+in the process would be to work to define the rational numbers. However,
+before we can do that, we must define an ordered pair. We decide to use
+Kuratowski's definition.
+
+    Kuratowski :: ({}, {}) -> {}
+    Kuratowski (a, b) = {{a}, {a, b}}
+
+Next, we have to define functions for extracting element from a pair. These
+are defined as
+
+    fst :: {} -> {}
+    snd :: {} -> {}
+
+    fst = intersect
+    snd a = a -- fst a
+
+One can verify such things as fst $ Kuratowski (a, b) = a and
+snd $ Kuratowski (a, b) = b. I am honestly not sure if I got this right, but
+regardless we can just say that we know there is a way to encode ordered pairs
+inside of sets.
+
+Now that we have that out of the way, we can begin to talk about the rationals.
+The set Q+ is defined as follows.
+
+    type Rational = {{}}
+    Q+ :: Rational
+    Q+ = {Kuratowski (a, b) | a <- Z+, b <- Z+, not $ b == Null}
+
+In other words, every rational can be stated as a kuratowski pair of integers,
+where the second in the pair is non-zero.
+
+There are many things to talk about, so I'm just going to start talking about
+them without regard to the order in which I do. The first thing is to notice
+that we have simply created a set of Kuratowski pairs, and until we define a
+notion of equality in Q, (2,4) != (4,8), i.e. Kuratowski (2,4) is a different
+set than Kuratowski (4,8).
+
+Another thing to note is that we have lost the notion of our original Z+.
+That is 3 as an element of Z+ is a different than 3 as an element of Q+.
+In other terms, vonNeumann 3 is not equal to Kuratowski (3, 1).
+In fact, as stated by our first point, there are many different representations
+of 3 in Q+, Kuratowski (3,1) being the most obvious but Kuratowski (6,2) and
+Kuratowski (9,3) being equally as valid. This becomes even more troubling when
+we realize that, speaking in terms of natural numbers (3, 3) = {{3},{3,3}} =
+{{3}} = VonNeumann 4 -- VonNeumann 3, which is not at all like 1 or anything
+else we might expect. In this way, we have to think of Z+ and Q+ as unrelated
+sets, and speak of a member of Z+ being equal to a member of Q+ only in terms
+of defined relations and not in terms of set equality. This is one of the
+biggest dissapointments about the purity of the formulation of numbers using sets
+in this way.
+
+So enough on that, lets start defining some relations on Q+. For many of the
+relations, we will be using our definitions defined on Z+, so its important
+for the reader to understand that + sometimes means + over Integers and sometimes
+means + over Rationals, and keep them straight themselves, because I
+am not excited about the idea of littering my definitions throughout with
+type annotations. Also, from here on, (a,b) and a/b and Kuratowski (a,b) all mean
+Kuratowski (a,b)
+
+    num :: Rational -> Integer
+    den :: Rational -> Integer
+    zero :: Rational
+    (+) :: Rational -> Rational -> Rational
+    (*) :: Rational -> Rational -> Rational
+    (==) :: Rational -> Rational -> Bool
+    (<=) :: Rational -> Rational -> Bool
+
+    num = fst
+    den = snd
+    zero = Kuratowski (0, 1)
+    (+) a b = Kuratowski (num a * den b + num b * den a, den a * den b)
+    (*) a b = Kuratowski (num a * num b, den a * den b)
+    (==) a b = num a * den b == num b * den a
+    (<=) a b = num a * den b <= num b * den a
+
+Next, we want a way to embed the elements of Z+ into Q+, so we define
+
+    embed :: Integer -> Rational
+    embed a = Kuratowski (a, {Null})
+
+Note that I used {Null} here, but I could have just as easily used vonNeumann 1,
+and it would have been a small mistake to say Kuratowski (a, 1) because 1 isn't
+a set in our context but some built in encoding of the integers.
+
+From this point, one can prove all of the facts about Z+ about embed <$> Z+
+and see that all the properties we'd expect to hold about succ and + and *
+and so forth hold as we'd expect them to. It's also worth noting that
+embed <$> Z+ = {Kuratowski (z, {Null}) | z <- Z+}, as one tell very straigtforwardly
+from monadic properties. This set embed <$> Z+ is clearly different from Z+,
+and is a strict subset of Q+, and we shall call it the integral rationals.
+We shouldn't need to reason about it, but in case it ever comes up, that will
+be the name we use.
+
+At this point, it is very worth noting that, although we haven't talked about
+the notions of countablitity, the set of rationals is countable. It is easy to
+show that there is a one-to-one mapping from the integers to the rationals (embed is one
+such mapping) but less trivial to show that there is a one-to-one mapping from the rationals
+to the integers. If we define
+
+    f :: Rational -> Integer
+    f = (\q -> vonNeumann 2 ^ num q * vonNeumann 3 ^ den q)
+
+and we can show both that
+
+    q == p <-> f q == f p
+    {f q | q <- Q+} is a subset of Z+
+
+then we have our proof. I leave a proof of this to the reader,
+allowing him to employ whatever level of rigor he sees fit. (I personally prefer
+to think about it really hard until the answer seems trivial to me, which has
+all the rigor of a wet noodle)
+
+At this point, it seems fitting to begin to speak of prime numbers. The set
+of all prime numbers Primes is defined by
+
+    isComposite :: Integer -> Bool
+    isPrime :: Integer -> Bool
+    Primes :: {Integer}
+
+    isComposite p = p @ {a * b | a <- Z2, b <- Z2} where Z2 = Z+ -- vonNeumann 2
+    isPrime p = p > vonNeumann 1 && not (isComposite p)
+    Primes = {isPrime p | p <- Z+}
+
+I would like to find a more elegent definition that doesn't involve guarding
+the primes to Z2, and doesn't rely on the use of isComposite to define isPrime
+but this one works. Now that we have primes, we can begin to speak of
+the fundamental theorem of arithmatic.
+
+Before we get into the fundamental theorem, though, I want to talk about lists.
+If a set is totally ordered, we can convert it to a list. In mathematical terms
+
+    toList :: Ord a => {a} -> [a]
+    toList = ...
+    toSet :: [a] -> {a}
+    toSet = fold insert Null
+
+I'm not concerned with the implementation of converting a set to a list, I am
+only concerned with the fact that, given a total ordering, it can be done.
+
+Without further ado, the Fundamental Theorem of Arithmatic
+
+    Fundamental Theorem of Arithmatic
+        There is a function
+
+        characteristic :: Integer -> [Integer]
+
+        where any number x greater than (vonNeumann 1) has the properties that
+
+        x == prod $ LiftA2 (^) (toList Primes) (charcteristic x)
+        x == y <-> charcteristic x == characteristic y
+
+        Intuitively, the first proposition shows the existance of a list, and the
+        second proposition show uniqueness of the list.
+
+I don't feel like proving this theorem, but I will say that it involves defining
+the characteristic first, which is what I will now attempt to do.
+
+Before that, I want to talk about modulo sets. A modulo is simply the set of
+all elements of an ordinal. However, we can talk of things like addition modulo n
+and multiplication modulo n using elements of Z+ that are not in modulo n.
+Let's define
+
+    Type Modulo = Z1 -> {{}}
+    modulo = vonNeumann
+
+which creates a whole family of sets {modulo n | n <- Z1}. For each one of
+these particular sets, we define the following operators.
+
+    zero :: Modulo n
+    coerce :: Integer -> Modulo n
+    succ :: Modulo n -> Modulo n
+    max :: {Modulo n} -> Modulo n
+    pred :: Modulo n -> Modulo n
+    (+) :: Modulo n -> Integer -> Modulo n
+    (-) :: Modulo n -> Integer -> Modulo n
+    (*) :: Modulo n -> Integer -> Modulo n
+    sum :: {Modulo n} -> Modulo n
+    prod :: {Modulo n} -> Modulo n
+
+    zero = Null
+    coerce x = if x @ modulo n then x else coerce (x - n)
+    succ m = if next == n then Null else next where next = m ++ insert m Null
+    max = union
+    pred m = if m == Null then max $ modulo n else max m
+    (+) m Null = m
+    (+) m i = succ m + pred i
+    (-) m Null = m
+    (-) m i = pred m - pred i
+    (*) m Null = Null
+    (*) m i = m + m * pred i
+    sum = fold (+) Null
+    prod = fold (*) {Null}
+
+Note that I am being pretty abusive with my usage of n, what I really mean
+is zero :: n -> Module and zero _ = Null, but I can't be concerned with
+writing that much boiler plate.
+
+The most interesting thing to note is, we now have a definition of - that is
+closed under the set.
+
+We say a divdes b if there is some integer c such that b == a * c.
+This means b is a multiple of a, e.g. div a b <-> multiple b a.
+It is worth noting that div a a = True and mult a a = True
+
+    div :: Integer -> Integer -> Bool
+    divisors :: Integer -> {Integer}
+    gcd :: Integer -> Integer -> Integer
+    multiple :: Integer -> Integer -> Bool
+    multiples :: Integer -> {Integer}
+    lcm :: Integer -> Integer -> Integer
+
+    div a b = not . (== Null) $ {c <- Integer | b == a * c}
+    divisors a = {d <- Integer | div d a}
+    gcd a b = max $ divisors a ^^ divisors b
+    multiple a b = not . (== Null) $ {c <- Integer | a == b * c}
+    multiples a = {m <- Integer | multiple m a}
+    lcm a b = min $ multiples a ^^ multiples b
+
+We say that a divides b n times if a^n divides b. The divDegree of two numbers
+is thus defined as
+
+    divDegree :: Integer -> Integer -> Integer
+    divDegree a b = max {n <- Integer | div (a^n) b}
+
+And we see we easily have the property
+
+    div = (> 0) . divDegree
+
+We are now equipped to define the charactistic.
+
+    characteristic = divDegree <$> toList Primes
+
+It is left to the reader to show that this characteristic satisfies the fundamental
+theorem of arithmatic.
+The inverse of the characteristic is
+
+    decharacterize :: [Integer] -> Integer
+    decharacterize = prod $ zipWith (^) (toList Primes)
+
+And one can see that charcterize . decharacterize = id and vice versa
+
+
+
