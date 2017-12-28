@@ -77,7 +77,7 @@ same effect as sets and acheive similar results
         (--) = fold delete
     instance Eq Set where
         Null == Null = True
-        a == b = a -- b == Null && b -- a == Null
+        (==) a b = a -- b == Null && b -- a == Null
     instance Ord Set where
         (<=) a b = a ++ b == b
 
@@ -158,6 +158,19 @@ extreme, saying that an ordinal is a set of sets, where each set is a set of set
 I am not sure at this moment if this notion is absurd or not, but for now we will
 go with it and see if we run into anything silly.
 
+This is of course syntactically wrong, as Set has kind * -> *, so if a is Set
+then Set a still has kind * -> * since a has kind * -> *. However, as a sort
+of justification for this, we say that Null doesn't depend on a, and the Set
+constructor can except anything that we've created as a valid set so far for
+either of its arguments. So Null is a set and Set Null Null is the set that
+contains Null as its only element. Set (Set Null Null) Null is the set that
+contains (Set Null Null) as its only element, call it {Null} and
+Set Null (Set (Set Null Null) Null) is the set that contains Null and {Null}
+as its only elements. So we see that this isn't too absurd after all,
+even if it is a gross abuse of notation, and definitely not mathematically rigorous.
+
+Set Null
+
     Type Ordinal = {{}}
 
     zero :: Ordinal
@@ -166,10 +179,12 @@ go with it and see if we run into anything silly.
     min :: {Ordinal} -> Ordinal
     pred :: Ordinal -> Ordinal
     (+) :: Ordinal -> Ordinal -> Ordinal
+    (-) :: Ordinal -> Ordinal -> Ordinal
     (*) :: Ordinal -> Ordinal -> Ordinal
     (^) :: Ordinal -> Ordinal -> Ordinal
     sum :: {Ordinal} -> Ordinal
     prod :: {Ordinal} -> Ordinal
+    diff :: Ordinal -> Ordinial -> Ordinal
 
     zero = Null
     succ s = s ++ insert s Null
@@ -178,18 +193,40 @@ go with it and see if we run into anything silly.
     pred = max
     (+) a Null = a
     (+) a b = succ a + pred b
+    (-) a Null = a
+    (-) a b = pred a - pred b
     (*) a Null = Null
     (*) a b = a + a * pred b
     (^) a Null = {Null}
     (^) a b = a * a ^ pred b
     sum = fold (+) Null
     prod = fold (*) {Null}
+    diff a Null = a
+    diff Null b = b
+    diff a b = diff (pred a) (pred b)
 
 This is nice, because for Ordinals x and y, x <= y iff x is a subset of y,
 so we have already defined notions of order and equality of Ordinals. One
 can also prove to oneself that the usual laws of addition and multiplication
-hold, such as a + 0 = 0 + a = a, a * 1 = 1 * a = a, a + b = b + a,
+hold, such as a + Null = Null + a = a, a * {Null} = {Null} * a = a, a + b = b + a,
 a <= b -> a + c <= b + c, etc.
+
+Before we continue, I want to talk about pred and (-). These operations are
+indeed closed under the ordinals, but they don't neccesarily have the properties
+one would come to expect. For instance, pred zero == zero, so it is not the case
+that succ . pred $ x == x as we might expect, because, succ . pred $ Null
+is {Null}. Likewise, we cannot take for granted that (x - y) + y == x, because
+if y >= x then (x - y) + y == y. We have defined pred and (-) in this way
+so that we can reason about some properties of certain sets easily, as the
+reader will find when he gets to the topic of the fundamental theorem of arithmatic.
+
+Also, I would like to briefly discuss the difference between (-) and diff.
+They are very similar functions, the difference being that (-) will take a - b
+in the usual way one learns in kindergarden and if the result is negative, the
+result of a - b is Null. On the other hand, the diff of a and b could be thought
+of as the max {a - b, b - a}, or in less cryptic terms, the absolute value
+of a - b. We could show a whole bunch of inequalities using (-) and diff, such
+as diff a b == (-) a b <-> a >= b and so on, but we will not list them here.
 
 We now define a way of talking about ordinals in terms of built in operators
 Here, Integer refers to some way a compiler will reason about integers,
@@ -238,10 +275,69 @@ only used as a indicator to the reader of what kinds of sets are meant to be
 used for a function, and doesn't actually restrict anything about the types
 being used.
 
-At this juncture, we have defined the natural numbers, and the next step
-in the process would be to work to define the rational numbers. However,
-before we can do that, we must define an ordered pair. We decide to use
-Kuratowski's definition.
+I want to talk about modulo sets here, because it seems like it will be useful,
+and here is as good a place as any.
+
+A modulo is simply the set of all elements of an ordinal. However, we can talk
+of things like addition modulo n and multiplication modulo n using elements
+of Z+ that are not in modulo n.
+
+Let's define
+
+    Type Modulo = Z1 -> {{}}
+    modulo = vonNeumann
+
+which creates a whole family of sets {modulo n | n <- Z1}. For each one of
+these particular sets, we define the following operators.
+
+    zero :: Modulo n
+    coerce :: Integer -> Modulo n
+    succ :: Modulo n -> Modulo n
+    max :: {Modulo n} -> Modulo n
+    pred :: Modulo n -> Modulo n
+    (+) :: Modulo n -> Integer -> Modulo n
+    (-) :: Modulo n -> Integer -> Modulo n
+    (*) :: Modulo n -> Integer -> Modulo n
+    sum :: {Modulo n} -> Modulo n
+    prod :: {Modulo n} -> Modulo n
+
+    zero = Null
+    coerce x = if x @ modulo n then x else coerce (x - n)
+    succ m = if next == n then Null else next where next = m ++ insert m Null
+    max = union
+    pred m = if m == Null then max $ modulo n else max m
+    (+) m Null = m
+    (+) m i = succ m + pred i
+    (-) m Null = m
+    (-) m i = pred m - pred i
+    (*) m Null = Null
+    (*) m i = m + m * pred i
+    sum = fold (+) Null
+    prod = fold (*) {Null}
+
+Note that I am being pretty abusive with my usage of n, what I really mean
+is zero :: n -> Modulo and zero _ = Null, but I can't be concerned with
+writing n -> before all my function types.
+
+The most interesting thing to note is, we now have a definition of - that is
+closed under the set, unlike our integers, and that pred Null is not Null and
+pred is also closed under the modulo set.
+
+I would also like to mention some sets derived from Z+. There are times when
+we want to allow a function to take as input any non zero member of Z+, and
+I would like to come up with a shorthand for it besides Z+ -- {Null}. Thus,
+we say
+
+    Zn :: Integer -> {Integer}
+    Zn n = Z+ -- {n}
+
+Instead of saying x <- Zn 3, we will just say x <- Z3 as shorthand.
+
+
+At this juncture, we have defined the natural numbers, and the modulo numbers
+and the next step in the process would be to work to define the rational numbers.
+However, before we can do that, we must define an ordered pair.
+We decide to use Kuratowski's definition.
 
     Kuratowski :: ({}, {}) -> {}
     Kuratowski (a, b) = {{a}, {a, b}}
@@ -264,8 +360,8 @@ Now that we have that out of the way, we can begin to talk about the rationals.
 The set Q+ is defined as follows.
 
     type Rational = {{}}
-    Q+ :: Rational
-    Q+ = {Kuratowski (a, b) | a <- Z+, b <- Z+, not $ b == Null}
+    Q+ :: {Rational}
+    Q+ = {Kuratowski (a, b) | a <- Z+, b <- Z1}
 
 In other words, every rational can be stated as a kuratowski pair of integers,
 where the second in the pair is non-zero.
@@ -305,6 +401,7 @@ Kuratowski (a,b)
     (*) :: Rational -> Rational -> Rational
     (==) :: Rational -> Rational -> Bool
     (<=) :: Rational -> Rational -> Bool
+    (===) :: Rational -> Rational -> Bool
 
     num = fst
     den = snd
@@ -313,6 +410,8 @@ Kuratowski (a,b)
     (*) a b = Kuratowski (num a * num b, den a * den b)
     (==) a b = num a * den b == num b * den a
     (<=) a b = num a * den b <= num b * den a
+    (===) a b = num a == num b && den a == den b
+
 
 Next, we want a way to embed the elements of Z+ into Q+, so we define
 
@@ -358,14 +457,24 @@ of all prime numbers Primes is defined by
     isPrime :: Integer -> Bool
     Primes :: {Integer}
 
-    isComposite p = p @ {a * b | a <- Z2, b <- Z2} where Z2 = Z+ -- vonNeumann 2
-    isPrime p = p > vonNeumann 1 && not (isComposite p)
+    isComposite p = p @ {a * b | a <- Z2, b <- Z2}
+    isPrime p = and $ zipWith (\a b -> not $ a * b == p) Z2 Z2
     Primes = {isPrime p | p <- Z+}
 
-I would like to find a more elegent definition that doesn't involve guarding
-the primes to Z2, and doesn't rely on the use of isComposite to define isPrime
-but this one works. Now that we have primes, we can begin to speak of
-the fundamental theorem of arithmatic.
+In order to accomadate the notion of computability, we will make a small
+tweak to isPrime, since we know there is no a > p where a * b = p and
+also define nextPrime.
+
+    isPrime p = and $ zipWith (\a b -> not $ a * b == p) s s where
+        s = (p -- {Null, {Null}})
+    nextPrime :: Integer -> Integer
+    nextPrime p = if isPrime $ succ p then succ p else nextPrime (succ p)
+
+These definitions allow us to define functions recursively whereas before
+we would be restricted to infinite sets.
+
+Now that we have primes and composites, we can begin to speak of the
+fundamental theorem of arithmatic.
 
 Before we get into the fundamental theorem, though, I want to talk about lists.
 If a set is totally ordered, we can convert it to a list. In mathematical terms
@@ -381,63 +490,29 @@ only concerned with the fact that, given a total ordering, it can be done.
 Without further ado, the Fundamental Theorem of Arithmatic
 
     Fundamental Theorem of Arithmatic
-        There is a function
+        There is a charactiscic function
 
-        characteristic :: Integer -> [Integer]
+        char :: Z1 -> [Integer]
 
         where any number x strictly greater than zero has the properties that
 
-        x == prod $ zipWith (^) (toList Primes) (charcteristic x)
-        x == y <-> charcteristic x == characteristic y
+        x == prod $ zipWith (^) (toList Primes) (char x)
+        x == y <-> char x == char y
 
-        Intuitively, the first proposition shows the existance of a list, and the
-        second proposition show uniqueness of the list.
+        Intuitively, proving the first proposition shows the existance of a list,
+        and proving the second proposition show uniqueness of the list.
 
 I don't feel like proving this theorem, but I will say that it involves defining
-the characteristic first, which is what I will now attempt to do.
-
-Before that, I want to talk about modulo sets. A modulo is simply the set of
-all elements of an ordinal. However, we can talk of things like addition modulo n
-and multiplication modulo n using elements of Z+ that are not in modulo n.
-Let's define
-
-    Type Modulo = Z1 -> {{}}
-    modulo = vonNeumann
-
-which creates a whole family of sets {modulo n | n <- Z1}. For each one of
-these particular sets, we define the following operators.
-
-    zero :: Modulo n
-    coerce :: Integer -> Modulo n
-    succ :: Modulo n -> Modulo n
-    max :: {Modulo n} -> Modulo n
-    pred :: Modulo n -> Modulo n
-    (+) :: Modulo n -> Integer -> Modulo n
-    (-) :: Modulo n -> Integer -> Modulo n
-    (*) :: Modulo n -> Integer -> Modulo n
-    sum :: {Modulo n} -> Modulo n
-    prod :: {Modulo n} -> Modulo n
-
-    zero = Null
-    coerce x = if x @ modulo n then x else coerce (x - n)
-    succ m = if next == n then Null else next where next = m ++ insert m Null
-    max = union
-    pred m = if m == Null then max $ modulo n else max m
-    (+) m Null = m
-    (+) m i = succ m + pred i
-    (-) m Null = m
-    (-) m i = pred m - pred i
-    (*) m Null = Null
-    (*) m i = m + m * pred i
-    sum = fold (+) Null
-    prod = fold (*) {Null}
-
-Note that I am being pretty abusive with my usage of n, what I really mean
-is zero :: n -> Modulo and zero _ = Null, but I can't be concerned with
-writing n -> before all my function types.
-
-The most interesting thing to note is, we now have a definition of - that is
-closed under the set.
+the characteristic first, which is what I will now attempt to do. Before we
+get into formal definitions, I want to talk about what this list looks like
+intuitively speaking. The fundamental theorem of arithmatic says that any
+number can be represented as a unique product of primes. The characteristic of
+a number is the list of all the exponents of the primes in this product.
+So for instance, 84 = 2 * 2 * 3 * 7, toList Primes looks like [2,3,5,7,11,...]
+and char 84 looks like [2,1,0,1,0,0,0,...], and the fundamental theorem says
+that 84 = 2^2 * 3^1 * 5^0 * 7^1 * 11^0 * ... so if one imagines placing char x
+literally over toList Primes, one has an intuitive understanding of what char x
+represents. Enough of that, lets work on defining char x
 
 We say a divdes b if there is some integer c such that b == a * c.
 This means b is a multiple of a, e.g. div a b <-> multiple b a.
@@ -457,28 +532,205 @@ It is worth noting that div a a = True and mult a a = True
     multiples a = {m <- Integer | multiple m a}
     lcm a b = min $ multiples a ^^ multiples b
 
+I would also like to define integer division
+
+    (/) :: Integer -> Integer -> Integer
+    (/) a b = union {c <- Integer | a == b * c}
+
+Note that we have defined this in such a way that if b does not divide a then
+we get Null, and if b does divide a then we get the result we would expect.
+Also a / Null is Null and Null / b is Null, although they are both null for
+different reasons. In the 1/0 case, it is null because the union of the null
+set is the null set, and in the 0/1 case it is null because the union of the
+set containing only null is null.
+
+Note that if we are concerned with computability, we can define divisors in
+terms of all numbers less or equal to a, and lcm can be defined in terms
+of characteristics, since the characteristic definition does not rely on lcm.
+
 We say that a divides b n times if a^n divides b. The divDegree of two numbers
 is thus defined as
 
     divDegree :: Integer -> Integer -> Integer
     divDegree a b = max {n <- Integer | div (a^n) b}
 
-And we see we easily have the property
+Again, if we are concerned with computability, we could define
+divDegree equivilently as
+
+    divDegree a = go Null a where
+        go acc a' b' =
+            if div a' b'
+            then go (succ acc) (a' * a) b
+            else acc
+
+We easily have the property
 
     div = (> 0) . divDegree
 
 We are now equipped to define the charactistic.
 
-    characteristic = divDegree <$> toList Primes
+    char :: Z1 -> [Integer]
+    char = divDegree <$> toList Primes
 
 It is left to the reader to show that this characteristic satisfies the fundamental
-theorem of arithmatic.
+theorem of arithmatic. Let it also be known that char could be redefined as
+a computable function if we were to define this recursively like so.
+
+    char = go $ VonNeumann 2 where
+        go _ {Null} = repeat Null
+        go p x = n : go (nextPrime p) (x / p^n) where
+            n = divDegree p x
+
 The inverse of the characteristic is
 
-    decharacterize :: [Integer] -> Integer
-    decharacterize = prod $ zipWith (^) (toList Primes)
+    dechar :: [Integer] -> Integer
+    dechar = prod $ zipWith (^) (toList Primes)
 
-And one can see that charcterize . decharacterize = id and vice versa
+and again this could be defined as the computable function, but I don't feel
+like writing it down but the reader is of course encouraged to.
+Also, one can see that char . dechar = id and vice versa.  Convincing yourself
+of this is again left to the reader.
+
+Another interesting feature that we will use is that
+
+    char $ gcd a b == zipWith min (char a) (char b)
+    char $ lcm a b == zipWith max (char a) (char b)
+
+This property gives a good mental picture of what a gcd and lcm looks like.
+Again, these properties are left to the reader to prove however rigorously.
+
+Now that we've talked about a characteristic list of an integer, we would
+like to be able to talk about the characteristic form of a rational. That
+is, the set Q+ forms a family of equivilence classes, and for any arbitrary
+rational number in a particular equivilence class, we want to come up with
+a characteristic member of that equivilence class. In mathematical terms,
+what we want is a function where this holds.
+
+    a == b -> char a === char b
+
+In this way, we can talk about the subset of the rational numbers
+char <$> Q+ and reason about it as we desire.
+
+It turns out we can define the characteristic of a rational based upon the
+characteristics of its numerator and denominator. Again, we must be careful
+not to mix up the definition of char, because I am not going to
+litter this elegence with arbitrary naming decisions or type annotations,
+so let it be clear that (char a) refers to the integer definition
+of char when a is an integer, and the rational definition when a is a rational.
+
+    char :: Rational -> Rational
+    char (a, b) = Kuratowski (n, d) where
+        n = dechar $ zipWith (-) (char a) (char $ gcd a b)
+        d = dechar $ zipWith (-) (char b) (char $ gcd a b)
+
+In order to show that this definition is adequete, we need to show that
+
+    char q == q
+    a == b <-> char a === char b
+
+Which are both excersizes left to the reader to prove with as much rigor as desired.
+
+Also note that we could define char recursively, and as such this char is
+also computable. A recursive definition is left as an exercise for the reader.
+
+I will note at this point that these rules for the characteristic function
+don't garuntee that the characteristic of q is its most reduced form. The way
+we explicitly defined charcateristic just so happens to, which is what we would
+like, but we could define a characteristic that always has denominator > 1 if
+we chose, and it would obey the laws listed above. I don't know what use such
+a characteristic would bring us, but its there. The rules defined above
+are a more general principle of any characteristic of an equivilence class.
+
+Another note about our definition, is that we don't actually need to abuse
+our peculiar properties of (-) as we defined it for integers, because it
+will always be the case that any element in char a will be greater than
+that element in char $ gcd a b. It is not trivial to prove this, but it is
+plain to see by intuition, so given that we've defined everything with some
+consistency and sanity up to this point (of which the odds of I'd say are low,
+but we can pretend like we have), then its plain to see that we don't have abuse
+the quirk that Null - a = Null.
+
+Now, it is appropiate to talk of the density of the rational numbers. We will
+say that rational numbers are dense if for any q and p where q < p there exists
+an m such that q < m < p. The easist way to show this is by construction.
+
+    mean :: Rational -> Rational -> Rational
+    mean q p = Kuratowski
+        ( num q * den p + num p * den q
+        , den q * den p * VonNeumann 2 )
+
+And it is an exercise of the reader to show that
+
+    q < p => q < mean q p ^ mean q p < p
+
+Enough dicking around, lets talk about reals.
+
+Before we begin typing definitions, lets talk through some intuition about
+how this needs to be done. We are going to use dedekind cuts to define the
+reals, which means that every real number will be a set of rational numbers A
+where A has at least 1 element, and for every element in A, there is another
+element in A which is greater than A, i.e. A has no supremum in A.
+
+Before that, I want to clarify a point about sets and types. Along the way,
+we could have been defining functions such as isInteger and isRational and
+define them such that.
+
+    isInteger :: {} -> Bool
+    isInteger = (@ Z+)
+
+Instead, we've just been waving our hands a bit by assigning Integers to dummy
+types and defining our functions in terms of those types, or even by abusing
+set notation and defining types in terms a specific implentation of a set, such as Z1.
+I just want to be clear again that we are talking about sets of sets here, and
+there is no "unit" or "root" type, before we move on.
+
+I suppose the first thing to do then is define a supremum.
+
+    supremum :: Ord {{}} => {{}}
+    supremum ss = min {x | s <- ss, x >= s}
+
+One way to think about this type definition is, given some ordering of Sets,
+the supremum of a set is given by the definition above. Ord {{}} could be
+thought of as another argument of supremum.
+
+When we talk of supremums, a supremum of a set is also a set. We say a set S
+is closed under supremum if every member of S has a supremum in S. That is
+
+    closed :: {} -> Bool
+    closed S = and $ {supremum s @ S | s <- S}
+
+The integers are closed under supremum, because for any subset S of Z+, it
+is possible to show that supremum = max, and thus that max S is the supremum
+of S, which we know is an integer. However, this does not hold true for the rationals.
+One has to remember that inequality is defined differently for rationals than
+for integers, so while max of a subset S of Q+ does indeed yield a value,
+it is not generally the case that this value is the supremum of S.
+In fact, there exists a set of rationals whose supremum is not a rational.
+The canonical example of this is the set {q <- Q+ | q * q < Kuratowski (2,1)}
+It is not trivial to show that the supremum of s is not a rational, but that
+is indeed the case.
+
+
+
+    type Real = {{}}
+    R+ :: Real
+
+We would like to embed the rational into the reals. We do that with the embed
+function, inserting the usual disclaimer about making sure that types match.
+
+    embed :: Rational -> Real
+    embed q = {p <- Rational | p < q}
+
+And some functions over reals. Again, insert the disclaimer about how
+(+) could mean integer + or rational + or now real + depending on the
+context, and we leave it to the reader to keep his wits about him in
+deciphering exactly whats going on.
+
+    zero :: Real
+    (+) :: Real -> Real -> Real
+
+    zero = Null
+    (+) a b = liftA2 (+) a b
 
 
 
