@@ -1,0 +1,211 @@
+This is a document about surreal numbers.
+
+Before we can talk about surreal numbers, we must talk about games.
+
+    data Game = Game {L :: Set Game, R :: Set Game}
+
+where (Set a) we have defined as a type in our discussion of set theory.
+
+Which leads us into a discussion of prerequisites. A formal definition of set
+theory is required to talk about surreal numbers, not because the surreal
+numbers are sets, but because sets are used to construct them.
+
+We know the class of all games is a proper class, and reason about it as such.
+Each particular game is of two sets of games, so there is no game
+containing itself in either of its L or R. There is no name for this principle.
+
+Lets define some games.
+
+    zero :: Game
+    zero = Game mempty mempty
+
+This is the basis for our recursive definition, and is embeded quite cleverly
+in the recursive definition itself, so we have a game which is the basis of all
+recursion, but only ever have to prove the inductive case. This makes proofs of
+the form
+
+    Proof of proposition P by induction
+    Base Case : F 0 is 0, and P 0 is 0, so this case is trivial.
+    Inductive case: Prove that P (N - 1) -> P N. In words, this means, given P
+    (N-1) is true, we can show that P N must be true.
+    By inductive analysis, P is true for all N.
+    QED
+
+In our talk of games, we don't need the boiler plate of a Base Case, and
+instead jump straight to the fun part of Inductive stuff.
+
+I would like to define, at this juncture, a game constructor
+
+    game :: Game -> Game -> Game
+    game a b = Game (return a) (return b)
+
+This makes it so that we can construct games out of other games without the
+hassle of manually putting them in singleton sets ourselves.
+
+Note that game and Game are both valid names in the namespace, and they mean
+different yet very related things, so I might be suspectable to getting them
+mixed up at some point, and the types won't match up, but if one simply
+replaces it with the other, it works out.
+
+Some other useful constructors to note are R and L, so for any game g we have R
+g as a set of games and L g as another set of games.
+
+I would also like to talk about the ordering of games. I'm sure there is some
+strong motivation for this ordering, and to perhaps peak into that motivation
+for a bit I would like to define the four ordering functions in mutually
+recursive ways.
+
+    (<=) a b
+        =  and {la < b | la <- L a}
+        && and {a < rb | rb <- R b}
+    (<) a b
+        =  or {ra <= b | ra <- R a}
+        || or {a <= lb | lb <- L b}
+    (>=) a b
+        =  and {la > b | la <- L a}
+        && and {a > rb | rb <- R b}
+    (>) a b
+        =  or {ra >= b | ra <- R a}
+        || or {a >= lb | lb <- L b}
+
+I would also like to define equals in a way that demonstrates how to reason
+about equality.
+
+    (==) a b
+        =  and { la < b | la <- L a}
+        && and { ra > b | ra <- R a}
+        && and { lb < a | lb <- L b}
+        && and { rb > a | rb <- R b}
+
+Of course, this uses all four of the ordering definitions recursively, but we
+could use much less recursion and define
+
+    (<=) a b
+        =  and {not (b <= la) | la <- L a}
+        && and {not (rb <= a) | rb <- R b}
+    (==) a b  =  a <= b && b <= a
+    (<) a b   =  a <= b && not (b <= a)
+    (>=) a b  =  b <= a
+    (>) a b   =  b <= a && not (a <= b)
+
+and we've defined all of (==) (>) (<) (<=) in terms of (<=)
+
+Of course, the choice of (<=) is arbitrary, which is why I like the mutually
+recursive definition as well, because there is no arbitrary choice to make.
+It could be made an excercise to the reader to define the other four relations
+in terms of (>=) (>) or (<)
+
+Now that we've defined a partial ordering relation on games, we can convert
+sets of them to lists (and of course vice versa trivially) via
+
+    toList :: Set a -> List a
+    toSet :: List a -> Set a
+
+and implementations of these functions which create any partially ordered list
+out of the set are left as exercises for the reader.
+
+We are now going to assume knowledge of the ordinal numbers, for if one can
+construct a set theory, one can construct ordinal numbers.
+
+We would like to create a function B :: Ordinal -> Set Game that maps the
+ordinals to the set of games that are constructed at that ordinal.
+
+For instance
+
+    B :: Ordinal -> Set Game
+    B mzero = zero
+    B o = ...
+
+And at this juncture I want to restrict us to talking about the natural numbers
+++ 0, and define G and B recursively.
+
+    G :: Z+ -> Set Game
+
+    G Null = return zero
+    G (Succ n) = G n ++ B n
+
+This doesn't make sense unless we have a definition for B.
+
+    B :: Z+ -> Set Game
+    B n = toSet $ zipWith game (Null ++ gn) (gn ++ Null) where
+        gn = toList $ G n
+
+Intuitively speaking, G refers to all numbers constructed by iteration n, where
+as B is all of the new numbers we can generate using G
+
+This iterative construction of games just so happens to generate the surreal
+numbers. In order to try and understand this, we would like to gain some
+intuition about the function B.
+
+So G Null = return zero, which means that the number we called zero is the only
+number in the set for G of the ordinal zero. Of course, we knew this and
+premptiviely called zero this for this reason.
+
+    G 0 = return zero
+    G 1 = G 0 ++ teSet $ zipWith game [Null, zero] [zero, Null]
+    G 2 = G 1 ++ toSet $ zipWith game [...] [...]
+
+Where I appropiatly place ... in the place where we haven't come up with names
+for our numbers yet.
+
+Of course, we have to have our intuition about zip fully cemented before we can
+talk further, so let us remind ourselves the definition of zipWith
+
+    zipWith :: (a -> b -> c) -> [a] -> [b] -> [c]
+    zipWith f (a:as) (b:bs) = f a b : zipWith f as bs
+    zipwith _ _ _ = []
+
+I feel quite clever for the base case I have used, for any other base case
+requires multiple unnecasary cases. Regardless.
+
+Since we always plan to zip with lists of the some length, we can think of
+zipwith as this mental picture
+
+    [ a1 ] -> [ b1 ] -> [ c1 ]
+    [ a2 ] -> [ b2 ] -> [ c2 ]
+    [ a3 ] -> [ b3 ] -> [ c3 ]
+    [ a4 ] -> [ b4 ] -> [ c4 ]
+    [ a5 ] -> [ b5 ] -> [ c5 ]
+    [ a6 ] -> [ b6 ] -> [ c6 ]
+    [ a7 ] -> [ b7 ] -> [ c7 ]
+    [ a8 ] -> [ b8 ] -> [ c8 ]
+
+In our particular zip of B 2, since a is Null ++ G 2 and b is G 2 ++ Null, we have
+
+    [Null] -> [ g1 ] -> [ game Null g1   ]
+    [ g1 ] -> [ g2 ] -> [ game g1   g2   ]
+    [ g2 ] -> [ g3 ] -> [ game g2   g3   ]
+    [ g3 ] -> [ g4 ] -> [ game g3   g4   ]
+    [ g4 ] -> [ g5 ] -> [ game g4   g5   ]
+    [ g5 ] -> [ g6 ] -> [ game g5   g6   ]
+    [ g6 ] -> [ g7 ] -> [ game g6   g7   ]
+    [ g7 ] -> [Null] -> [ game g7   Null ]
+
+Now lets begin to talk of the cardinality of these sets. That is to say, we
+will ask ourselves, what is the number of elements generated by G n in relation
+to n. Let us again look to a list
+
+    n | G n | B n
+    -------------
+    0 | 1   | 2
+    1 | 3   | 4
+    2 | 7   | 8
+    3 | 15  | 16
+    4 | 31  | 32
+
+So we can see that
+
+    cardinality $ G n == 2 ^ succ n - 1
+    cardinality $ B n == 2 ^ n
+
+which gives us, with |G n| representing cardinality $ G n
+
+    |G $ succ n| ==  |G n| + |B n|
+
+or in particular
+
+    |G 1| - |G 0| == |B 0|
+    |G 2| - |G 0| == |B 1|
+    |G 3| - |G 2| == |B 2|
+    |G 4| - |G 3| == |B 3|
+    etc.
