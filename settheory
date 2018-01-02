@@ -135,6 +135,39 @@ Lastly, I would like to define union and intersect, as well as
     intersect Null = Null
     intersect (Set s ss) = fold (^^) s ss
 
+At this point, we should discuss the topic of infinty, a set is finite if
+
+    finite :: {{}} -> Bool
+    finite Null = True
+    finite (Set _ b) = finite b
+
+Note that we have a characteristically uncomputable function. That is, if
+finite s = True, then the function will halt, otherwise, if finite s is False,
+this function will loop forever. Thus, deciding if a set is finite is just as
+decideable as deciding the halting problem. As discussed previously, we are not
+concerned with such things, and just because a function is undeciable doesn't
+mean that it's incorrect. In fact, one could take this function and define it
+in terms of the halting problem.
+
+    halt :: (a -> b) -> a -> bool
+    halt f a = ... (If f a halts then True else False)
+
+    decideableFinite :: {{}} -> Bool
+    decideableFinite = halt finite
+
+So we can plainly see that testing if a set is finite is no more undecidable
+than the halting problem.
+
+I would also like to talk of the universal set, call it U, defined by
+
+    U :: {{}}
+    U = {x | x @ U}
+
+The problem here is that U cannot be a set, because due to the axiom of regularity,
+a set cannot be a member of itself. So we will instead wave our hands and say
+U is a proper class, and allow ourselves to fold and bind U like we would
+any set.
+
 At this juncture, we have defined all of the operations we would like to use on
 sets, given we apply symetry to definitions such as a <= b <-> b >= a
 where neccesary. Now, I would like to begin to formulate the ordinal numbers
@@ -189,7 +222,7 @@ Set Null
     zero = Null
     succ s = s ++ insert s Null
     max = union
-    min = intersection
+    min = intersect
     pred = max
     (+) a Null = a
     (+) a b = succ a + pred b
@@ -253,15 +286,23 @@ a + b == c -> VonNeuman a + VonNeumann b == VonNeuman c, and again,
 I am not going to write a proof but encourage the reader to verify any of these
 properties to whatever degree of rigor they see fit.
 
-Now we are going to define Z+ in terms of the Ordinals
+Now we are going to define Z+ recursively in terms of the Ordinals
 
     type Integer = {{}}
     Z+ :: {Ordinal}
     Z+ = {zero} ++ {succ z | z <- Z+}
 
+Equivilently, to show that there isn't any mysticism about the sugaring.
+
+    Z+ = {zero} ++ (Z+ >>= (return . succ))
+
 In other words, the set Z+ is the set of all ordinals obtained by applying the
 succ function to zero any number of times. Of course, the set Z+ is closed
 under the succ function.
+
+Note that Z+ is not computable, nor can it be, since it represents the infinte
+set. There is probably a way to make a @ Z+ computable for finite a, but
+for any arbitrary a, this is the best we can do.
 
 It is worth noting that the set Z+ is itself an ordinal, and is usually denoted
 as omega. However, we don't plan on getting too crazy about infinities, at least
@@ -399,6 +440,7 @@ Kuratowski (a,b)
     zero :: Rational
     (+) :: Rational -> Rational -> Rational
     (*) :: Rational -> Rational -> Rational
+    (/) :: Rational -> Rational -> {{}}
     (==) :: Rational -> Rational -> Bool
     (<=) :: Rational -> Rational -> Bool
     (===) :: Rational -> Rational -> Bool
@@ -408,9 +450,13 @@ Kuratowski (a,b)
     zero = Kuratowski (0, 1)
     (+) a b = Kuratowski (num a * den b + num b * den a, den a * den b)
     (*) a b = Kuratowski (num a * num b, den a * den b)
+    (/) a b = Kuratowski (num a * den b, den a * num b)
     (==) a b = num a * den b == num b * den a
     (<=) a b = num a * den b <= num b * den a
     (===) a b = num a == num b && den a == den b
+
+Notice that (/) is not closed under the rationals, but it is if we restrict the
+second input such that num b is not 0.
 
 
 Next, we want a way to embed the elements of Z+ into Q+, so we define
@@ -686,51 +732,82 @@ there is no "unit" or "root" type, before we move on.
 
 I suppose the first thing to do then is define a supremum.
 
-    supremum :: Ord {{}} => {{}}
-    supremum ss = min {x | s <- ss, x >= s}
+    supremum :: Ord {{}} => {{}} -> {{}}
+    supremum ss = min {x <- {{}} | s <- ss, x >= s}
+
+Recall that min of a set is the intersection of all its elements.
 
 One way to think about this type definition is, given some ordering of Sets,
 the supremum of a set is given by the definition above. Ord {{}} could be
-thought of as another argument of supremum.
+thought of as another argument of supremum, of which we choose to use (>=)
 
 When we talk of supremums, a supremum of a set is also a set. We say a set S
 is closed under supremum if every member of S has a supremum in S. That is
 
-    closed :: {} -> Bool
-    closed S = and $ {supremum s @ S | s <- S}
+    closed :: ({{}} -> {{}}) -> {{}} -> Bool
+    closed f S = and $ {f s @ S | s <- S}
+
+and we want to talk about closed supremum for any set S
 
 The integers are closed under supremum, because for any subset S of Z+, it
 is possible to show that supremum = max, and thus that max S is the supremum
-of S, which we know is an integer. However, this does not hold true for the rationals.
+of S, which we know is an integer.  However, this does not hold true for the rationals.
 One has to remember that inequality is defined differently for rationals than
 for integers, so while max of a subset S of Q+ does indeed yield a value,
-it is not generally the case that this value is the supremum of S.
-In fact, there exists a set of rationals whose supremum is not a rational.
-The canonical example of this is the set {q <- Q+ | q * q < Kuratowski (2,1)}
-It is not trivial to show that the supremum of s is not a rational, but that
-is indeed the case.
+it is not generally the case that this value is the supremum of S. Remember
+that max is defined as union. In fact, there exists a set of rationals whose
+supremum is not a rational.  The canonical example of this is the set
 
+    {q <- Q+ | q * q < Kuratowski (2,1)}
 
+It is not trivial to show that the supremum of s is not a rational,
+but that is indeed the case.
+
+Before we define the set of all real numbers, let us first define any one
+particular real number. A real number is a non-finite set of rational numbers S
+with no supremum in S.
+
+    isReal s :: {{}} -> Bool
+    isReal s = not (finite s) && (and $ {t @ Q+ | t <- s}) && not (supremum s @ s)
 
     type Real = {{}}
     R+ :: Real
+    R+ = {s | isReal s}
 
 We would like to embed the rational into the reals. We do that with the embed
 function, inserting the usual disclaimer about making sure that types match.
 
     embed :: Rational -> Real
-    embed q = {p <- Rational | p < q}
+    embed q = {p <- Q+ | p < q}
 
 And some functions over reals. Again, insert the disclaimer about how
 (+) could mean integer + or rational + or now real + depending on the
 context, and we leave it to the reader to keep his wits about him in
 deciphering exactly whats going on.
 
-    zero :: Real
+    min :: {Real} -> Real
+    max :: {Real} -> Real
+    (==) :: Real -> Real -> Bool
+    (<=) :: Real -> Real -> Bool
     (+) :: Real -> Real -> Real
+    (*) :: Real -> Real -> Real
+    (/) :: Real -> Real -> Real
+    (^) :: Real -> Real -> Real
+    sum :: {Real} -> {}
+    prod :: {Real} -> {}
 
-    zero = Null
-    (+) a b = liftA2 (+) a b
+    min = intersect
+    max = union
+    (==) x y = {b @ x && a @ y | a <- x, b <- y}
+    (<=) = subset
+    (+) x y = {a + b | a <- x, b <- y}
+    (*) x y = {a * b | a <- x, b <- y}
+    (/) x y = {a / b | a <- x, b <- Q+ -- x}
+    (^) x y = TODO
+
+So the first thing to note is that there is no encoding of zero in R+,
+since there is no set of rationals, much less an infinite set of rationals where
+the supremum is not in the set, where {a | a < (0, 1)}
 
 
 
