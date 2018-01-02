@@ -12,7 +12,8 @@ numbers are sets, but because sets are used to construct them.
 
 We know the class of all games is a proper class, and reason about it as such.
 Each particular game is of two sets of games, so there is no game
-containing itself in either of its L or R. There is no name for this principle.
+containing itself in either of its L or R. This is a straightforward proof
+by contradiction. (If L x or R x contained x, x would be a different game than x)
 
 Lets define some games.
 
@@ -51,7 +52,7 @@ Some other useful constructors to note are R and L, so for any game g we have R
 g as a set of games and L g as another set of games.
 
 I would also like to talk about the ordering of games. I'm sure there is some
-strong motivation for this ordering, and to perhaps peak into that motivation
+strong motivation for this ordering, and to perhaps peek into that motivation
 for a bit I would like to define the four ordering functions in mutually
 recursive ways.
 
@@ -98,8 +99,8 @@ in terms of (>=) (>) or (<)
 Now that we've defined a partial ordering relation on games, we can convert
 sets of them to lists (and of course vice versa trivially) via
 
-    toList :: Set a -> List a
-    toSet :: List a -> Set a
+    toList :: Set Game -> List Game
+    toSet :: List Game -> Set Game
 
 and implementations of these functions which create any partially ordered list
 out of the set are left as exercises for the reader.
@@ -130,15 +131,15 @@ This doesn't make sense unless we have a definition for B.
     B n = toSet $ zipWith game (Null ++ gn) (gn ++ Null) where
         gn = toList $ G n
 
-Intuitively speaking, G refers to all numbers constructed by iteration n, where
-as B is all of the new numbers we can generate using G
+Intuitively speaking, G refers to all games constructed by iteration n, where
+as B is all of the new games we can generate using G.
 
 This iterative construction of games just so happens to generate the surreal
 numbers. In order to try and understand this, we would like to gain some
 intuition about the function B.
 
-So G Null = return zero, which means that the number we called zero is the only
-number in the set for G of the ordinal zero. Of course, we knew this and
+So G Null = return zero, which means that the game we called zero is the only
+game in the set for G of the ordinal zero. Of course, we knew this and
 premptiviely called zero this for this reason.
 
     G 0 = return zero
@@ -205,7 +206,19 @@ which gives us, with |G n| representing cardinality $ G n
 or in particular
 
     |G 1| - |G 0| == |B 0|
-    |G 2| - |G 0| == |B 1|
+    |G 2| - |G 1| == |B 1|
     |G 3| - |G 2| == |B 2|
     |G 4| - |G 3| == |B 3|
     etc.
+
+And, more generally speaking, because of the way we recursively defined G, we
+will get by unpacking andy particular G
+
+    G n =
+    G (n - 1) ++ B (n - 1) ==
+    G (n - 2) ++ B (n - 2) ++ B (n - 1) ==
+    ...
+    G 0 ++ B 0 ++ B 1 ++ B 2 ++ ... ++ B n
+
+Which shows why we have our base case in G.
+
