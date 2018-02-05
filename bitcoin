@@ -1,0 +1,148 @@
+Using current mining costs as a measure of required mining profitability over
+100 years from now is dubious, since we don’t know how mining technology will
+progress over time. It is entirely possible that mining chips will become so
+small and cheap that they can be installed on all electronic devices — similar
+to the goal 21 Inc. hopes to achieve. This development would turn mining from a
+purposeful business decision to an after thought, surviving in the background
+of daily life. Furthermore, mining hardware may become so energy efficient over
+the next century that transaction fees prove to be plenty to keep miners in
+business.
+
+What happens if you send Bitcoin to a Litecoin address?
+Short Answer
+
+    Obviously, it's a bad idea to experiment as funny things can happen. That being said, your client should simply recognize it as an invalid address and reject the transaction.
+    While the Litecoin address is valid for Litecoins, it is not valid for Bitcoins, hence should be quickly rejected.
+    Litecoin addresses start with "L", so your client would immediately recognize it as invalid.
+
+Long Answer
+
+    A Bitcoin or Litecoin address consists of:
+        a prefix byte
+        a 160-bit hash of a public key
+        a 32-bit checksum
+    all base-58 encoded.
+
+    Bitcoin and Litecoin use different prefix bytes; this is why most Bitcoin
+    addresses start with 1, while most Litecoin addresses start with L.
+
+    When you use a Bitcoin client to try to send money to an address, it should
+    perform a number of checks on that address. One of those checks would be
+    the prefix byte. When it notices that the address doesn't have the correct
+    prefix byte for Bitcoin, it should barf, complaining that you have
+    specified an invalid address. It wouldn't try to create a transaction at
+    all.
+
+    So for practical purposes, the answer to the question is "you can't do it".
+
+    The same applies if you try to send Litecoins to a Bitcoin address - the
+    prefix byte would not match the Litecoin client's expectation, so it would
+    reject the address and refuse to create a transaction.
+
+    In theory, if you somehow used a broken client that did not check the
+    prefix byte, it might actually generate a transaction whose output
+    specified the 160-bit hash of the public key corresponding to the Litecoin
+    address (call this hash value H). The hash is the only part of the address
+    that is actually used in creating a transaction. Since all possible 160-bit
+    numbers are potentially valid hashes, there would be no way to tell that H
+    had come from a Litecoin rather than a Bitcoin key, so this would be a
+    valid Bitcoin transaction. (I got this wrong in a previous version of the
+    answer.) The transaction could only be spent by a Bitcoin transaction,
+    signed with a private key whose public key had the hash H.
+
+    Now I believe (though I am not completely sure) that Litecoin uses exactly
+    the same ECDSA signature algorithms as Bitcoin. Therefore, if you (or
+    someone else) has the private key for the Litecoin address, both Bitcoin
+    and Litecoin should agree as to what the corresponding public key is, and
+    agree that it has hash H. So in principle, the private key holder would be
+    able to import this key into a Bitcoin wallet and use it to spend the coins
+    sent to the Litecoin address by the broken client. (They couldn't import
+    the key directly, again because the prefix byte would be wrong; but they
+    could decode the base58-encoded Litecoin private key string, extract the
+    256-bit number which is the actual private key, prefix it with the
+    appropriate Bitcoin prefix byte, recalculate the checksum, and re-encode
+    the whole thing in base 58. The result would be suitable to import into a
+    standard Bitcoin wallet.)
+
+    If I am wrong about this, and Bitcoin and Litecoin handle keys and
+    signatures differently, then most likely there would be no feasible way to
+    find a private key whose public key's hash (computed by Bitcoin's rules)
+    was equal to H. In that case, the coins sent to that address would be lost
+    forever.
+
+Why doesn't Bitcoin return lost coins back into the block reward?
+
+    To do so would force those with coins to spend them -- even if just sending to themselves.
+    Spending coins lessens privacy. That is a property of bitcoin that should not be diminished through this forceful measure.
+    Incidentally, why this fear of lost coins?
+    So there are lost coins. It happens. And we have fewer as a result. It is not a problem -- except for those who lost them :-)
+
+    The sense in which it is a real problem is that it makes the supply of
+    Bitcoins increasinbly unknowable. If 100,000 Bitcoins haven't moved in 50
+    years, are they lost? Or could they be spent tomorrow? The number of coins
+    in this unknown state will increase over time.
+
+    I think you just did explain when you wrote that Bitcoin is not anonymous.
+    Taking proper precautions, however, it can be used anonymously. So forcing
+    me to spend my coins, even if to myself, would reveal information that I
+    might not wish to reveal. It's my money, I should not be forced to do
+    anything with it just because others are frustrated in not knowing the true
+    level of the money supply. That's the property that those holding physical
+    gold like about holding physical gold -- it is theirs to do with as they
+    please. Bitcoiners will not accept an approach that impacts that benefit.
+
+(In reference to the previous question)
+What about a 'keep alive' algorithm in the Bitcoin client which is setup to
+'send coins to self' every 2 - 5 years (where the amount of time picked is a
+balance between time and the generation of unnecessary transactions). Anybody
+running the client and maintaining a wallet with coins would automatically have
+their coins kept 'fresh' with the appropriate refresh interval. The client
+would then be setup to 'cull the blockchain' by ignoring transactions that are
+'stale'. Destroyed coins could then be added back as an extension of the mining
+rewards.
+
+    This doesn't deal with the fact that people may be storing coins in a wallet that is not open in a client.
+
+
+I understand this might be a simple question but what do cryptocurrency companies do with these problems when you mine. I know you get reward for solving a problem but what will bitcoin do with that?
+
+    Contrary to popular belief, mining is not actually solving any problems.
+    There are no math problems that miners are working on to solve. Rather what
+    miners are doing are just hashing data and then seeing if the resulting
+    hash is less than a given target which everyone can calculate independently
+    with data from the blockchain. The work that they are doing is only for
+    securing the Bitcoin blockchain; it is not useful for anything else. So
+    they aren't solving puzzles or problems, they are just doing work to make
+    the Bitcoin blockchain secure.
+
+Can Bitcoin be stored in a computer without a wallet , just like a normal file?
+
+    On the technical level, there is no such a thing as a Bitcoin. What there
+    actually are are transaction outputs. Transaction outputs consist of a
+    output script and a value. The value is in satoshis, and that is what gives
+    your wallet a "balance". The output script specifies a set of conditions
+    that are required to spend the value associated with that output.
+    Typically the output script requires that a digital signature be made with
+    a public key whose hash matches a hash provided in the output script.
+
+    So, no, a "Bitcoin itself" does not have any associated files that you can
+    store. However you can store the Bitcoin blockchain (thus store the
+    transaction data, including transaction outputs) locally, and that is what
+    nodes do. But storing it offline would mean that it becomes out of date
+    very quickly and thus missing new transactions.
+
+    Alternatively you can store the private keys which are necessary to spend
+    from the typical type of transaction output. These can be stored
+    independently of any wallet software. But you still need some software to
+    create a transaction and then broadcast it to the rest of the network. In
+    order for a transaction to "go through", you must broadcast the transaction
+    so that it can be added to the blockchain. Just making it offline won't do
+    anything.
+
+Is there a chance to return all of the lost money invested when the chart goes back up?
+
+    Your math doesn't make sense - if the price of TRX is $0.001 then the value
+    of 30 TRX is $0.03, not $0. But regardless, unless this token works in some
+    very unusual way, you still have 30 TRX, no matter what their value is at
+    any given moment. If the value later goes up then you can sell them for
+    whatever you can get, and maybe turn a profit. (Big "if", of course.)
