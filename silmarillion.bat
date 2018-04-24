@@ -1,0 +1,31 @@
+cd tolkien
+pandoc -o "..\out\silmarillion.pdf" ^
+    "ainulindale.md" ^
+    "valaquenta.md" ^
+    "sil01.md" ^
+    "sil02.md" ^
+    "sil03.md" ^
+    "sil04.md" ^
+    "sil05.md" ^
+    "sil06.md" ^
+    "sil07.md" ^
+    "sil08.md" ^
+    "sil09.md" ^
+    "sil10.md" ^
+    "sil11.md" ^
+    "sil12.md" ^
+    "sil13.md" ^
+    "sil14.md" ^
+    "sil15.md" ^
+    "sil16.md" ^
+    "sil17.md" ^
+    "sil18.md" ^
+    "sil19.md" ^
+    "sil20.md" ^
+    "sil21.md" ^
+    "sil22.md" ^
+    "sil23.md" ^
+    "sil24.md" ^
+    "akallabeth.md" ^
+    "ringsofpower.md"
+cd ..

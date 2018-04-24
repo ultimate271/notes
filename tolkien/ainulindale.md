@@ -1,6 +1,8 @@
 # AINULINDALË
 
-## The Music of the Ainur
+The Music of the Ainur
+
+## Of the music of Ilúvatar and the birth ef the Ainur
 
 ### Iluvatar creates the Ainur as the offspring of his thought
 There was Eru, the One, who in Arda is called Ilúvatar; and he made first the
@@ -42,6 +44,8 @@ aright, and take Being in the moment of their utterance, for all shall then
 understand fully his intent in their part, and each shall know the
 comprehension of each, and Ilúvatar shall give to their thoughts the secret
 fire, being well pleased.
+
+## Of the discord of Melkor and the second and third theme of Ilúvatar
 
 ### Melkor begins to interweave matters of his own imagining into the theme
 But now Ilúvatar sat and hearkened, and for a great while it seemed good to
@@ -95,6 +99,8 @@ face was terrible to behold. Then he raised up both his hands, and in one
 chord, deeper than the Abyss, higher than the Firmament, piercing as the light
 of the eye of Ilúvatar, the Music ceased.
 
+## Ilúvatar creates a vision of the world based upon the music
+
 ### Iluvatar acknowledges Melkor but claims that all music comes from him
 Then Ilúvatar spoke, and he said: 'Mighty are the Ainur, and mightiest among
 them is Melkor; but that he may know, and all the Ainur, that I am Ilúvatar,
@@ -110,7 +116,7 @@ said to them; and Melkor was filled with shame, of which came secret anger. But
 Ilúvatar arose in splendour, and he went forth from the fair regions that he
 had made for the Ainur; and the Ainur followed him.
 
-### Iluvatar creates the World of being in likeness to the Music of the Ainur
+### Iluvatar creates a vision of the world of being in likeness to the Music of the Ainur
 But when they were come into the Void, Ilúvatar said to them: 'Behold your
 Music!' And he showed to them a vision, giving to them sight where before was
 only hearing; arid they saw a new World made visible before them, and it was
@@ -123,7 +129,7 @@ you, all those things which it may seem that he himself devised or added. And
 thou, Melkor, wilt discover all the secret thoughts of thy mind, and wilt
 perceive that they are but a part of the whole and tributary to its glory.'
 
-### Iluvatar reveals the Visions to the Ainur and creates the Children of Iluvatar
+### Of the visions of the Children of Ilúvatar
 And many other things Ilúvatar spoke to the Ainur at that time, and because of
 their memory of his words, and the knowledge that each has of the music that he
 himself made, the Ainur know much of what was, and is, and is to come, and few
@@ -143,6 +149,8 @@ had part in their making. Therefore when they beheld them, the more did they
 love them, being things other than themselves, strange and free, wherein they
 saw the mind of Ilúvatar reflected anew, and learned yet a little more of his
 wisdom, which otherwise had been hidden even from the Ainur.
+
+## The Ainur's response to the visions
 
 ### Melkor begins to bend his will to the Children of Iluvatar
 Now the Children of Ilúvatar are Elves and Men, the Firstborn and the
@@ -165,6 +173,7 @@ and the cold that had come to pass through him. But he desired rather to subdue
 to his will both Elves and Men, envying the gifts with which Ilúvatar promised
 to endow them; and he wished himself to have subject and servants, and to be
 called Lord, and to be a master over other wills.
+
 
 ### The Ainur rejoice in the Light of Arda and reflect on the Voices of the Sea
 But the other Ainur looked upon this habitation set within the vast spaces of
@@ -206,6 +215,8 @@ contained the falling of the rain. I will seek Manwë, that he and I may make
 melodies for ever to my delight!' And Manwë and Ulmo have from the beginning
 been allied, and in all things have served most faithfully the purpose of
 Ilúvatar.
+
+## The creation of Eä
 
 ### The visions are removed from the Ainur, and none have truly seen the ending of the World
 But even as Ulmo spoke, and while the Ainur were yet gazing upon this vision,
@@ -269,6 +280,8 @@ thou.' And there was strife between Melkor and the other Valar; and for that
 time Melkor withdrew and departed to other regions and did there what he would;
 but he did not put the desire of the Kingdom of Arda from his heart.
 
+## Of the nature of the Valar
+
 ### On the nature of the Valar and their interaction with the Children
 Now the Valar took to themselves shape and hue; and because they were drawn
 into the World by love of the Children of Ilúvatar, for whom they hoped, they
@@ -286,6 +299,8 @@ made thereby. But the shapes wherein the Great Ones array themselves are not at
 all times like to the shapes of the kings and queens of the Children of
 Ilúvatar; for at times they may clothe themselves in their own thought, made
 visible in forms of majesty and dread.
+
+## The first battle between Valar and Melkor
 
 ### Melkor returns in visible form with great fire and power
 And the Valar drew unto them many companions, some less, some well nigh as
@@ -318,3 +333,11 @@ and purpose wholly fulfilled, and all things were in hue and shape other than
 the Valar had at first intended, slowly nonetheless the Earth was fashioned and
 made firm. And thus was the habitation of the Children of Ilúvatar established
 at the last in the Deeps of Time and amidst the innumerable stars.
+
+## _Commentary_
+
+_At this juncture, we aren't given very much information historically or
+geographically speaking, but we are given the very top of the geneology, where
+all else stems._
+
+![Geneology](img/gen_ainulindale.png)

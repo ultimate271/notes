@@ -1,0 +1,18 @@
+So I use pandoc to generate pdf's for my notes. Currently, there is a project
+in the works to organize my notes in a way that makes it programmitcally easier
+to create documents based on very specific parameters, but until then this is
+more than adequete for my purposes, (and if we're being totally honest, such a
+system is counter-productive until the volume of notes becomes large enough to
+necceccitate the overhead involved)
+
+In order to set up the compilation environment, follow these steps (2018 April)
+
+Download pandoc from https://pandoc.org/index.html
+Download latex from https://miktex.org/download
+
+After downloading miktex, open "miktex console" from the start menu, select
+"Restart as Admin" from the file menu, then select updates from the left panel
+and install all updates
+
+After this, simply run one of the scripts (.bat file) and it should generate a
+pdf in the appropriate folder
