@@ -1,7 +1,6 @@
-AKALLABÊTH
+# AKALLABÊTH: The Downfall of Númenor
 
-The Downfall of Númenor
-
+### How Morgoth bent his will towards some men and enslaved them, and those that resisted his will and are known as the Edain
 It is said by the Eldar that Men came into the world in the time of the Shadow
 of Morgoth, and they fell swiftly under his dominion; for he sent his emissaries
 among them, and they listened to his evil and cunning words, and they worshipped
@@ -14,6 +13,7 @@ Beleriand in the days of the War of the Jewels. The Edain these were named in
 the Sindarin tongue; and they became friends and allies of the Eldar, and did
 deeds of great valour in the war against Morgoth.
 
+### Of Eärendil
 Of them was sprung, upon the side of his fathers, Bright Eärendil; and in the
 Lay of Eärendil it is told how at the last, when the victory of Morgoth was
 almost complete, he built his ship Vingilot, that Men called Rothinzil, and
@@ -24,6 +24,7 @@ Men he is called Eärendil the Blessed, for he achieved his quest after long
 labours and many perils, and from Valinor there came the host of the Lords of
 the West. But Eärendil came never back to the lands that he had loved.
 
+### Of the men that fought for Morgoth
 In the Great Battle when at last Morgoth was overthrown and Thangorodrim was
 broken, the Edain alone of the kindreds of Men fought for the Valar, whereas
 many others fought for Morgoth. And after the victory of the Lords of the West
@@ -38,6 +39,7 @@ the days of his dominion: demons, and dragons, and misshapen beasts, and the
 unclean Orcs that are mockeries of the Children of Ilúvatar. And the lot of Men
 was unhappy.
 
+### Of the coast called Avallónë on Eressëa
 But Manwë put forth Morgoth and shut him beyond the World in the Void that is
 without; and he cannot himself return again into the World, present and visible,
 while the Lords of the West are still enthroned. Yet the seeds that he had
@@ -62,6 +64,7 @@ called Andor, the Land of Gift; and the Star of Eärendil shone bright in the
 West as a token that all was made ready, and as a guide over the sea; and Men
 marvelled to see that silver flame in the paths of the Sun.
 
+### Men find Númenórë by sailing to the west
 Then the Edain set sail upon the deep waters, following the Star; and the Valar
 laid a peace upon the sea for many days, and sent sunlight and a sailing wind,
 so that the waters glittered before the eyes of the Edain like rippling glass,
@@ -75,6 +78,7 @@ country fair and fruitful, and they were glad. And they called that land Elenna,
 which is Starwards; but also Anadûnë, which is Westernesse, Númenórë in the High
 Eldarin tongue.
 
+### Of the Dúnedain
 This was the beginning of that people that in the Grey-elven speech are called
 the Dúnedain: the Númenóreans, Kings among Men. But they did not thus escape
 from the doom of death that Ilúvatar had set upon all Mankind, and they were
@@ -86,6 +90,7 @@ their eyes was like the bright stars. But their numbers increased only slowly in
 the land, for though daughters and sons were born to them, fairer than their
 fathers, yet their children were few.
 
+### Of Meneltarma, the Pillar of Heaven, hallowed to Eru Ilúvatar
 Of old the chief city and haven of Númenor was in the midst of its western
 coasts, and it was called Andúnië because it faced the sunset. But in the midst
 of the land was a mountain tall and steep, and it was named the Meneltarma, the
@@ -96,6 +101,7 @@ the Kings, and hard by upon a hill was Armenelos, fairest of cities, and there
 stood the tower and the citadel that was raised by Elros son of Eärendil, whom
 the Valar appointed to be the first King of the Dúnedain.
 
+### Of Elrond and Elros and each decision
 Now Elros and Elrond his brother were descended from the Three Houses of the
 Edain, but in part also both from the Eldar and the Maiar; for Idril of Gondolin
 and Lúthien daughter of Melian were their fore-mothers. The Valar indeed may not
@@ -109,6 +115,7 @@ line, the kings and lords of the royal house, had long life even according to
 the measure of the Númenóreans. But Elros lived five hundred years, and ruled
 the Númenóreans four hundred years and ten.
 
+### Of the wisdom and knowledge of the Numemorians at that time
 Thus the years passed, and while Middle-earth went backward and light and
 wisdom faded, the Dúnedain dwelt under the protection of the Valar and in the
 friendship of the Eldar, and they increased in stature both of mind and body.
@@ -124,6 +131,7 @@ their own names, all the lords of the Númenóreans had also Eldarin names; and
 the like with the cities and fair places that they founded in Númenor and on the
 shores of the Hither Lands.
 
+### How the Dúnedain were crafty, and used their skills to create sea-craft
 For the Dúnedain became mighty in crafts, so that if they had had the mind they
 could easily have surpassed the evil kings of Middle-earth in the making of war
 and the forging of weapons; but they were become men of peace. Above all arts
@@ -132,6 +140,7 @@ shall never be again since the world was diminished; and voyaging upon the wide
 seas was the chief feat and adventure of their hardy men in the gallant days of
 their youth.
 
+### Sailing to far west is forbidden to the Numenorians by the Valar
 But the Lords of Valinor forbade them to sail so far westward that the coasts
 of Númenor could no longer be seen; and for long the Dúnedain were content,
 though they did not fully understand the purpose of this ban. But the design of
@@ -140,6 +149,7 @@ Realm, nor desire to overpass the limits set to their bliss, becoming enamoured
 of the immortality of the Valar and the Eldar and the lands where all things
 endure.
 
+### Of Nimloth, seed of Galathilion, seed of Celeborn
 For in those days Valinor still remained in the world visible, and there
 Ilúvatar permitted the Valar to maintain upon Earth an abiding place, a memorial
 of that which might have been if Morgoth had not cast his shadow on the world.
@@ -162,6 +172,7 @@ Blessed Realm. And the tree grew and blossomed in the courts of the King in
 Armenelos; Nimloth it was named, and flowered in the evening, and the shadows of
 night it filled with its fragrance.
 
+### Of the travelings of the Numenorians in that time
 Thus it was that because of the Ban of the Valar the voyages of the Dúnedain in
 those days went ever eastward and not westward, from the darkness of the North
 to the heats of the South, and beyond the South to the Nether Darkness; and they
@@ -176,6 +187,7 @@ brought, and they instructed Men in the sowing of seed and the grinding of
 grain, in the hewing of wood and the shaping of stone, and in the ordering of
 their life, such as it might be in the lands of swift death and little bliss.
 
+### Of the men of Middle-earth and their reaction to the coming of the Dúnedain
 Then the Men of Middle-earth were comforted, and here and there upon the
 western shores the houseless woods drew back, and Men shook off the yoke of the
 offspring of Morgoth, and unlearned their terror of the dark. And they revered
@@ -184,6 +196,7 @@ gods, hoping for their return; for at that time the Númenóreans dwelt never lo
 in Middle-earth, nor made there as yet any habitation of their own. Eastward
 they must sail, but ever west their hearts returned.
 
+### 
 Now this yearning grew ever greater with the years; and the Númenóreans began
 to hunger for the undying city that they saw from afar, and the desire of
 everlasting life, to escape from death and the ending of delight, grew strong
