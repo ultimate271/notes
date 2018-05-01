@@ -1,5 +1,7 @@
 # AKALLABÊTH: The Downfall of Númenor
 
+## Of Men and Morgoth
+
 ### How Morgoth bent his will towards some men and enslaved them, and those that resisted his will and are known as the Edain
 It is said by the Eldar that Men came into the world in the time of the Shadow
 of Morgoth, and they fell swiftly under his dominion; for he sent his emissaries
@@ -64,6 +66,8 @@ called Andor, the Land of Gift; and the Star of Eärendil shone bright in the
 West as a token that all was made ready, and as a guide over the sea; and Men
 marvelled to see that silver flame in the paths of the Sun.
 
+## The founding of Numenor
+
 ### Men find Númenórë by sailing to the west
 Then the Edain set sail upon the deep waters, following the Star; and the Valar
 laid a peace upon the sea for many days, and sent sunlight and a sailing wind,
@@ -114,6 +118,8 @@ years was allotted, many times that of the Men of Middle-earth; and all his
 line, the kings and lords of the royal house, had long life even according to
 the measure of the Númenóreans. But Elros lived five hundred years, and ruled
 the Númenóreans four hundred years and ten.
+
+## The lives of the Dúnedain in those early days
 
 ### Of the wisdom and knowledge of the Numemorians at that time
 Thus the years passed, and while Middle-earth went backward and light and
@@ -172,6 +178,8 @@ Blessed Realm. And the tree grew and blossomed in the courts of the King in
 Armenelos; Nimloth it was named, and flowered in the evening, and the shadows of
 night it filled with its fragrance.
 
+## The noontimes of Númenor, where the people begin to seek the deathless lands
+
 ### Of the travelings of the Numenorians in that time
 Thus it was that because of the Ban of the Valar the voyages of the Dúnedain in
 those days went ever eastward and not westward, from the darkness of the North
@@ -196,7 +204,7 @@ gods, hoping for their return; for at that time the Númenóreans dwelt never lo
 in Middle-earth, nor made there as yet any habitation of their own. Eastward
 they must sail, but ever west their hearts returned.
 
-### 
+### Men of Númenór begin to grow discontent with the doings of the Valar
 Now this yearning grew ever greater with the years; and the Númenóreans began
 to hunger for the undying city that they saw from afar, and the desire of
 everlasting life, to escape from death and the ending of delight, grew strong
@@ -210,6 +218,7 @@ the Númenóreans began to murmur, at first in their hearts, and then in open
 words, against the doom of Men, and most of all against the Ban which forbade
 them to sail into the West.
 
+### Talk of going to Avallónë by the Númenóreans
 And they said among themselves: 'Why do the Lords of the West sit there in
 peace unending, while we must die and go we know not whither, leaving our home
 and all that we have made? And the Eldar die not, even those that rebelled
@@ -217,15 +226,18 @@ against the Lords. And since we have mastered all seas, and no water is so wild
 or so wide that our ships cannot overcome it, why should we not go to Avallónë
 and greet there our friends?'
 
+### Others talk of going even to Aman
 And some there were who said: 'Why should we not go even to Aman, and taste
 there, were it but for a day, the bliss of the Powers? Have we not become mighty
 among the people of Arda?'
 
+### The Eldar report the grivances to Manwë, who sends messengers to Númenór
 The Eldar reported these words to the Valar, and Manwë was grieved, seeing a
 cloud gather on the noontide of Númenor. And he sent messengers to the Dúnedain,
 who spoke earnestly to the King, and to all who would listen, concerning the
 fate and fashion of the world.
 
+### The messanger explains the Doom of the World
 'The Doom of the World,' they said, 'One alone can change who made it. And were
 you so to voyage that escaping all deceits and snares you came indeed to Aman,
 the Blessed Realm, little would it profit you. For it is not the land of Manwë
@@ -233,9 +245,11 @@ that makes its people deathless, but the Deathless that dwell therein have
 hallowed the land; and there you would but wither and grow weary the sooner, as
 moths in a light too strong and steadfast.'
 
+### The king question of Eärendil
 But the King said: 'And does not Eärendil, my forefather, live? Or is he not in
 the land of Aman?'
 
+### The contrast of the Doom of Elves and the Doom of Man
 To which they answered: 'You know that he has a fate apart, and was adjudged to
 the Firstborn who die not; yet this also is his doom that he can never return
 again to mortal lands. Whereas you and your people are not of the Firstborn, but
@@ -251,11 +265,13 @@ die. But that was not at first appointed for a punishment. Thus you escape, and
 leave the world, and are not bound to it, in hope or in weariness. Which of us
 therefore should envy the others?"
 
+### Númenóreans are still unable to grasp their doom
 And the Númenóreans answered: 'Why should we not envy the Valar, or even the
 least of the Deathless? For of us is required a blind trust, and a hope without
 assurance, knowing not what lies before us in a little while. And yet we also
 love the Earth and would not lose it.'
 
+### Insightful excerpt on the Doom of Man
 Then the Messengers said: 'Indeed the mind of Ilúvatar concerning you is not
 known to the Valar, and he has not revealed all things that are to come. But
 this we hold to be true, that your home is not here, neither in the Land of Aman
@@ -276,6 +292,9 @@ of Arda was set in your hearts by Ilúvatar, and he does not plant to no purpose
 Nonetheless, many ages of Men unborn may pass ere that purpose is made known;
 and to you it will be revealed and not to the Valar.'
 
+## Of the Faithful and the King's men that formed in those times
+
+### Of Tar-Atanamir, to whom the messangers came, and his ill response to the message sent
 These things took place in the days of Tar-Ciryatan the Shipbuilder, and of
 Tar-Atanamir his son; and they were proud men, eager for wealth, and they laid
 the men of Middle-earth under tribute, taking now rather than giving. It was to
@@ -291,6 +310,7 @@ and denying to his son the kingship at the height of his days. For the Lords of
 Númenor had been wont to wed late in their long lives and to depart and leave
 the mastery to their sons when these were come to full stature of body and mind.
 
+### The peoples of Númenór become estranged from eachother, seperating into two camps, the King's Men and the Elendili
 Then Tar-Ancalimon, son of Atanamir, became King, and he was of like mind; and
 in his day the people of Númenor became divided. On the one hand was the greater
 party, and they were called the King's Men, and they grew proud and were
@@ -302,6 +322,7 @@ the West. Nonetheless even they, who named themselves the Faithful, did not
 wholly escape from the affliction of their people, and they were troubled by the
 thought of death.
 
+### Of the doings of men in those days
 Thus the bliss of Westernesse became diminished; but still its might and
 splendour increased. For the kings and their people had not yet abandoned
 wisdom, and if they loved the Valar no longer at least they still feared them.
@@ -318,6 +339,7 @@ more goods and more riches; and after the days of Tar-Ancalimon the offering of
 the first fruits to Eru was neglected, and men went seldom any more to the
 Hallow upon the heights of Meneltarma in the midst of the land.
 
+### The rise of Númenór and the settlement of towers upon the western shores of Middle Earth
 Thus it came to pass in that time that the Númenóreans first made great
 settlements upon the west shores of the ancient lands; for their own land seemed
 to them shrunken, and they had no rest or content therein, and they desired now
@@ -329,6 +351,7 @@ the winds and returned ever laden, and the power and majesty of their kings were
 increased; and they drank and they feasted and they clad themselves in silver
 and gold.
 
+### The Elf-friends go north and aid Gil-galad in the fight against Sauron, while the King's men go more south
 In all this the Elf-friends had small part They alone came now ever to the
 north and the land of Gil-galad, keeping their friendship with the Elves and
 lending them aid against Sauron; and their haven was Pelargir above the mouths
@@ -336,6 +359,9 @@ of Anduin the Great. But the King's Men sailed far away to the south; and the
 lordships and strongholds that they made have left many rumours in the legends
 of Men.
 
+## The events that lead to the rise of Ar-Pharazôn to power
+
+### Of the rising of Sauron in that time
 In this Age, as is elsewhere told, Sauron arose again in Middle-earth, and
 grew, and turned back to the evil in which he was nurtured by Morgoth, becoming
 mighty in his service. Already in the days of Tar-Minastir, the eleventh King of
@@ -351,12 +377,14 @@ hated them the more; and he feared them, lest they should invade his lands and
 wrest from him the dominion of the East. But for a long time he did not dare to
 challenge the Lords of the Sea, and he withdrew from the coasts.
 
+### With the rise of the Úlairi (Ring-wraiths) Sauron's strength continues to build
 Yet Sauron was ever guileful, and it is said that among those whom he ensnared
 with the Nine Rings three were great lords of Númenórean race. And when the
 Úlairi arose that were the Ring-wraiths, his servants, and the strength of his
 terror and mastery over Men had grown exceedingly great, he began to assail the
 strong places of the Númenóreans upon the shores of the sea.
 
+### Of Númenórian kings that grow and begin to utterly forsake the Faithful
 In those days the Shadow grew deeper upon Númenor; and the lives of the Kings
 of the House of Elros waned because of their rebellion, but they hardened their
 hearts the more against the Valar. And the nineteenth king took the sceptre of
@@ -372,6 +400,7 @@ In his day the White Tree was untended and began to decline; and he forbade
 utterly the use of the Elven-tongues, and punished those that welcomed the ships
 of Eressëa, that still came secretly to the west-shores of the land.
 
+### Ar-Gimilzôr commands the Faithful to leave the west regions of Númenór, so they go to Gil-Galad in the North of Middle earth
 Now the Elendili dwelt mostly in the western regions of Númenor; but
 Ar-Gimilzôr commanded all that he could discover to be of this party to remove
 from the west and dwell in the east of the land; and there they were watched.
@@ -387,6 +416,7 @@ were wroth with the Kings of Númenor, and gave them counsel and protection no
 more; and the ships of Eressëa came never again out of the sunset, and the
 havens of Andúnië were forlorn.
 
+### Of the Lords of Andúnië, the line of Elros
 Highest in honour after the house of the kings were the Lords of Andúnië; for
 they were of the line of Elros, being descended from Silmarien, daughter of
 Tar-Elendil the fourth king of Númenor. And these lords were loyal to the kings,
@@ -396,6 +426,7 @@ and reverence for the Valar; and as the Shadow grew they aided the Faithful as
 they could. But for long they did not declare themselves openly, and sought
 rather to amend the hearts of the lords of the Sceptre with wiser counsels.
 
+### Of the joining of a Lady of Andúnië and King of Númenór, and their two sons
 There was a lady Inzilbêth, renowned for her beauty, and her mother was
 Lindórië, sister of Eärendur, the Lord of Andúnië in the days of Ar-Sakalthôr
 father of Ar-Gimilzôr. Gimilzôr took her to wife, though this was little to her
@@ -407,6 +438,7 @@ Gimilkhâd, the younger, went with his father, unless he were yet prouder and
 more wilful. To him Ar-Gimilzôr would have yielded the sceptre rather than to
 the elder son, if the laws had allowed.
 
+### The elder son, Tar-Palantir, restores some honour of the faithful, but his brother Gimilkhâd continues to lead the King's men against him
 But when Inziladûn acceded to the sceptre, he took again a title in the
 Elven-tongue as of old, calling himself Tar-Palantir, for he was far-sighted
 both in eye and in mind, and even those that hated him feared his words as those
@@ -425,6 +457,7 @@ to Andúnië, whence he gazed westward in yearning, hoping to see, maybe, some
 sail upon the sea. But no ship came ever again from the West to Númenor, and
 Avallónë was veiled in cloud.
 
+### Gimilkhâd dies, but his son, Pharazôn, is a great leader of the Númenórians and has great power in those times
 Now Gimilkhâd died two years before his two hundredth year (which was accounted
 an early death for one of Elros' line even in its waning), but this brought no
 peace to the King. For Pharazôn son of Gimilkhâd had become a man yet more
@@ -436,6 +469,7 @@ to Númenor, hearing of his father's death, the hearts of the people were turned
 to him; for he brought with him great wealth, and was for the time free in his
 giving.
 
+### Tar-Palantir dies, and Pharazôn takes Míriel daughter of Tar-Palantir as his wife so he can take her scepter and become king
 And it came to pass that Tar-Palantir grew weary of grief and died. He had no
 son, but a daughter only, whom he named Míriel in the Elven-tongue; and to her
 now by right and the laws of the Númenóreans came the sceptre. But Pharazôn took
@@ -446,11 +480,15 @@ seized the sceptre into his own hand, taking the title of Ar-Pharazôn
 (Tar-Calion in the Elven-tongue); and the name of his queen he changed to
 Ar-Zimraphel.
 
+### Ar-Pharazôn, with wife renamed Ar-Zimraphel, becomes the mightiest and proudest of the Númenorian kings
 The mightiest and proudest was Ar-Pharazôn the Golden of all those that had
 wielded the Sceptre of the Sea-Kings since the foundation of Númenor; and three
 and twenty Kings and Queens had ruled the Númenóreans before, and slept now in
 their deep tombs under the mount of Meneltarma, lying upon beds of gold.
 
+## The deeds of Ar-Pharazôn at the tougue of Sauron
+
+### Ar-Pharazôn thinks of war, as Sauron is rising again to power, calling himself the King of Men
 And sitting upon his carven throne in the city of Armenelos in the glory of his
 power, he brooded darkly, thinking of war. For he had learned in Middle-earth of
 the strength of the realm of Sauron, and of his hatred of Westernesse. And now
@@ -461,6 +499,7 @@ coasts; and he had taken now the title of King of Men, and declared his purpose
 to drive the Númenóreans into the sea, and destroy even Númenor, if that might
 be.
 
+### Ar-Pharazôn begins to build ships of war and weapons, hoping to make Sauron his vassal
 Great was the anger of Ar-Pharazôn at these tidings, and as he pondered long in
 secret, his heart was filled with the desire of power unbounded and the sole
 dominion of his will. And he determined without counsel of the Valar, or the aid
@@ -471,6 +510,7 @@ Eärendil. Therefore he began in that time to smithy great hoard of weapons, and
 many ships of war he built and stored them with his arms; and when all was made
 ready he himself set sail with his host into the East.
 
+### Ar-Pharazôn lands on Middle Earth and commands Sauron to meet him
 And men saw his sails coming up out of the sunset, dyed as with scarlet and
 gleaming with red and gold, and fear fell upon the dwellers by the coasts, and
 they fled far away. But the fleet came at last to that place that was called
@@ -483,6 +523,7 @@ about him, blue, golden, and white, as a field of tall flowers. Then he sent
 forth heralds, and he commanded Sauron to come before him and swear to him
 fealty.
 
+### Sauron meets him, not in battle, but in humility, with smooth tongue
 And Sauron came. Even from his mighty tower of Barad-dûr he came, and made no
 offer of battle. For he perceived that the power and majesty of the Kings of the
 Sea surpassed all rumour of them, so that he could not trust even the greatest
@@ -492,6 +533,7 @@ subtlety when force might not avail. Therefore he humbled himself before
 Ar-Pharazôn and smoothed his tongue; and men wondered, for all that he said
 seemed fair and wise.
 
+### Sauron is brought, chained to Númenór, secretly glad that his plans are set in motion
 But Ar-Pharazôn was not yet deceived, and it came into his mind that, for the
 better keeping of Sauron and of his oaths of fealty, he should be brought to
 Númenor, there to dwell as a hostage for himself and all his servants in
@@ -501,6 +543,7 @@ passed over the sea and looked upon the land of Númenor, and on the city of
 Armenelos in the days of its glory, and he was astounded; but his heart within
 was filled the more with envy and hate.
 
+### After only three years of captivity, Sauron becomes close to the king and high in counsel with him
 Yet such was the cunning of his mind and mouth, and the strength of his hidden
 will, that ere three years had passed he had become closest to the secret
 counsels of the King; for flattery sweet as honey was ever on his tongue, and
@@ -518,8 +561,10 @@ Darkness. 'And out of it the world was made. For Darkness alone is worshipful,
 and the Lord thereof may yet make other worlds to be gifts to those that serve
 him, so that the increase of their power shall find no end.'
 
+### Ar-Pharazôn questions Sauron on the Lord of the Darkness
 And Ar-Pharazôn said: 'Who is the Lord of the Darkness?'
 
+### Sauron tells Ar-Pharazôn of Melkor, Lord of All, Giver of Freedom, while blasheming Eru
 Then behind locked doors Sauron spoke to the King, and he lied, saying: 'It is
 he whose name is not now spoken; for the Valar have deceived you concerning him,
 putting forward the name of Eru, a phantom devised in the folly of their hearts,
@@ -528,6 +573,7 @@ this Eru, which speaks only what they will. But he that is their master shall
 yet prevail, and he will deliver you from this phantom; and his name is Melkor,
 Lord of All, Giver of Freedom, and he shall make you stronger than they.'
 
+### Ar-Pharazôn begins to worship Melkor, while Amandil and his son Elendil remain of the few faithful
 Then Ar-Pharazôn the King turned back to the worship of the Dark, and of Melkor
 the Lord thereof, at first in secret, but ere long openly and in the face of his
 people; and they for the most part followed him. Yet there dwelt still a remnant
@@ -545,6 +591,7 @@ noble, and had been so mighty a captain of the sea, that he was still held in
 honour by many of the people, and neither the King nor Sauron dared to lay hands
 on him as yet.
 
+### Meneltarma is deserted, and Sauron urges Ar-Pharazón to cut down Nimloth
 Therefore Amandil withdrew to Rómenna, and all that he trusted still to be
 faithful he summoned to come thither in secret; for he feared that evil would
 now grow apace, and all the Elf-friends were in peril. And so it soon came to
@@ -555,6 +602,7 @@ their hearts. And Sauron urged the King to cut down the White Tree, Nimloth the
 Fair, that grew in his courts, for it was a memorial of the Eldar and of the
 light of Valinor.
 
+### Isildur disguises himself and takes a fruit from the tree of Nimloth
 At the first the King would not assent to this, since be believed that the
 fortunes of his house were bound up with the Tree, as was forespoken by
 Tar-Palantir. Thus in his folly he who now hated the Eldar and the Valar vainly
@@ -578,6 +626,7 @@ Amandil; and a shoot arose from it and sprouted in the spring. But when its
 first leaf opened then Isildur, who had lain long and come near to death, arose
 and was troubled no more by his wounds.
 
+### A tower is build upon Armenlos, and Nimloth is the first of the wood to be burnt upon its peak
 None too soon was this done; for after the assault the King yielded to Sauron
 and felled the White Tree, and turned then wholly away from the allegiance of
 his fathers. But Sauron caused to be built upon the hill in the midst of the
@@ -594,6 +643,7 @@ with the hewn wood of Nimloth, and it crackled and was consumed; but men
 marvelled at the reek that went up from it, so that the land lay under a cloud
 for seven days, until slowly it passed into the west.
 
+### Many men are sacrificed to Melkor in that tower for treason against the king
 Thereafter the fire and smoke went up without ceasing; for the power of Sauron
 daily increased, and in that temple, with spilling of blood and torment and
 great wickedness, men made sacrifice to Melkor that he should release them from
@@ -604,6 +654,7 @@ his rebels, or that they plotted against their kin, devising lies and poisons.
 These charges were for the most part false; yet those were bitter days, and hate
 brings forth hate.
 
+### Death becomes abundant in those times, and Sauron continues to kindle the fires of the Númenórians
 But for all this Death did not depart from the land, rather it came sooner and
 more often, and in many dreadful guises. For whereas aforetime men had grown
 slowly old, and had laid them down in the end to sleep, when they were weary at
@@ -616,6 +667,7 @@ man against man, so that the people murmured against the King and the lords, or
 against any that had aught that they had not; and the men of power took cruel
 revenge.
 
+### The Númenóreans grow as Men of War and Conquerers of Middle Earth
 Nonetheless for long it seemed to the Númenóreans that they prospered, and if
 they were not increased in happiness, yet they grew more strong, and their rich
 men ever richer. For with the aid and counsel of Sauron they multiplied then:
@@ -628,6 +680,9 @@ and great tombs in those days; and men feared them, and the memory of the kindly
 kings of the ancient days faded from the world and was darkened by many a tale
 of dread.
 
+## Amandil is roused as Ar-Pharazôn is rumored to begin plans for War against the Valar
+
+### Ar-Pharazôn, becoming a strong and powerful tyrant, but his shadow of death approaches
 Thus Ar-Pharazôn, King of the Land of the Star, grew to the mightiest tyrant
 that had yet been in the world since the reign of Morgoth, though in truth
 Sauron ruled all from behind the throne. But the years passed, and the King felt
@@ -636,6 +691,7 @@ fear and wrath. Now came the hour that Sauron had prepared and long had awaited.
 And Sauron spoke to the King, saying that his strength was now so great that he
 might think to have his will in all things, and be subject to no command or ban.
 
+### Sauron talks, rallying Ar-Pharazôn to go to Valinor
 And he said: 'The Valar have possessed themselves of the land where there is no
 death; and they lie to you concerning it, hiding it as best they may, because of
 their avarice, and their fear lest the Kings of Men should wrest from them the
@@ -647,6 +703,7 @@ Ar-Pharazôn, mightiest of the sons of Earth, to whom Manwë alone can be
 compared, if even he. But great kings do not brook denials, and take what is
 their due.'
 
+### Ar-Pharazôn begins to make plans for war against the Valar, and Amandil becomes aware of this
 Then Ar-Pharazôn, being besotted, and walking under the shadow of death, for
 his span was drawing towards its end, hearkened to Sauron; and he began to
 ponder in his heart how he might make war upon the Valar. He was long preparing
@@ -656,15 +713,18 @@ with a great dread, for he knew that Men could not vanquish the Valar in war,
 and that ruin must come upon the world, if this war were not stayed. Therefore
 he called his son, Elendil, and he said to him:
 
+### Amandil tells Elendil of his intention to sail to the west, as Eärendil did
 'The days are dark, and there is no hope for Men, for the Faithful are few.
 Therefore I am minded to try that counsel which our forefather Eärendil took of
 old, to sail into the West, be there ban or no, and to speak to the Valar, even
 to Manwë himself, if may be, and beseech his aid ere all is lost.'
 
+### Elendil asks if he is willing to betray the words of the Valar
 'Would you then betray the King?' said Elendil. 'For you know well the charge
 that they make against us, that we are traitors and spies, and that until this
 day it has been false.'
 
+### Amandil replies that he is
 'If I thought that Manwë needed such a messenger,' said Amandil, I would betray
 the King. For there is but one loyalty from which no man can be absolved in
 heart for any cause. But it is for mercy upon Men and their deliverance from
@@ -672,9 +732,11 @@ Sauron the Deceiver that I would plead, since some at least have remained
 faithful. And as for the Ban, I will suffer in myself the penalty, lest all my
 people should become guilty.'
 
+### Elendil asks of not of the fate his father personally, but of the fate of his house
 'But what think you, my father, is like to befall those of your house whom you
 leave behind, when your deed becomes known?'
 
+### Amandil tells his plans to Elendil, and instructs him in what he should do
 'It must not become known,' said Amandil. 'I will prepare my going in secret,
 and I will set sail into the east, whither daily the ships depart from our
 havens; and thereafter, as wind and chance may allow, I will go about, through
@@ -690,19 +752,23 @@ plots, for which he will need all the force that he may gather. Seek out the
 Faithful that are known still to be true, and let them join you in secret, if
 they are willing to go with you, and share in your design.'
 
+### Elendil asks what his path should be
 'And what shall that design be?' said Elendil.
 
+### Amandil does not know, but says probably to flee from Númenor
 'To meddle not in the war, and to watch,' answered Amandil. 'Until I return I
 can say no more. But it is most like that you shall fly from the Land of the
 Star with no star to guide you; for that land is defiled. Then you shall lose
 all that you have loved, foretasting death in life, seeking a land of exile
 elsewhere. But east or west the Valar alone can say.'
 
+### Amandil says farewell
 Then Amandil said farewell to all his household, as one that is about to die.
 'For,' said he, 'it may well prove that you will see me never again; and that I
 shall show you no such sign as Eärendil showed long ago. But hold you ever in
 readiness, for the end of the world that we have known is now at hand.'
 
+### Amandil departs
 It is said that Amandil set sail in a small ship at night, and steered first
 eastward, and then went about and passed into the west. And he took with him
 three servants, dear to his heart, and never again were they heard of by word or
@@ -710,6 +776,7 @@ sign in this world, nor is there any tale or guess of their fate. Men could not
 a second time be saved by any such embassy, and for the treason of Númenor there
 was no easy absolving.
 
+### Elendil does as his father bidden, and finds no sign of his father in the West
 But Elendil did all that his father had bidden, and his ships lay off the east
 coast of the land; and the Faithful put aboard their wives and their children,
 and their heirlooms, and great store of goods. Many things there were of beauty
@@ -723,6 +790,9 @@ shores and gazed out over the sea, for sorrow and yearning were upon him, and he
 greatly loved his father. But naught could he descry save the fleets of
 Ar-Pharazôn gathering in the havens of the west.
 
+## The war that Ar-Pharazôn begins, and the great rift that Ilúvatar creates as a result
+
+### Storms begin to brew from the West over Númenór
 Now aforetime in the isle of Númenor the weather was ever apt to the needs and
 liking of Men: rain in due season and ever in measure; and sunshine, now warmer,
 now cooler, and winds from the sea. And when the wind was in the west, it seemed
@@ -738,14 +808,17 @@ it would loom up, blotting out the sunset, and then uttermost night would fall
 upon Númenor. And some of the eagles bore lightning beneath their wings, and
 thunder echoed between sea and cloud.
 
+### Men of Númenór begin to become afraid
 Then men grew afraid. 'Behold the Eagles of the Lords of the West!' they cried.
 'The Eagles of Manwë are come upon Númenor!' And they fell upon their faces.
 
+### Some repent, but most harden their hearts and wish to attack the Valar again
 Then some few would repent for a season, but others hardened their hearts, and
 they shook their fists at heaven, saying: 'The Lords of the West have plotted
 against us. They strike first. The next blow shall be ours!' These words the
 King himself spoke, but they were devised by Sauron.
 
+### Sauron survives the lightning, and people call him god
 Now the lightnings increased and slew men upon the hills, and in the fields,
 and in the streets of the city; and a fiery bolt smote the dome of the Temple
 and shore it asunder, and it was wreathed in flame. But the Temple itself was
@@ -756,6 +829,7 @@ under them, and a groaning as of thunder underground was mingled with the
 roaring of the sea, and smoke issued from the peak of the Meneltarma. But all
 the more did Ar-Pharazôn press on with his armament.
 
+### Númenóreans set sail to the west
 In that time the fleets of the Númenóreans darkened the sea upon the west of
 the land, and they were like an archipelago of a thousand isles; their masts
 were as a forest upon the mountains, and their sails like a brooding cloud; and
@@ -763,6 +837,7 @@ their banners were golden and black. And all things waited upon the word of
 Ar-Pharazôn; and Sauron withdrew into the inmost circle of the Temple, and men
 brought him victims to be burned.
 
+### Visions of Red from the Eagles of the West
 Then the Eagles of the Lords of the West came up out of the dayfall, and they
 were arrayed as for battle, advancing in a line the end of which diminished
 beyond sight; and as they came their wings spread ever wider, grasping the sky.
@@ -771,6 +846,7 @@ were lit with a flame of great anger, so that all Númenor was illumined as with
 a smouldering fire; and men looked upon the faces of their fellows, and it
 seemed to them that they were red with wrath.
 
+### Ar-Pharazôn sets sail on Alcarondas, Castle of the Sea
 Then Ar-Pharazôn hardened his heart, and he went aboard his mighty ship,
 Alcarondas, Castle of the Sea. Many-oared it was and many-masted, golden and
 sable; and upon it the throne of Ar-Pharazôn was set. Then he did on his panoply
@@ -778,6 +854,7 @@ and his crown, and let raise his standard, and he gave the signal for the
 raising of the anchors; and in that hour the trumpets of Númenor outrang the
 thunder.
 
+### The ships sail west, and they become lost by those looking from the coast of Númenór
 Thus the fleets of the Númenóreans moved against the menace of the West; and
 there was little wind, but they had many oars and many strong slaves to row
 beneath the lash. The sun went down, and there came a great silence. Darkness
@@ -789,6 +866,7 @@ the Ban of the Valar, and sailed into forbidden seas, going up with war against
 the Deathless, to wrest from them everlasting life within the Circles of the
 World.
 
+### Ar-Pharazôn comes upon Aman, and with the strength of his pride steps there and declares battle
 But the fleets of Ar-Pharazôn came up out of the deeps of the sea and
 encompassed Avallónë and all the isle of Eressëa, and the Eldar mourned, for the
 light of the setting sun was cut off by the cloud of the Númenóreans. And at
@@ -802,6 +880,7 @@ upon the shore, claiming the land for his own, if none should do battle for it.
 And a host of the Númenóreans encamped in might about Túna, whence all the Eldar
 had fled.
 
+### Manwë calls upon Ilúvatar, and Ilúvatar creates a great rift between Aman and Middle Earth, and Ar-Pharazôn and his fleets are buried in the process
 Then Manwë upon the Mountain called upon Ilúvatar, and for that time the Valar
 laid down their government of Arda. But Ilúvatar showed forth his power, and he
 changed the fashion of the world; and a great chasm opened in the sea between
@@ -813,6 +892,7 @@ warriors that had set foot upon the land of Aman were buried under falling
 hills: there it is said that they lie imprisoned in the Caves of the Forgotten,
 until the Last Battle and the Day of Doom.
 
+### Númenor is destroyed, and Valinor and Eressëa are removed from Middle-Earth
 But the land of Aman and Eressëa of the Eldar were taken away and removed
 beyond the reach of Men for ever. And Andor, the Land of Gift, Númenor of the
 Kings, Elenna of the Star of Eärendil, was utterly destroyed. For it was nigh to
@@ -823,6 +903,7 @@ cast back the Great Seas west of Middle-earth, and the Empty Lands east of it,
 and new lands and new seas were made; and the world was diminished, for Valinor
 and Eressëa were taken from it into the realm of hidden things.
 
+### All of Númenor is lost, lastly Tar-Míriel the Queen
 In an hour unlocked for by Men this doom befell, on the nine and thirtieth day
 since the passing of the fleets. Then suddenly fire burst from the Meneltarma,
 and there came a mighty wind and a tumult of the earth, and the sky reeled, and
@@ -836,6 +917,9 @@ pearls. Too late she strove to ascend the steep ways of the Meneltarma to the
 holy place; for the waters overtook her, and her cry was lost in the roaring of
 the wind.
 
+## The survival of Elendil and the aftermath of the Akallabêth
+
+### Whether or not Amandil was successful, Elendil is taken away with great winds from the west
 But whether or no it were that Amandil came indeed to Valinor and Manwë
 hearkened to his prayer, by grace of the Valar Elendil and his sons and their
 people were spared from the ruin of that day. For Elendil had remained in
@@ -852,6 +936,7 @@ wind that Men had known, roaring from the west, and it swept his ships far away;
 and it rent their sails and snapped their masts, hunting the unhappy men like
 straws upon the water.
 
+### Nine ships are able to escape
 Nine ships there were: four for Elendil, and for Isildur three, and for Anárion
 two; and they fled before the black gale out of the twilight of doom into the
 darkness of the world. And the deeps rose beneath them in towering anger, and
@@ -862,12 +947,14 @@ world suffered great change and ruin in that time; for the seas invaded the
 lands, and shores foundered, and ancient isles were drowned, and new isles were
 uplifted; and hills crumbled and rivers were turned into strange courses.
 
+### Elendil and his sons found kingdoms in Middle-earth
 Elendil and his sons after founded kingdoms in Middle-earth; and though their
 lore and craft was but an echo of that which had been ere Sauron came to
 Númenor, yet very great it seemed to the wild men of the world. And much is said
 in other lore of the deeds of the heirs of Elendil in the age that came after,
 and of their strife with Sauron that not yet was ended.
 
+### The spirit of Sauron passes to Middle Earth, to Barad-dûr in Mordor, where he takes up his ring and assumes foul form
 For Sauron himself was filled with great fear at the wrath of the Valar, and
 the doom that Eru laid upon sea and land. It was greater far than aught he had
 looked for, hoping only for the death of the Númenóreans and the defeat of their
@@ -885,6 +972,7 @@ took up again his great Ring in Barad-dûr, and dwelt there, dark and silent,
 until he wrought himself a new guise, an image of malice and hatred made
 visible; and the Eye of Sauron the Terrible few could endure.
 
+### Of the name Mar-nu-Falmar that was whelmed in the waves, Akallabêth the Downfallen, given to Númenór
 But these things come not into the tale of the Drowning of Númenor, of which
 now all is told. And even the name of that land perished, and Men spoke
 thereafter not of Elenna, nor of Andor the Gift that was taken away, nor of
@@ -893,8 +981,9 @@ if they turned towards the West in the desire of their hearts, spoke of
 Mar-nu-Falmar that was whelmed in the waves, Akallabêth the Downfallen, Atalantë
 in the Eldarin tongue.
 
-* * *
+## Aftermath of those that survived
 
+### Of the exiles and the lore that came of Meneltarma
 Among the Exiles many believed that the summit of the Meneltarma, the Pillar of
 Heaven, was not drowned for ever, but rose again above the waves, a lonely
 island lost in the great waters; for it had been a hallowed place, and even in
@@ -908,6 +997,7 @@ and in the world of this present darkness they cannot be found. Yet once they
 were, and therefore they still are, in true being and in the whole shape of the
 world as at first it was devised.'
 
+### Of the Dúnedain, who even still sought for a release from death, and Meneltarma
 For the Dúnedain held that even mortal Men, if so blessed, might look upon
 other times than those of their bodies' life; and they longed ever to escape
 from the shadows of their exile and to see in some fashion fee light that dies
@@ -919,8 +1009,10 @@ the new lands, and found them like to the old lands, and subject to death. And
 those that sailed furthest set but a girdle about the Earth and returned weary
 at last to the place of their beginning; and they said:
 
+### The truth of the Akallabêth
 'All roads are now bent.'
 
+### Of those that could still go upon the straight path to Valinor
 Thus in after days, what by the voyages of ships, what by lore and star-craft,
 the kings of Men knew that the world was indeed made round, and yet the Eldar
 were permitted still to depart and to come to the Ancient West and to Avallónë,
@@ -938,5 +1030,3 @@ Straight Way and seen the face of the world sink below them, and so had come to
 the lamplit quays of Avallónë, or verily to the last beaches on the margin of
 Aman, and there had looked upon the White Mountain, dreadful and beautiful,
 before they died.
-
-
