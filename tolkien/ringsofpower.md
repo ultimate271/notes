@@ -1,13 +1,15 @@
-OF THE RINGS OF POWER AND THE THIRD AGE
+# OF THE RINGS OF POWER AND THE THIRD AGE: in which these tales come to their end
 
-in which these tales come to their end
+## Of Sauron
 
+### Of Sauron in the days of Beleriand
 Of old there was Sauron the Maia, whom the Sindar in Beleriand named Gorthaur.
 In the beginning of Arda Melkor seduced him to his allegiance, and he became the
 greatest and most trusted of the servants of the Enemy, and the most perilous,
 for he could assume many forms, and for long if he willed he could still appear
 noble and beautiful, so as to deceive all but the most wary.
 
+### Sauron humbles himself after the fall of Morgoth, but hides himself from judgement
 When Thangorodrim was broken and Morgoth overthrown, Sauron put on his fair hue
 again and did obeisance to Eönwë the herald of Manwë, and abjured all his evil
 deeds. And some hold that this was not at first falsely done, but that Sauron in
@@ -21,8 +23,9 @@ power had been great. Therefore when Eönwë departed he hid himself in
 Middle-earth; and he fell back into evil, for the bonds that Morgoth bad laid
 upon him were very strong.
 
-* * *
+## Of the elves of middle earth after the sinking of Beleriand
 
+### Of the sinking of Beleriand, and the elves that stayed on the Gulf of Lhûn
 In the Great Battle and the tumults of the fall of Thangorodrim there were
 mighty convulsions in the earth, and Beleriand was broken and laid waste; and
 northward and westward many lands sank beneath the waters of the Great Sea. In
@@ -35,6 +38,7 @@ yet to forsake Beleriand where they had fought and laboured long. Gil-galad son
 of Fingon was their king, and with him was Elrond Half-elven, son of Eärendil
 the Mariner and brother of Elros first king of Númenor.
 
+### The Grey Havens
 Upon the shores of the Gulf of Lhûn the Elves built their havens, and named
 them Mithlond; and there they held many ships, for the harbourage was good. From
 the Grey Havens the Eldar ever and anon set sail, fleeing from the darkness of
@@ -42,6 +46,7 @@ the days of Earth; for by the mercy of the Valar the Firstborn could still
 follow the Straight Road and return, if they would, to their kindred in Eressëa
 and Valinor beyond the encircling seas.
 
+### How the elves made camp in Eregion, and of Celebrimbor
 Others of the Eldar there were who crossed the mountains of Ered Luin in that
 age and passed into the inner lands. Many of these were Teleri, survivors of
 Doriath and Ossiriand; and they established realms among the Silvan Elves in
@@ -58,6 +63,7 @@ Fëanor himself; and indeed greatest in skill among them was Celebrimbor, son of
 Curufin, who was estranged from his father and remained in Nargothrond when
 Celegorm and Curufin were driven forth, as is told in the Quenta Silmarillion.
 
+### Of elves elsewhere, where Beleriand was a rumor and Sauron was at work
 Elsewhere in Middle-earth there was peace for many years; yet the lands were
 for the most part savage and desolate, save only where the people of Beleriand
 came. Many Elves dwelt there indeed, as they had dwelt through the countless
@@ -66,6 +72,9 @@ to whom the deeds of Beleriand were but a rumour and Valinor only a distant
 name. And in the south and in the further east Men multiplied; and most of them
 turned to evil, for Sauron was at work.
 
+## The forging of the rings as the seed of the rise of Sauron
+
+### Sauron is rekindled
 Seeing the desolation of the world, Sauron said in his heart that the Valar,
 having overthrown Morgoth, had again forgotten Middle-earth; and his pride grew
 apace. He looked with hatred on the Eldar, and he feared the Men of Númenor who
@@ -73,6 +82,7 @@ came back at whiles in their ships to the shores of Middle-earth; but for long
 he dissembled his mind and concealed the dark designs that he shaped in his
 heart.
 
+### Sauron spreads and begins to sow seeds to fight Elrond and Gil-Galad
 Men he found the easiest to sway of all the peoples of the Earth; but long he
 sought to persuade the Elves to his service, for he knew that the Firstborn had
 the greater power; and he went far and wide among them, and his hue was still
@@ -93,6 +103,7 @@ enrichment, and for the raising of all the Elven-kindreds that wander here
 untaught to the height of that power and knowledge which those have who are
 beyond the Sea?'
 
+### In Eregion, the Noldor become great craftsmen and forge Rings of Power
 It was in Eregion that the counsels of Sauron were most gladly received, for in
 that land the Noldor desired ever to increase the skill and subtlety of their
 works. Moreover they were not at peace in their hearts, since they had refused
@@ -104,6 +115,7 @@ they had contrived before; and they took thought, and they made Rings of Power.
 But Sauron guided their labours, and he was aware of all that they did; for his
 desire was to set a bond upon the Elves and to bring them under his vigilance.
 
+### Of the One Ring to rule all the others
 Now the Elves made many rings; but secretly Sauron made One Ring to rule all
 the others, and their power was bound up with it, to be subject wholly to it and
 to last only so long as it too should last. And much of the strength and will of
@@ -114,6 +126,7 @@ wore the One Ring he could perceive all the things that were done by means of
 the lesser rings, and he could see and govern the very thoughts of those that
 wore them.
 
+### The elves take off their rings, and Sauron comes after them. Three Elven Rings are saved
 But the Elves were not so lightly to be caught. As soon as Sauron set the One
 Ring upon his finger they were aware of him; and they knew him, and perceived
 that he would be master of them, and of an that they wrought. Then in anger and
@@ -124,6 +137,7 @@ the Elven-smiths could not have attained to their making without his lore and
 counsel. But the Elves fled from him; and three of their rings they saved, and
 bore them away, and hid them.
 
+### The power of the three, being subject to the one
 Now these were the Three that had last been made, and they possessed the
 greatest powers. Narya, Nenya, and Vilya, they were named, the Rings of Fire,
 and of Water, and of Air, set with ruby and adamant and sapphire; and of all the
@@ -135,6 +149,7 @@ the Ruling Ring. Therefore the Three remained unsullied, for they were forged by
 Celebrimbor alone, and the hand of Sauron had never touched them; yet they also
 were subject to the One.
 
+### Sauron begins to give rings to men and dwarves so that he might control them
 From that time war never ceased between Sauron and the Elves; and Eregion was
 laid waste, and Celebrimbor slain, and the doors of Moria were shut. In that
 time the stronghold and refuge of Imladris, that Men called Rivendell, was
@@ -155,6 +170,7 @@ the Seven Hoards of the Dwarf-kings of old was a golden ring; but all those
 hoards long ago were plundered and the Dragons devoured them, and of the Seven
 Rings some were consumed in fire and some Sauron recovered.
 
+### The birth of the Nazgûl
 Men proved easier to ensnare. Those who used the Nine Rings became mighty in
 their day, kings, sorcerers, and warriors of old. They obtained glory and great
 wealth, yet it turned to their undoing. They had, as it seemed, unending life,
@@ -169,6 +185,7 @@ wore the Ruling Ring, and they entered into the realm of shadows. The Nazgûl
 were they, the Ringwraiths, the Enemy's most terrible servants; darkness went
 with them, and they cried with the voices of death.
 
+### Of Sauron's rise to power
 Now Sauron's lust and pride increased, until he knew no bounds, and he
 determined to make himself master of all things in Middle-earth, and to destroy
 the Elves, and to compass, if he might, the downfall of Númenor. He brooked no
@@ -191,6 +208,9 @@ days and built many towns and walls of stone, and they were numerous and fierce
 in war and aimed with iron. To them Sauron was both king and god; and they
 feared him exceedingly, for he surrounded his abode with fire.
 
+## The rise of Gil-galad and Elendil, leading to the vanquish of Sauron in that time
+
+### Of the events of the Akallabêth and how the affected Sauron
 Yet there came at length a stay in the onslaught of Sauron upon the westlands.
 For, as is told in tile Akallabêth, he was challenged by the might of Númenor.
 So great was the power and splendour of the Númenóreans in the noontide of their
@@ -210,6 +230,7 @@ Mountains and the Great River even to the borders of Greenwood the Great, and
 was drawing nigh to the strong places where once he had dwelt secure. Then
 Sauron withdrew to his fortress in the Black Land and meditated war.
 
+### How Elendil and Isuldur and Anárion came to middle earth in the Akallabêth
 In that time those of the Númenóreans who were saved from destruction fled
 eastward, as is told in the Akallabêth. The chief of these were Elendil the Tall
 and his sons, Isildur and Anárion. Kinsmen of the King they were, descendants of
@@ -220,6 +241,7 @@ their ships were strong and tall, but the tempests overtook them, and they were
 borne aloft on hills of water even to the clouds, and they descended upon
 Middle-earth like birds of the storm.
 
+### Of the fortresses made by Elendil and Gil-Galad in that time
 Elendil was cast up by the waves in the land of Lindon, and he was befriended
 by Gil-galad. Thence he passed up the River Lhûn, and beyond Ered Luin he
 established his realm, and his people dwelt in many places in Eriador about the
@@ -230,6 +252,7 @@ raised upon Emyn Beraid and upon Amon Sûl; and there remain many barrows and
 ruined works in those places, but the towers of Emyn Beraid still look towards
 the sea.
 
+### The founding of Gondor and Arnor by Isuldur and Anárion
 Isildur and Anárion were borne away southwards, and at the last they brought
 their ships up the Great River Anduin, that flows out of Rhovanion into the
 western sea in the Bay of Belfalas; and they established a realm in those lands
@@ -255,6 +278,7 @@ in the land in the days of their power, at the Argonath, and at Aglarond, and at
 Erech; and in the circle of Angrenost, which Men called Isengard, they made the
 Pinnacle of Orthanc of unbreakable stone.
 
+### Of the Palantír and the White Tree
 Many treasures and great heirlooms of virtue and wonder the Exiles had brought
 from Númenor; and of these the most renowned were the Seven Stones and the White
 Tree. The White Tree was grown from the fruit of Nimloth the Fair that stood in
@@ -265,6 +289,7 @@ the Valar. The Tree, memorial of the Eldar and of the light of Valinor, was
 planted in Minas Ithil before the house of Isildur, since he it was that had
 saved the fruit from destruction; but the Stones were divided.
 
+### Of the Palantír and where they were placed and how they were used
 Three Elendil took, and his sons each two. Those of Elendil were set in towers
 upon Emyn Beraid, and upon Amon Sûl, and in the city of Annúminas. But those of
 his sons were at Minas Ithil and Minas Anor, and at Orthanc and in Osgiliath.
@@ -276,6 +301,7 @@ to direct their gaze whither they would. Thus the Númenóreans were aware of ma
 things that their enemies wished to conceal, and little escaped their vigilance
 in the days of their might.
 
+### Even more on teh Palantíri
 It is said that the towers of Emyn Beraid were not built indeed by the Exiles
 of Númenor, but were raised by Gil-galad for Elendil, his friend; and the Seeing
 Stone of Emyn Beraid was set in Elostirion, the tallest of the towers. Thither
@@ -288,6 +314,7 @@ dark days, when the Elves might come no longer to that land under the shadow of
 Sauron. They were called the Palantíri, those that watch from afar; but all
 those that were brought to Middle-earth long ago were lost.
 
+### The eye or Sauron, and his dwelling in that time in Barad-dûr about Orodruin
 Thus the Exiles of Númenor established their realms in Arnor and in Gondor; but
 ere many years had passed it became manifest that their enemy, Sauron, had also
 returned. He came in secret, as has been told, to his ancient kingdom of Mordor
@@ -304,6 +331,7 @@ drowning of Númenor. He took up again the great Ring and clothed himself in
 power; and the malice of the Eye of Sauron few even of the great among Elves and
 Men could endure.
 
+### Sauron prepares war against the Eldar, and Gil-galad fights them back
 Now Sauron prepared war against the Eldar and the Men of Westernesse, and the
 fires of the Mountain were wakened again. Wherefore seeing the smoke of Orodruin
 from afar, and perceiving that Sauron had returned, the Númenóreans named that
@@ -319,6 +347,7 @@ abodes in the southlands far away; yet two there were, Herumor and Fuinur, who
 rose to power among the Haradrim, a great and cruel people that dwelt in the
 wide lands south of Mordor beyond the mouths of Anduin.
 
+### Sauron takes Minas Ithil, destroys the white tree of Gondor, and seiges Osgiliath
 When therefore Sauron saw his time he came with great force against the new
 realm of Gondor, and he took Minas Ithil, and he destroyed the White Tree of
 Isildur that grew there. But Isildur escaped, and taking with him a seedling of
@@ -328,6 +357,7 @@ Osgiliath against the Enemy, and for that time drove him back to the mountains;
 but Sauron gathered his strength again, and Anárion knew that unless help should
 come his kingdom would not long stand.
 
+### March of Elendil and Gil-galad through Imladris
 Now Elendil and Gil-galad took counsel together, for they perceived that Sauron
 would grow too strong and would overcome all his enemies one by one, if they did
 not unite against him. Therefore they made that League which is called the Last
@@ -337,6 +367,7 @@ that was there assembled was fairer and more splendid in arms than any that has
 since been seen in Middle-earth, and none greater has been mustered since the
 host of the Valar went against Thangorodrim.
 
+### Of the composistions of the armies in that fight
 From Imladris they crossed the Misty Mountains by many passes and marched down
 the River Anduin, and so came at last upon the host of Sauron on Dagorlad, the
 Battle Plain, which lies before the gate of the Black Land. All living things
@@ -345,12 +376,14 @@ found in either host, save the Elves only. They alone were undivided and
 followed Gil-galad. Of the Dwarves few fought upon either side; but the kindred
 of Durin of Moria fought against Sauron.
 
+### The awesomeness of Gil-galad and Elendil
 The host of Gil-galad and Elendil had the victory, for the might of the Elves
 was still great in those days, and the Númenóreans were strong and tall, and
 terrible in their wrath. Against Aeglos the spear of Gil-galad none could stand;
 and the sword of Elendil filled Orcs and Men with fear, for it shone with the
 light of the sun and of the moon, and it was named Narsil.
 
+### The seige of Mordor, after seven years, ends in the vanquish of Sauron in that time
 Then Gil-galad and Elendil passed into Mordor and encompassed the stronghold of
 Sauron; and they laid siege to it for seven years, and suffered grievous loss by
 fire and by the darts and bolts of the Enemy, and Sauron sent many sorties
@@ -363,6 +396,9 @@ the hand of Sauron and took it for his own. Then Sauron was for that time
 vanquished, and he forsook his body, and his spirit fled far away and hid in
 waste places; and he took no visible shape again for many long years.
 
+## 
+
+### 
 Thus began the Third Age of the World, after the Eldest Days and the Black
 Years; and there was still hope in that time and the memory of mirth, and for
 long the White Tree of the Eldar flowered in the courts of the Kings of Men, for
