@@ -398,7 +398,7 @@ waste places; and he took no visible shape again for many long years.
 
 ## 
 
-### 
+### Aftermath of the fight, of Barad-dûr, Orodruin, and the valley of Gorgoroth filled with ash
 Thus began the Third Age of the World, after the Eldest Days and the Black
 Years; and there was still hope in that time and the memory of mirth, and for
 long the White Tree of the Eldar flowered in the courts of the Kings of Men, for
@@ -417,6 +417,7 @@ Tall and Gil-galad the High King were no more. Never again was such a host
 assembled, nor was there any such league of Elves and Men; for after Elendil’s
 day the two kindreds became estranged.
 
+### Isildur decides to keep the ring, and after planting the tree of Gondor decides to venture north
 The Ruling Ring passed out of the knowledge even of the Wise in that age; yet
 it was not unmade. For Isildur would not surrender it to Elrond and Círdan who
 stood by. They counselled him to cast it into the fire of Orodruin nigh at hand,
@@ -434,6 +435,7 @@ Gondor by the way that Elendil had come; and he forsook the South Kingdom, for
 he purposed to take up his father's realm in Eriador, far from the shadow of the
 Black Land.
 
+### The disaster at Gladden Fields
 But Isildur was overwhelmed by a host of Orcs that lay in wait in the Misty
 Mountains; and they descended upon him at unawares in his camp between the
 Greenwood and the Great River, nigh to Loeg Ningloron, the Gladden Fields, for
@@ -450,12 +452,14 @@ end. Only three of his people came ever back over the mountains after long
 wandering; and of these one was Ohtar his esquire, to whose keeping he had given
 the shards of the sword of Elendil.
 
+### Narsil comes to Valandil, Isildur's heir, but is not forged anew.
 Thus Narsil came in due time to the hand of Valandil, Isildur's heir, in
 Imladris; but the blade was broken and its light was extinguished, and it was
 not forged anew. And Master Elrond foretold that this would not be done until
 the Ruling Ring should be found again and Sauron should return; but the hope of
 Elves and Men was that these things might never come to pass.
 
+### The power of the Dúnedain diminishes in that time
 Valandil took up his abode in Annúminas, but his folk were diminished, and of
 the Númenóreans and of the Men of Eriador there remained now too few to people
 the land or to maintain all the places that Elendil had built; in Dagorlad, and
@@ -470,6 +474,7 @@ save in Imladris, in the house of Elrond, their ancestry was forgotten. Yet the
 shards of the sword were cherished during many lives of Men by the heirs of
 Isildur; and their line, from father to son, remained unbroken.
 
+### Gondor endures, and the White Tree of Gondor continues to grow
 In the south the realm of Gondor endured, and for a time its splendour grew,
 until it recalled the wealth and majesty of Númenor ere it fell High towers the
 people of Gondor built, and strong places, and havens of many ships; and the
@@ -479,6 +484,7 @@ Anor, the seed of that tree which Isildur brought out of the deeps of the sea
 from Númenor; and the seed before that came from Avallónë, and before that from
 Valinor in the Day before days when the world was young.
 
+### The ringwraiths begin to rise again
 Yet at the last, in the wearing of the swift years of Middle-earth, Gondor
 waned, and the line of Meneldil son of Anárion failed. For the blood of the
 Númenóreans became much mingled with that of other men, and their power and
@@ -493,6 +499,7 @@ said that these were indeed the Úlairi, whom Sauron called the Nazgûl, the Nin
 Ringwraiths that had long remained hidden, but returned now to prepare the ways
 of their Master, for he had begun to grow again.
 
+### Minas Anor and Minas Ithil become Minas Morgul and Minas Tirith
 And in the days of Eärnil they made their first stroke, and they came by night
 out of Mordor over the passes of the Mountains of Shadow, and took Minas Ithil
 for their abode; and they made it a place of such dread that none dared to look
@@ -508,6 +515,7 @@ passage of the River against the terrors of Minas Morgul and against all the
 enemies of the West, Orcs and monsters and evil Men; and thus the lands behind
 them, west of Anduin, were protected from war and destruction.
 
+### 
 Still Minas Tirith endured after the days of Eärnur, son of Eärnil, and the
 last King of Gondor. He it was that rode alone to the gates of Minas Morgul to
 meet the challenge of the Morgul-lord; and he met him in single combat, but he
