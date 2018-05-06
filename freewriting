@@ -260,3 +260,88 @@ other than that it was born out of a need to express that in written
 form. Coming to accept the fact that the evolution of punctuation in
 writing has its roots in spoken verse (often greek or latin), and has
 since evolved to mean a grouping of thoughts and clauses in a sentence.
+
+--
+
+So I just took a huge hit of weed, and feel as though I have discovered a more
+or less intuitive way to narrow down a piece. We are going to use the excerpt.
+So everything in a book happens at certain points, and at those certain points,
+we can create mile markers as sorts. E.G. Here begins the description of
+Boromir, here ends the description of Boromir. This marker system has the
+advantage that it "goes over" the text. I'm not sure the most ideal way to
+store a marker. One way would be to put "Comments" througout the text. So text
+inside of say underscores would be meta information placed by me about
+markings.
+
+Also, while we're at it, why am I not using xml? xml is perfect for this. Well,
+sql works too, but for importing, xml all the way.
+
+So my import might look something like this.
+
+<Silmarillion>
+    <Quenta>
+        ...
+        <Chapter No=17>
+            <Title>Of the Coming of Men into the West</Title>
+            <Section Order=1>
+                <Summary>First encounter of men and elves</Summary>
+                <Paragraph Order=1>
+                    <Summary>Finrod hunts with Maglor and maedhros to the north of Ossiriand</Summary>
+                    <Text>When three hundred years and more were gone since the Noldor came to Beleriand, in the days of the Long Peace, Finrod Felagund lord of Nargothrond journeyed east of Sirion and went hunting with Maglor and Maedhros, sons of Fëanor. But he wearied of the chase and passed on alone towards the mountains of Ered Lindon that he saw shining afar; and taking the Dwarf-road he crossed Gelion at the ford of Sarn Athrad, and taming south over the upper streams of Ascar, he came into the north of Ossiriand.</Text>
+                </Paragraph>
+                <Paragraph Order=2>
+                    <Text>In a valley among the foothills of the mountains, below the springs of Thalos, he saw lights in the evening, and far off he heard the sound of song. At this he wondered much, for the Green-elves of that land lit no fires, nor did they sing by night At first he feared that a raid of Orcs had passed the leaguer of the North, but as he drew near he perceived that it was not so; for the singers used a tongue that he had not heard before, neither that of Dwarves nor of Orcs. Then Felagund, standing silent hi the night-shadow of the trees, looked down into the camp, and there he beheld a strange people.</Text>
+                </Paragraph>
+                <Paragraph Order=3>...</Paragraph>
+                ...
+            </Section>
+            <Section Order=2>
+                <Summary>...</Summary>
+                <Paragraph Order=1>...</Paragraph>
+                ...
+            </Section>
+            ...
+        </Chapter>
+        ...
+    </Quenta>
+</Silmarillion>
+
+Let us say that the paragraph is the most atomic unit for our purposes. Every
+event will happen at certain paragraphs, and we can reference them uniquely by
+Novel, Book, Chapter, Section, and Paragraph numbers.
+
+A list of events will be a list of named events, being as descriptive or not as
+the author wants, each with a reference to the paragraphs where the event is
+drawn from.
+
+Not only can there be events, there can be exposition. Rowling describing the
+manner in which Harry kept his hair is not an event, it's not something that
+happened in the world of Hogwarts, its simply an observation about something
+that was already in the world of Hogwarts.
+
+Dialogue can be considered a part of one event (Diane and Lora discussed
+matters of politics and make-up) or of one section, (Horatio replied with great
+remorse to the troubled Hamlet, reminding him that his father is truely as dead
+as they come).
+
+Every event can have metadata associated with it. For instance, in Tolkien,
+when Aragorn and company go through the paths of the dead, we know that it
+happened on xyz date of the Tolkienian Calender, so we could include that as
+part of the event where they step onto the paths, even though you can't derive
+it from the text the event references.
+
+Likewise, events can portray foreshadowing in one form or another. If this were
+the case, the events will be coupled in a n to n relationship, where every
+event has a list of events that reference it or are referenced by it.
+
+Events also have characters associated with them, so for instance, the event
+where Vadar reveals to Luke that he is his father has only 2 characters in it,
+Vadar and Luke. If Luke references Obi-Wan, he doesn't count in the list of
+primary characters, but secondary characters. The primary characters are only
+those characters that are present at the time and scene of the event.
+
+Which also requires we have a list of characters just floating about. Or items,
+as you could state more abstractly. 
+
+
+
