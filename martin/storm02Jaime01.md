@@ -1,7 +1,14 @@
+# Jaime
 
-Jaime
+_Jaime and his cousin Cleos are held captive by Brienne. The details of Jaime's
+crimes are recalled here, and their acquital by Lady Catelyn Stark has them in
+this situation, sailing. When the trio spot dead prostitutes, Cleos speculates
+that it's Bolton's doing, and that there will be a watch. Sure enough, ser
+Robin approachs them in a galley, but is outsmarted by Brienne. They sail on._
 
+## Introduction to Jaime and Cleos being brought downstream by Brienne as captives, and how they became captives
 
+### The scene: Jaime Lanister is on a boat going down a river
 An east wind blew through his tangled hair, as soft and fragrant as Cersei’s
 fingers. He could hear birds singing, and feel the river moving beneath the
 boat as the sweep of the oars sent them toward the pale pink dawn. After so
@@ -9,6 +16,7 @@ long in darkness, the world was so sweet that Jaime Lannister felt dizzy. I am
 alive, and drunk on sunlight. A laugh burst from his lips, sudden as a quail
 flushed from cover.
 
+### We go to a wench, who is rowing. It is revealed that Jaime is in shackles
 "Quiet," the wench grumbled, scowling. Scowls suited her broad homely face
 better than a smile. Not that Jaime had ever seen her smiling. He amused
 himself by picturing her in one of Cersei’s silken gowns in place of her
@@ -22,6 +30,7 @@ on the other oar. A big strong peasant wench to look at her, yet she speaks
 like one highborn and wears longsword and dagger. Ah, but can she use them?
 Jaime meant to find out, as soon as he rid himself of these fetters.
 
+### We go over the story of how Jaime ended up here
 He wore iron manacles on his wrists and a matching pair about his ankles,
 joined by a length of heavy chain no more than a foot long. "You’d think my
 word as a Lannister was not good enough," he’d japed as they bound him. He’d
@@ -45,6 +54,7 @@ my own escape. He was awake now, though, and the fetters were irksome. "My
 lady," he called out, "if you’ll strike off these chains, I’ll spell you at
 those oars."
 
+### Brienne, the wench who is rowing, and Jaime share words
 She scowled again, her face all horse teeth and glowering suspicion. "You’ll
 wear your chains, Kingslayer."
 
@@ -60,6 +70,7 @@ wear your chains, Kingslayer."
 her an innocent smile. "I’d ask you to open your bodice, but from the look of
 you that wouldn’t prove much."
 
+### Cleos, who Lady Catelyn Stark promised release if he delivered a message to Tyrion
 Ser Cleos fretted. "Cousin, remember your courtesies."
 
 The Lannister blood runs thin in this one. Cleos was his Aunt Genna’s son by
@@ -71,6 +82,7 @@ Cleos looked like a weasel, fought like a goose, and had the courage of an
 especially brave ewe. Lady Stark had promised him release if he delivered her
 message to Tyrion, and Ser Cleos had solemnly vowed to do so.
 
+### Of the oaths they took to escape bondage
 They’d all done a deal of vowing back in that cell, Jaime most of all. That was
 Lady Catelyn’s price for loosing him. She had laid the point of the big wench’s
 sword against his heart and said, "Swear that you will never again take up arms
@@ -90,6 +102,7 @@ strange woman, to trust her girls to a man with shit for honor. Though she was
 trusting him as little as she dared. She is putting her hope in Tyrion, not in
 me. "Perhaps she is not so stupid after all," he said aloud.
 
+### More words exchanged between Jaime and Brienne, as Tyrion's crimes are recalled
 His captor took it wrong. "I am not stupid. Nor deaf."
 
 He was gentle with her; mocking this one would be so easy there would be no
@@ -157,6 +170,7 @@ it’s called. Be quiet, monster, unless you mean to make me gag you."
 steel in her spine, I’ll grant you. Not many men dare name me monster to my
 face." Though behind my back they speak freely enough, I have no doubt.
 
+### Of the boy, Brandon Stark, that Jaime killed to hide his sexual involment with his twin sister Cersei
 Ser Cleos coughed nervously. "Lady Brienne had those lies from Catelyn Stark,
 no doubt. The Starks cannot hope to defeat you with swords, ser, so now they
 make war with poisoned words."
@@ -200,6 +214,9 @@ to make sure the boy never woke? If she wanted him dead she would have sent me.
 And it is not like her to chose a catspaw who would make such a royal botch of
 the killing.
 
+## They continue sailing
+
+### They continue, now sailing, Brienne revealing that they are to retrieve the Stark daughters
 Downriver, the rising sun shimmered against the wind-whipped surface of the
 river. The south shore was red clay, smooth as any road. Smaller streams fed
 into the greater, and the rotting trunks of drowned trees clung to the banks.
@@ -220,6 +237,7 @@ me to my father instead of my brother," he pointed out.
 "Lady Catelyn’s daughters are in King’s Landing. I will return with the girls
 or not at all."
 
+### Jaime has Cleos cut his hair off to avoid recognition by any who might see him
 Jaime turned to Ser Cleos. "Cousin, lend me your knife."
 
 "No." The woman tensed. "I will not have you armed." Her voice was as
@@ -248,6 +266,7 @@ but he looked as though he had aged five years in that dungeon; his face was
 thinner, with hollows under his eyes and lines he did not remember. I don’t
 look as much like Cersei this way. She’ll hate that.
 
+### They continue down the river
 By midday, Ser Cleos had fallen asleep. His snores sounded like ducks mating.
 Jaime stretched out to watch the world flow past; after the dark cell, every
 rock and tree was a wonder.
@@ -283,6 +302,9 @@ her on her knowledge of the river, she looked at him suspiciously and said, "I
 do not know the river. Tarth is an island. I learned to manage oars and sail
 before I ever sat a horse."
 
+## Cleos spots dead prostitutes, so they stop to bury them
+
+### Cleos sees smoke, where they find a tree full of dead women
 Ser Cleos sat up and rubbed at his eyes. "Gods, my arms are sore. I hope the
 wind lasts." He sniffed at it. "I smell rain."
 
@@ -309,6 +331,7 @@ for crows."
 "A heartless wench. Crows need to eat as well. Stay to the river and leave the
 dead alone, woman."
 
+### They land and inspect the women to determine them prostitutes, traitors by servicing the men of Stark
 They landed upstream of where the great oak leaned out over the water. As
 Brienne lowered the sail, Jaime climbed out, clumsy in his chains. The Red Fork
 filled his boots and soaked through the ragged breeches. Laughing, he dropped
@@ -343,6 +366,7 @@ river, to make certain they were quite alone. "This is Bracken land. Lord Jonos
 might have ordered them killed. My father burned his castle, I fear he loves us
 not."
 
+### Cleos speculates that Roose Bolton's northmen have taken Harrenhal, meaning that their passage will be watched
 "It might be Marq Piper’s work," said Ser Cleos. "Or that wisp o’ the wood
 Beric Dondarrion, though I’d heard he kills only soldiers. Perhaps a band of
 Roose Bolton’s northmen?"
@@ -371,6 +395,9 @@ all maids are fair in silk... But he never met you, did he?"
 
 The woman turned red. "We have graves to dig." She went to climb the tree.
 
+## Before they can bury the prostitutes, ser Robin gives chase to them, and at the clever maneuvering of Brienne, they escape capture
+
+### As they are lowering the corpses, they spot sails in the distance, and swiftly give flight
 The lower limbs of the oak were big enough for her to stand upon once she’d
 gotten up the trunk. She walked amongst the leaves, dagger in hand, cutting
 down the corpses. Flies swarmed around the bodies as they fell, and the stench
@@ -402,6 +429,7 @@ dead whores, I suppose." The prospect of returning to his cell did not appeal
 to Jaime. Tyrion could think of something clever now, but all that occurs to me
 is to go at them with a sword.
 
+### They continue to flee the sails for an hour, and Jaime notices they are being pursued by a Galley of at least 20 men
 For the good part of an hour they played peek-and-seek with the pursuers,
 sweeping around bends and between small wooded isles. Just when they were
 starting to hope that somehow they might have left behind the pursuit, the
@@ -447,6 +475,7 @@ He had to laugh at such fierceness. She’s the Hound with teats, he thought. Or
 would be, if she had any teats to speak of. "Then protect me, wench. Or free me
 to protect myself."
 
+### Ser Robin in the Galley approach the boat. Jaime and Robin exchange words
 The galley was skimming downriver, a great wooden dragonfly. The water around
 her was churned white by the furious action of her oars. She was gaining
 visibly, the men on her deck crowding forward as she came on. Metal glinted in
@@ -482,6 +511,7 @@ side of him, two standing and two kneeling. "Cast your swords into the water."
 "I have no sword," he returned, "but if I did, I’d stick it through your belly
 and hack the balls off those four cravens."
 
+### The galley open fire, and the trio maneuveur around an island
 A flight of arrows answered him. One thudded into the mast, two pierced the
 sail, and the fourth missed Jaime by a foot.
 
@@ -514,6 +544,7 @@ the green wall of the trees and the stony grey-brown bluff. A few moments’
 respite from the arrows, Jaime thought, pushing them off a half-submerged
 boulder.
 
+### Brienne climbs the bluff as Jaime and Robin again exchange words
 The skiff rocked. He heard a soft splash, and when he glanced around, Brienne
 was gone. A moment later he spied her again, pulling herself from the water at
 the base of the bluff. She waded through a shallow pool, scrambled over some
@@ -545,6 +576,7 @@ other could see the manacles. "I’ll fight you in chains. What could you fear?"
 commanded to bring you back alive if possible. Bowmen." He signaled them on.
 "Notch. Draw Loo-"
 
+### Brienne looses boulders which damage and sink the galley
 The range was less than twenty yards. The archers could scarcely have missed,
 but as they pulled on their longbows a rain of pebbles cascaded down around
 them. Small stones rattled on their deck, bounced off their helms, and made
@@ -565,6 +597,7 @@ good. Ser Robin and his thrice-damned archers would have a long wet walk back
 to Riverrun, and he was rid of the big homely wench as well. I could not have
 planned it better myself. Once I’m free of these irons...
 
+### Jaime rescues Brienne and they continue sailing
 Ser Cleos raised a shout. When Jaime looked up, Brienne was lumbering along the
 clifftop, well ahead of them, having cut across a finger of land while they
 were following the bend in the river. She threw herself off the rock, and

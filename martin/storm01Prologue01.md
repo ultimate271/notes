@@ -1,5 +1,8 @@
 # Prologue
 
+## Introduction to our company outside the Wall, and their intention to kill the officers
+
+### Introducing Chett, outside the Wall, cursing Jon Snow and Sam Tarly for his predicament
 The day was grey and bitter cold, and the dogs would not take the scent.
 
 The big black bitch had taken one sniff at the bear tracks, backed off, and
@@ -19,17 +22,20 @@ the hounds only huddled closer, whining. Chett snapped his short lash above
 their heads, and the black bitch snarled at him. "Dog meat would taste as good
 as bear," he warned her, his breath frosting with every word.
 
+### Lark the Sisterman
 Lark the Sisterman stood with his arms crossed over his chest and his hands
 tucked up into his armpits. He wore black wool gloves, but he was always
 complaining how his fingers were frozen. "It’s too bloody cold to hunt," he
 said. "Bugger this bear, he’s not worth freezing over."
 
+### Small Paul
 "We can’t go back emptyhand, Lark," rumbled Small Paul through the brown
 whiskers that covered most of his face. "The Lord Commander wouldn’t like
 that." There was ice under the big man’s squashed pug nose, where his snot had
 frozen. A huge hand in a thick fur glove clenched tight around the shaft of a
 spear.
 
+### Paul and the Sisterman discuss their intention to kill the "Old Bear" Jeor Mormont, Lord Commander of the Night's Watch
 "Bugger that Old Bear too," said the Sisterman, a thin man with sharp features
 and nervous eyes. "Mormont will be dead before daybreak, remember? Who cares
 what he likes?"
@@ -48,6 +54,7 @@ hunted, you great muttonhead?"
 "Yes." The huge man stamped the butt of his spear on the frozen riverbank. "I
 will. He shouldn’t hunt us."
 
+### The Sisterman and Chett discuss their plan to kill the officers
 The Sisterman took his hands from his armpits and turned to Chett. "We need to
 kill all the officers, I say."
 
@@ -68,6 +75,9 @@ wasn’t going to get much riper than that. Besides, the wildlings could be upon
 them any day now. Chett meant to be well away from here before that happened.
 He meant to live.
 
+## Backstory, the hunted characters debate the situation of the wildlings
+
+### Backstory about the wall and its purpose, to find missing rangers, but more to discover why wildlings were leaving their villages.
 Three hundred sworn brothers of the Night’s Watch had ridden north, two hundred
 from Castle Black and another hundred from the Shadow Tower. It was the biggest
 ranging in living memory, near a third of the Watch’s strength. They meant to
@@ -78,6 +88,7 @@ where all the wildlings had gone-up into the icy heights of the godsforsaken
 Frostfangs. They could squat up there till the end of time and it wouldn’t
 prick Chett’s boils none.
 
+### Our group is traveling down the Milkwater, looking for wildlings also going this path
 But no. They were coming down. Down the Milkwater.
 
 Chett raised his eyes and there it was. The river’s stony banks were bearded by
@@ -119,6 +130,7 @@ The Old Bear had strengthened the Fist with spikes and pits and caltrops, but
 against such a host all that was pointless. If they stayed here, they would be
 engulfed and overwhelmed.
 
+### Thoren Smallwood, leader of the watch, and his intention to attack
 And Thoren Smallwood wanted to attack. Sweet Donnel Hill was squire to Ser
 Mallador Locke, and the night before last Smallwood had come to Locke’s tent.
 Ser Mallador had been of the same mind as old Ser Ottyn Wythers, urging a
@@ -138,6 +150,7 @@ guards the realms of men. You do not throw away your shield for no good
 purpose," but to that Thoren Smallwood said, "In a swordfight, a man’s surest
 defense is the swift stroke that slays his foe, not cringing behind a shield."
 
+### Lord Mormont, the "Old Bear", who decided to wait for his scouts, knowing not if they will return
 Neither Smallwood nor Wythers had the command, though. Lord Mormont did, and
 Mormont was waiting for his other scouts, for Jarman Buckwell and the men who’d
 climbed the Giant’s Stair, and for Qhorin Halfhand and Jon Snow, who’d gone to
@@ -146,6 +159,9 @@ though. Dead, most like. Chett pictured Jon Snow lying blue and frozen on some
 bleak mountaintop with a wildling spear up his bastard’s arse. The thought made
 him smile. I hope they killed his bloody wolf as well.
 
+## We walk through Chett's thoughts as they walk, as he thinks through his plan and the reason he was put here
+
+### Chett turns around, and thinks through his plan again
 "There’s no bear here," he decided abruptly. "Just an old print, that’s all.
 Back to the Fist." The dogs almost yanked him off his feet, as eager to get
 back as he was. Maybe they thought they were going to get fed. Chett had to
@@ -156,6 +172,7 @@ have snarling hounds and panicked horses all over the Fist, running through
 fires, jumping the ringwall, and trampling down tents. With all the confusion,
 it might be hours before anyone noticed that fourteen brothers were missing.
 
+### The reasoning behind bringing fourteen in their plan. About Small Paul and Dirk and Softfoot
 Lark had wanted to bring in twice that number, but what could you expect from
 some stupid fishbreath Sisterman? Whisper a word in the wrong ear and before
 you knew it you’d be short a head. No, fourteen was a good number, enough to do
@@ -167,6 +184,7 @@ weapon, and the little grey man the brothers called Softfoot, who’d raped a
 hundred women in his youth, and liked to boast how none had never seen nor
 heard him until he shoved it up inside them.
 
+### Chett's plan described, who is meant to kill whom
 The plan was Chett’s. He was the clever one; he’d been steward to old Maester
 Aemon for four good years before that bastard Jon Snow had done him out so his
 job could be handed to his fat pig of a friend. When he killed Sam Tarly
@@ -184,6 +202,7 @@ Karl would have the horses ready. With Mormont dead, command would pass to Ser
 Ottyn Wythers, an old done man, and failing. He’ll be running for the Wall
 before sundown, and he won’t waste no men sending them after us neither.
 
+### As they return, Lark reveals his intention to sail back home to the Sisters
 The dogs pulled at him as they made their way through the trees. Chett could
 see the Fist punching its way up through the green. The day was so dark that
 the Old Bear had the torches lit, a great circle of them burning all along the
@@ -193,6 +212,7 @@ across its surface. "I’m going to make for the coast," Lark the Sisterman
 confided. "Me and my cousins. We’ll build us a boat, sail back home to the
 Sisters."
 
+### Chett thinks of the futility of Lark's thoughts
 And at home they’ll know you for deserters and lop off your fool heads, thought
 Chett. There was no leaving the Night’s Watch, once you said your words.
 Anywhere in the Seven Kingdoms, they’d take you and kill you.
@@ -210,6 +230,7 @@ itself to his palm once, and he’d smashed it against a wall in revulsion. His
 father beat him bloody for that. The maesters bought the leeches at
 twelve-for-a-penny.
 
+### Chett's background, the reason he's at the wall, the murder of Bessa
 Lark could go home if he liked, and the damn Tyroshi too, but not Chett. If he
 never saw Hag’s Mire again, it would be too bloody soon. He had liked the look
 of Craster’s Keep, himself. Craster lived high as a lord there, so why
@@ -242,6 +263,7 @@ wildling has the right of it. If you want a woman to wife you take her, and
 none of this giving her flowers so that maybe she don’t notice your bloody
 boils. Chett didn’t mean to make that mistake again.
 
+### Chett convinces himself of the plan again
 It would work, he promised himself for the hundredth time. So long as we get
 away clean. Ser Ottyn would strike south for the Shadow Tower, the shortest way
 to the Wall. He won’t bother with us, not Wythers, all he’ll want is to get
@@ -254,6 +276,7 @@ tempted him. But they would need to kill Ser Ottyn and Ser Mallador Locke as
 well to give Smallwood the command, and both of them were well-attended day and
 night... No, the risk was too great.
 
+### Small Paul asks about the Old Bear's raven, and wishes to keep it
 "Chett," said Small Paul as they trudged along a stony game trail through
 sentinels and soldier pines, "what about the bird?"
 
@@ -285,6 +308,9 @@ bird, then? I like that bird."
 
 Small Paul clouded up again. "Best not try and eat my bird, Lark. Best not."
 
+## The group returns to the Fist
+
+### The group comes closer to the Fist, where Chett watches Piggy fail at archery
 Chett could hear voices drifting through the trees. "Close your bloody mouths,
 both of you. We’re almost to the Fist."
 
@@ -351,6 +377,7 @@ though. Aye, and made a few."
 Ser Piggy was beaming. To look at him you’d think he’d actually done something.
 But when he saw Chett and the dogs, his smile curled up and died squeaking.
 
+### Chett visualizes killing Samwell and expresses his want to kill Tollett as well
 "You hit a tree," Chett said. "Let’s see how you shoot when it’s Mance Rayder’s
 lads. They won’t stand there with their arms out and their leaves rustling, oh
 no. They’ll come right at you, screaming in your face, and I bet you’ll piss
@@ -372,6 +399,7 @@ Chett kicked the nearest dog, yanked on their leashes, and started up the hill.
 Smile all you want, Ser Piggy. We’ll see who laughs tonight. He only wished he
 had time to kill Tollett as well. Gloomy horsefaced fool, that’s what he is.
 
+### Chett reports to Mormont, and contemplates his freedom from him soon enough
 The climb was steep, even on this side of the Fist, which had the gentlest
 slope. Partway up the dogs started barking and pulling at him, figuring that
 they’d get fed soon. He gave them a taste of his boot instead, and a crack of
@@ -400,6 +428,7 @@ were thinking.
 
 Mostly what they were thinking was that it was bloody cold.
 
+### Chatter between Chett and Lark about officers and ravens
 The wind was rising as the shadows lengthened. It made a high thin sound as it
 shivered through the stones of the ringwall. "I hate that sound," little Giant
 said. "It sounds like a babe in the brush, wailing away for milk."
@@ -422,6 +451,7 @@ Lark grinned. "His, might be?"
 Or yours. It seemed to Chett that they needed the big man more than they needed
 Lark. "Stop fretting about Small Paul. You do your part, he’ll do his."
 
+### The group returns, and begin to eat supper. Chett evaluates his comrades
 Twilight was creeping through the woods by the time he rid himself of the
 Sisterman and sat down to edge his sword. It was bloody hard work with his
 gloves on, but he wasn’t about to take them off. Cold as it was, any fool that
@@ -459,6 +489,9 @@ sparkled in the firelight, like so many little wet jewels. Maslyn wasn’t eatin
 neither, only staring at his soup as if the smell of it was about to make him
 sick. I’ll need to watch that one, Chett thought.
 
+## The Old Bear assembles the people and announces the intention to attack the wildlings at dawn
+
+### The Old Bear assembles, and announces the wildlings are on the march
 "Assemble!" The shout came suddenly, from a dozen throats, and quickly spread
 to every part of the hilltop camp. "Men of the Night’s Watch! Assemble at the
 central fire!"
@@ -492,10 +525,12 @@ sunrise. Qhorin Halfhand hasn’t come back, has he? Nor Jarman Buckwell. If any
 of them got caught, you know damned well the wildlings will have wrung a song
 or two out of them by now.
 
+### Thoren Smallwood announces Mance Rayder's intention to break the Wall and begin war
 Smallwood stepped forward. "Mance Rayder means to break the Wall and bring red
 war to the Seven Kingdoms. Well, that’s a game two can play. On the morrow
 we’ll bring the war to him."
 
+### The Old Bear and Smallwood announce their intentions to attack in the morning
 "We ride at dawn with all our strength," the Old Bear said as a murmur went
 through the assembly. "We will ride north, and loop around to the west. Harma’s
 van will be well past the Fist by the time we turn. The foothills of the
@@ -511,12 +546,14 @@ If they break and return to their hovels, we’ve won. If not, we’ll harry the
 all the way to the Wall, and see to it that they leave a trail of corpses to
 mark their progress."
 
+### The people are worried of the plan
 "There are thousands," someone called from behind Chett.
 
 "We’ll die." That was Maslyn’s voice, green with fear.
 
 "Die," screamed Mormont’s raven, flapping its black wings. "Die, die, die."
 
+### The men are rallied
 "Many of us," the Old Bear said. "Mayhaps even all of us. But as another Lord
 Commander said a thousand years ago, that is why they dress us in black.
 Remember your words, brothers. For we are the swords in the darkness, the
@@ -535,6 +572,9 @@ steel. He was pleased to see Lark and Softfoot and Sweet Donnel Hill joining
 in, as if they were as big fools as the rest. That was good. No sense to draw
 attention, when their hour was so close.
 
+## Chett's plans are foiled by snow, then his attempt to kill Samwell is foiled by three hornblasts from the scouts, signifying "others"
+
+### Chett second guesses his plan again and goes into 
 When the shouting died away, once more he heard the sound of the wind picking
 at the ringwall. The flames swirled and shivered, as if they too were cold, and
 in the sudden quiet the Old Bear’s raven cawed loudly and once again said,
@@ -560,6 +600,7 @@ before, it had only been to remember the way she’d looked, dying. What was
 wrong with him? He could hardly breathe. Had he gone to sleep? He got to his
 knees, and something wet and cold touched his nose. Chett looked up.
 
+### Snow begins to fall, ruining Chett's plans. Chett resolves to kill Samwell regardless
 Snow was falling.
 
 He could feel tears freezing to his cheeks. It isn’t fair, he wanted to scream.
@@ -584,6 +625,7 @@ Tarly, he remembered. I can still deal with Ser Piggy. He wrapped his scarf
 around his face, pulled up his hood, and went striding through the camp to
 where the coward slept.
 
+### Chett is about to kill Samwell when he hears horns in the distance, three blasts signifying "others"
 The snow was falling so heavily that he got lost among the tents, but finally
 he spotted the snug little windbreak the fat boy had made for himself between a
 rock and the raven cages. Tarly was buried beneath a mound of black wool
@@ -592,8 +634,7 @@ some kind of soft round mountain. Steel whispered on leather faint as hope as
 Chett eased his dagger from its sheath. One of the ravens quorked. "Snow,"
 another muttered, peering through the bars with black eyes. The first added a
 "Snow" of its own. He edged past them, placing each foot carefully. He would
-clap his left hand down over the fat boy’s mouth to muffle his cries, and
-then...
+clap his left hand down over the fat boy’s mouth to muffle his cries, and then...
 
 Uuuuuuuhoooooooooo.
 
@@ -638,4 +679,5 @@ They never blow three. Not for hundreds and thousands of years. Three means-"
 "-Others." Chett made a sound that was half a laugh and half a sob, and
 suddenly his smallclothes were wet, and he could feel the piss running down his
 leg, see steam rising off the front of his breeches.
+
 
