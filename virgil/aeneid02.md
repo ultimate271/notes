@@ -1,11 +1,10 @@
-BOOK SECOND
+# BOOK SECOND: THE STORY OF THE SACK OF TROY
 
-THE STORY OF THE SACK OF TROY
-
-
+## Aeneas begins his tale
 All were hushed, and sate with steadfast countenance; thereon, high from
 his cushioned seat, lord Aeneas thus began:
 
+### Aeneas recalls his PTSD, but resolves to continue
 'Dreadful, O Queen, is the woe thou bidst me recall, how the Grecians
 pitiably overthrew the wealth and lordship of Troy; and I myself saw
 these things in all their horror, and I bore great part in them. What
