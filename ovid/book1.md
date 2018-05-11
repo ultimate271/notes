@@ -1,6 +1,6 @@
-BOOK I.
+# BOOK I.
 
-Chaos is divided by the Deity into four Elements: to these their
+_Chaos is divided by the Deity into four Elements: to these their
 respective inhabitants are assigned, and man is created from earth and
 water. The four Ages follow, and in the last of these the Giants aspire
 to the sovereignty of the heavens; being slain by Jupiter, a new race of
@@ -20,10 +20,9 @@ has changed into a cow. She is entrusted by Juno to the care of Argus;
 Mercury having first related to him the transformation of the Nymph
 Syrinx into reeds, slays him, on which his eyes are placed by Juno in
 the tail of the peacock. Io, having recovered human shape, becomes the
-mother of Epaphus.
+mother of Epaphus._
 
-BOOK THE FIRST.
-
+## BOOK THE FIRST.
 
 THE ARGUMENT. [I.1-4]
 
@@ -58,11 +57,11 @@ down the lengthened narrative from the very beginning of the world,
     Augustus Cæsar.]
 
 
-# FABLE I. [I.5-31]
+## FABLE I. [I.5-31]
 
-  God reduces Chaos into order. He separates the four elements, and
+  _God reduces Chaos into order. He separates the four elements, and
   disposes the several bodies, of which the universe is formed, into
-  their proper situations.
+  their proper situations._
 
 At first, the sea, the earth, and the heaven, which covers all things,
 were the only face of nature throughout the whole universe, which men
@@ -93,6 +92,7 @@ ponderous atoms, and was pressed together by its own gravity. The
 encircling waters sank to the lowermost place,[10] and surrounded the
 solid globe.
 
+### Footnotes
     [Footnote 4: _A rude and undigested mass._--Ver. 7. This is very
     similar to the words of the Scriptures, ‘And the earth was without
     form and void,’ Genesis, ch. i. ver. 2.]
@@ -146,7 +146,7 @@ solid globe.
     channels.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The ancient philosophers, unable to comprehend how something could be
   produced out of nothing, supposed a matter pre-existent to the Earth
@@ -180,12 +180,12 @@ solid globe.
   mingled with fables of their own invention.
 
 
-# FABLE II. [I.32-88]
+## FABLE II. [I.32-88]
 
-  After the separation of matter, God gives form and regularity to the
+  _After the separation of matter, God gives form and regularity to the
   universe; and all other living creatures being produced, Prometheus
   moulds earth tempered with water, into a human form, which is animated
-  by Minerva.
+  by Minerva._
 
 When thus he, whoever of the Gods he was,[11] had divided the mass {so}
 separated, and reduced it, so divided, into {distinct} members; in the
@@ -250,6 +250,7 @@ heavens, and to raise his face erect to the stars. Thus, that which had
 been lately rude earth, and without any regular shape, being changed,
 assumed the form of Man, {till then} unknown.
 
+### Footnotes
     [Footnote 11: _Whoever of the Gods he was._--Ver. 32. By this
     expression the Poet perhaps may intend to intimate that the God
     who created the world was some more mighty Divinity than those who
@@ -414,7 +415,7 @@ assumed the form of Man, {till then} unknown.
     works of the creation.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   According to Ovid, as in the book of Genesis, man is the last work of
   the Creator. The information derived from Holy Writ is here presented
@@ -441,11 +442,11 @@ assumed the form of Man, {till then} unknown.
   prove that Prometheus is identical with the patriarch Noah.
 
 
-# FABLE III. [I.89-112]
+## FABLE III. [I.89-112]
 
-  The formation of man is followed by a succession of the four ages of
+  _The formation of man is followed by a succession of the four ages of
   the world. The first is the Golden Age, during which Innocence and
-  Justice alone govern the world.
+  Justice alone govern the world._
 
 The Golden Age was first founded, which, without any avenger, of its own
 accord, without laws, practised both faith and rectitude. Punishment,
@@ -473,6 +474,7 @@ was whitened with the heavy ears of corn. Then, rivers of milk, then,
 rivers of nectar were flowing, and the yellow honey was distilled from
 the green holm oak.
 
+### Footnotes
     [Footnote 28: _Read upon the brazen tables._--Ver. 91. It was the
     custom among the Romans to engrave their laws on tables of brass,
     and fix them in the Capitol, or some other conspicuous place, that
@@ -489,7 +491,7 @@ the green holm oak.
     and shrill.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The heathen poets had learned, most probably from tradition, that our
   first parents lived for some time in peaceful innocence; that, without
@@ -505,13 +507,13 @@ the green holm oak.
   in the histories of Adam and of Noah.
 
 
-# FABLE IV. [I.113-150]
+## FABLE IV. [I.113-150]
 
-  In the Silver Age, men begin not to be so just, nor, consequently, so
+  _In the Silver Age, men begin not to be so just, nor, consequently, so
   happy, as in the Golden Age. In the Brazen Age, which succeeds, they
   become yet less virtuous; but their wickedness does not rise to its
   highest pitch until the Iron Age, when it makes its appearance in all
-  its deformity.
+  its deformity._
 
 Afterwards (Saturn being driven into the shady realms of Tartarus), the
 world was under the sway of Jupiter; {then} the Silver Age succeeded,
@@ -584,7 +586,7 @@ vanquished, and the virgin Astræa[35] is the last of the heavenly
     place among the stars as the Constellation of the Virgin.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The Poet here informs us, that during the Golden Age, a perpetual
   spring reigned on the earth, and that the division of the year into
@@ -606,12 +608,12 @@ vanquished, and the virgin Astræa[35] is the last of the heavenly
   in their attempt to dispossess him of the heavens.
 
 
-# FABLE V. [I.151-162]
+## FABLE V. [I.151-162]
 
-  The Giants having attempted to render themselves masters of heaven,
+  _The Giants having attempted to render themselves masters of heaven,
   Jupiter buries them under the mountains which they have heaped
   together to facilitate their assault; and the Earth, animating their
-  blood, forms out of it a cruel and fierce generation of men.
+  blood, forms out of it a cruel and fierce generation of men._
 
 And that the lofty {realms of} æther might not be more safe than the
 Earth, they say that the Giants aspired to the sovereignty of Heaven,
@@ -633,7 +635,7 @@ violence: you might see that they derived their origin from blood.
     in order to scale heaven.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The war of the giants, which is here mentioned, is not to be
   confounded with that between Jupiter and the Titans, who were
@@ -647,10 +649,10 @@ violence: you might see that they derived their origin from blood.
   sprung from their blood. See Genesis, ch. vi. ver. 2, 4.
 
 
-# FABLE VI. [I.163-215]
+## FABLE VI. [I.163-215]
 
-  Jupiter, having seen the crimes of this impious race of men, calls a
-  council of the Gods, and determines to destroy the world.
+  _Jupiter, having seen the crimes of this impious race of men, calls a
+  council of the Gods, and determines to destroy the world._
 
 When the Father {of the Gods}, the son of Saturn, beheld this from his
 loftiest height, he groaned aloud; and recalling to memory the polluted
@@ -766,7 +768,7 @@ report itself was below the truth.”
     probably this is the circumstance here alluded to.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   It is to be presumed, that Ovid here follows the prevailing tradition
   of his time; and it is surprising how closely that tradition adheres
@@ -788,7 +790,7 @@ report itself was below the truth.”
   here it attributes to Deucalion the merit that belonged to Noah.
 
 
-# FABLE VII. [I.216-243]
+## FABLE VII. [I.216-243]
 
   Lycaon, king of Arcadia, in order to discover if it is Jupiter himself
   who has come to lodge in his palace, orders the body of an hostage,
@@ -855,7 +857,7 @@ determination.”
     actions of men.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   If Ovid is not here committing an anachronism, and making Jupiter,
   before the deluge, relate the story of a historical personage, who
@@ -886,7 +888,7 @@ determination.”
   people, and the promoter of improvement.
 
 
-# FABLE VIII. [I.244-312]
+## FABLE VIII. [I.244-312]
 
   Jupiter, not thinking the punishment of Lycaon sufficient to strike
   terror into the rest of mankind, resolves, on account of the universal
@@ -1005,7 +1007,7 @@ of food.
     carnivorous propensities.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   Pausanias makes mention of five deluges. The two most celebrated
   happened in the time of Ogyges, and in that of Deucalion. Of the last
@@ -1029,7 +1031,7 @@ of food.
   whom the Greeks and Romans received it.
 
 
-# FABLE IX. [I.313-366]
+## FABLE IX. [I.313-366]
 
   Neptune appeases the angry waves; and he commands Triton to sound his
   shell, that the sea may retire within its shores, and the rivers
@@ -1164,7 +1166,7 @@ good to the Gods, and we remain as {mere} samples of mankind.”
     and animated them with fire stolen from heaven.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   Jupiter, Neptune, and Pluto, were, perhaps, originally three brothers,
   kings of three separate kingdoms. Having been deified each retaining
@@ -1174,7 +1176,7 @@ good to the Gods, and we remain as {mere} samples of mankind.”
   Ovid here represents him as being so employed.
 
 
-# FABLE X. [I.367-415]
+## FABLE X. [I.367-415]
 
   Deucalion and Pyrrha re-people the earth by casting stones behind
   them, in the manner prescribed by the Goddess Themis, whose oracle
@@ -1254,7 +1256,7 @@ endure fatigue, and we give proofs from what original we are sprung.
     in stone, according to the context.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   In the reign of Deucalion, king of Thessaly, the course of the river
   Peneus was stopped, probably by an earthquake. In the same year so
@@ -1278,7 +1280,7 @@ endure fatigue, and we give proofs from what original we are sprung.
   received the honor of a temple, and was worshipped as a Divinity.
 
 
-# FABLE XI. [I.416-451]
+## FABLE XI. [I.416-451]
 
   The Earth, being warmed by the heat of the sun, produces many
   monsters: among others, the serpent Python, which Apollo kills with
@@ -1357,7 +1359,7 @@ any tree.
     his victory.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The story of the serpent Python, being explained on philosophical
   principles, seems to mean, that the heat of the sun, having dissipated
@@ -1380,7 +1382,7 @@ any tree.
   which, previously to her time, had been delivered by the Earth.
 
 
-# FABLE XII. [I.452-567]
+## FABLE XII. [I.452-567]
 
   Apollo, falling in love with Daphne, the daughter of the river Peneus,
   she flies from him. He pursues her; on which, the Nymph, imploring the
@@ -1640,7 +1642,7 @@ boughs, and seemed to shake its top just like a head.
     resided, with branches of laurel on either side of it.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   To explain this Fable, it must be laid down as a principle that there
   were originally many Jupiters, and Apollos, and Mercuries, whose
@@ -1672,7 +1674,7 @@ boughs, and seemed to shake its top just like a head.
   thence derived its name of Daphne.
 
 
-# FABLE XIII. [I.568-600]
+## FABLE XIII. [I.568-600]
 
   Jupiter, pursuing Io, the daughter of Inachus, covers the earth with
   darkness, and ravishes the Nymph.
@@ -1767,7 +1769,7 @@ arrested her flight, and forced her modesty.
     flowing stream.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The Greeks frequently embellished their mythology with narratives of
   Phœnician or Egyptian origin. The story of Io probably came from
@@ -1793,7 +1795,7 @@ arrested her flight, and forced her modesty.
   of Io in the shape of a cow.
 
 
-# FABLE XIV. [I.601-688]
+## FABLE XIV. [I.601-688]
 
   Jupiter, having changed Io into a cow, to conceal her from the
   jealousy of Juno, is obliged to give her to that Goddess, who commits
@@ -1931,7 +1933,7 @@ method it had been found out.
     were turned up at the sides.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The story of the Metamorphosis of Io has been already enlarged upon in
   the Explanation of the preceding Fable. It may, however, not be
@@ -1945,7 +1947,7 @@ method it had been found out.
   philosophical, or an historical principle of solution.
 
 
-# FABLE XV. [I.689-712]
+## FABLE XV. [I.689-712]
 
   Pan, falling in love with the Nymph Syrinx, she flies from him; on
   which he pursues her. Syrinx, arrested in her flight by the waves of
@@ -1998,7 +2000,7 @@ retained the name of the damsel.
     measure for the occasion.]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   This appears to have been an Egyptian fable, imported into the works
   of the Grecian poets. Pan was probably a Divinity of the Egyptians,
@@ -2012,7 +2014,7 @@ retained the name of the damsel.
   Syrinx may have been styled the daughter of that river.
 
 
-# FABLE XVI. [I.713-723]
+## FABLE XVI. [I.713-723]
 
   Mercury, having lulled Argus to sleep, cuts off his head, and Juno
   places his eyes in the peacock’s tail.
@@ -2038,7 +2040,7 @@ of her own bird, and she fills its tail with starry gems.
     with sleep.’]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   The ancient writers, Asclepiades and Pherecydes, tell us, that Argus
   was the son of Arestor. He is supposed by some to have been the fourth
@@ -2057,7 +2059,7 @@ of her own bird, and she fills its tail with starry gems.
   consecrated to her.
 
 
-# FABLE XVII. [I.724-779]
+## FABLE XVII. [I.724-779]
 
   Io, terrified and maddened with dreadful visions, runs over many
   regions, and stops in Egypt, when Juno, at length, being pacified,
@@ -2157,7 +2159,7 @@ and briskly wends his way to the rising of his sire.
     being considered as a ‘sidus,’ or ‘luminous heavenly body.’]
 
 
-## EXPLANATION.
+### EXPLANATION.
 
   To the elucidation of this narrative, already given, we will only add,
   that some of the mythologists inform us, that when Mercury had lulled
