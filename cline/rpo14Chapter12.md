@@ -4,165 +4,357 @@
 
 I slept for over twelve hours and missed school entirely.
 
-When I finally woke up, I rubbed my eyes and lay there in silence awhile, trying to convince myself that the events of the previous day had actually occurred. It all seemed like a dream to me now. Far too good to be real. Eventually, I grabbed my visor and got online to find out for sure.
+When I finally woke up, I rubbed my eyes and lay there in silence awhile,
+trying to convince myself that the events of the previous day had actually
+occurred. It all seemed like a dream to me now. Far too good to be real.
+Eventually, I grabbed my visor and got online to find out for sure.
 
-Every single newsfeed seemed to be showing a screenshot of the Scoreboard. And my avatar’s name was there at the top, in first place. Art3mis was still in second place, but the score beside her name had now increased to 109,000, just 1,000 points less than mine. And, like me, she had a copper-colored gate icon beside her score now too.
+Every single newsfeed seemed to be showing a screenshot of the Scoreboard. And
+my avatar’s name was there at the top, in first place. Art3mis was still in
+second place, but the score beside her name had now increased to 109,000, just
+1,000 points less than mine. And, like me, she had a copper-colored gate icon
+beside her score now too.
 
-So she’d done it. While I’d slept, she’d deciphered the inscription on the Copper Key. Then she’d gone to Middletown, located the gate, and made it all the way through WarGames, just a few hours after I had.
+So she’d done it. While I’d slept, she’d deciphered the inscription on the
+Copper Key. Then she’d gone to Middletown, located the gate, and made it all
+the way through WarGames, just a few hours after I had.
 
 I no longer felt quite so impressed with myself.
 
-I flipped past a few more channels before stopping on one of the major newsfeed networks, where I saw two men sitting in front of a screenshot of the Scoreboard. The man on the left, some middle-aged intellectual type billed as “Edgar Nash, Gunter Expert” appeared to be explaining the scores to the newsfeed anchor beside him.
+I flipped past a few more channels before stopping on one of the major newsfeed
+networks, where I saw two men sitting in front of a screenshot of the
+Scoreboard. The man on the left, some middle-aged intellectual type billed as
+“Edgar Nash, Gunter Expert” appeared to be explaining the scores to the
+newsfeed anchor beside him.
 
-“—appears that the avatar named Parzival received slightly more points for being the first to find the Copper Key,” Nash said, pointing to the Scoreboard. “Then, early this morning, Parzival’s score increased another one hundred thousand points, and a Copper Gate icon appeared beside his score. The same change occurred to Art3mis’s score a few hours later. This seems to indicate that both of them have now completed the first of the three gates.”
+“—appears that the avatar named Parzival received slightly more points for
+being the first to find the Copper Key,” Nash said, pointing to the Scoreboard.
+“Then, early this morning, Parzival’s score increased another one hundred
+thousand points, and a Copper Gate icon appeared beside his score. The same
+change occurred to Art3mis’s score a few hours later. This seems to indicate
+that both of them have now completed the first of the three gates.”
 
-“The famous Three Gates that James Halliday spoke of in the Anorak’s Invitation video?” the anchor said.
+“The famous Three Gates that James Halliday spoke of in the Anorak’s Invitation
+video?” the anchor said.
 
 “The very same.”
 
-“But Mr. Nash. After five years, how is it that two avatars accomplished this feat on the same day, within just a few hours of each other?”
+“But Mr. Nash. After five years, how is it that two avatars accomplished this
+feat on the same day, within just a few hours of each other?”
 
-“Well, I think there’s only one plausible answer. These two people, Parzival and Art3mis, must be working together. They’re probably both members of what is known as a ‘gunter clan.’ These are groups of egg hunters who—”
+“Well, I think there’s only one plausible answer. These two people, Parzival
+and Art3mis, must be working together. They’re probably both members of what is
+known as a ‘gunter clan.’ These are groups of egg hunters who—”
 
-I frowned and changed the channel, surfing the feeds until I saw an overly enthusiastic reporter interviewing Ogden Morrow via satellite. The Ogden Morrow.
+I frowned and changed the channel, surfing the feeds until I saw an overly
+enthusiastic reporter interviewing Ogden Morrow via satellite. The Ogden
+Morrow.
 
-“—joining us live from his home in Oregon. Thanks for being with us today, Mr. Morrow!”
+“—joining us live from his home in Oregon. Thanks for being with us today, Mr.
+Morrow!”
 
-“No problem,” Morrow replied. It had been almost six years since Morrow had last spoken to the media, but he didn’t seem to have aged a day. His wild gray hair and long beard made him look like a cross between Albert Einstein and Santa Claus. That comparison was also a pretty good description of his personality.
+“No problem,” Morrow replied. It had been almost six years since Morrow had
+last spoken to the media, but he didn’t seem to have aged a day. His wild gray
+hair and long beard made him look like a cross between Albert Einstein and
+Santa Claus. That comparison was also a pretty good description of his
+personality.
 
-The reporter cleared his throat, obviously a bit nervous. “Let me start off by asking what your reaction is to the events of the last twenty-four hours. Were you surprised to see those names appear on Halliday’s Scoreboard?”
+The reporter cleared his throat, obviously a bit nervous. “Let me start off by
+asking what your reaction is to the events of the last twenty-four hours. Were
+you surprised to see those names appear on Halliday’s Scoreboard?”
 
-“Surprised? Yes, a little, I suppose. But ‘excited’ is probably a better word. Like everyone else, I’ve been watching and waiting for this to happen. Of course, I wasn’t sure if I’d still be alive when it finally did! I’m glad that I am. It’s all very exciting, isn’t it?”
+“Surprised? Yes, a little, I suppose. But ‘excited’ is probably a better word.
+Like everyone else, I’ve been watching and waiting for this to happen. Of
+course, I wasn’t sure if I’d still be alive when it finally did! I’m glad that
+I am. It’s all very exciting, isn’t it?”
 
 “Do you think these two gunters, Parzival and Art3mis, are working together?”
 
 “I have no idea. I suppose it’s possible.”
 
-“As you know, Gregarious Simulation Systems keeps all OASIS user records confidential, so we have no way of knowing their true identities. Do you think either of them will come forward and reveal themselves to the public?”
+“As you know, Gregarious Simulation Systems keeps all OASIS user records
+confidential, so we have no way of knowing their true identities. Do you think
+either of them will come forward and reveal themselves to the public?”
 
-“Not if they’re smart, they won’t,” Morrow said, adjusting his wire-rimmed spectacles. “If I were in their shoes, I’d do everything possible to remain anonymous.”
+“Not if they’re smart, they won’t,” Morrow said, adjusting his wire-rimmed
+spectacles. “If I were in their shoes, I’d do everything possible to remain
+anonymous.”
 
 “Why do you say that?”
 
-“Because once the world discovers who they really are, they’ll never have a moment’s peace afterward. If people think you can help them find Halliday’s egg, they’ll never leave you alone. Trust me, I know from experience.”
+“Because once the world discovers who they really are, they’ll never have a
+moment’s peace afterward. If people think you can help them find Halliday’s
+egg, they’ll never leave you alone. Trust me, I know from experience.”
 
-“Yes, I suppose you do.” The reporter flashed a fake smile. “However, this network has contacted both Parzival and Art3mis via e-mail, and we’ve extended generous monetary offers to each of them in return for an exclusive interview, either in the OASIS or here in the real world.”
+“Yes, I suppose you do.” The reporter flashed a fake smile. “However, this
+network has contacted both Parzival and Art3mis via e-mail, and we’ve extended
+generous monetary offers to each of them in return for an exclusive interview,
+either in the OASIS or here in the real world.”
 
-“I’m sure they’re receiving many such offers. But I doubt they’ll accept,” Morrow said. Then he looked straight into the camera, and I felt as if he was now speaking directly to me. “Anyone smart enough to accomplish what they have should know better than to risk everything by talking to the vultures in the media.”
+“I’m sure they’re receiving many such offers. But I doubt they’ll accept,”
+Morrow said. Then he looked straight into the camera, and I felt as if he was
+now speaking directly to me. “Anyone smart enough to accomplish what they have
+should know better than to risk everything by talking to the vultures in the
+media.”
 
-The reporter chuckled uncomfortably. “Ah, Mr. Morrow … I really don’t think that’s called for.”
+The reporter chuckled uncomfortably. “Ah, Mr. Morrow … I really don’t think
+that’s called for.”
 
 Morrow shrugged. “Too bad. I do.”
 
-The reporter cleared his throat again. “Well, moving on … Do you have any predictions about what changes we might see on the Scoreboard in the weeks to come?”
+The reporter cleared his throat again. “Well, moving on … Do you have any
+predictions about what changes we might see on the Scoreboard in the weeks to
+come?”
 
 “I’m betting that those other eight empty slots will fill up pretty quickly.”
 
 “What makes you think so?”
 
-“One person can keep a secret, but not two,” he replied, staring directly into the camera again. “I don’t know. Maybe I’m wrong. But I am sure of one thing. The Sixers are going to use every dirty trick at their disposal to learn the location of the Copper Key and the First Gate.”
+“One person can keep a secret, but not two,” he replied, staring directly into
+the camera again. “I don’t know. Maybe I’m wrong. But I am sure of one thing.
+The Sixers are going to use every dirty trick at their disposal to learn the
+location of the Copper Key and the First Gate.”
 
 “You’re referring to the employees of Innovative Online Industries?”
 
-“Yes. IOI. The Sixers. Their sole purpose is to exploit loopholes in the contest rules and subvert the intention of Jim’s will. The very soul of the OASIS is at stake here. The last thing Jim would have wanted is for his creation to fall into the hands of a fascist multinational conglomerate like IOI.”
+“Yes. IOI. The Sixers. Their sole purpose is to exploit loopholes in the
+contest rules and subvert the intention of Jim’s will. The very soul of the
+OASIS is at stake here. The last thing Jim would have wanted is for his
+creation to fall into the hands of a fascist multinational conglomerate like
+IOI.”
 
 “Mr. Morrow, IOI owns this network.…”
 
-“Of course they do!” Morrow shouted gleefully. “They own practically everything! Including you, pretty boy! I mean, did they tattoo a UPC code on your ass when they hired you to sit there and spout their corporate propaganda?”
+“Of course they do!” Morrow shouted gleefully. “They own practically
+everything! Including you, pretty boy! I mean, did they tattoo a UPC code on
+your ass when they hired you to sit there and spout their corporate
+propaganda?”
 
 The reporter began to stutter, glancing nervously at something off camera.
 
-“Quick!” Morrow said. “You better cut me off before I say anything else!” He broke up into gales of laughter just as the network cut his satellite feed.
+“Quick!” Morrow said. “You better cut me off before I say anything else!” He
+broke up into gales of laughter just as the network cut his satellite feed.
 
-The reporter took a few seconds to regroup, then said, “Thank you again for joining us today, Mr. Morrow. Unfortunately that’s all the time we have to speak with him. Now let’s go back to Judy, who is standing by with a panel of renowned Halliday scholars—”
+The reporter took a few seconds to regroup, then said, “Thank you again for
+joining us today, Mr. Morrow. Unfortunately that’s all the time we have to
+speak with him. Now let’s go back to Judy, who is standing by with a panel of
+renowned Halliday scholars—”
 
-I smiled and closed the vidfeed window, pondering the old man’s advice. I’d always suspected that Morrow knew more about the contest than he was letting on.
+I smiled and closed the vidfeed window, pondering the old man’s advice. I’d
+always suspected that Morrow knew more about the contest than he was letting
+on.
 
 
 
 
 
-Morrow and Halliday had grown up together, founded a company together, and changed the world together. But Morrow had led a very different life from Halliday’s—one involving a much greater connection to humanity. And a great deal more tragedy.
+Morrow and Halliday had grown up together, founded a company together, and
+changed the world together. But Morrow had led a very different life from
+Halliday’s—one involving a much greater connection to humanity. And a great
+deal more tragedy.
 
-During the mid-’90s, back when Gregarious Simulation Systems was still just Gregarious Games, Morrow had moved in with his high-school sweetheart, Kira Underwood. Kira was born and raised in London. (Her birth name was Karen, but she’d insisted on being called Kira ever since her first viewing of The Dark Crystal.) Morrow met her when she spent her junior year as an exchange student at his high school. In his autobiography, Morrow wrote that she was the “quintessential geek girl,” unabashedly obsessed with Monty Python, comic books, fantasy novels, and videogames. She and Morrow shared a few classes at school, and he was smitten with her almost immediately. He invited her to attend his weekly Dungeons & Dragons gaming sessions (just as he’d done with Halliday a few years earlier), and to his surprise, she accepted. “She became the lone female in our weekly gaming group,” Morrow wrote. “And every single one of the guys developed a massive crush on her, including Jim. She was actually the one who gave him the nickname ‘Anorak,’ a British slang term for an obsessive geek. I think Jim adopted it as the name of his D and D character to impress her. Or maybe it was his way of trying to let her know he was in on the joke. The opposite sex made Jim extremely nervous, and Kira was the only girl I ever saw him speak to in a relaxed manner. But even then, it was only in character, as Anorak, during the course of our gaming sessions. And he would only address her as Leucosia, the name of her D and D character.”
+During the mid-’90s, back when Gregarious Simulation Systems was still just
+Gregarious Games, Morrow had moved in with his high-school sweetheart, Kira
+Underwood. Kira was born and raised in London. (Her birth name was Karen, but
+she’d insisted on being called Kira ever since her first viewing of The Dark
+Crystal.) Morrow met her when she spent her junior year as an exchange student
+at his high school. In his autobiography, Morrow wrote that she was the
+“quintessential geek girl,” unabashedly obsessed with Monty Python, comic
+books, fantasy novels, and videogames. She and Morrow shared a few classes at
+school, and he was smitten with her almost immediately. He invited her to
+attend his weekly Dungeons & Dragons gaming sessions (just as he’d done with
+Halliday a few years earlier), and to his surprise, she accepted. “She became
+the lone female in our weekly gaming group,” Morrow wrote. “And every single
+one of the guys developed a massive crush on her, including Jim. She was
+actually the one who gave him the nickname ‘Anorak,’ a British slang term for
+an obsessive geek. I think Jim adopted it as the name of his D and D character
+to impress her. Or maybe it was his way of trying to let her know he was in on
+the joke. The opposite sex made Jim extremely nervous, and Kira was the only
+girl I ever saw him speak to in a relaxed manner. But even then, it was only in
+character, as Anorak, during the course of our gaming sessions. And he would
+only address her as Leucosia, the name of her D and D character.”
 
-Ogden and Kira began dating. By the end of the school year, when it was time for her to return home to London, the two of them had openly declared their love for each other. They kept in touch during their remaining year of school by e-mailing every day, using an early pre-Internet computer bulletin board network called FidoNet. When they both graduated from high school, Kira returned to the States, moved in with Morrow, and became one of Gregarious Games’ first employees. (For the first two years, she was their entire art department.) They got engaged a few years after the launch of the OASIS. They were married a year later, at which time Kira resigned from her position as an artistic director at GSS. (She was a millionaire now too, thanks to her company stock options.) Morrow stayed on at GSS for five more years. Then, in the summer of 2022, he announced he was leaving the company. At the time, he claimed it was for “personal reasons.” But years later, Morrow wrote in his autobiography that he’d left GSS because “we were no longer in the videogame business,” and because he felt that the OASIS had evolved into something horrible. “It had become a self-imposed prison for humanity,” he wrote. “A pleasant place for the world to hide from its problems while human civilization slowly collapses, primarily due to neglect.”
+Ogden and Kira began dating. By the end of the school year, when it was time
+for her to return home to London, the two of them had openly declared their
+love for each other. They kept in touch during their remaining year of school
+by e-mailing every day, using an early pre-Internet computer bulletin board
+network called FidoNet. When they both graduated from high school, Kira
+returned to the States, moved in with Morrow, and became one of Gregarious
+Games’ first employees. (For the first two years, she was their entire art
+department.) They got engaged a few years after the launch of the OASIS. They
+were married a year later, at which time Kira resigned from her position as an
+artistic director at GSS. (She was a millionaire now too, thanks to her company
+stock options.) Morrow stayed on at GSS for five more years. Then, in the
+summer of 2022, he announced he was leaving the company. At the time, he
+claimed it was for “personal reasons.” But years later, Morrow wrote in his
+autobiography that he’d left GSS because “we were no longer in the videogame
+business,” and because he felt that the OASIS had evolved into something
+horrible. “It had become a self-imposed prison for humanity,” he wrote. “A
+pleasant place for the world to hide from its problems while human civilization
+slowly collapses, primarily due to neglect.”
 
-Rumors also surfaced that Morrow had chosen to leave because he’d had a huge falling-out with Halliday. Neither of them would confirm or deny these rumors, and no one seemed to know what sort of dispute had ended their long friendship. But sources within the company said that at the time of Morrow’s resignation, he and Halliday had not spoken to each other directly in several years. Even so, when Morrow left GSS, he sold his entire share of the company directly to Halliday, for an undisclosed sum.
+Rumors also surfaced that Morrow had chosen to leave because he’d had a huge
+falling-out with Halliday. Neither of them would confirm or deny these rumors,
+and no one seemed to know what sort of dispute had ended their long friendship.
+But sources within the company said that at the time of Morrow’s resignation,
+he and Halliday had not spoken to each other directly in several years. Even
+so, when Morrow left GSS, he sold his entire share of the company directly to
+Halliday, for an undisclosed sum.
 
-Ogden and Kira “retired” to their home in Oregon and started a nonprofit educational software company, Halcydonia Interactive, which created free interactive adventure games for kids. I’d grown up playing these games, all of which were set in the magical kingdom of Halcydonia. Morrow’s games had transported me out of my grim surroundings as a lonely kid growing up in the stacks. They’d also taught me how to do math and solve puzzles while building my self-esteem. In a way, the Morrows were among my very first teachers.
+Ogden and Kira “retired” to their home in Oregon and started a nonprofit
+educational software company, Halcydonia Interactive, which created free
+interactive adventure games for kids. I’d grown up playing these games, all of
+which were set in the magical kingdom of Halcydonia. Morrow’s games had
+transported me out of my grim surroundings as a lonely kid growing up in the
+stacks. They’d also taught me how to do math and solve puzzles while building
+my self-esteem. In a way, the Morrows were among my very first teachers.
 
-For the next decade, Ogden and Kira enjoyed a peaceful, happy existence, living and working in relative seclusion. They tried to have children, but it wasn’t in the cards for them. They’d begun to consider adoption when, in the winter of 2034, Kira was killed in a car accident on an icy mountain road just a few miles from their home.
+For the next decade, Ogden and Kira enjoyed a peaceful, happy existence, living
+and working in relative seclusion. They tried to have children, but it wasn’t
+in the cards for them. They’d begun to consider adoption when, in the winter of
+2034, Kira was killed in a car accident on an icy mountain road just a few
+miles from their home.
 
-After that, Ogden continued to run Halcydonia Interactive on his own. He managed to stay out of the limelight until the morning of Halliday’s death, when his home was besieged by the media. As Halliday’s former closest friend, everyone assumed he alone could explain why the deceased billionaire had put his entire fortune up for grabs. Morrow eventually held a press conference just to get everyone off his back. It was the last time he’d spoken to the media, until today. I’d watched the video of that press conference many, many times.
+After that, Ogden continued to run Halcydonia Interactive on his own. He
+managed to stay out of the limelight until the morning of Halliday’s death,
+when his home was besieged by the media. As Halliday’s former closest friend,
+everyone assumed he alone could explain why the deceased billionaire had put
+his entire fortune up for grabs. Morrow eventually held a press conference just
+to get everyone off his back. It was the last time he’d spoken to the media,
+until today. I’d watched the video of that press conference many, many times.
 
-Morrow had begun it by reading a brief statement, saying that he hadn’t seen or spoken to Halliday in over a decade. “We had a falling-out,” he said, “and that is something I refuse to discuss, now or in the future. Suffice it to say, I have not communicated with James Halliday in over ten years.”
+Morrow had begun it by reading a brief statement, saying that he hadn’t seen or
+spoken to Halliday in over a decade. “We had a falling-out,” he said, “and that
+is something I refuse to discuss, now or in the future. Suffice it to say, I
+have not communicated with James Halliday in over ten years.”
 
-“Then why did Halliday leave you his vast collection of classic coin-operated videogames?” a reporter asked. “All of his other material possessions are to be auctioned off. If you were no longer friends, why are you the only person he left anything to?”
+“Then why did Halliday leave you his vast collection of classic coin-operated
+videogames?” a reporter asked. “All of his other material possessions are to be
+auctioned off. If you were no longer friends, why are you the only person he
+left anything to?”
 
 “I have no idea,” Morrow said simply.
 
-Another reporter asked Morrow if he planned on looking for Halliday’s Easter egg himself, since he’d known Halliday so well and would therefore probably have a better chance than anyone of finding it. Morrow reminded the reporter that the contest rules laid out in Halliday’s will stated that no one who had ever worked for Gregarious Simulation Systems, or anyone in their immediate families, was eligible to take part in the contest.
+Another reporter asked Morrow if he planned on looking for Halliday’s Easter
+egg himself, since he’d known Halliday so well and would therefore probably
+have a better chance than anyone of finding it. Morrow reminded the reporter
+that the contest rules laid out in Halliday’s will stated that no one who had
+ever worked for Gregarious Simulation Systems, or anyone in their immediate
+families, was eligible to take part in the contest.
 
-“Did you have any idea what Halliday was working on all those years he was in seclusion?” another reporter asked.
+“Did you have any idea what Halliday was working on all those years he was in
+seclusion?” another reporter asked.
 
-“No. I suspected he might be working on some new game. Jim was always working on a new game. For him, making games was as necessary as breathing. But I never imagined he was planning something … of this magnitude.”
+“No. I suspected he might be working on some new game. Jim was always working
+on a new game. For him, making games was as necessary as breathing. But I never
+imagined he was planning something … of this magnitude.”
 
-“As the person who knew James Halliday the best, do you have any advice for the millions of people who are now searching for his Easter egg? Where do you think people should start looking for it?”
+“As the person who knew James Halliday the best, do you have any advice for the
+millions of people who are now searching for his Easter egg? Where do you think
+people should start looking for it?”
 
-“I think Jim made that pretty obvious,” Morrow replied, tapping a finger against his temple, just as Halliday had in the Anorak’s Invitation video. “Jim always wanted everyone to share his obsessions, to love the same things he loved. I think this contest is his way of giving the entire world an incentive to do just that.”
+“I think Jim made that pretty obvious,” Morrow replied, tapping a finger
+against his temple, just as Halliday had in the Anorak’s Invitation video. “Jim
+always wanted everyone to share his obsessions, to love the same things he
+loved. I think this contest is his way of giving the entire world an incentive
+to do just that.”
 
 
 
 
 
-I closed my file on Morrow and checked my e-mail. The system informed me that I’d received over two million new unsolicited messages. These were automatically filed in a separate folder, so I could sort through them later. Only two new messages were left in my inbox, from people on my authorized contact list. One was from Aech. The other was from Art3mis.
+I closed my file on Morrow and checked my e-mail. The system informed me that
+I’d received over two million new unsolicited messages. These were
+automatically filed in a separate folder, so I could sort through them later.
+Only two new messages were left in my inbox, from people on my authorized
+contact list. One was from Aech. The other was from Art3mis.
 
-I opened Aech’s message first. It was vidmail, and his avatar’s face appeared in a window. “Holy shit!” he shouted. “I don’t believe this! Now you’ve cleared the motherfucking First Gate and you still haven’t phoned me? Call my ass! Now! The second you get this!”
+I opened Aech’s message first. It was vidmail, and his avatar’s face appeared
+in a window. “Holy shit!” he shouted. “I don’t believe this! Now you’ve cleared
+the motherfucking First Gate and you still haven’t phoned me? Call my ass! Now!
+The second you get this!”
 
-I considered waiting a few days to call Aech back but quickly abandoned that idea. I needed to talk to someone about all this, and Aech was my best friend. If there was anyone I could trust, it was him.
+I considered waiting a few days to call Aech back but quickly abandoned that
+idea. I needed to talk to someone about all this, and Aech was my best friend.
+If there was anyone I could trust, it was him.
 
-He picked up on the first ring, and his avatar appeared in a new window in front of me. “You dog!” he shouted. “You brilliant, sly, devious dog!”
+He picked up on the first ring, and his avatar appeared in a new window in
+front of me. “You dog!” he shouted. “You brilliant, sly, devious dog!”
 
 “Hey, Aech,” I said, trying to deadpan it. “What’s new?”
 
-“What’s new? What’s new? You mean, other than, you know, seeing my best friend’s name appear at the top of the Scoreboard? Other than that, you mean?” He leaned forward so that his mouth completely filled the vidfeed window and shouted, “Other than that, not much! Not much new at all!”
+“What’s new? What’s new? You mean, other than, you know, seeing my best
+friend’s name appear at the top of the Scoreboard? Other than that, you mean?”
+He leaned forward so that his mouth completely filled the vidfeed window and
+shouted, “Other than that, not much! Not much new at all!”
 
 I laughed. “Sorry it took me a while to call you. I had kind of a late night.”
 
-“No shit, you had a late night!” he said. “Look at you! How can you be so calm! Don’t you realize what this means? This is huge! This is beyond epic! I mean … congratu-freakin’-lations, man!” He began to bow repeatedly. “I am not worthy!”
+“No shit, you had a late night!” he said. “Look at you! How can you be so calm!
+Don’t you realize what this means? This is huge! This is beyond epic! I mean …
+congratu-freakin’-lations, man!” He began to bow repeatedly. “I am not worthy!”
 
-“Cut it out, OK? It’s really not a big deal. I haven’t actually won anything yet.…”
+“Cut it out, OK? It’s really not a big deal. I haven’t actually won anything
+yet.…”
 
-“Not a big deal!” he cried. “Not. A. Big. Deal? Are you kidding me? You’re a legend now, man! You just became the first gunter in history to find the Copper Key! And clear the First Gate! You are a god, from this moment forth! Do you not realize this, fool?”
+“Not a big deal!” he cried. “Not. A. Big. Deal? Are you kidding me? You’re a
+legend now, man! You just became the first gunter in history to find the Copper
+Key! And clear the First Gate! You are a god, from this moment forth! Do you
+not realize this, fool?”
 
 “Seriously. Stop it. I’m already freaked out enough as it is.”
 
-“Have you seen the news? The whole world is freaking out! And the gunter boards are going apeshit! And everyone is talking about you, amigo.”
+“Have you seen the news? The whole world is freaking out! And the gunter boards
+are going apeshit! And everyone is talking about you, amigo.”
 
-“I know. Listen, I hope you’re not pissed at me for keeping you in the dark. I felt really weird about not returning your calls or telling you what I was up to.…”
+“I know. Listen, I hope you’re not pissed at me for keeping you in the dark. I
+felt really weird about not returning your calls or telling you what I was up
+to.…”
 
-“Oh, come on!” He rolled his eyes dismissively. “You know damn well that if I’d been in your shoes, I would have done the same thing. That’s how the game is played. But”—his tone grew more serious—“I am curious to know how that Art3mis chick happened to find the Copper Key and clear the gate right after you did. Everyone seems to think you two were working together, but I know that’s horseshit. So what happened? Was she following you or something?”
+“Oh, come on!” He rolled his eyes dismissively. “You know damn well that if I’d
+been in your shoes, I would have done the same thing. That’s how the game is
+played. But”—his tone grew more serious—“I am curious to know how that Art3mis
+chick happened to find the Copper Key and clear the gate right after you did.
+Everyone seems to think you two were working together, but I know that’s
+horseshit. So what happened? Was she following you or something?”
 
-I shook my head. “No, she found the key’s hiding place before I did. Last month, she said. She just wasn’t able to obtain the key until now.” I was silent for a second. “I can’t really go into the details without, you know—”
+I shook my head. “No, she found the key’s hiding place before I did. Last
+month, she said. She just wasn’t able to obtain the key until now.” I was
+silent for a second. “I can’t really go into the details without, you know—”
 
-Aech held up both hands. “No worries. I totally understand. I wouldn’t want for you to accidentally drop any hints.” He flashed his trademark Cheshire grin, and his gleaming white teeth seemed to take up half of the vidfeed window. “Actually, I should let you know where I am right now.…”
+Aech held up both hands. “No worries. I totally understand. I wouldn’t want for
+you to accidentally drop any hints.” He flashed his trademark Cheshire grin,
+and his gleaming white teeth seemed to take up half of the vidfeed window.
+“Actually, I should let you know where I am right now.…”
 
-He adjusted his vidfeed’s virtual camera so that it pulled back from a tight shot of his face to a much wider shot that revealed where he was—standing next to the flat-topped hill, just outside the entrance to the Tomb of Horrors.
+He adjusted his vidfeed’s virtual camera so that it pulled back from a tight
+shot of his face to a much wider shot that revealed where he was—standing next
+to the flat-topped hill, just outside the entrance to the Tomb of Horrors.
 
 My jaw dropped. “How in the hell—?”
 
-“Well, when I saw your name all over the newsfeeds last night, it occurred to me that for as long as I’ve known you, you’ve never had the dough to do much traveling. Any traveling, really. So I figured that if you’d found the hiding place of the Copper Key, it probably had to be somewhere close to Ludus. Or maybe even on Ludus.”
+“Well, when I saw your name all over the newsfeeds last night, it occurred to
+me that for as long as I’ve known you, you’ve never had the dough to do much
+traveling. Any traveling, really. So I figured that if you’d found the hiding
+place of the Copper Key, it probably had to be somewhere close to Ludus. Or
+maybe even on Ludus.”
 
 “Well done,” I said, and I meant it.
 
-“Not really. I spent hours racking my pea-sized brain before I finally thought to search the map of Ludus for the surface features described in the Tomb of Horrors module. But once I did, everything else clicked into place. And here I am.”
+“Not really. I spent hours racking my pea-sized brain before I finally thought
+to search the map of Ludus for the surface features described in the Tomb of
+Horrors module. But once I did, everything else clicked into place. And here I
+am.”
 
 “Congratulations.”
 
-“Yeah, well, it was pretty easy once you pointed me in the right direction.” He glanced back over his shoulder at the tomb. “I’ve been searching for this place for years, and all this time it was within walking distance of my school! I feel like a total moron for not figuring it out on my own.”
+“Yeah, well, it was pretty easy once you pointed me in the right direction.” He
+glanced back over his shoulder at the tomb. “I’ve been searching for this place
+for years, and all this time it was within walking distance of my school! I
+feel like a total moron for not figuring it out on my own.”
 
-“You’re not a moron,” I said. “You deciphered the Limerick on your own, otherwise you wouldn’t even know about the Tomb of Horrors module, right?”
+“You’re not a moron,” I said. “You deciphered the Limerick on your own,
+otherwise you wouldn’t even know about the Tomb of Horrors module, right?”
 
 “So, you’re not pissed?” he said. “That I took advantage of my inside info?”
 
@@ -172,35 +364,51 @@ I shook my head. “No way. I would have done the same thing.”
 
 I nodded toward the tomb behind him. “Have you been inside yet?”
 
-“Yeah. I came back up here to call you, while I wait for the server to reset at midnight. The tomb is empty right now, because your friend, Art3mis, already blew through here earlier today.”
+“Yeah. I came back up here to call you, while I wait for the server to reset at
+midnight. The tomb is empty right now, because your friend, Art3mis, already
+blew through here earlier today.”
 
-“We’re not friends,” I said. “She just showed up, a few minutes after I got the key.”
+“We’re not friends,” I said. “She just showed up, a few minutes after I got the
+key.”
 
 “Did you guys throw down?”
 
-“No. The tomb is a no-PvP zone.” I glanced at the time. “Looks like you’ve still got a few hours to kill before the reset.”
+“No. The tomb is a no-PvP zone.” I glanced at the time. “Looks like you’ve
+still got a few hours to kill before the reset.”
 
-“Yeah. I’ve been studying the original D and D module, trying to prepare myself,” he said. “Wanna give me any tips?”
+“Yeah. I’ve been studying the original D and D module, trying to prepare
+myself,” he said. “Wanna give me any tips?”
 
 I grinned. “No. Not really.”
 
-“Didn’t think so.” He was silent for a few seconds. “Listen, I have to ask you something,” he said. “Does anyone at your school know your avatar’s name?”
+“Didn’t think so.” He was silent for a few seconds. “Listen, I have to ask you
+something,” he said. “Does anyone at your school know your avatar’s name?”
 
-“No. I’ve been careful to keep it a secret. No one there knows me as Parzival. Not even the teachers.”
+“No. I’ve been careful to keep it a secret. No one there knows me as Parzival.
+Not even the teachers.”
 
-“Good,” he said. “I took the same precaution. Unfortunately, several of the gunters who frequent the Basement know that we both attend school on Ludus, so they might be able to connect the dots. I’m worried about one in particular.…”
+“Good,” he said. “I took the same precaution. Unfortunately, several of the
+gunters who frequent the Basement know that we both attend school on Ludus, so
+they might be able to connect the dots. I’m worried about one in particular.…”
 
 I felt a rush of panic. “I-r0k?”
 
-Aech nodded. “He’s been calling me nonstop since your name appeared on the Scoreboard, asking what I know. I played dumb, and he seemed to buy it. But if my name shows up on the Scoreboard too, you can bet he’ll start bragging that he knows us. And when he starts telling other gunters that you and I are both students on Ludus—”
+Aech nodded. “He’s been calling me nonstop since your name appeared on the
+Scoreboard, asking what I know. I played dumb, and he seemed to buy it. But if
+my name shows up on the Scoreboard too, you can bet he’ll start bragging that
+he knows us. And when he starts telling other gunters that you and I are both
+students on Ludus—”
 
-“Shit!” I cursed. “Then every gunter in the sim will be headed here to search for the Copper Key.”
+“Shit!” I cursed. “Then every gunter in the sim will be headed here to search
+for the Copper Key.”
 
-“Right,” Aech said. “And before long, the location of the tomb will be common knowledge.”
+“Right,” Aech said. “And before long, the location of the tomb will be common
+knowledge.”
 
 I sighed. “Well, then you better get the key before that happens.”
 
-“I’ll do my best.” He held up a copy of the Tomb of Horrors module. “Now, if you’ll excuse me, I’m going to reread this thing for the hundredth time today.”
+“I’ll do my best.” He held up a copy of the Tomb of Horrors module. “Now, if
+you’ll excuse me, I’m going to reread this thing for the hundredth time today.”
 
 “Good luck, Aech,” I said. “Give me a call once you’ve cleared the gate.”
 
@@ -214,37 +422,50 @@ He waved good-bye and was about to end the call when I spoke up. “Hey, Aech?�
 
 “Yeah?”
 
-“You might want to brush up on your jousting skills,” I said. “You know, between now and midnight.”
+“You might want to brush up on your jousting skills,” I said. “You know,
+between now and midnight.”
 
-He looked puzzled for a moment; then a smile of understanding spread across his face. “I got ya,” he said. “Thanks, pal.”
+He looked puzzled for a moment; then a smile of understanding spread across his
+face. “I got ya,” he said. “Thanks, pal.”
 
 “Good luck.”
 
-As his vidfeed window winked out, I found myself wondering how Aech and I would remain friends through everything that lay ahead. Neither of us wanted to work as a team, so from here on out we would be in direct competition with each other. Would I eventually regret helping him today? Or come to resent that I’d unwittingly led him to the Copper Key’s hiding place?
+As his vidfeed window winked out, I found myself wondering how Aech and I would
+remain friends through everything that lay ahead. Neither of us wanted to work
+as a team, so from here on out we would be in direct competition with each
+other. Would I eventually regret helping him today? Or come to resent that I’d
+unwittingly led him to the Copper Key’s hiding place?
 
-I pushed these thoughts aside and opened the e-mail from Art3mis. It was an old-fashioned text message.
+I pushed these thoughts aside and opened the e-mail from Art3mis. It was an
+old-fashioned text message.
 
 Dear Parzival,
 
 
 
-Congrats! See? You’re famous now, just like I said. Although it looks like we’ve both been thrust into the limelight. Kinda scary, eh?
+Congrats! See? You’re famous now, just like I said. Although it looks like
+we’ve both been thrust into the limelight. Kinda scary, eh?
 
 
 
-Thanks for the tip about playing on the left side. You were right. Somehow, that did the trick. But don’t go thinking I owe you any favors, mister. :-)
+Thanks for the tip about playing on the left side. You were right. Somehow,
+that did the trick. But don’t go thinking I owe you any favors, mister. :-)
 
 
 
-The First Gate was pretty wild, wasn’t it? Not at all what I expected. It would have been cool if Halliday had given me the option to play Ally Sheedy instead, but what can you do?
+The First Gate was pretty wild, wasn’t it? Not at all what I expected. It would
+have been cool if Halliday had given me the option to play Ally Sheedy instead,
+but what can you do?
 
 
 
-This new riddle is a real head-scratcher, isn’t it? I hope it doesn’t take us another five years to decipher it.
+This new riddle is a real head-scratcher, isn’t it? I hope it doesn’t take us
+another five years to decipher it.
 
 
 
-Anyhow, I just wanted to say that it was an honor to meet you. I hope our paths cross again soon.
+Anyhow, I just wanted to say that it was an honor to meet you. I hope our paths
+cross again soon.
 
 
 
@@ -262,25 +483,30 @@ ps—Enjoy being #1 while you can, pal. It won’t last for long.
 
 
 
-I reread her message several times, grinning like a dopey schoolboy. Then I typed out my reply:
+I reread her message several times, grinning like a dopey schoolboy. Then I
+typed out my reply:
 
 Dear Art3mis,
 
 
 
-Congratulations to you, too. You weren’t kidding. Competition clearly brings out the best in you.
+Congratulations to you, too. You weren’t kidding. Competition clearly brings
+out the best in you.
 
 
 
-You’re welcome for the tip about playing on the left. You totally owe me a favor now. ;-)
+You’re welcome for the tip about playing on the left. You totally owe me a
+favor now. ;-)
 
 
 
-The new riddle is a cinch. I think I’ve already got it figured out, actually. What’s the hold-up on your end?
+The new riddle is a cinch. I think I’ve already got it figured out, actually.
+What’s the hold-up on your end?
 
 
 
-It was an honor to meet you, too. If you ever feel like hanging out in a chat room, let me know.
+It was an honor to meet you, too. If you ever feel like hanging out in a chat
+room, let me know.
 
 
 
@@ -298,5 +524,8 @@ ps—Are you challenging me? Bring the pain, woman.
 
 
 
-After rewriting it a few dozen times, I tapped the Send button. Then I pulled up my screenshot of the Jade Key riddle and began to study it, syllable by syllable. But I couldn’t seem to concentrate. No matter how hard I tried to focus, my mind kept drifting back to Art3mis.
+After rewriting it a few dozen times, I tapped the Send button. Then I pulled
+up my screenshot of the Jade Key riddle and began to study it, syllable by
+syllable. But I couldn’t seem to concentrate. No matter how hard I tried to
+focus, my mind kept drifting back to Art3mis.
 
