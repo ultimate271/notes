@@ -135,14 +135,7 @@ SOME DARK HOLLER JACK WOMACK
 
 
 
-PART 1
-
-
-
-CHIBA CITY BLUES
-
-
-
+# PART 1: CHIBA CITY BLUES
 
 
 ONE
@@ -594,7 +587,7 @@ She smiled. The blades slowly withdrew.
 
 
 
-TWO
+# TWO
 
 
 AFTER A YEAR of coffins, the room on the twenty-fifth floor of the Chiba Hilton seemed enormous. It was ten meters by eight, half of a suite. A white Braun coffeemaker steamed on a low table by the sliding glass panels that opened onto a narrow balcony.
@@ -933,11 +926,7 @@ AFTER THE POSTOPERATIVE check at the clinic, Molly took him to the port. Armitag
 
 
 
-PART 2
-
-
-
-THE SHOPPING EXPEDITION
+# PART 2: THE SHOPPING EXPEDITION
 
 
 
@@ -1188,7 +1177,7 @@ The security package taped to the steel firedoor bleeped twice. “Entry request
 
 
 
-FOUR
+# FOUR
 
 
 CASE SAT IN the loft with the dermatrodes strapped across his forehead, watching motes dance in the diluted sunlight that filtered through the grid overhead. A countdown was in progress in one corner of the monitor screen.
@@ -1461,7 +1450,7 @@ Ninsei had been a lot simpler.
 
 
 
-FIVE
+# FIVE
 
 
 THE MEDICAL TEAM Molly employed occupied two floors of an anonymous condo-rack near the old hub of Baltimore. The building was modular, like some giant version of Cheap Hotel, each coffin forty meters long. Case met Molly as she emerged from one that wore the elaborately worked logo of one GERALD CHIN, DENTIST. She was limping.
@@ -1638,7 +1627,7 @@ He coughed. “Dix? McCoy? That you man?” His throat was tight.
 
 
 
-SIX
+# SIX
 
 
 “YOU WANT YOU a paradise,” the Flatline advised, when Case had explained his situation. “Check Copenhagen, fringes of the university section.” The voice recited coordinates as he punched.
@@ -1739,7 +1728,7 @@ The train began to decelerate ten kilometers from the airport. Case watched the 
 
 
 
-SEVEN
+# SEVEN
 
 
 IT WAS RAINING in Beyoglu, and the rented Mercedes slid past the grilled and unlit windows of cautious Greek and Armenian jewelers. The street was almost empty, only a few dark-coated figures on the sidewalks turning to stare after the car.
@@ -2018,11 +2007,7 @@ On his way back to the lobby, his cigarettes forgotten, he had to walk the lengt
 
 
 
-PART 3
-
-
-
-MIDNIGHT IN THE RUE JULES VERNE
+# PART 3: MIDNIGHT IN THE RUE JULES VERNE
 
 
 
@@ -2309,7 +2294,7 @@ An awkward silence filled the dome.
 
 
 
-NINE
+# NINE
 
 
 THE TUG MARCUS GARVEY, a steel drum nine meters long and two in diameter, creaked and shuddered as Maelcum punched for a navigational burn. Splayed in his elastic g-web, Case watched the Zionite’s muscular back through a haze of scopolamine. He’d taken the drug to blunt SAS nausea, but the stimulants the manufacturer included to counter the scop had no effect on his doctored system.
@@ -2566,7 +2551,7 @@ He’d been right about the brains. And the blood.
 
 
 
-TEN
+# TEN
 
 
 HE WAS NUMB, as they went through customs, and Molly did most of the talking. Maelcum remained on board Garvey. Customs, for Freeside, consisted mainly of proving your credit. The first thing he saw, when they gained the inner surface of the spindle, was a branch of the Beautiful Girl coffee franchise.
@@ -2887,7 +2872,7 @@ She laughed. “It won’t last.”
 
 
 
-ELEVEN
+# ELEVEN
 
 
 “CASE, WHAT’S WRONG with you?” Armitage said, as the waiter was seating them at his table in the Vingtième Siècle. It was the smallest and most expensive of several floating restaurants on a small lake near the Intercontinental.
@@ -3222,7 +3207,7 @@ She smiled. Cold. “He’s going to die, yeah. Soon.”
 
 
 
-TWELVE
+# TWELVE
 
 
 RUE JULES VERNE was a circumferential avenue, looping the spindle’s midpoint, while Desiderata ran its length, terminating at either end in the supports of the Lado-Acheson light pumps. If you turned right, off Desiderata, and followed Jules Verne far enough, you’d find yourself approaching Desiderata from the left.
@@ -3336,12 +3321,7 @@ They were waiting there, the three of them, their perfect white sportsclothes an
 
 
 
-
-PART 4
-
-
-
-THE STRAYLIGHT RUN
+# PART 4: THE STRAYLIGHT RUN
 
 
 
@@ -3462,7 +3442,7 @@ The gardening robot took Roland as he passed that same tree. It fell straight ou
 
 
 
-FOURTEEN
+# FOURTEEN
 
 
 THE LITTLE TRAIN shot through its tunnel at eighty kilometers per hour. Case kept his eyes closed. The shower had helped, but he’d lost his breakfast when he’d looked down and seen Pierre’s blood washing pink across the white tiles.
@@ -3713,7 +3693,7 @@ But the paneled room folded itself through a dozen impossible angles, tumbling a
 
 
 
-FIFTEEN
+# FIFTEEN
 
 
 “YOU TRYIN’ TO break my record, son?” the Flatline asked. “You were braindead again, five seconds.”
@@ -3904,7 +3884,7 @@ It was still open when she turned and left the room.
 
 
 
-SIXTEEN
+# SIXTEEN
 
 
 “GOT YOUR BOSS on hold,” the Flatline said. “He’s coming through on the twin Hosaka in that boat upstairs, the one that’s riding us piggy-back. Called the Haniwa.”
@@ -4147,7 +4127,7 @@ But Case was seeing Armitage’s endless fall around Freeside, through vacuum co
 
 
 
-SEVENTEEN
+# SEVENTEEN
 
 
 “GET WHAT YOU went for?” the construct asked.
@@ -4310,7 +4290,7 @@ Then there was something small and heavy in her left hand, her thumb against a t
 
 
 
-EIGHTEEN
+# EIGHTEEN
 
 
 SHE MISSED IT by a fraction. She nearly cut it, but not quite. She went in just right, Case thought. The right attitude; it was something he could sense, something he could have seen in the posture of another cowboy leaning into a deck, fingers flying across the board. She had it: the thing, the moves. And she’d pulled it all together for her entrance. Pulled it together around the pain in her leg and marched down 3Jane’s stairs like she owned the place, elbow of her gun arm at her hip, forearm up, wrist relaxed, swaying the muzzle of the fletcher with the studied nonchalance of a Regency duelist.
@@ -4551,7 +4531,7 @@ Maelcum spread his arms, flexed tension from his shoulders, and removed his purp
 
 
 
-NINETEEN
+# NINETEEN
 
 
 THE VILLA STRAYLIGHT was a parasitic structure, Case reminded himself, as he stepped past the tendrils of caulk and through Marcus Garvey’s forward hatch. Straylight bled air and water out of Freeside, and had no ecosystem of its own.
@@ -4678,7 +4658,7 @@ Case was pulling the adaptor from its socket when the riderless service cart swi
 
 
 
-TWENTY
+# TWENTY
 
 
 HE’D LOST HIS anger again. He missed it.
@@ -4867,7 +4847,7 @@ But she only rolled against him, buttocks against his thighs, and put her hand o
 
 
 
-TWENTY-ONE
+# TWENTY-ONE
 
 
 THE MUSIC WOKE him, and at first it might have been the beat of his own heart. He sat up beside her, pulling his jacket over his shoulders in the predawn chill, gray light from the doorway and the fire long dead.
@@ -4976,7 +4956,7 @@ He was flat on his back on the library floor, below the monitor. The Zionite hel
 
 
 
-TWENTY-TWO
+# TWENTY-TWO
 
 
 THE SERVICE CART was crying. The betaphenethylamine gave it a voice. It wouldn’t stop. Not in the crowded gallery, the long corridors, not as it passed the black glass entrance to the T-A crypt, the vaults where the cold had seeped so gradually into old Ashpool’s dreams.
@@ -5163,7 +5143,7 @@ They were at the axis, the core of Villa Straylight.
 
 
 
-TWENTY-THREE
+# TWENTY-THREE
 
 
 MOLLY FISHED THE key out on its loop of nylon.
@@ -5388,11 +5368,7 @@ And then the long pulse of Zion dub.
 
 
 
-CODA
-
-
-
-DEPARTURE AND ARRIVAL
+# CODA: DEPARTURE AND ARRIVAL
 
 
 
@@ -5509,7 +5485,7 @@ July 1983
 
 
 
-MY THANKS
+# MY THANKS
 
 
 to Bruce Sterling, to Lewis Shiner, to John Shirley, Helden. And to Tom Maddox, the inventor of ICE. And to the others, who know why.
