@@ -1,6 +1,6 @@
 # TWO
 
-
+## Case meets Armitage at Chiba Hilton, claiming background with Screaming Fist, and they discuss a potential deal
 AFTER A YEAR of coffins, the room on the twenty-fifth floor of the Chiba Hilton
 seemed enormous. It was ten meters by eight, half of a suite. A white Braun
 coffeemaker steamed on a low table by the sliding glass panels that opened onto
@@ -99,6 +99,7 @@ coming apart at the seams.”
 
 He was still shivering. He couldn’t stop shivering.
 
+## Case and Molly discuss Armitage at the clinic where Case is to be operated on
 THE CLINIC WAS nameless, expensively appointed, a cluster of sleek pavilions
 separated by small formal gardens. He remembered the place from the round he’d
 made his first month in Chiba.
@@ -176,6 +177,7 @@ conjurer’s hands.
 technician bowed, turned, and reentered the clinic without waiting to see if
 Case would follow.
 
+## The pychodelic operation
 COLD STEEL ODOR. Ice caressed his spine.
 
 Lost, so small amid that dark, hands grown cold, body image fading down
@@ -203,6 +205,7 @@ She was straddling his chest, a blue plastic syrette in one hand. “You don’t
 lie still, I’ll slit your fucking throat. You’re still full of endorphin
 inhibitors.”
 
+## Molly and Case fuck in Cheap Hotel
 HE WOKE AND found her stretched beside him in the dark.
 
 His neck was brittle, made of twigs. There was a steady pulse of pain midway
@@ -277,6 +280,7 @@ timeless space, a vastness like the matrix, where the faces were shredded and
 blown away down hurricane corridors, and her inner thighs were strong and wet
 against his hips.
 
+## Case goes to the Chat and tells Ratz to tell Wage that he has the money
 ON NINSEI, A thinner, weekday version of the crowd went through the motions of
 the dance. Waves of sound rolled from the arcades and pachinko parlors. Case
 glanced into the Chat and saw Zone watching over his girls in the warm,
@@ -292,6 +296,7 @@ beer-smelling twilight. Ratz was tending bar.
 
 “Too soon to tell.”
 
+## Case sees Julie to run intel on his new friends
 “WELL, I GOTTA SEE this guy,” Case said, watching his reflection in her
 glasses. “I got biz to cancel out of.”
 
@@ -406,6 +411,7 @@ a war can do for one’s markets.”
 
 “Hardly, Case. And goodbye.”
 
+## Molly and Case go to Sammi's, a fighting arena, where Linda is killed by Julie
 AND LATER HE’D tell himself that the evening at Sammi’s had felt wrong from the
 start, that even as he’d followed Molly along that corridor, shuffling through
 a trampled mulch of ticket stubs and styrofoam cups, he’d sensed it. Linda’s
@@ -561,6 +567,7 @@ Case felt as though his brain were jammed. “Who,” he said, “who sent them?
 She passed him a blood-flecked bag of preserved ginger. He saw that her hands
 were sticky with blood. Back in the shadows, someone made wet sounds and died.
 
+## Molly and Case meet Armitage and they leave
 AFTER THE POSTOPERATIVE check at the clinic, Molly took him to the port.
 Armitage was waiting. He’d chartered a hovercraft. The last Case saw of Chiba
 were the dark angles of the arcologies. Then a mist closed over the black water

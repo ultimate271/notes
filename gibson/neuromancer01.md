@@ -1,9 +1,8 @@
 # PART 1: CHIBA CITY BLUES
 
-
 ONE
 
-
+## Case and bartender Ratz kabitz at the Chatsubo
 THE SKY ABOVE the port was the color of television, tuned to a dead channel.
 
 “It’s not like I’m using,” Case heard someone say, as he shouldered his way
@@ -61,6 +60,7 @@ mate. . . .”
 “Now that,” Case said to his glass, all his bitterness suddenly rising in him
 like bile, “that is so much bullshit.”
 
+## Case dreams he is in the matrix
 THE JAPANESE HAD already forgotten more neurosurgery than the Chinese had ever
 known. The black clinics of Chiba were the cutting edge, whole bodies of
 technique supplanted monthly, and still they couldn’t repair the damage he’d
@@ -77,6 +77,7 @@ alone in the dark, curled in his capsule in some coffin hotel, his hands clawed
 into the bedslab, temperfoam bunched between his fingers, trying to reach the
 console that wasn’t there.
 
+## Back at the bar, Ratz mentions Linda Lee to Case before Case pays and leaves
 “I SAW YOUR girl last night,” Ratz said, passing Case his second Kirin.
 
 “I don’t have one,” he said, and drank.
@@ -95,6 +96,7 @@ narrow shoulders hunched beneath the rain-stained khaki nylon of his
 windbreaker. Threading his way through the Ninsei crowds, he could smell his
 own stale sweat.
 
+## Backstory for case, he fucked up in the past as a cowboy and his employer damaged his nervous system
 CASE WAS TWENTY-FOUR. At twenty-two, he’d been a cowboy, a rustler, one of the
 best in the Sprawl. He’d been trained by the best, by McCoy Pauley and Bobby
 Quine, legends in the biz. He’d operated on an almost permanent adrenaline
@@ -123,6 +125,7 @@ Fall. In the bars he’d frequented as a cowboy hotshot, the elite stance
 involved a certain relaxed contempt for the flesh. The body was meat. Case fell
 into the prison of his own flesh.
 
+## How Case quickly zipped through his money trying to find a cure.
 HIS TOTAL ASSETS were quickly converted to new Yen, a fat sheaf of the old
 paper currency that circulated endlessly through the closed circuit of the
 world’s black markets like the seashells of the Trobriand islanders. It was
@@ -149,6 +152,7 @@ older streets, an area with no official name. Night City, with Ninsei its
 heart. By day, the bars down Ninsei were shuttered and featureless, the neon
 dead, the holograms inert, waiting, under the poisoned silver sky.
 
+## Case reminisces about Linda at a teashop called the Jarre de Thé
 TWO BLOCKS WEST of the Chat, in a teashop called the Jarre de Thé, Case washed
 down the night’s first pill with a double espresso. It was a flat pink octagon,
 a potent species of Brazilian dex he bought from one of Zone’s girls.
@@ -231,6 +235,7 @@ a subtle film, as though the bad nerves of a million customers had somehow
 attacked the mirrors and the once glossy plastics, leaving each surface fogged
 with something that could never be wiped away.
 
+## Linda arrives at the tea shop and informs Case that Mona Wage will come looking for Case for the money he owes
 “Hey. Case, good buddy. . . .”
 
 He looked up, met gray eyes ringed with paintstick. She was wearing faded
@@ -296,6 +301,7 @@ He nodded, anxious to be gone.
 He looked back as the plastic door swung shut behind him, saw her eyes
 reflected in a cage of red neon.
 
+## Case contemplates many things, such as the backdrop of Chiba City, before he gets the idea to talk to Julius about the hit on his head
 FRIDAY NIGHT ON Ninsei.
 
 He passed yakitori stands and massage parlors, a franchised coffee shop called
@@ -356,6 +362,7 @@ in a constellation of cheap chrome.
 
 “Julie,” he said to his stars. “Time to see old Julie. He’ll know.”
 
+## Julius has no info about whether Wage wants to kill Case or not
 JULIUS DEANE WAS one hundred and thirty-five years old, his metabolism
 assiduously warped by a weekly fortune in serums and hormones. His primary
 hedge against aging was a yearly pilgrimage to Tokyo, where genetic surgeons
@@ -438,6 +445,7 @@ in debugging gear.
 
 Deane’s fingers came up to brush the perfect knot in his pale silk tie.
 
+## Case feels a tail, and after losing him sets off running
 HE WAS LESS than a block from Deane’s office when it hit, the sudden cellular
 awareness that someone was on his ass, and very close.
 
@@ -466,6 +474,7 @@ And gone.
 
 Then Case was running, bent low, dodging between bodies.
 
+## Case unsuccussfully asks Shin for a gun
 “RENT ME A gun, Shin?”
 
 The boy smiled. “Two hour.” They stood together in the smell of fresh raw
@@ -483,6 +492,7 @@ understand?”
 The waiter shrugged, replacing the taser behind the horseradish cans. “Two
 hour.”
 
+## Case buys a Cobra from a shop
 HE WENT INTO the shop without bothering to glance at the display of shuriken.
 He’d never thrown one in his life.
 
@@ -507,6 +517,7 @@ pyramid at the other. She gripped the tube with one hand, the pyramid between
 her other thumb and forefinger, and pulled. Three oiled, telescoping segments
 of tightly wound coilspring slid out and locked. “Cobra,” she said.
 
+## Case returns to the Chat, but not finding Ratz but instead Lonny Zone the pimp, Zone points Case to the whereabouts of Wage in Namban
 BEYOND THE NEON shudder of Ninsei, the sky was that mean shade of gray. The air
 had gotten worse; it seemed to have teeth tonight, and half the crowd wore
 filtration masks. Case had spent ten minutes in a urinal, trying to discover a
@@ -545,6 +556,7 @@ raised an eyebrow. “You wanna fuck somebody up?”
 
 “See you, Lonny.” Case left the bar.
 
+## Case feels his tail again and loses him in a short action scene
 HIS TAIL WAS back. He was sure of it. He felt a stab of elation, the octagons
 and adrenaline mingling with something else. You’re enjoying this, he thought;
 you’re crazy.
@@ -638,6 +650,7 @@ The head was gone. Case lay under the console for a long count of twenty, then
 stood up. The steel cobra was still in his hand, and it took him a few seconds
 to remember what it was. He limped away down the alley, nursing his left ankle.
 
+## Case returns to the coffin where he tries to short a deal to no avail
 SHIN’S PISTOL WAS a fifty-year-old Vietnamese imitation of a South American
 copy of a Walther PPK, double-action on the first shot, with a very rough pull.
 It was chambered for .22 long rifle, and Case would’ve preferred lead azide
@@ -720,6 +733,7 @@ pistol.
 
 “Iffy,” he said, “it’s all looking very iffy tonight.”
 
+## Case goes to the Chat where Wage finds him and they square up
 CASE WALKED INTO the Chat an hour before dawn, both hands in the pockets of his
 jacket; one held the rented pistol, the other the aluminum flask.
 
@@ -835,6 +849,7 @@ embarrassment. “Artiste. Go home.”
 He felt them watching as he crossed the room and shouldered his way past the
 plastic doors.
 
+## Case returns to the Cheap Hotel, where he realizes Linda has stolen his RAM and we learn his tail from earlier was a girl named Molly
 “BITCH,” HE SAID to the rose tint over Shiga. Down on Ninsei the holograms were
 vanishing like ghosts, and most of the neon was already cold and dead. He
 sipped thick black coffee from a street vendor’s foam thimble and watched the
