@@ -1,521 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<!-- __ _ _ _ __| |_ (_)__ _____
-    / _` | '_/ _| ' \| |\ V / -_)
-    \__,_|_| \__|_||_|_| \_/\___| -->
-  <head>
-    <title>Full text of &quot;The Foundation Series&quot;</title>
+THE FOUNDATION TRILOGY 
 
-          <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-        <script>window.archive_setup=[]</script>
-        <script src="//archive.org/includes/jquery-1.10.2.min.js?v1.10.2" type="text/javascript"></script>
-            <script src="//archive.org/includes/analytics.js?v=2b15c84" type="text/javascript"></script>
-
-    <script>
-      'use strict';
-      if ('archive_analytics' in window) {
-                  archive_analytics.service = "ao_2";
-        
-        archive_analytics.send_pageview_on_load({
-                      mediaType: "texts",
-                  });
-      }
-    </script>
-        <script src="//archive.org/includes/bootstrap.min.js?v3.0.0" type="text/javascript"></script>
-    <script src="//archive.org/includes/polyfill.min.js?v=2b15c84" type="text/javascript"></script>
-    <script src="https://archive.org/includes/node_modules/react/dist/react.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="https://archive.org/includes/node_modules/react-dom/dist/react-dom.min.js?v15.1.0" type="text/javascript"></script>
-    <script src="https://archive.org/includes/archive.min.js?v=2b15c84" type="text/javascript"></script>
-    <link href="//archive.org/includes/archive.min.css?v=2b15c84" rel="stylesheet" type="text/css"/>
-    <link rel="SHORTCUT ICON" href="https://archive.org/images/glogo.jpg"/>
-      </head>
-  <body class="navia ">
-    <a href="#maincontent" class="hidden-for-screen-readers">Skip to main content</a>
-
-    <!-- Wraps all page content -->
-    <div id="wrap"
-          >
-              
-
-        <div id="navwrap1">
-          <div id="navwrap2">
-
-            <div id="nav-tophat" class="collapse">
-                                                                <div class="row toprow web" style="max-width:1000px;margin:auto;">
-                    <div class="col-xs-12">
-                      <div class="wayback-txt">
-                        Search the history of over 327 billion                        <a style="display:inline"
-                          href="https://blog.archive.org/2016/10/23/defining-web-pages-web-sites-and-web-captures/"
-                          >web pages</a> on the Internet.
-                      </div>
-                      <div class="roundbox7 wayback-main">
-                        <div class="row">
-                          <div class="col-sm-6" style="padding-left:0; padding-right:0;">
-                            <a style="padding-bottom:0" href="https://archive.org/web/"
-                              ><img src="https://archive.org/images/WaybackLogoSmall.png" alt="Wayback Machine"/></a>
-                          </div>
-                          <div class="col-sm-6" style="padding-top:13px;">
-                            <form style="position:relative;">
-                              <span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span>                              <label for="nav-wb-url" class="sr-only">Search the Wayback Machine</label>
-                              <input id="nav-wb-url" class="form-control input-sm roundbox20" type="text"
-                                placeholder="enter URL or keywords" name="url" autocomplete="off"
-                                onclick="$(this).css('padding-left','').parent().find('.iconochive-search').hide()"/>
-                            </form>
-                          </div>
-                        </div><!--/.row-->
-                      </div><!--/.wayback-main-->
-                    </div>
-                  </div><!--./row-->
-
-                                                                                <div class="row toprow fivecolumns texts">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/texts"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span> All Texts</a>
-                            <a href="https://archive.org/search.php?query=mediatype:texts&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/smithsonian" title="Smithsonian Libraries">Smithsonian Libraries</a>                                                          <a href="https://archive.org/details/fedlink" title="FEDLINK (US)">FEDLINK (US)</a>                                                          <a href="https://archive.org/details/genealogy" title="Genealogy">Genealogy</a>                                                          <a href="https://archive.org/details/lincolncollection" title="Lincoln Collection">Lincoln Collection</a>                                                          <a href="https://archive.org/details/additional_collections" title="Additional Collections">Additional Collections</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/texts"
-            style="background-image: url('https://archive.org/services/img/texts');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/texts">eBooks &amp; Texts</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/americana" title="American Libraries">American Libraries</a>                                                          <a href="https://archive.org/details/toronto" title="Canadian Libraries">Canadian Libraries</a>                                                          <a href="https://archive.org/details/universallibrary" title="Universal Library">Universal Library</a>                                                          <a href="https://archive.org/details/opensource" title="Community Texts">Community Texts</a>                                                          <a href="https://archive.org/details/gutenberg" title="Project Gutenberg">Project Gutenberg</a>                                                          <a href="https://archive.org/details/biodiversity" title="Biodiversity Heritage Library">Biodiversity Heritage Library</a>                                                          <a href="https://archive.org/details/iacl" title="Children's Library">Children's Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center>
-<a href="https://openlibrary.org"><img class="img-responsive" style="margin-bottom:15px" src="https://archive.org/images/widgetOL.png"/><b>Open Library</b></a></center>
-                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/publiclab_org" title="Public Lab Collection">Public Lab</a>                                                          <a href="https://archive.org/details/inlibrary" title="Books to Borrow">Books to Borrow</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns movies">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/movies"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span> All Video</a>
-                            <a href="https://archive.org/search.php?query=mediatype:movies&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/prelinger" title="Prelinger Archives">Prelinger Archives</a>                                                          <a href="https://archive.org/details/democracy_now_vid" title="Democracy Now!">Democracy Now!</a>                                                          <a href="https://archive.org/details/occupywallstreet" title="Occupy Wall Street">Occupy Wall Street</a>                                                          <a href="https://archive.org/details/nsa" title="TV NSA Clip Library">TV NSA Clip Library</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/tv"
-            style="background-image: url('https://archive.org/services/img/tv');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/tv">TV News</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/animationandcartoons" title="Animation &amp; Cartoons">Animation & Cartoons</a>                                                          <a href="https://archive.org/details/artsandmusicvideos" title="Arts &amp; Music">Arts & Music</a>                                                          <a href="https://archive.org/details/opensource_movies" title="Community Video">Community Video</a>                                                          <a href="https://archive.org/details/computersandtechvideos" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/culturalandacademicfilms" title="Cultural &amp; Academic Films">Cultural & Academic Films</a>                                                          <a href="https://archive.org/details/ephemera" title="Ephemeral Films">Ephemeral Films</a>                                                          <a href="https://archive.org/details/moviesandfilms" title="Movies">Movies</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/911"
-            style="background-image: url('https://archive.org/services/img/911');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/911">Understanding 9/11</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/newsandpublicaffairs" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/spiritualityandreligion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                          <a href="https://archive.org/details/sports" title="Sports Videos">Sports Videos</a>                                                          <a href="https://archive.org/details/television" title="Television">Television</a>                                                          <a href="https://archive.org/details/gamevideos" title="Videogame Videos">Videogame Videos</a>                                                          <a href="https://archive.org/details/vlogs" title="Vlogs">Vlogs</a>                                                          <a href="https://archive.org/details/youth_media" title="Youth Media">Youth Media</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns audio">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/audio"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span> All Audio</a>
-                            <a href="https://archive.org/search.php?query=mediatype:audio&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/GratefulDead" title="Grateful Dead">Grateful Dead</a>                                                          <a href="https://archive.org/details/netlabels" title="Netlabels">Netlabels</a>                                                          <a href="https://archive.org/details/oldtimeradio" title="Old Time Radio">Old Time Radio</a>                                                          <a href="https://archive.org/details/78rpm" title="78 RPMs and Cylinder Recordings">78 RPMs and Cylinder Recordings</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/etree"
-            style="background-image: url('https://archive.org/services/img/etree');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/etree">Live Music Archive</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/audio_bookspoetry" title="Audio Books &amp; Poetry">Audio Books & Poetry</a>                                                          <a href="https://archive.org/details/opensource_audio" title="Community Audio">Community Audio</a>                                                          <a href="https://archive.org/details/audio_tech" title="Computers &amp; Technology">Computers & Technology</a>                                                          <a href="https://archive.org/details/audio_music" title="Music, Arts &amp; Culture">Music, Arts & Culture</a>                                                          <a href="https://archive.org/details/audio_news" title="News &amp; Public Affairs">News & Public Affairs</a>                                                          <a href="https://archive.org/details/audio_foreign" title="Non-English Audio">Non-English Audio</a>                                                          <a href="https://archive.org/details/audio_podcast" title="Podcasts">Podcasts</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/librivoxaudio"
-            style="background-image: url('https://archive.org/services/img/librivoxaudio');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/librivoxaudio">Librivox Free Audiobook</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/radioprograms" title="Radio Programs">Radio Programs</a>                                                          <a href="https://archive.org/details/audio_religion" title="Spirituality &amp; Religion">Spirituality & Religion</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns software">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/software"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span> All Software</a>
-                            <a href="https://archive.org/search.php?query=mediatype:software&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/tosec" title="Old School Emulation">Old School Emulation</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos_games" title="MS-DOS Games">MS-DOS Games</a>                                                          <a href="https://archive.org/details/historicalsoftware" title="Historical Software">Historical Software</a>                                                          <a href="https://archive.org/details/classicpcgames" title="Classic PC Games">Classic PC Games</a>                                                          <a href="https://archive.org/details/softwarelibrary" title="Software Library">Software Library</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/internetarcade"
-            style="background-image: url('https://archive.org/services/img/internetarcade');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/internetarcade">Internet Arcade</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/open_source_software" title="Community Software">Community Software</a>                                                          <a href="https://archive.org/details/apkarchive" title="APK">APK</a>                                                          <a href="https://archive.org/details/softwarelibrary_msdos" title="MS-DOS">MS-DOS</a>                                                          <a href="https://archive.org/details/cd-roms" title="CD-ROM Software">CD-ROM Software</a>                                                          <a href="https://archive.org/details/ipaarchive" title="IPA Software">IPA Software</a>                                                          <a href="https://archive.org/details/softwaresites" title="Software Sites">Software Sites</a>                                                          <a href="https://archive.org/details/tucows" title="Tucows Software Library">Tucows Software Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/consolelivingroom"
-            style="background-image: url('https://archive.org/services/img/consolelivingroom');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/consolelivingroom">Console Living Room</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                      <a href="https://archive.org/details/cdbbsarchive" title="Shareware CD-ROMs">Shareware CD-ROMs</a>                                                          <a href="https://archive.org/details/cdromimages" title="CD-ROM Images">CD-ROM Images</a>                                                          <a href="https://archive.org/details/softwarelibrary_zx_spectrum" title="ZX Spectrum">ZX Spectrum</a>                                                          <a href="https://archive.org/details/vintagesoftware" title="Vintage Software">Vintage Software</a>                                                          <a href="https://archive.org/details/doom-cds" title="DOOM Level CD">DOOM Level CD</a>                                                          <a href="https://archive.org/details/zx_spectrum_library_games" title="ZX Spectrum Library: Games">ZX Spectrum Library: Games</a>                                                          <a href="https://archive.org/details/cdromsoftware" title="CD-ROM Software Library">CD-ROM Software Library</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                                                                <div class="row toprow fivecolumns image">
-
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-4">
-                                                  <div class="linx">
-                            <h5>Featured</h5>
-                            <a href="https://archive.org/details/image"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span> All Image</a>
-                            <a href="https://archive.org/search.php?query=mediatype:image&sort=-publicdate"
-                              ><span class="iconochive-latest"  aria-hidden="true"></span><span class="sr-only">latest</span> This Just In</a>
-                                                          <a href="https://archive.org/details/flickrcommons" title="Flickr Commons">Flickr Commons</a>                                                          <a href="https://archive.org/details/flickr-ows" title="Occupy Wall Street Flickr">Occupy Wall Street Flickr</a>                                                          <a href="https://archive.org/details/coverartarchive" title="Cover Art">Cover Art</a>                                                          <a href="https://archive.org/details/maps_usgs" title="USGS Maps">USGS Maps</a>                                                      </div>
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-2">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/metropolitanmuseumofart-gallery"
-            style="background-image: url('https://archive.org/services/img/metropolitanmuseumofart-gallery');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/metropolitanmuseumofart-gallery">Metropolitan Museum</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7 col-sm-push-2">
-                                                  <div class="linx ">
-                                                          <h5>Top</h5>
-                                                                                      <a href="https://archive.org/details/nasa">NASA Images</a>                                                          <a href="https://archive.org/details/solarsystemcollection">Solar System Collection</a>                                                          <a href="https://archive.org/details/amesresearchcenterimagelibrary">Ames Research Center</a>                                                      </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-5 col-sm-pull-4">
-                                                  <div class="widgets">
-                            <center class="items_list">        <div class="items_list_img">
-          <a
-            href="https://archive.org/details/brooklynmuseum"
-            style="background-image: url('https://archive.org/services/img/brooklynmuseum');"
-            aria-hidden="true"
-            data-event-click-tracking="DetailsPage|CollectionLink"
-          ></a>
-        </div>
-        <a class="stealth boxy-label" data-event-click-tracking="DetailsPage|CollectionLink" href="https://archive.org/details/brooklynmuseum">Brooklyn Museum</a></center>                          </div><!--/.widgets-->
-
-                                              </div><!--/.col-sm-2-->
-                                                                <div class="col-sm-2 col-xs-7">
-                                                  <div class="linx linx-topped">
-                                                                                  </div>
-
-                          
-                                              </div><!--/.col-sm-2-->
-                    
-                  </div><!--/.row-->
-                                          </div><!--/#nav-tophat-->
-
-
-
-            <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-              <div id="nav-tophat-helper" class="hidden-xs"></div>
-              <ul class="nav navbar-nav navbar-main">
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Web" class="navia-link web" data-top-kind="web"
-                      href="https://archive.org/web/" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-web"  aria-hidden="true"></span><span class="sr-only">web</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Texts" class="navia-link texts" data-top-kind="texts"
-                      href="https://archive.org/details/texts" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-texts"  aria-hidden="true"></span><span class="sr-only">texts</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Video" class="navia-link movies" data-top-kind="movies"
-                      href="https://archive.org/details/movies" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-movies"  aria-hidden="true"></span><span class="sr-only">movies</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Audio" class="navia-link audio" data-top-kind="audio"
-                      href="https://archive.org/details/audio" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-audio"  aria-hidden="true"></span><span class="sr-only">audio</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left">
-                    <a title="Software" class="navia-link software" data-top-kind="software"
-                      href="https://archive.org/details/software" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-software"  aria-hidden="true"></span><span class="sr-only">software</span></a>
-                  </li>
-                                                    <li class="dropdown dropdown-ia pull-left rightmost">
-                    <a title="Image" class="navia-link image" data-top-kind="image"
-                      href="https://archive.org/details/image" data-toggle="tooltip"
-                      target="_top" data-placement="bottom"><span class="iconochive-image"  aria-hidden="true"></span><span class="sr-only">image</span></a>
-                  </li>
-                
-                <li class="navbar-brand-li"><a class="navbar-brand" href="https://archive.org/"
-                  target="_top"><span class="iconochive-logo"  aria-hidden="true"></span><span class="sr-only">logo</span></a></li>
-
-                <li class="nav-hamburger dropdown dropdown-ia pull-right hidden-sm hidden-md hidden-lg">
-                  <div class="container-fluid">
-                    <div class="navbar-header">
-                      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
-                              data-target="#nav-hamburger-menu" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button>
-                      <div class="navbar-collapse collapse" id="nav-hamburger-menu" aria-expanded="false">
-                            <ul id="" class="nav navbar-nav">
-      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
-    </ul>
-                          </div><!-- /.navbar-collapse -->
-                    </div>
-                  </div><!-- /.container-fluid -->
-                </li>
-
-
-
-
-                                  <li id="nav-search" class="dropdown dropdown-ia pull-right">
-                    <a href="https://archive.org/search.php"
-                      onclick="$(this).parents('#nav-search').find('form').submit(); return false"
-                      aria-hidden="true"
-                    ><span class="iconochive-search"  aria-hidden="true"></span><span class="sr-only">search</span></a>
-                    <div class="searchbar">
-                      <form
-                        class="search-form js-search-form"
-                        method="get"
-                        role="search"
-                        action="https://archive.org/searchresults.php"
-                        target="_top"
-                        data-event-form-tracking="TopNav|SearchForm"
-                        data-wayback-machine-search-url="https://web.archive.org/web/*/"
-                      >
-                        <input
-                          id="search-bar-2"
-                          class="js-search-bar"
-                          placeholder="Search"
-                          type="text"
-                          name="search"
-                          value=""
-                          aria-controls="navbar_search_options"
-                          aria-label="Search the Archive. Filters and Advanced Search available below."
-                        >
-
-                            <div
-              id="navbar_search_options"
-            class="search-options js-search-options"
-      aria-expanded="false"
-      aria-label="Search Options"
-      data-keep-open-when-changed="false"
-    >
-      <fieldset>
-                      <label>
-      <input
-        type="radio"
-        name="sin"
-        value=""
-                  checked
-                      >
-      <span>Search metadata</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="TXT"
-                      >
-      <span>Search text contents</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="TV"
-                      >
-      <span>Search TV news captions</span>
-    </label>
-                          <label>
-      <input
-        type="radio"
-        name="sin"
-        value="WEB"
-                      >
-      <span>Search archived web sites</span>
-    </label>
-                  </fieldset>
-
-              <a
-          href="https://archive.org/advancedsearch.php"
-          class="search-options__advanced-search-link"
-          onclick="return AJS.advanced_search(this)"
-        >Advanced Search</a>
-          </div>
-    
-                            <script>AJS.cgi_args = {"ands":[],"minday":"06/04/2009","maxday":"05/11/2018"}</script>
-    
-                        <input type="submit" value="Search"/>
-                      </form>
-                    </div><!--/.searchbar -->
-                  </li>
-                
-                <li class="dropdown dropdown-ia pull-right">
-                  <a href="https://archive.org/create" _target="top" data-toggle="tooltip" data-placement="bottom"
-                     title="Upload"><span class="iconochive-upload"  aria-hidden="true"></span><span class="sr-only">upload</span></a>
-                </li>
-
-
-                <li class="dropdown dropdown-ia pull-right leftmost">
-                                      <a href="https://archive.org/account/login.php" style="padding-right:0" _target="top"
-                      ><span class="iconochive-person"  aria-hidden="true"></span><span class="sr-only">person</span><span class="hidden-xs-span">SIGN IN</span></a>
-                                  </li>
-
-                              </ul>
-
-                  <ul id="nav-abouts" class="">
-      <li><a target="_top" data-event-click-tracking="TopNav|AboutLink" href="https://archive.org/about/">ABOUT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ContactLink" href="https://archive.org/about/contact.php">CONTACT</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|BlogLink" href="//blog.archive.org">BLOG</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|ProjectsLink" href="https://archive.org/projects">PROJECTS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|HelpLink" href="https://archive.org/about/faqs.php">HELP</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|DonateLink" href="https://archive.org/donate">DONATE</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|JobsLink" href="https://archive.org/about/jobs.php">JOBS</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|VolunteerLink" href="https://archive.org/about/volunteerpositions.php">VOLUNTEER</a></li>
-      <li><a target="_top" data-event-click-tracking="TopNav|PeopleLink" href="https://archive.org/about/bios.php">PEOPLE</a></li>
-    </ul>
-                </div><!--/.navbar-->
-          </div><!--#navwrap1-->
-        </div><!--#navwrap2-->
-
-        <!-- Begin page content -->
-        <main>
-          <div class="container container-ia">
-            <a name="maincontent" id="maincontent"></a>
-
-                  <h1>
-          Full text of "<a href="/details/AsimovTheFoundation_201705">The Foundation Series</a>"
-        </h1>
-        <h2 class="pull-right">
-          <small><a href="/details/AsimovTheFoundation_201705">See other formats</a></small>
-        </h2>
-        <br class="clearfix" clear="right"/>
-      <pre>THE FOUNDATION TRILOGY 
 ISAAC ASIMOV 
 
 
@@ -877,6 +361,7 @@ FOUNDATION
 
 
 FOUNDATION 
+
 ISAAC ASIMOV 
 
 
@@ -1205,11 +690,11 @@ successful indeed. What a quandary!
 *Editor's note: The novel was published in October 1982 as Foundation's Edge. 
 
 
-PART I 
+# PART I 
 
 THE PSYCHOHISTORIANS 
 
-i. 
+## i. 
 
 HARI SELDON-... bom In the 1 1,988th year of the Galactic Era; died 12,069. The dates are 
 more commonly given In terms of the current Foundational Era as - 79 to the year 1 F.E. Born 
@@ -1316,7 +801,7 @@ child, and there was a lump in Gaal's throat. He had never seen Trantor spread o
 incredibility, as large as life, and he hadn't expected to have to wait longer. 
 
 
-2 . 
+## 2 . 
 
 The ship landed in a medley of noises. There was the far-off hiss of the atmosphere cutting and 
 sliding past the metal of the ship. There was the steady drone of the conditioners fighting the 
@@ -1421,7 +906,7 @@ tenth-credit tip with a businesslike air, picked up a waiting passenger, and was
 In all this, from the moment of debarkation, there had been no glimpse of sky. 
 
 
-3 . 
+## 3 . 
 
 TRANTOR-...At the beginning of the thirteenth millennium, this tendency reached its climax. As 
 the center of the imperial Government for unbroken hundreds of generations and located, as it 
@@ -1617,7 +1102,7 @@ He said, "I am Hari Seldon," an instant before Gaal's befuddled brain placed the
 the memory of the many times he had seen it in pictures. 
 
 
-4 . 
+# 4 . 
 
 PSYCHOHISTORY-.. .Gaal Dornick, using nonmathematical concepts, has defined 
 psychohistory to be that branch of mathematics which deals with the reactions of human 
@@ -1762,7 +1247,7 @@ suppose, at the University tomorrow?"
 "I will," said Gaal. 
 
 
-5 . 
+# 5 . 
 
 
 
@@ -1945,7 +1430,7 @@ Avakim said quietly, "I will need that instrument."
 Gaal watched him leave and was alone. 
 
 
-6 . 
+## 6 . 
 
 The trial (Gaal supposed it to be one, though it bore little resemblance legalistically to the 
 elaborate trial techniques Gaal had read of) had not lasted long. It was in its third day. Yet 
@@ -2239,7 +1724,7 @@ him for years. I have tried to analyze his workings, but you know how risky it i
 vagaries of an individual in the psychohistoric equations. Yet I have hopes." 
 
 
-7 . 
+## 7 . 
 
 Avakim approached, nodded to Gaal, leaned over to whisper to Seldon. The cry of adjournment 
 rang out, and guards separated them. Gaal was led away. 
@@ -2356,7 +1841,7 @@ for who would not be, to escape death. Yet in all his vast relief, he found spac
 that Seldon had been defeated. 
 
 
-8 . 
+## 8 . 
 
 For a long while, they sat silently as the taxi whined through the hundreds of miles of worm-like 
 tunnels toward the University. And then Gaal stirred. Fie said: 
@@ -2473,11 +1958,11 @@ whisper, so that Gaal could scarcely hear him, "I am finished."
 
 
 
-PART II 
+# PART II 
 
 THE ENCYCLOPEDISTS 
 
-i. 
+## i. 
 
 TERMINUS-... Its location (see map) was an odd one for the role It was called upon to play In 
 Galactic history, and yet as many writers have never tired of pointing out, an Inevitable one. 
@@ -2631,7 +2116,7 @@ he left - quite unceremoniously.
 
 
 
-2 . 
+## 2 . 
 
 
 Anselm haut Rodric - "haut" itself signifying noble blood -Sub-prefect of Pluema and Envoy 
@@ -2932,7 +2417,7 @@ He threw his cigar away and looked up at the outstretched Galaxy. "Back to oil a
 they?" he murmured - and what the rest of his thoughts were he kept to himself. 
 
 
-3 . 
+## 3 . 
 
 When Hardin denied owning the Journal, he was perhaps technically correct, but no more. 
 Hardin had been the leading spirit in the drive to incorporate Terminus into an autonomous 
@@ -3149,7 +2634,7 @@ sufficiently to be able to predict broadly the historical sweep of the future.
 And what would that mean? 
 
 
-4 . 
+## 4 . 
 
 Lord Dorwin took snuff. He also had long hair, curled intricately and, quite obviously, artificially, 
 to which were added a pair of fluffy, blond sideburns, which he fondled affectionately. Then, 
@@ -3355,7 +2840,7 @@ you. He told me you would twy to badgah me, but I'm fah too old a hand foah that
 next day. And that was that. 
 
 
-5 . 
+## 5 . 
 
 This was the second meeting of the Board that Hardin had attended, if one were to exclude the 
 informal talks the Board members had had with the now-departed Lord Dorwin. Yet the mayor 
@@ -3680,7 +3165,7 @@ He laughed harshly. "Good day, gentlemen!"
 He stalked out of the room. 
 
 
-6 . 
+## 6 . 
 
 Mayor Hardin chewed at the end of his cigar. It had gone out but he was past noticing that. He 
 hadn't slept the night before and he had a good idea that he wouldn't sleep this coming night. 
@@ -3733,7 +3218,7 @@ Encyclopedia were all he was interested in preserving - then what price coup d'e
 He shrugged and drank his water. 
 
 
-7 . 
+## 7 . 
 
 The Vault was furnished with considerably more than six chairs, as though a larger company 
 had been expected. Hardin noted that thoughtfully and seated himself wearily in a comer just 
@@ -3878,11 +3363,11 @@ crisis was obvious.
 Obvious as all hell! 
 
 
-PART III 
+# PART III 
 
 THE MAYORS 
 
-i. 
+## i. 
 
 THE FOUR KINGDOMS - The name given to those portions of the Province of Anacreon which 
 broke away from the First Empire in the early years of the Foundational Era to form 
@@ -4239,7 +3724,7 @@ party?"
 Lee smiled against his will. "All right. You win. How about lunch now?" 
 
 
-2 . 
+## 2 . 
 
 There are many epigrams attributed to Hardin - a confirmed epigrammatist - a good many of 
 which are probably apocryphal. Nevertheless, it is reported that on a certain occasion, he said: 
@@ -4559,7 +4044,7 @@ party your precious Councilmen are forming would say. Call for the brandy."
 And Hardin did - but not for too much. 
 
 
-3 . 
+## 3 . 
 
 In the ancient days when the Galactic Empire had embraced the Galaxy, and Anacreon had 
 been the richest of the prefects of the Periphery, more than one emperor had visited the 
@@ -4859,7 +4344,7 @@ But he was king. And kings could order people executed.
 Even uncles and cousins. 
 
 
-4 . 
+## 4 . 
 
 Next to Sermak himself, Lewis Bort was the most active in rallying those dissident elements 
 which had fused into the now-vociferous Action Party. Yet he had not been one of the 
@@ -5057,7 +4542,7 @@ Sermak had risen. "We’ve no choice now. I’m going to ask the Council tomorro
 impeached. And if that fails-" 
 
 
-5. 
+## 5. 
 
 The snow had ceased, but it caked the ground deeply now and the sleek ground car advanced 
 through the deserted streets with lumbering effort. The murky gray light of incipient dawn was 
@@ -5168,7 +4653,7 @@ Now please keep out of the fire."
 closed. 
 
 
-6 . 
+## 6 . 
 
 
 Salvor Hardin did not travel to the planet Anacreon - from which planet the kingdom derived its 
@@ -5513,7 +4998,7 @@ The televisor flashed to life as he spoke, and he amended, "No, in two seconds. 
 Wienis. and listen." 
 
 
-7 . 
+## 7 . 
 
 Theo Aporat was one of the very highest ranking priests of Anacreon. From the standpoint of 
 precedence alone, he deserved his appointment as head priest- attendant upon the flagship 
@@ -5654,7 +5139,7 @@ corridor beyond, growled fearfully.
 Lefkin began. 
 
 
-8 . 
+## 8 . 
 
 There was absolute silence in Wienis' chambers when the image of Prince Lefkin appeared at 
 the televisor. There had been one startled gasp from the regent at the haggard face and 
@@ -5756,7 +5241,7 @@ with his head blown into nothingness.
 Hardin winced at the sight and muttered, "A man of 'direct action' to the end. The last refuge!" 
 
 
-9 . 
+## 9 . 
 
 The Time Vault was filled; filled far beyond the available seating capacity, and men lined the 
 back of the room, three deep. 
@@ -5867,11 +5352,11 @@ be back."
 Hardin replied, "I know - but I trust he won't return until you and I are safely and cozily dead!" 
 
 
-PART IV 
+# PART IV 
 
 THE TRADERS 
 
-i. 
+## i. 
 
 TRADERS-... and constantly in advance of the political hegemony of the Foundation were the 
 Traders, reaching out tenuous fingerholds through the tremendous distances of the Periphery. 
@@ -5992,7 +5477,7 @@ For Limmar Ponyets was one of the few people who happened to know that Master Tr
 Eskel Gorov was not a trader at all; but that entirely different thing, an agent of the Foundation! 
 
 
-2 . 
+## 2 . 
 
 Two weeks gone! Two weeks wasted. 
 
@@ -6108,7 +5593,7 @@ The Askonian ruler sucked thoughtfully at his lower lip. "Every man should prepa
 his journey to his ancestral spirits. Yet I had never thought you traders to be believers." 
 
 
-3 . 
+## 3 . 
 
 Eskel Gorov stirred on his couch and opened one eye as Limmar Ponyets entered the heavily 
 reinforced door. It boomed shut behind him. Gorov sputtered and came to his feet. 
@@ -6242,7 +5727,7 @@ The door to the cell opened almost instantly when he knocked, and two guards fel
 side. 
 
 
-4 . 
+## 4 . 
 
 "A show!" said the Grand Master, grimly. Fie settled himself well into his furs, and one thin hand 
 grasped the iron cudgel he used as a cane. 
@@ -6382,7 +5867,7 @@ curtly.
 Ponyets smiled and meditated on the uses of a religious education. 
 
 
-5 . 
+## 5 . 
 
 Another week rubbed away before the meeting with Pherl was arranged. Ponyets felt the 
 tension, but he was used to the feeling of physical helplessness now. He had left city limits 
@@ -6533,7 +6018,7 @@ The trader said in a small voice, "It is agreed, then.
 
 
 
-6 . 
+## 6 . 
 
 
 Gorov was released on the thirtieth day, and five hundred pounds of the yellowest gold took his 
@@ -6806,7 +6291,7 @@ The mayor deadened the visiplate and leaned back. "What do you make of it, Sutt?
 "He could be a good actor," said Sutt, and stared thoughtfully ahead. 
 
 
-2 . 
+## 2 . 
 
 It was evening of the same day, and in Jorane Sutt's bachelor apartment on the twenty-first 
 floor of the Hardin Building, Publis Manlio was sipping wine slowly. 
@@ -6913,7 +6398,7 @@ mayoralty have never been combined in a single person. But it might happen now -
 were well done." 
 
 
-3 . 
+## 3 . 
 
 And at the other end of town, in homelier surroundings, Hober Mallow kept a second 
 appointment. He had listened long, and now he said cautiously, "Yes, I've heard of your 
@@ -7025,7 +6510,7 @@ up the boys. You know where the Far Star docks, don 't you? Then show up tomorro
 Good-by." 
 
 
-4 . 
+## 4 . 
 
 Korell is that frequent phenomenon in history: the republic whose ruler has every attribute of 
 the absolute monarch but the name. It therefore enjoyed the usual despotism unrestrained 
@@ -7355,7 +6840,7 @@ get a very polite invitation to the Commdor's august presence - after seven days
 waiting. / think we passed a test." 
 
 
-5 . 
+## 5 . 
 
 Commdor Asper was a man of the people, by self-acclamation. His remaining back-fringe of 
 gray hair drooped limply to his shoulders, his shirt needed laundering, and he spoke with a 
@@ -7585,7 +7070,7 @@ missionaries."
 "Then that will do for now. You'll be escorted back to your ship." 
 
 
-6 . 
+## 6 . 
 
 The Commdora was much younger than her husband. Her face was pale and coldly formed 
 and her black hair was drawn smoothly and tightly back. 
@@ -7643,7 +7128,7 @@ get you more. Now keep still."
 The Commdora kept still. 
 
 
-7 . 
+## 7 . 
 
 Jaim Twer fidgeted and shuffled his feet. He said, "What's twisting yoi/rface?" 
 
@@ -7683,7 +7168,7 @@ would seem to be the royal groundcar to escort us to the foundry. Have you got t
 "All of them." 
 
 
-8 . 
+## 8 . 
 
 The foundry was large, and bore the odor of decay which no amount of superficial repairs could 
 quite erase. It was empty now and in quite an unnatural state of quiet, as it played 
@@ -7770,7 +7255,7 @@ Mallow smiled!
 
 
 
-9 . 
+## 9 . 
 
 
 The Far Star was two days out in space, when Hober Mallow, in his private quarters with Senior 
@@ -7802,7 +7287,7 @@ Capsule as the report. Do you understand that?"
 The interview ended, and fifty minutes later, a lifeboat kicked lightly off the side of the Far Star. 
 
 
-10 . 
+## 10 . 
 
 Onum Barr was an old man, too old to be afraid. Since the last disturbances, he had lived alone 
 on the fringes of the land with what books he had saved from the ruins. Fie had nothing he 
@@ -8116,7 +7601,7 @@ ship, and alien in taste and preparation.
 But they were good, and lasted long. 
 
 
-11 . 
+## 11 . 
 
 The tech-man was short, and his skin glistened with well-kept plumpness. His hair was a fringe 
 and his skull shone through pinkly. The rings on his fingers were thick and heavy, his clothes 
@@ -8253,7 +7738,7 @@ designed to pierce that shield."
 
 
 
-12 . 
+## 12 . 
 
 
 The tech-man's home was a small two-story affair on the Outskirts of the huge, cubiform, 
@@ -8306,7 +7791,7 @@ glowed again.
 
 
 
-13 . 
+## 13 . 
 
 
 Mallow relaxed for almost the first time in six months. He was on his back in the sunroom of his 
@@ -8590,7 +8075,7 @@ think Sutt can want?" Mallow frowned stubbornly, "So!" "My boy," said Jael. "I'l
 but / can't help. You're on the spot, -dead center." 
 
 
-14 . 
+## 14 . 
 
 The council chamber was full in a very literal sense on the fourth day of the trial of Hober 
 Mallow, Master Trader. The only councilman absent was feebly cursing the fractured skull that 
@@ -8833,7 +8318,7 @@ spreading from a small beginning, and pulsing into insanity:
 "Long live Mallow - long live Mallow - long live Mallow-" 
 
 
-15 . 
+## 15 . 
 
 Ankor Jael blinked at Mallow out of a haggard face. The last two days had been mad, sleepless 
 
@@ -8900,7 +8385,7 @@ But Mallow's answer was incisive, "When I'm boss of this Foundation, I'm going t
 One hundred percent of nothing, and that is the secret of this crisis." 
 
 
-16 . 
+## 16 . 
 
 Asper Argo, the Well-Beloved, Commdor of the Korellian Republic greeted his wife's entry by a 
 hangdog lowering of his scanty eyebrows. To her at least, his self-adopted epithet did not 
@@ -8961,7 +8446,7 @@ am master of what you call the hinterland, I may be sufficiently respectable to 
 father's arrogance and his daughter's tongue. Completely - without!" 
 
 
-17 . 
+## 17 . 
 
 The senior lieutenant of the Dark Nebula stared in horror at the visiplate. 
 
@@ -8978,7 +8463,7 @@ Foundation.
 Over and over again! Partly a plea for help, but mainly a warning of danger. 
 
 
-18 . 
+## 18 . 
 
 Flober Mallow shuffled his feet wearily as he leafed through the reports. Two years of the 
 mayoralty had made him a bit more housebroken, a bit softer, a bit more patient, -but it had not 
@@ -9302,127 +8787,9 @@ next to Hari Seldon and Salvor Hardin in the hearts of the people of the Foundat
 ENCYCLOPEDIA GALACTICA 
 
 
-ABOUT THE AUTHOR 
-
-Isaac Asimov was born in the Soviet Union to his great surprise. He moved quickly to correct 
-the situation. When his parents emigrated to the United States, Isaac (three years old at the 
-time) stowed away in their baggage. He has been an American citizen since the age of eight. 
-
-Brought up in Brooklyn, and educated in its public schools, he eventually found his way to 
-Columbia University and, over the protests of the school administration, managed to annex a 
-series of degrees in chemistry, up to and including a Ph.D. He then infiltrated Boston University 
-and climbed the academic ladder, ignoring all cries of outrage, until he found himself Professor 
-of Biochemistry. 
-
-Meanwhile, at the age of nine, he found the love of his life (in the inanimate sense) when he 
-discovered his first science-fiction magazine. By the time he was eleven, he began to write 
 
 
-
-stories, and at eighteen, he actually worked up the nerve to submit one. It was rejected. After 
-four long months of tribulation and suffering, he sold his first story and, thereafter, he never 
-looked back. 
-
-In 1941 , when he was twenty-one years old, he wrote the classic short story "Nightfall" and his 
-future was assured. Shortly before that he had begun writing his robot stories, and shortly after 
-that he had begun his Foundation series. 
-
-
-What was left except quantity? At the present time, he has published over 260 books, 
-distributed through every major division of the Dewey system of library classification, and 
-shows no signs of slowing up. He remains as youthful, as lively, and as lovable as ever, and 
-grows more handsome with each year. You can be sure that this is so since he has written this 
-little essay himself and his devotion to absolute objectivity is notorious. 
-
-He is married to Janet Jeppson, psychiatrist and writer, has two children by a previous 
-marriage, and lives in New York City. 
-
-
-
-
-ASIMOV 
-
-
-FOUNDATION AND EMPIRE 
-
-
-THE FOUNDATION NOVELS 
-
-
-FOUNDATION AND EMPIRE 
-ISAAC ASIMOV 
-
-
-PROLOGUE 
-
-
-Contents 
-
-
-
-
-
-PART I THE GENERAL 
-
-
-1. SEARCH FOR MAGICIANS 
-
-2. THE MAGICIANS 
-
-3. THE DEAD HAND 
-
-4. THE EMPEROR 
-
-5. THE WAR BEGINS 
-
-6. THE FAVORITE 
-
-7. BRIBERY 
-
-8. TO TRANTOR 
-
-9. ON TRANTOR 
-
-10. THE WAR ENDS 
-
-PART II THE MULE 
-
-11. BRIDE AND GROOM 
-
-12. CAPTAIN AND MAYOR 
-
-1 3. LIEUTENANT AND CLOWN 
-
-14. THE MUTANT 
-
-15. THE PSYCHOLOGIST 
-
-16. CONFERENCE 
-
-17. THE VISI-SONOR 
-
-1 8. FALL OF THE FOUNDATION 
-
-1 9. START OF THE SEARCH 
-
-20. CONSPIRATOR 
-
-21. INTERLUDE IN SPACE 
-
-22. DEATH ON NEOTRANTOR 
-
-23. THE RUINS OF TRANTOR 
-
-
-24. CONVERT 
-
-
-25. DEATH OF A PSYCHOLOGIST 
-
-26. END OF THE SEARCH 
-
-
-PROLOGUE 
+## PROLOGUE 
 
 
 The Galactic Empire Was Falling. 
@@ -9484,12 +8851,12 @@ of the dying Empire.
 The way must he cleared for the battle of Foundation and Empire. 
 
 
-PART I 
+# PART I 
 
 THE GENERAL 
 
 
-1. SEARCH FOR MAGICIANS 
+## 1. SEARCH FOR MAGICIANS 
 
 BEL RIOSE .... In his relatively short career, Riose earned the title of "The Last of the Imperials'' 
 and earned It well. A study of his campaigns reveals him to be the equal of Peurifoy in strategic 
@@ -9836,7 +9203,7 @@ disappearing ground-car, "And if you return."
 
 
 
-2. THE MAGICIANS 
+## 2. THE MAGICIANS 
 
 FOUNDATION ... With forty years of expansion behind them, the Foundation faced the menace 
 of Riose. The epic days of Hardin and Mallow had gone and with them were gone a certain 
@@ -10036,7 +9403,7 @@ now-"
 And Forell nodded his, head and whispered, "If there is yet time-" 
 
 
-3. THE DEAD HAND 
+## 3. THE DEAD HAND 
 
 
 Bel Riose interrupted his annoyed stridings to look up hopefully when his aide entered. "Any 
@@ -10254,7 +9621,7 @@ The two faced each other in deadlock, until the general stepped back.
 Fie said simply, "I'll take that challenge. It's a dead hand against a living will." 
 
 
-4. THE EMPEROR 
+## 4. THE EMPEROR 
 
 CLEON II commonly called "The Great. " The last strong Emperor of the First Empire, he is 
 important for the political and artistic renaissance that took place during his long reign. He is 
@@ -10477,7 +9844,7 @@ and send in the doctor. He's the worst bumbler of the lot."
 
 
 
-5. THE WAR BEGINS 
+## 5. THE WAR BEGINS 
 
 From the radiating point of Siwenna, the forces of the Empire reached out cautiously into the 
 black unknown of the Periphery. Giant ships passed the vast distances that separated the 
@@ -10943,7 +10310,7 @@ He looked up and smiled.
 "Shake, doc. A man-sized nuclear shield is all the proof I need," and he held out his large hand. 
 
 
-6. THE FAVORITE 
+## 6. THE FAVORITE 
 
 The tiny ships had appeared out of the vacant depths and darted into the midst of the Armada. 
 Without a shot or a burst of energy, they weaved through the ship-swollen area, then blasted 
@@ -11087,7 +10454,7 @@ and turned away.
 In a vague way, Brodrig felt punctured. 
 
 
-7. BRIBERY 
+## 7. BRIBERY 
 
 
 Sergeant Mori Luk made an ideal soldier of the ranks. He came from the huge agricultural 
@@ -11608,7 +10975,7 @@ Swiftly they raced into the depths of the star-mass that was the Galaxy.
 
 
 
-8. TO TRANTOR 
+## 8. TO TRANTOR 
 
 Devers bent over the little dead globe, watching for a tiny sign of life. The directional control 
 was slowly and thoroughly sieving space with its jabbing tight sheaf of signals. 
@@ -11928,7 +11295,7 @@ that marked the shift into hyperspace.
 
 
 
-9. ON TRANTOR 
+## 9. ON TRANTOR 
 
 The stars were as thick as weeds in an unkempt field, and for the first time, Lathan Devers 
 found the figures to the right of the decimal point of prime importance in calculating the cuts 
@@ -12199,7 +11566,7 @@ In grasshopper jumps of increasing magnitude, the trade ship was spanning the Ga
 return to the Foundation. 
 
 
-10. THE WAR ENDS 
+## 10. THE WAR ENDS 
 
 Lathan Devers felt definitely uncomfortable, and vaguely resentful. He had received his own 
 decoration and withstood with mute stoicism the turgid oratory of the mayor which 
@@ -12350,10 +11717,10 @@ Slowly, Forell's gaze lost its contempt and grew one with the anger of Devers' o
 
 
 
-PART II 
+# PART II 
 THE MULE 
 
-11. BRIDE AND GROOM 
+## 11. BRIDE AND GROOM 
 
 THE MULE Less is known of "The Mule" than of any character of comparable significance to 
 Galactic history. Even the period of his greatest renown is known to us chiefly through the eyes 
@@ -12815,7 +12182,7 @@ breath."
 There was a pause and then Fran roared, "Who wants; another drink? I mean, besides me?" 
 
 
-12. CAPTAIN AND MAYOR 
+## 12. CAPTAIN AND MAYOR 
 
 Captain Han Pritcher was unused to the luxury of his surroundings and by no means 
 impressed. As a general thing, he discouraged self-analysis and all forms of philosophy and 
@@ -13104,7 +12471,7 @@ Captain Han Pritcher, alone in his light one-man speedster, set his course quiet
 for Kalgan. He slept that night the sleep of a successfully stubborn man. 
 
 
-13. LIEUTENANT AND CLOWN 
+## 13. LIEUTENANT AND CLOWN 
 
 If, from a distance of seven thousand parsecs, the fall of Kalgan to the armies of the Mule had 
 produced reverberations that had excited the curiosity of an old Trader, the apprehension of a 
@@ -13431,7 +12798,7 @@ are orders, but standing before that man with his stun pistol and swallowing his
 whole, was the hardest thing I've ever done." 
 
 
-14. THE MUTANT 
+## 14. THE MUTANT 
 
 The "hangar" on Kalgan is an institution peculiar unto itself, born of the need for the disposition 
 of the vast number of ships brought in by the visitors from abroad, and the simultaneous and 
@@ -13822,7 +13189,7 @@ ready for the Foundation, and he uses this as an excuse for action. It makes thi
 difficult for us. We will have to act before we are really ready." 
 
 
-15. THE PSYCHOLOGIST 
+## 15. THE PSYCHOLOGIST 
 
 There was reason to the fact that the element known as "pure science" was the freest form of 
 life on the Foundation. In a Galaxy where the predominance - and even survival - of the 
@@ -14083,7 +13450,7 @@ Indbur remained standing, glaze-eyed. Only one finger seemed alive - and it trac
 triangles on the smooth desk top before him. 
 
 
-16. CONFERENCE 
+## 16. CONFERENCE 
 
 When the twenty-seven independent Trading worlds, united only by their distrust of the mother 
 planet of the Foundation, concert an assembly among themselves, and each is big with a pride 
@@ -14428,7 +13795,7 @@ Randu felt an old, old man. His face sagged hopelessly, "I am afraid a monster i
 will devour all of us. Yet we must fight him." 
 
 
-17. THE VISI-SONOR 
+## 17. THE VISI-SONOR 
 
 Ebling Mis's house in a not-so-pretentious neighborhood of Terminus City was well known to 
 the intelligentsia, literati, and just-plain-well-read of the Foundation. Its notable characteristics 
@@ -14789,7 +14156,7 @@ Grand Opening."
 "With unprintable pleasure, you wizened horror," muttered Mis to himself as he left. 
 
 
-18. FALL OF THE FOUNDATION 
+## 18. FALL OF THE FOUNDATION 
 
 There was an atmosphere about the Time Vault that just missed definition in several directions 
 at once. It was not one of decay, for it was well-lit and well-conditioned, with the color scheme 
@@ -15065,7 +14432,7 @@ Of all the Foundation planets, only the Independent Traders still stood, and aga
 power of the Mule - conqueror of the Foundation - now turned itself. 
 
 
-19. START OF THE SEARCH 
+## 19. START OF THE SEARCH 
 
 The lonely planet, Haven - only planet of an only sun of a Galactic Sector that trailed raggedly 
 off into intergalactic vacuum - was under siege. 
@@ -15477,7 +14844,7 @@ another, greater purpose. Hari Seldon founded two Foundations three centuries ag
 each end of the Galaxy. You must find that Second Foundation. " 
 
 
-20. CONSPIRATOR 
+## 20. CONSPIRATOR 
 
 The mayor's palace - what was once the mayor's palace - was a looming smudge in the 
 darkness. The city was quiet under its conquest and curfew, and the hazy milk of the great 
@@ -15888,7 +15255,7 @@ The captain stiffened in dismay. "You were the warlord of Kalgan."
 "Yes. And now I am the loyal viceroy of the Mule. You see, he is persuasive." 
 
 
-21. INTERLUDE IN SPACE 
+## 21. INTERLUDE IN SPACE 
 
 The blockade was run successfully. In the vast volume of space, not all the navies ever in 
 existence could keep their watch in tight proximity. Given a single ship, a skillful pilot, and a 
@@ -16306,7 +15673,7 @@ And his eyes were dark with the pain of Haven's loss.
 The others understood. 
 
 
-22. DEATH ON NEOTRANTOR 
+## 22. DEATH ON NEOTRANTOR 
 
 NEOTRANTOR The small planet of Dellcass, renamed after the Great Sack, was for nearly a 
 century, the seat of the last dynasty of the First Empire. It was a shadow world and a shadow 
@@ -16804,7 +16171,7 @@ Toran said strenuously, "is there anything wrong with you? Aren't you well?"
 Mis's eyes were thoughtful, luminous, and strange. He did not answer. 
 
 
-23. THE RUINS OF TRANTOR 
+## 23. THE RUINS OF TRANTOR 
 
 The location of an objective upon the great world of Trantor presents a problem unique in the 
 Galaxy. There are no continents or oceans to locate from a thousand miles distance. There are 
@@ -16938,7 +16305,7 @@ That night the strangers slept, and that night Lee Senter sent a message to Neot
 
 
 
-24. CONVERT 
+## 24. CONVERT 
 
 The thin life of Trantor trickled to nothing when they entered among the wide-spaced buildings 
 of the University grounds. There was a solemn and lonely silence over it. 
@@ -17216,7 +16583,7 @@ In the recesses of the library, Ebling Mis, unaware of all, crouched under the o
 amid the murky spaces and mumbled triumphantly to himself. 
 
 
-25. DEATH OF A PSYCHOLOGIST 
+## 25. DEATH OF A PSYCHOLOGIST 
 
 After that there were only two weeks left to the life of Ebling Mis. 
 
@@ -17691,7 +17058,7 @@ Bayta's blaster dropped to the floor.
 
 
 
-26. END OF THE SEARCH 
+## 26. END OF THE SEARCH 
 
 There was not a word to be said. The echoes of the blast rolled away into the outer rooms and 
 rumbled downward into a hoarse, dying whisper. Before its death, it had muffled the sharp 
@@ -18160,12 +17527,12 @@ Foundation must find it for quite another reason. But where was it? That no one 
 This, then, is the story of the search for the Second Foundation! 
 
 
-PART I 
+# PART I 
 
 SEARCH BY THE MULE 
 
 
-1 
+## 1 
 
 Two Men and the Mule 
 
@@ -18737,7 +18104,7 @@ is passing us by. I think there is only one solution left us - and even that is 
 
 Another pause, in which he gathered the reactions, then: "I repeat - in a sense!" 
 
-2 
+## 2 
 
 Two Men without the Mule 
 
@@ -19214,7 +18581,7 @@ a few cases."
 
 They entered the Chamber. Others of the Second Foundation followed them. 
 
-3 
+## 3 
 
 Two Men and a Peasant 
 
@@ -19508,7 +18875,7 @@ It was easy enough to handle his men. They reacted - and were reacting - accordi
 But what of the Mule himself? 
 
 
-4 
+## 4 
 
 
 
@@ -19942,7 +19309,7 @@ There was a half-apprehensive flicker in the other's eyes. "Intersection point?"
 
 
 
-5 
+## 5 
 
 One Man and the Mule 
 
@@ -20392,7 +19759,7 @@ Channis caught a fugitive emotional gleam in the Mule's mind. And it was still o
 confident triumph. 
 
 
-6 
+## 6 
 
 One Man, the Mule - and Another 
 
@@ -20898,12 +20265,12 @@ Until he finally nodded, and said: "By the Stars of the Galaxy - now, I know."
 
 
 
-PART II 
+# PART II 
 
 SEARCH BY THE FOUNDATION 
 
 
-7 
+## 7 
 
 Arcadia 
 
@@ -21425,7 +20792,7 @@ elegantly, complicated script capitals as:
 "The Future of Seldon's Plan." 
 
 
-8 
+## 8 
 
 Seldon's Plan 
 
@@ -21818,7 +21185,7 @@ Seldon Plan has failed!"
 percent, as of the last assessment." 
 
 
-9 
+## 9 
 
 The Conspirators 
 
@@ -22238,7 +21605,7 @@ The other was a highly unauthorized decision on the part of a thoroughly unoffic
 the gathering, made as she clicked off a sound-receiver and composed herself for a belated 
 sleep. This second decision does not concern us just yet. 
 
-10 
+## 10 
 
 Approaching Crisis 
 
@@ -22362,7 +21729,7 @@ structures to the quite, crowding stars.
 
 A year would pass quickly. Would any of them, any of Seldon's heritage, be alive at its end? 
 
-11 
+## 11 
 
 Stowaway 
 
@@ -22741,7 +22108,7 @@ portholes that had automatically closed on the sun-lit side.
 Kalgan was only a night's sleep away. 
 
 
-12 
+## 12 
 
 Lord 
 
@@ -22957,7 +22324,7 @@ and after the slightest hesitation, she felt its tendons relax and the large hea
 upon her shoulder. 
 
 
-13 
+## 13 
 
 Lady 
 
@@ -23188,7 +22555,7 @@ But Arcadia was delighted. She knew what had happened.
 Or, at any rate, she thought she did. 
 
 
-14 
+## 14 
 
 
 
@@ -23652,7 +23019,7 @@ Because in all the Galaxy, she and she alone, except for they, themselves, knew 
 the Second Foundation. 
 
 
-15 
+## 15 
 
 Through the Grid 
 
@@ -24104,7 +23471,7 @@ terrible omnipotents wanted her to do.
 Yet she had to outwit them. Had to. Had to! Had to!! 
 
 
-16 
+## 16 
 
 
 
@@ -24530,7 +23897,7 @@ And Darell was left in uncertainty and - almost - despair.
 Unheeded, the video was a medley of excited sight-sound, as it described in nervous detail the 
 first hour of the war between Kalgan and the Foundation. 
 
-17 
+## 17 
 
 War 
 
@@ -24665,7 +24032,7 @@ And yet-
 He shook his head to clear it and passed on. 
 
 
-18 
+## 18 
 
 Ghost of a World 
 
@@ -24948,7 +24315,7 @@ she would ever see him again.
 She scarcely dared to walk into the house again to face the good, kind Mamma. Maybe when it 
 was all over, she had better kill herself for what she had done to them. 
 
-19 
+## 19 
 
 End of War 
 
@@ -25295,7 +24662,7 @@ energetic, young competent, Anthor, to all of them-
 
 He knew. He, Homir Munn, finally knew the truth. 
 
-20 
+## 20 
 
 
 
@@ -25805,7 +25172,7 @@ Turbor seemed stunned. "Then it's all over. Great Seldon, it's all over."
 
 "It's easy," grunted Darell. "You see / happen to know where the Second Foundation really is. " 
 
-21 
+## 21 
 
 The Answer That Satisfied 
 
@@ -26190,7 +25557,7 @@ They had only to reach for it-
 Thanks to- 
 
 
-22 
+## 22 
 
 The Answer That Was True 
 
@@ -26368,6 +25735,7 @@ crowded as at the center of that huge cluster of matter Man calls the Galaxy - w
 but now there was a somber satisfaction on the round and ruddy face of Preem Palver - First 
 Speaker. 
 
+# Fine
 
 
 </pre>        </div><!--/.container-->
