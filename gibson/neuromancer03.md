@@ -6,7 +6,7 @@
 
 THREE
 
-
+## Trippy bit about the Sprawl
 HOME.
 
 Home was BAMA, the Sprawl, the Boston-Atlanta Metropolitan Axis.
@@ -19,6 +19,7 @@ pixel a million megabytes. At a hundred million megabytes per second, you begin
 to make out certain blocks in midtown Manhattan, outlines of hundred-year-old
 industrial parks ringing the old core of Atlanta . . .
 
+## After travelling a bunch, Case finds a shuriken that Molly bought him
 CASE WOKE FROM a dream of airports, of Molly’s dark leathers moving ahead of
 him through the concourses of Narita, Schipol, Orly. . . . He watched himself
 buy a flat plastic flask of Danish vodka at some kiosk, an hour before dawn.
@@ -68,6 +69,7 @@ upright in a crack in the parquet.
 and saw her sitting cross-legged on the bed, sleepily scratching her stomach
 with burgundy nails.
 
+## Armitage reveals the Neurotoxins he injected into Case's bloodstream
 “SOMEONE’S COMING LATER to secure the place,” Armitage said. He stood in the
 open doorway with an old-fashioned magnetic key in his hand. Molly was making
 coffee on a tiny German stove she took from her bag.
@@ -128,6 +130,7 @@ Case looked at Molly. She shrugged.
 Armitage handed him the magnetic key. “Go on. You’ll enjoy this, Case. Like
 Christmas morning.”
 
+## Molly and Case kabitz
 SUMMER IN THE Sprawl, the mall crowds swaying like windblown grass, a field of
 flesh shot through with sudden eddies of need and gratification.
 
@@ -176,6 +179,7 @@ gonna get some breakfast, okay? Eggs, real bacon. Probably kill you, you been
 eating that rebuilt Chiba krill for so long. Yeah, come on, we’ll tube in to
 Manhattan and get us a real breakfast.”
 
+## Molly takes Case to METRO HOLOGRAFIX where Finn gives them privacy
 LIFELESS NEON SPELLED out METRO HOLOGRAFIX in dusty capitals of glass tubing.
 Case picked at a shred of bacon that had lodged between his front teeth. He’d
 given up asking her where they were going and why; jabs in the ribs and the
@@ -256,6 +260,7 @@ for as long as we want it.”
 
 “Hey, that’s fine by the Finn, Moll. You’re only paying by the second.”
 
+## Molly reveals their job; to steal Dixie Flatline's construct from Sense/Net
 They sealed the door behind him and Molly turned one of the white chairs around
 and sat on it, chin resting on crossed forearms. “We talk now. This is as
 private as I can afford.”
@@ -357,6 +362,7 @@ Case looked at her. “I gotta lotta choice, huh?”
 
 She laughed. “You got it, cowboy.”
 
+## Case feels hysteria as he jacks into the matrix again
 “THE MATRIX HAS its roots in primitive arcade games,” said the voice-over, “in
 early graphics programs and military experimentation with cranial jacks.” On
 the Sony, a two-dimensional space war faded behind a forest of mathematically
@@ -414,6 +420,7 @@ forever beyond his reach.
 And somewhere he was laughing, in a white-painted loft, distant fingers
 caressing the deck, tears of release streaking his face.
 
+## After jacking out, the Finn reveals he is to place a hardware tranceiver in Case
 MOLLY WAS GONE when he took the trodes off, and the loft was dark. He checked
 the time. He’d been in cyberspace for five hours. He carried the Ono-Sendai to
 one of the new worktables and collapsed across the bedslab, pulling Molly’s

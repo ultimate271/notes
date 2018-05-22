@@ -1,6 +1,9 @@
 # FOUR
 
 
+## Case jumps into Molly's body and learn's about the Panther Moderns
+
+### Case jumps into Molly's body as she is walking to a client
 CASE SAT IN the loft with the dermatrodes strapped across his forehead,
 watching motes dance in the diluted sunlight that filtered through the grid
 overhead. A countdown was in progress in one corner of the monitor screen.
@@ -69,6 +72,7 @@ on squares of white cardboard. Molly went to the seventh booth along the south
 wall. Behind the counter a boy with a shaven head stared vacantly into space, a
 dozen spikes of microsoft protruding from the socket behind his ear.
 
+### Molly inquires of the Panther Modern's with Larry, but Larry detects Case riding Molly
 “Larry, you in, man?” She positioned herself in front of him. The boy’s eyes
 focused. He sat up in his chair and pried a bright magenta splinter from his
 socket with a dirty thumbnail.
@@ -104,6 +108,7 @@ else using your eyes.”
 
 “What are you talking about, lady?”
 
+### Case learns from the Hosaka, his computer, that the Panther Modern's are a group of organized crimanals that have been branded as terrorists
 “Case, you take off,” she said, and he hit the switch, instantly back in the
 matrix. Ghost impressions of the software complex hung for a few seconds in the
 buzzing calm of cyberspace.
@@ -145,6 +150,9 @@ act of terrorism from the original sociopolitical intent. . . .”
 
 “Skip it,” Case said.
 
+## Case finishes his recon work for the job
+
+### Case meets a member of the Panther Modern's named Angelo
 CASE MET HIS first Modern two days after he’d screened the Hosaka’s precis. The
 Moderns, he’d decided, were a contemporary version of the Big Scientists of his
 own late teens. There was a kind of ghostly teenage DNA at work in the Sprawl,
@@ -165,6 +173,7 @@ relieved. Toothbud transplants. He’d seen that before.
 “You can’t let the little pricks generation-gap you,” Molly said. Case nodded,
 absorbed in the patterns of the Sense/Net ice.
 
+### Case absorbs himself in the Ice of Sense/Net and generates plan in nine days that satisfies Armitage
 This was it. This was what he was, who he was, his being. He forgot to eat.
 Molly left cartons of rice and foam trays of sushi on the corner of the long
 table. Sometimes he resented having to leave the deck to use the chemical
@@ -193,6 +202,9 @@ showed him his plan for the run. “You took your own good time.”
 “Yes,” Armitage admitted, “but don’t let it go to your head. Compared to what
 you’ll eventually be up against, this is an arcade toy.”
 
+## The plan is set in motion
+
+### The Panther Modern's instruct Molly that the plan is go
 “LOVE YOU, CAT Mother,” whispered the Panther Modern’s link man. His voice was
 modulated static in Case’s headset. “Atlanta, Brood. Looks go. Go, got it?”
 Molly’s voice was slightly clearer.
@@ -205,6 +217,7 @@ seemed to have been deliberate. Molly’s signals were being beamed up from a
 one-meter umbrella dish epoxy-ed to the roof of a black glass bank tower nearly
 as tall as the Sense/Net building.
 
+### Case watches both his new constructed infiltration program and Molly as the plan begins
 Atlanta. The recognition code was simple. Atlanta to Boston to Chicago to
 Denver, five minutes for each city. If anyone managed to intercept Molly’s
 signal, unscramble it, synth her voice, the code would tip the Moderns. If she
@@ -253,6 +266,7 @@ at the rear of the lobby.
 
 12:01:20 as the readout flared in her optic nerve.
 
+## The modern's, on queue, deliver calls from pay phones tipping the police of the release of Blue Nine into the Sense/Net pyramid
 AT MIDNIGHT, SYNCHED with the chip behind Molly’s eye, the link man in Jersey
 had given his command. “Mainline.” Nine Moderns, scattered along two hundred
 miles of the Sprawl, had simultaneously dialed MAX EMERG from pay phones. Each
@@ -265,6 +279,7 @@ ventilation system of the Sense/Net Pyramid. Blue Nine, known in California as
 Grievous Angel, had been shown to produce acute paranoia and homicidal
 psychosis in eighty-five percent of experimental subjects.
 
+## Molly kills someone in the elevator before stopping it and begins to hack into it
 CASE HIT THE switch as his program surged through the gates of the subsystem
 that controlled security for the Sense/Net research library. He found himself
 stepping into an elevator.
@@ -278,6 +293,7 @@ Chewing a little more rapidly now, she touched CLOSE DOOR and STOP on the
 illuminated panel. She took a blackbox from her coat pocket and inserted a lead
 in the keyhole of the lock that secured the panel’s circuitry.
 
+## Back to the Panther Modern's attack, within five minutes they inject disturbing video into the Sense/Net feed as the NYPD circle the building
 THE PANTHER MODERNS allowed four minutes for their first move to take effect,
 then injected a second carefully prepared dose of misinformation. This time,
 they shot it directly into the Sense/Net building’s internal video system.
@@ -307,6 +323,7 @@ Nine in the building’s ventilation system, were converging on the Sense/Net
 Pyramid. They were running full riot lights. A BAMA Rapid Deployment helicopter
 was lifting off from its pad on Riker’s.
 
+## Case maneuvers cyberspace and extracts a sphere from the Sense/Net database
 CASE TRIGGERED HIS second program. A carefully engineered virus attacked the
 code fabric screening primary custodial commands for the sub-basement that
 housed the Sense/Net research materials. “Boston,” Molly’s voice came across
@@ -339,12 +356,16 @@ Out now. Reversing smoothly, the virus reknitting the fabric of the window.
 
 Done.
 
+## Panther Moderns monitor the pandemonium they created
 IN THE SENSE/NET lobby, two Panther Moderns sat alertly behind a low
 rectangular planter, taping the riot with a video camera. They both wore
 chameleon suits. “Tacticals are spraying foam barricades now,” one noted,
 speaking for the benefit of his throat mike. “Rapids are still trying to land
 their copter.”
 
+## Case and Molly finish the job
+
+### Molly has broken her leg infiltrating the building
 CASE HIT THE simstim switch. And flipped into the agony of broken bone. Molly
 was braced against the blank gray wall of a long corridor, her breath coming
 ragged and uneven. Case was back in the matrix instantly, a white-hot line of
@@ -384,6 +405,7 @@ people. Cutter, I’m two minutes from target. Can you hold?”
 
 “Tell her I’m in and holding,” Case said.
 
+### Case and Molly together get the contraband
 Molly began to limp down the corridor. When she glanced back, once, Case saw
 the crumpled bodies of three Sense/Net security guards. One of them seemed to
 have no eyes.
@@ -447,6 +469,7 @@ automatically triggering a full system reversal. The Sense/Net gates snapped
 past him as he backed out, subprograms whirling back into the core of the
 icebreaker as he passed the gates where they had been stationed.
 
+### Molly exits, finds her Panther contacts, and together they leave the scene
 “Out, Brood,” he said, and slumped in his chair. After the concentration of an
 actual run, he could remain jacked in and still retain awareness of his body.
 It might take Sense/Net days to discover the theft of the construct. The key
@@ -493,6 +516,7 @@ polycarbon.
 marble floor, slick with blood and vomit, but down some bloodwarm well, into
 silence and the dark.
 
+## Armitage pays Lupus Yonderboy, the eclectic Panther Modern leader, in a tense exchange
 THE PANTHER MODERN leader, who introduced himself as Lupus Yonderboy, wore a
 polycarbon suit with a recording feature that allowed him to replay backgrounds
 at will. Perched on the edge of Case’s worktable like some kind of state of the
@@ -535,6 +559,7 @@ The phone rang. Case answered.
 
 “Molly,” he told Armitage, handing him the phone.
 
+## Yonderboy gives Case a message: Wintermute, and is off
 THE SPRAWL’S GEODESICS were lightening into predawn gray as Case left the
 building. His limbs felt cold and disconnected. He couldn’t sleep. He was sick
 of the loft. Lupus had gone, then Armitage, and Molly was in surgery somewhere.
