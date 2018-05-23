@@ -1,6 +1,8 @@
 # SEVEN
 
+## Case and Molly travel from the Istanbul airport to the Hilton
 
+### Case and Molly ride in a self-driving Mercades from the airport to the hotel
 IT WAS RAINING in Beyoglu, and the rented Mercedes slid past the grilled and
 unlit windows of cautious Greek and Armenian jewelers. The street was almost
 empty, only a few dark-coated figures on the sidewalks turning to stare after
@@ -21,6 +23,7 @@ car’s gray ultrasuede.
 He wanted to tell her the Corto story, but decided against it. He’d used a
 sleep derm, on the plane.
 
+### Case and Molly meet the Finn at the hotel lobby
 The road in from the airport had been dead straight, like a neat incision,
 laying the city open. He’d watched the crazy walls of patchwork wooden
 tenements slide by, condos, arcologies, grim housing projects, more walls of
@@ -56,6 +59,9 @@ watched, then nodded.
 “Yeah,” she said, “I know who that is.” She jerked her head in the direction of
 the elevators. “Come on, cowboy.” Case followed her with both bags.
 
+## Case and Molly meet Terzibashjian, an intel guy on Riviera
+
+### Case gets a call from Armitage in the hotel telling him to await a call from a man named Terzibashjian
 THEIR ROOM MIGHT have been the one in Chiba where he’d first seen Armitage. He
 went to the window, in the morning, almost expecting to see Tokyo Bay. There
 was another hotel across the street. It was still raining. A few letter-writers
@@ -85,6 +91,7 @@ Silence on the line. Case bit his lip.
 “Get dressed, Case. Get her up. You’ll have a caller in about fifteen minutes.
 His name is Terzibashjian.” The phone bleated softly. Armitage was gone.
 
+### Case wakes Molly
 “Wake up, baby,” Case said. “Biz.”
 
 “I’ve been awake an hour already.” The mirrors turned.
@@ -94,6 +101,7 @@ His name is Terzibashjian.” The phone bleated softly. Armitage was gone.
 “You got an ear for language, Case. Bet you’re part Armenian. That’s the eye
 Armitage has had on Riviera. Help me up.”
 
+### The duo meets Terzibashjian, who after banter tells them about their guy, performer for Yenishehir, and warns of silicon implants called "Subliminals"
 Terzibashjian proved to be a young man in a gray suit and gold-framed, mirrored
 glasses. His white shirt was open at the collar, revealing a mat of dark hair
 so dense that Case at first mistook it for some kind of t-shirt. He arrived
@@ -135,6 +143,9 @@ know exactly what he can do.”
 Terzibashjian nodded. “Worst is how you say in Ingiliz, the subliminals.” He
 made the word four careful syllables.
 
+## Terzibashjian, Case, and the Finn talk about their target as the Mercedes drives them
+
+### Terzibashjian explains the sublimnals of their target and how they got them as they drive
 “ON OUR LEFT,” said the Mercedes, as it steered through a maze of rainy
 streets, “is Kapali Carsi, the grand bazaar.”
 
@@ -173,6 +184,7 @@ looked at her cross-eyed.”
 
 “That’s okay,” Case said. “Means shut up.”
 
+### It's revealed that the Riviera (their target) is into speedballs
 The Armenian sat back, leaving a metallic edge of aftershave. He began to
 whisper to a Sanyo transceiver in a strange salad of Greek, French, Turkish,
 isolated fragments of English. The transceiver answered in French. The Mercedes
@@ -193,6 +205,7 @@ Funny class of people you’re mixing with, Case.”
 “Never mind,” Case said, turning up the collar of his jacket, “we’ll get the
 poor fucker a new pancreas or something.”
 
+## The group enters the bazaar, as they continue to hone in on their target
 ONCE THEY ENTERED the bazaar, the Finn brightened noticeably, as though he were
 comforted by the crowd density and the sense of enclosure. They walked with the
 Armenian along a broad concourse, beneath soot-stained sheets of plastic and
@@ -220,6 +233,9 @@ muttering to his Sanyo. “Come,” he said, “he is moving. Each night he ride
 tunel to the bazaar, to purchase his mixture from Ali. Your woman is close.
 Come.”
 
+## Tarzibashjian gets injured as the group has a strange encounter with their target. Molly appears out of the dark to resolve it.
+
+### The trio finds Riviera in an Alley
 THE ALLEY WAS an old place, too old, the walls cut from blocks of dark stone.
 The pavement was uneven and smelled of a century’s dripping gasoline, absorbed
 by ancient limestone. “Can’t see shit,” he whispered to the Finn. “That’s okay
@@ -229,6 +245,7 @@ Wood grated on stone or concrete. Ten meters down the alley, a wedge of yellow
 light fell across wet cobbles, widened. A figure stepped out and the door
 grated shut again, leaving the narrow place in darkness. Case shivered.
 
+### Terzibashjian instructs someone to shine a bright light on the man, he collapses in the light
 “Now,” Terzibashjian said, and a brilliant beam of white light, directed from
 the rooftop of the building opposite the market, pinned the slender figure
 beside the ancient wooden door in a perfect circle. Bright eyes darted left,
@@ -237,6 +254,7 @@ down, blond hair pale against the old stone, his limp hands white and pathetic.
 
 The floodlight never wavered.
 
+### Some sort of monster emerges from the jacket of the collapsed man
 The back of the fallen man’s jacket heaved and burst, blood splashing the wall
 and doorway. A pair of impossibly long, rope-tendoned arms flexed grayish-pink
 in the glare. The thing seemed to pull itself up out of the pavement, through
@@ -248,6 +266,7 @@ shallow, and lined with a seething growth of hairs or bristles, glittering like
 black chrome. It kicked the rags of clothing and flesh aside and took a step,
 the mouth seeming to scan for them as it moved.
 
+### Terzibashjian rushes the monster and a pistol is fired
 Terzibashjian said something in Greek or Turkish and rushed the thing, his arms
 spread like a man attempting to dive through a window. He went through it. Into
 the muzzle-flash of a pistol from the dark beyond the circle of light.
@@ -257,6 +276,7 @@ crouch.
 The light from the rooftop vanished, leaving him with mismatched afterimages of
 muzzle-flash, monster, and white beam. His ears rang.
 
+### In the aftermath, Riviera is subdued, Molly reveals herself, and Terzibashjian, injured, tells them to call for Mahmut
 Then the light returned, bobbing now, searching the shadows. Terzibashjian was
 leaning against a steel door, his face very white in the glare. He held his
 left wrist and watched blood drip from a wound in his left hand. The blond man,
@@ -278,11 +298,15 @@ Molly bent and picked something up. A pistol. “A Nambu,” she said. “Nice g
 Terzibashjian made a whining sound. Case saw that most of his middle finger was
 missing.
 
+## Molly and Case speculate about many things, from Tarzibashjian to Wintemute and Corto to Riviera
+
+### Molly instructs the Mercades to drive to Topkapi as Finn and Mahmut take care of Riviera
 WITH THE CITY drenched in predawn blue, she told the Mercedes to take them to
 Topkapi. The Finn and an enormous Turk named Mahmut had taken Riviera, still
 unconscious, from the alley. Minutes later, a dusty Citroen had arrived for the
 Armenian, who seemed on the verge of fainting.
 
+### Molly scolds Tarzibashjian as a Citroen arrives to take him away
 “You’re an asshole,” Molly told the man, opening the car door for him. “You
 shoulda hung back. I had him in my sights as soon as he stepped out.”
 Terzibashjian glared at her: “So we’re through with you anyway.” She shoved him
@@ -290,6 +314,7 @@ in and slammed the door. “Run into you again and I’ll kill you,” she said 
 the white face behind the tinted window. The Citroen ground away down the alley
 and swung clumsily into the street.
 
+### They arrive at Topkapi and come to a whore-house made museum
 Now the Mercedes whispered through Istanbul as the city woke. They passed the
 Beyoglu tunel terminal and sped past mazes of deserted back streets, run-down
 apartment houses that reminded Case vaguely of Paris.
@@ -310,6 +335,7 @@ the Christians could kiss it for luck. Got it off the Christians about a
 million years ago, and they never dust the goddam thing, ’cause it’s an infidel
 relic.”
 
+### Molly reflects on the questionable character of Tarzibashjian
 Black iron deer rusted in the gardens of the Seraglio. Case walked beside her,
 watching the toes of her boots crunch unkept grass made stiff by an early
 frost. They walked beside a path of cold octagonal flagstones. Winter was
@@ -319,6 +345,7 @@ waiting, somewhere in the Balkans.
 Real easy to buy out, too, with the kind of money Armitage was offering.” In
 the wet trees around them, birds began to sing.
 
+### Case informs Molly of what he learned of Corto and they discuss possibilties
 “I did that job for you,” Case said, “the one in London. I got something, but I
 don’t know what it means.” He told her the Corto story.
 
@@ -347,6 +374,7 @@ right?”
 
 “I don’t get it,” Case said.
 
+### Molly and Case kabitz about AI for a bit
 “Just thinking out loud. . . . How smart’s an AI, Case?”
 
 “Depends. Some aren’t much smarter than dogs. Pets. Cost a fortune anyway. The
@@ -362,6 +390,7 @@ know? And then there’s the Turing cops, and that’s bad heat.” He looked at
 
 “Jockeys all the same,” she said. “No imagination.”
 
+### Molly compares their knowledge of Wintermute to a pebble in a pond she throws
 They came to a broad rectangular pond where carp nuzzled the stems of some
 white aquatic flower. She kicked a loose pebble in and watched the ripples
 spread.
@@ -379,6 +408,7 @@ go and talk to Wintermute.”
 
 “Ask the Flatline.”
 
+### Molly says what she knows about Riviera
 “What do we want out of that Riviera?” he asked, hoping to change the subject.
 
 She spat into the pond. “God knows. I’d as soon kill him as look at him. I saw
@@ -399,6 +429,7 @@ very cold.
 
 “What’s that mean?”
 
+### Molly finishes up by saying she intends to buy some drugs from Ali the dealer for Riviera
 “Never mind. Let’s go back to Beyoglu and find something like breakfast. I
 gotta busy night again, tonight. Gotta collect his stuff from that apartment in
 Fener, gotta go back to the bazaar and buy him some drugs. . . .”
@@ -410,6 +441,9 @@ can’t work without that special taste. I like you better now, anyway, you
 aren’t so goddam skinny.” She smiled. “So I’ll go to Ali the dealer and stock
 up. You betcha.”
 
+## Armitage gives Molly and Case their new destination
+
+### Back at the hotel, Armitage give Case a brochure for Freeside, their next destination
 ARMITAGE WAS waiting in their room at the Hilton.
 
 “Time to pack,” he said, and Case tried to find the man called Corto behind the
@@ -438,12 +472,16 @@ printed, in French, English, and Turkish.
 
 FREESIDE—WHY WAIT?
 
+## Armitage, Riviera, and Case wait on Molly when Case gets a phone call on a payphone from Wintermute
+
+### The four are booked on a flight
 THE FOUR OF them were booked on a THY flight out of Yesilköy airport. Transfer
 at Paris to the JAL shuttle. Case sat in the lobby of the Istanbul Hilton and
 watched Riviera browse bogus Byzantine fragments in the glass-walled gift shop.
 Armitage, his trenchcoat draped over his shoulders like a cape, stood in the
 shop’s entrance.
 
+### Description of Riviera, and interactions with Armitage in the giftshop there
 Riviera was slender, blond, soft-voiced, his English accentless and fluid.
 Molly said he was thirty, but it would have been difficult to guess his age.
 She also said he was legally stateless and traveled under a forged Dutch
@@ -465,6 +503,7 @@ Riviera didn’t act like a man who’d been attacked the night before, drugged
 with a toxin-flechette, abducted, subjected to the Finn’s examination, and
 pressured by Armitage into joining their team.
 
+### Waiting for Molly and looking for cigarettes, Case goes to a vending machine next to a line of payphones
 Case checked his watch. Molly was due back from her drug run. He looked up at
 Riviera again. “I bet you’re stoned right now, asshole,” he said to the Hilton
 lobby. A graying Italian matron in a white leather tuxedo jacket lowered her
@@ -477,6 +516,7 @@ There were cigarettes in the gift shop, but he didn’t relish talking with
 Armitage or Riviera. He left the lobby and located a vending console in a
 narrow alcove, at the end of a rank of pay phones.
 
+### The phone next to him rings. Case picks it up and a voice claiming to wintermute reveals that it wants to talk.
 He fumbled through a pocketful of lirasi, slotting the small dull alloy coins
 one after another, vaguely amused by the anachronism of the process. The phone
 nearest him rang.
@@ -499,6 +539,7 @@ It was a chip voice.
 
 “Don’t you want to talk, Case?”
 
+### Case hangs up, and payphones ring with him as he walks back to the lobby
 He hung up.
 
 On his way back to the lobby, his cigarettes forgotten, he had to walk the
