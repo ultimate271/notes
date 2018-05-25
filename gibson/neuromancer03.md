@@ -6,11 +6,12 @@
 
 THREE
 
-
+## Trippy bit about the Sprawl
 HOME.
 
 Home was BAMA, the Sprawl, the Boston-Atlanta Metropolitan Axis.
 
+<<<<<<< HEAD
 Program a map to display frequency of data exchange, every thousand megabytes a single pixel on a very large screen. Manhattan and Atlanta burn solid white. Then they start to pulse, the rate of traffic threatening to overload your simulation. Your map is about to go nova. Cool it down. Up your scale. Each pixel a million megabytes. At a hundred million megabytes per second, you begin to make out certain blocks in midtown Manhattan, outlines of hundred-year-old industrial parks ringing the old core of Atlanta . . .
 
 CASE WOKE FROM a dream of airports, of Molly’s dark leathers moving ahead of him through the concourses of Narita, Schipol, Orly. . . . He watched himself buy a flat plastic flask of Danish vodka at some kiosk, an hour before dawn.
@@ -20,6 +21,41 @@ Somewhere down in the Sprawl’s ferro-concrete roots, a train drove a column of
 Opening his eyes, he saw Molly, naked and just out of reach across an expanse of very new pink temperfoam. Overhead, sunlight filtered through the soot-stained grid of a skylight. One half-meter square of glass had been replaced with chipboard, a fat gray cable emerging there to dangle within a few centimeters of the floor. He lay on his side and watched her breathe, her breasts, the sweep of a flank defined with the functional elegance of a war plane’s fusilage. Her body was spare, neat, the muscles like a dancer’s.
 
 The room was large. He sat up. The room was empty, aside from the wide pink bedslab and two nylon bags, new and identical, that lay beside it. Blank walls, no windows, a single white-painted steel firedoor. The walls were coated with countless layers of white latex paint. Factory space. He knew this kind of room, this kind of building; the tenants would operate in the interzone where art wasn’t quite crime, crime not quite art.
+=======
+Program a map to display frequency of data exchange, every thousand megabytes a
+single pixel on a very large screen. Manhattan and Atlanta burn solid white.
+Then they start to pulse, the rate of traffic threatening to overload your
+simulation. Your map is about to go nova. Cool it down. Up your scale. Each
+pixel a million megabytes. At a hundred million megabytes per second, you begin
+to make out certain blocks in midtown Manhattan, outlines of hundred-year-old
+industrial parks ringing the old core of Atlanta . . .
+
+## After travelling a bunch, Case finds a shuriken that Molly bought him
+CASE WOKE FROM a dream of airports, of Molly’s dark leathers moving ahead of
+him through the concourses of Narita, Schipol, Orly. . . . He watched himself
+buy a flat plastic flask of Danish vodka at some kiosk, an hour before dawn.
+
+Somewhere down in the Sprawl’s ferro-concrete roots, a train drove a column of
+stale air through a tunnel. The train itself was silent, gliding over its
+induction cushion, but displaced air made the tunnel sing, bass down into
+subsonics. Vibration reached the room where he lay and caused dust to rise from
+the cracks in the dessicated parquet floor.
+
+Opening his eyes, he saw Molly, naked and just out of reach across an expanse
+of very new pink temperfoam. Overhead, sunlight filtered through the
+soot-stained grid of a skylight. One half-meter square of glass had been
+replaced with chipboard, a fat gray cable emerging there to dangle within a few
+centimeters of the floor. He lay on his side and watched her breathe, her
+breasts, the sweep of a flank defined with the functional elegance of a war
+plane’s fusilage. Her body was spare, neat, the muscles like a dancer’s.
+
+The room was large. He sat up. The room was empty, aside from the wide pink
+bedslab and two nylon bags, new and identical, that lay beside it. Blank walls,
+no windows, a single white-painted steel firedoor. The walls were coated with
+countless layers of white latex paint. Factory space. He knew this kind of
+room, this kind of building; the tenants would operate in the interzone where
+art wasn’t quite crime, crime not quite art.
+>>>>>>> origin/master
 
 He was home.
 
@@ -31,7 +67,14 @@ The paper tore when he picked it up; a bright nine-pointed star fell—to stick 
 
 “Souvenir,” Molly said. “I noticed you were always looking at ’em.” He turned and saw her sitting cross-legged on the bed, sleepily scratching her stomach with burgundy nails.
 
+<<<<<<< HEAD
 “SOMEONE’S COMING LATER to secure the place,” Armitage said. He stood in the open doorway with an old-fashioned magnetic key in his hand. Molly was making coffee on a tiny German stove she took from her bag.
+=======
+## Armitage reveals the Neurotoxins he injected into Case's bloodstream
+“SOMEONE’S COMING LATER to secure the place,” Armitage said. He stood in the
+open doorway with an old-fashioned magnetic key in his hand. Molly was making
+coffee on a tiny German stove she took from her bag.
+>>>>>>> origin/master
 
 “I can do it,” she said. “I got enough gear already. Infrascan perimeter, screamers . . .”
 
@@ -67,7 +110,13 @@ Case looked at Molly. She shrugged.
 
 “Now go down to the freight elevator and bring up the cases you find there.” Armitage handed him the magnetic key. “Go on. You’ll enjoy this, Case. Like Christmas morning.”
 
+<<<<<<< HEAD
 SUMMER IN THE Sprawl, the mall crowds swaying like windblown grass, a field of flesh shot through with sudden eddies of need and gratification.
+=======
+## Molly and Case kabitz
+SUMMER IN THE Sprawl, the mall crowds swaying like windblown grass, a field of
+flesh shot through with sudden eddies of need and gratification.
+>>>>>>> origin/master
 
 He sat beside Molly in filtered sunlight on the rim of a dry concrete fountain, letting the endless stream of faces recapitulate the stages of his life. First a child with hooded eyes, a street boy, hands relaxed and ready at his sides; then a teenager, face smooth and cryptic beneath red glasses. Case remembered fighting on a rooftop at seventeen, silent combat in the rose glow of the dawn geodesics.
 
@@ -89,11 +138,33 @@ With his deck waiting, back in the loft, an Ono-Sendai Cyberspace 7. They’d le
 
 “So what’s he got on you? How’s he got the working girl kinked?”
 
+<<<<<<< HEAD
 “Professional pride, baby, that’s all.” And again the sign for silence. “We’re gonna get some breakfast, okay? Eggs, real bacon. Probably kill you, you been eating that rebuilt Chiba krill for so long. Yeah, come on, we’ll tube in to Manhattan and get us a real breakfast.”
 
 LIFELESS NEON SPELLED out METRO HOLOGRAFIX in dusty capitals of glass tubing. Case picked at a shred of bacon that had lodged between his front teeth. He’d given up asking her where they were going and why; jabs in the ribs and the sign for silence were all he’d gotten in reply. She talked about the season’s fashions, about sports, about a political scandal in California he’d never heard of.
 
 He looked around the deserted dead-end street. A sheet of newsprint went cartwheeling past the intersection. Freak winds in the East side; something to do with convection, and an overlap in the domes. Case peered through the window at the dead sign. Her Sprawl wasn’t his Sprawl, he decided. She’d led him through a dozen bars and clubs he’d never seen before, taking care of business, usually with no more than a nod. Maintaining connections.
+=======
+“Professional pride, baby, that’s all.” And again the sign for silence. “We’re
+gonna get some breakfast, okay? Eggs, real bacon. Probably kill you, you been
+eating that rebuilt Chiba krill for so long. Yeah, come on, we’ll tube in to
+Manhattan and get us a real breakfast.”
+
+## Molly takes Case to METRO HOLOGRAFIX where Finn gives them privacy
+LIFELESS NEON SPELLED out METRO HOLOGRAFIX in dusty capitals of glass tubing.
+Case picked at a shred of bacon that had lodged between his front teeth. He’d
+given up asking her where they were going and why; jabs in the ribs and the
+sign for silence were all he’d gotten in reply. She talked about the season’s
+fashions, about sports, about a political scandal in California he’d never
+heard of.
+
+He looked around the deserted dead-end street. A sheet of newsprint went
+cartwheeling past the intersection. Freak winds in the East side; something to
+do with convection, and an overlap in the domes. Case peered through the window
+at the dead sign. Her Sprawl wasn’t his Sprawl, he decided. She’d led him
+through a dozen bars and clubs he’d never seen before, taking care of business,
+usually with no more than a nod. Maintaining connections.
+>>>>>>> origin/master
 
 Something was moving in the shadows behind METRO HOLOGRAFIX.
 
@@ -123,7 +194,14 @@ The man who stood blinking now in the doorway behind them, the blanket draping o
 
 “Hey, that’s fine by the Finn, Moll. You’re only paying by the second.”
 
+<<<<<<< HEAD
 They sealed the door behind him and Molly turned one of the white chairs around and sat on it, chin resting on crossed forearms. “We talk now. This is as private as I can afford.”
+=======
+## Molly reveals their job; to steal Dixie Flatline's construct from Sense/Net
+They sealed the door behind him and Molly turned one of the white chairs around
+and sat on it, chin resting on crossed forearms. “We talk now. This is as
+private as I can afford.”
+>>>>>>> origin/master
 
 “What about?”
 
@@ -193,7 +271,23 @@ Case looked at her. “I gotta lotta choice, huh?”
 
 She laughed. “You got it, cowboy.”
 
+<<<<<<< HEAD
 “THE MATRIX HAS its roots in primitive arcade games,” said the voice-over, “in early graphics programs and military experimentation with cranial jacks.” On the Sony, a two-dimensional space war faded behind a forest of mathematically generated ferns, demonstrating the spacial possibilities of logarithmic spirals; cold blue military footage burned through, lab animals wired into test systems, helmets feeding into fire control circuits of tanks and war planes. “Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts . . . A graphic representation of data abstracted from the banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding. . . .”
+=======
+## Case feels hysteria as he jacks into the matrix again
+“THE MATRIX HAS its roots in primitive arcade games,” said the voice-over, “in
+early graphics programs and military experimentation with cranial jacks.” On
+the Sony, a two-dimensional space war faded behind a forest of mathematically
+generated ferns, demonstrating the spacial possibilities of logarithmic
+spirals; cold blue military footage burned through, lab animals wired into test
+systems, helmets feeding into fire control circuits of tanks and war planes.
+“Cyberspace. A consensual hallucination experienced daily by billions of
+legitimate operators, in every nation, by children being taught mathematical
+concepts . . . A graphic representation of data abstracted from the banks of
+every computer in the human system. Unthinkable complexity. Lines of light
+ranged in the nonspace of the mind, clusters and constellations of data. Like
+city lights, receding. . . .”
+>>>>>>> origin/master
 
 “What’s that?” Molly asked, as he flipped the channel selector.
 
@@ -223,7 +317,15 @@ And flowed, flowered for him, fluid neon origami trick, the unfolding of his dis
 
 And somewhere he was laughing, in a white-painted loft, distant fingers caressing the deck, tears of release streaking his face.
 
+<<<<<<< HEAD
 MOLLY WAS GONE when he took the trodes off, and the loft was dark. He checked the time. He’d been in cyberspace for five hours. He carried the Ono-Sendai to one of the new worktables and collapsed across the bedslab, pulling Molly’s black silk sleeping bag over his head.
+=======
+## After jacking out, the Finn reveals he is to place a hardware tranceiver in Case
+MOLLY WAS GONE when he took the trodes off, and the loft was dark. He checked
+the time. He’d been in cyberspace for five hours. He carried the Ono-Sendai to
+one of the new worktables and collapsed across the bedslab, pulling Molly’s
+black silk sleeping bag over his head.
+>>>>>>> origin/master
 
 The security package taped to the steel firedoor bleeped twice. “Entry requested,” it said. “Subject is cleared per my program.”
 
