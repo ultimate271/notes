@@ -1,6 +1,6 @@
 ## Chapter II. He Gets Rid Of His Eldest Son
 
-
+### Servent Grigory is required to watch young Mitya due to his fathers forgetfulness of him
 You can easily imagine what a father such a man could be and how he would
 bring up his children. His behavior as a father was exactly what might be
 expected. He completely abandoned the child of his marriage with Adelaïda
@@ -11,6 +11,7 @@ faithful servant of the family, Grigory, took the three‐year‐old Mitya
 into his care. If he hadn’t looked after him there would have been no one
 even to change the baby’s little shirt.
 
+### Of Pyoter Alexandrovitch Miüsov, cousin to Adelaïda, and his desire to educate young Mitya
 It happened moreover that the child’s relations on his mother’s side
 forgot him too at first. His grandfather was no longer living, his widow,
 Mitya’s grandmother, had moved to Moscow, and was seriously ill, while his
@@ -49,6 +50,7 @@ understand what child he was talking about, and even as though he was
 surprised to hear that he had a little son in the house. The story may
 have been exaggerated, yet it must have been something like the truth.
 
+### Pyotr takes joint custody of young Mitya, but also comes to forget him
 Fyodor Pavlovitch was all his life fond of acting, of suddenly playing an
 unexpected part, sometimes without any motive for doing so, and even to
 his own direct disadvantage, as, for instance, in the present case. This
@@ -69,6 +71,7 @@ won’t enlarge upon that now, as I shall have much to tell later of Fyodor
 Pavlovitch’s firstborn, and must confine myself now to the most essential
 facts about him, without which I could not begin my story.
 
+### Mitya grows up, comes of age, and sucks his father dry of his assets
 In the first place, this Mitya, or rather Dmitri Fyodorovitch, was the
 only one of Fyodor Pavlovitch’s three sons who grew up in the belief that
 he had property, and that he would be independent on coming of age. He

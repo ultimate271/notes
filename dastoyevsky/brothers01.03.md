@@ -1,6 +1,6 @@
 ## Chapter III. The Second Marriage And The Second Family
 
-
+### Of Sofya Ivanovna, Fyodor's second wife, and her upbringing with the insufferable general's widow
 Very shortly after getting his four‐year‐old Mitya off his hands Fyodor
 Pavlovitch married a second time. His second marriage lasted eight years.
 He took this second wife, Sofya Ivanovna, also a very young girl, from
@@ -18,6 +18,7 @@ so terrible were her sufferings from the caprice and everlasting nagging
 of this old woman, who was apparently not bad‐hearted but had become an
 insufferable tyrant through idleness.
 
+### Fyodor proposes elopement to the ophan Sofya, who accepts as perhaps the lesser of two evils
 Fyodor Pavlovitch made her an offer; inquiries were made about him and he
 was refused. But again, as in his first marriage, he proposed an elopement
 to the orphan girl. There is very little doubt that she would not on any
@@ -33,6 +34,7 @@ innocent appearance, which had a peculiar attraction for a vicious
 profligate, who had hitherto admired only the coarser types of feminine
 beauty.
 
+### Adelaïda dies after birthing two children
 “Those innocent eyes slit my soul up like a razor,” he used to say
 afterwards, with his loathsome snigger. In a man so depraved this might,
 of course, mean no more than sensual attraction. As he had received no
@@ -66,6 +68,7 @@ declared aloud two or three times to her retainers:
 
 “It serves her right. God has punished her for her ingratitude.”
 
+### The general's widow, Sofya's caretaker, only three months after Sofya's death, takes the boys into her own hands
 Exactly three months after Sofya Ivanovna’s death the general’s widow
 suddenly appeared in our town, and went straight to Fyodor Pavlovitch’s
 house. She spent only half an hour in the town but she did a great deal.
@@ -89,6 +92,7 @@ did not refuse the general’s widow his formal consent to any proposition
 in regard to his children’s education. As for the slaps she had given him,
 he drove all over the town telling the story.
 
+### Yefin Petrovitch Polenov takes care of the two boys after the cartaker dies. We learn a bit about Ivan
 It happened that the old lady died soon after this, but she left the boys
 in her will a thousand roubles each “for their instruction, and so that
 all be spent on them exclusively, with the condition that it be so
@@ -169,6 +173,7 @@ Learning the author’s name, they were interested in his being a native of
 the town and the son of “that Fyodor Pavlovitch.” And just then it was
 that the author himself made his appearance among us.
 
+### Ivan curiously visits his father's estate, coming at the bidding of Dmitri for matters which will become clear later
 Why Ivan Fyodorovitch had come amongst us I remember asking myself at the
 time with a certain uneasiness. This fateful visit, which was the first
 step leading to so many consequences, I never fully explained to myself.
@@ -212,6 +217,7 @@ I may add that Ivan appeared at the time in the light of a mediator
 between his father and his elder brother Dmitri, who was in open quarrel
 with his father and even planning to bring an action against him.
 
+### Conclusion, this being the first time the family is united, the narrator takes us back to talk of the youngest son Alexey
 The family, I repeat, was now united for the first time, and some of its
 members met for the first time in their lives. The younger brother,
 Alexey, had been a year already among us, having been the first of the

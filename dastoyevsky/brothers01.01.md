@@ -1,5 +1,6 @@
 ## Chapter I. Fyodor Pavlovitch Karamazov
 
+### Description of Fyodor Pavlovitch Karamazov
 Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch
 Karamazov, a land owner well known in our district in his own day, and
 still remembered among us owing to his gloomy and tragic death, which
@@ -19,6 +20,7 @@ stupidity—the majority of these fantastical fellows are shrewd and
 intelligent enough—but just senselessness, and a peculiar national form of
 it.
 
+### Description of Adelaïda Ivanovna Miüsov, first wife of Fyodor
 He was married twice, and had three sons, the eldest, Dmitri, by his first
 wife, and two, Ivan and Alexey, by his second. Fyodor Pavlovitch’s first
 wife, Adelaïda Ivanovna, belonged to a fairly rich and distinguished noble
@@ -57,6 +59,7 @@ was always of a voluptuous temper, and ready to run after any petticoat on
 the slightest encouragement. She seems to have been the only woman who
 made no particular appeal to his senses.
 
+### On the unhealthy marraige between Fyodor and Adelaïda
 Immediately after the elopement Adelaïda Ivanovna discerned in a flash
 that she had no feeling for her husband but contempt. The marriage
 accordingly showed itself in its true colors with extraordinary rapidity.
@@ -87,6 +90,7 @@ for a husband to mention in regard to his own married life. What seemed to
 gratify him and flatter his self‐love most was to play the ridiculous part
 of the injured husband, and to parade his woes with embellishments.
 
+### Fyodor's reaction to Adelaïda's death in Petersburg
 “One would think that you’d got a promotion, Fyodor Pavlovitch, you seem
 so pleased in spite of your sorrow,” scoffers said to him. Many even added
 that he was glad of a new comic part in which to play the buffoon, and
