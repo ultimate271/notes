@@ -1,6 +1,6 @@
 ## Chapter V. Elders
 
-
+### Further description of Alexey/commentary on the story of Thomas
 Some of my readers may imagine that my young man was a sickly, ecstatic,
 poorly developed creature, a pale, consumptive dreamer. On the contrary,
 Alyosha was at this time a well‐grown, red‐cheeked, clear‐eyed lad of
@@ -25,6 +25,7 @@ Was it the miracle forced him to believe? Most likely not, but he believed
 solely because he desired to believe and possibly he fully believed in his
 secret heart even when he said, “I do not believe till I see.”
 
+### The sacrifices Alexey made to pursue his immortal passion
 I shall be told, perhaps, that Alyosha was stupid, undeveloped, had not
 finished his studies, and so on. That he did not finish his studies is
 true, but to say that he was stupid or dull would be a great injustice.
@@ -87,6 +88,7 @@ exploits. It had flourished and been glorious all over Russia through its
 elders, to see and hear whom pilgrims had flocked for thousands of miles
 from all parts.
 
+### On elders
 What was such an elder? An elder was one who took your soul, your will,
 into his soul and his will. When you choose an elder, you renounce your
 own will and yield it to him in complete submission, complete self‐
@@ -142,6 +144,7 @@ may be a two‐edged weapon and it may lead some not to humility and
 complete self‐control but to the most Satanic pride, that is, to bondage
 and not to freedom.
 
+### Of the elder Zossima in particular, who Alexey is fond of
 The elder Zossima was sixty‐five. He came of a family of landowners, had
 been in the army in early youth, and served in the Caucasus as an officer.
 He had, no doubt, impressed Alyosha by some peculiar quality of his soul.
@@ -223,6 +226,7 @@ poor, no exalted nor humbled, but all will be as the children of God, and
 the true Kingdom of Christ will come.” That was the dream in Alyosha’s
 heart.
 
+### Alexey's first impressions of his two brothers
 The arrival of his two brothers, whom he had not known till then, seemed
 to make a great impression on Alyosha. He more quickly made friends with
 his half‐brother Dmitri (though he arrived later) than with his own
@@ -252,6 +256,7 @@ with Ivan, almost uneducated, and the two brothers were such a contrast in
 personality and character that it would be difficult to find two men more
 unlike.
 
+### At the suggestion of Fyoder, the group of five, being Fyoder, the three sons, and Pyotr, elect to visit the monk
 It was at this time that the meeting, or, rather gathering of the members
 of this inharmonious family took place in the cell of the elder who had
 such an extraordinary influence on Alyosha. The pretext for this gathering

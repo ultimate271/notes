@@ -34,7 +34,7 @@ innocent appearance, which had a peculiar attraction for a vicious
 profligate, who had hitherto admired only the coarser types of feminine
 beauty.
 
-### Adelaïda dies after birthing two children
+### Soyfa dies after birthing two children
 “Those innocent eyes slit my soul up like a razor,” he used to say
 afterwards, with his loathsome snigger. In a man so depraved this might,
 of course, mean no more than sensual attraction. As he had received no

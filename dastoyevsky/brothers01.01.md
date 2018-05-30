@@ -1,4 +1,10 @@
+# Book I. The History Of A Family
+
 ## Chapter I. Fyodor Pavlovitch Karamazov
+_We are introduced to the father of the three brothers, Fyodor Pavlovitch
+Karamazov, and we learn mostly of his first marraige with Adelaïda Ivanovna
+Miüsov, which ended in her leaving him and dying in Petersburg, leaving Mitya,
+their three year old child, in his care_
 
 ### Description of Fyodor Pavlovitch Karamazov
 Alexey Fyodorovitch Karamazov was the third son of Fyodor Pavlovitch
@@ -59,7 +65,7 @@ was always of a voluptuous temper, and ready to run after any petticoat on
 the slightest encouragement. She seems to have been the only woman who
 made no particular appeal to his senses.
 
-### On the unhealthy marraige between Fyodor and Adelaïda
+### On the unhealthy marraige between Fyodor and Adelaïda, leading to her leaving him
 Immediately after the elopement Adelaïda Ivanovna discerned in a flash
 that she had no feeling for her husband but contempt. The marriage
 accordingly showed itself in its true colors with extraordinary rapidity.
@@ -115,6 +121,4 @@ repulsion he inspired. It is quite possible that both versions were true,
 that he rejoiced at his release, and at the same time wept for her who
 released him. As a general rule, people, even the wicked, are much more
 naïve and simple‐hearted than we suppose. And we ourselves are, too.
-
-
 

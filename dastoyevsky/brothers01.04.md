@@ -1,6 +1,6 @@
 ## Chapter IV. The Third Son, Alyosha
 
-
+### On the youngest, Alyosha, and his quiet and sullen, preoccupied personality
 He was only twenty, his brother Ivan was in his twenty‐fourth year at the
 time, while their elder brother Dmitri was twenty‐seven. First of all, I
 must explain that this young man, Alyosha, was not a fanatic, and, in my
@@ -55,6 +55,7 @@ him terribly often, with drunken tears, with sottish sentimentality, yet
 he evidently felt a real and deep affection for him, such as he had never
 been capable of feeling for any one before.
 
+### The interactions of Alexey with his schoolchildren
 Every one, indeed, loved this young man wherever he went, and it was so
 from his earliest childhood. When he entered the household of his patron
 and benefactor, Yefim Petrovitch Polenov, he gained the hearts of all the
@@ -101,6 +102,7 @@ being a “regular girl,” and what’s more they looked upon it with
 compassion as a weakness. He was always one of the best in the class but
 was never first.
 
+### On the women who took care of Alexey when Yefin died, and Alexey's perception of money
 At the time of Yefim Petrovitch’s death Alyosha had two more years to
 complete at the provincial gymnasium. The inconsolable widow went almost
 immediately after his death for a long visit to Italy with her whole
@@ -135,6 +137,7 @@ would find a shelter for himself, and it would cost him no effort or
 humiliation. And to shelter him would be no burden, but, on the contrary,
 would probably be looked on as a pleasure.”
 
+### Alexey visits his father to see the grave of his mother, but Fyodor doesn't even know where she is buried
 He did not finish his studies at the gymnasium. A year before the end of
 the course he suddenly announced to the ladies that he was going to see
 his father about a plan which had occurred to him. They were sorry and
@@ -155,6 +158,7 @@ him where his second wife was buried, for he had never visited her grave
 since he had thrown earth upon her coffin, and in the course of years had
 entirely forgotten where she was buried.
 
+### Of Fyodor's doings in that time, his trip to Russia and the depravity of his return
 Fyodor Pavlovitch, by the way, had for some time previously not been
 living in our town. Three or four years after his wife’s death he had gone
 to the south of Russia and finally turned up in Odessa, where he spent
@@ -181,6 +185,7 @@ Pavlovitch might have got into terrible scrapes. Alyosha’s arrival seemed
 to affect even his moral side, as though something had awakened in this
 prematurely old man which had long been dead in his soul.
 
+### Alexey visits quietly the grave of his mother by Grigory, and Fyodor shows sudden interest in the monestary, but only superficially
 “Do you know,” he used often to say, looking at Alyosha, “that you are
 like her, ‘the crazy woman’ ”—that was what he used to call his dead wife,
 Alyosha’s mother. Grigory it was who pointed out the “crazy woman’s” grave
@@ -205,6 +210,7 @@ abused the monks to Alyosha. He himself was far from being religious; he
 had probably never put a penny candle before the image of a saint. Strange
 impulses of sudden feeling and sudden thought are common in such types.
 
+### More on the repulsiveness of Fyodor
 I have mentioned already that he looked bloated. His countenance at this
 time bore traces of something that testified unmistakably to the life he
 had led. Besides the long fleshy bags under his little, always insolent,
@@ -220,6 +226,7 @@ delicate and conspicuously aquiline. “A regular Roman nose,” he used to
 say, “with my goiter I’ve quite the countenance of an ancient Roman
 patrician of the decadent period.” He seemed proud of it.
 
+### Fyodor's reaction to his son Alexey joining the Monestary, hoping his son might save him from the hooks of hell
 Not long after visiting his mother’s grave Alyosha suddenly announced that
 he wanted to enter the monastery, and that the monks were willing to
 receive him as a novice. He explained that this was his strong desire, and
