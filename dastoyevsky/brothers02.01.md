@@ -2,7 +2,6 @@
 
 ## Chapter I. They Arrive At The Monastery
 
-
 It was a warm, bright day at the end of August. The interview with the
 elder had been fixed for half‐past eleven, immediately after late mass.
 Our visitors did not take part in the service, but arrived just as it was
