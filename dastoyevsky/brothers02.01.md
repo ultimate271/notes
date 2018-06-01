@@ -1,7 +1,27 @@
 # Book II. An unfortunate Gathering
 
 ## Chapter I. They Arrive At The Monastery
+_Character:Fyodor Pavlovitch Karamazov_  
+_Character:Pyotr Alexandrovitch Miüsov_  
+_Character:Pyotr Fomitch Kalganov_  
+_Character:Dmitri Fyodorovitch Karamazov_  
+_Character(Reference):Ivan Fyodorovitch Karamazov_  
+_Character:Alexey Fyodorovitch Karamazov_  
+_Character(Insignificant):Maximov_  
+_Character(Introduced):A Monk_  
+_Character(Reference):Elder Zossima_  
+_Character(Reference):Father Superior_  
+_Summary:The title is pretty descriptive, the father, two of the sons (Dmitri
+the eldest is late) and Miüsov (one of the previous caretakers of Dmitri) with
+a companion new to us named Pyotr Fomitch Kalganov arrive at the monestary.
+They are escroted first by a guy named Maximov, who hands them off to a Monk,
+who takes them to the hermitage. The primary theme of the chapter is bickering
+between Miüsov and Fyodor._  
 
+
+### People begin to arrive at the Monestary
+
+#### We are introduced to a distant relative of Miüsov (the cousin once removed from Dmitri the eldest on his mothers side) named Pyotr Fomitch Kalganov, friend of Alexey
 It was a warm, bright day at the end of August. The interview with the
 elder had been fixed for half‐past eleven, immediately after late mass.
 Our visitors did not take part in the service, but arrived just as it was
@@ -20,6 +40,7 @@ vanished as quickly as it appeared. He was always well and even
 elaborately dressed; he had already some independent fortune and
 expectations of much more. He was a friend of Alyosha’s.
 
+#### Ivan and Fyodor's arrival/commentary about Miüsov's curiosity about the church and Kalganov's embarrassing charity to the beggers outside
 In an ancient, jolting, but roomy, hired carriage, with a pair of old
 pinkish‐gray horses, a long way behind Miüsov’s carriage, came Fyodor
 Pavlovitch, with his son Ivan. Dmitri was late, though he had been
@@ -40,6 +61,9 @@ why!—hurriedly gave it to an old woman, saying: “Divide it equally.” None
 of his companions made any remark upon it, so that he had no reason to be
 embarrassed; but, perceiving this, he was even more overcome.
 
+### Their first meetings at the monestary
+
+#### Surprisingly they were not met officially
 It was strange that their arrival did not seem expected, and that they
 were not received with special honor, though one of them had recently made
 a donation of a thousand roubles, while another was a very wealthy and
@@ -47,6 +71,7 @@ highly cultured landowner, upon whom all in the monastery were in a sense
 dependent, as a decision of the lawsuit might at any moment put their
 fishing rights in his hands. Yet no official personage met them.
 
+#### Miüsov grows impatient
 Miüsov looked absent‐mindedly at the tombstones round the church, and was
 on the point of saying that the dead buried here must have paid a pretty
 penny for the right of lying in this “holy place,” but refrained. His
@@ -55,6 +80,7 @@ liberal irony was rapidly changing almost into anger.
 “Who the devil is there to ask in this imbecile place? We must find out,
 for time is passing,” he observed suddenly, as though speaking to himself.
 
+#### An elderly man named Maximov takes them to a monk
 All at once there came up a bald‐headed, elderly man with ingratiating
 little eyes, wearing a full, summer overcoat. Lifting his hat, he
 introduced himself with a honeyed lisp as Maximov, a landowner of Tula. He
@@ -88,25 +114,32 @@ snapped his fingers in the air.
 “The elder, the splendid elder, the elder! The honor and glory of the
 monastery, Zossima. Such an elder!”
 
+### We are introduced to a monk who is to lead the group to the hermitage
+
+#### We are introduced to the monk
 But his incoherent talk was cut short by a very pale, wan‐looking monk of
 medium height, wearing a monk’s cap, who overtook them. Fyodor Pavlovitch
 and Miüsov stopped.
 
 The monk, with an extremely courteous, profound bow, announced:
 
+#### The monk invites them to dine with Father Superior after their visit to the hermitage
 “The Father Superior invites all of you gentlemen to dine with him after
 your visit to the hermitage. At one o’clock, not later. And you also,” he
 added, addressing Maximov.
 
+#### Fyodor declares he will go and asks Miüsov if he will join
 “That I certainly will, without fail,” cried Fyodor Pavlovitch, hugely
 delighted at the invitation. “And, believe me, we’ve all given our word to
 behave properly here.... And you, Pyotr Alexandrovitch, will you go, too?”
 
+#### Miüsov replies with of course, and the two quabble about Dmitri unarrived
 “Yes, of course. What have I come for but to study all the customs here?
 The only obstacle to me is your company....”
 
 “Yes, Dmitri Fyodorovitch is non‐existent as yet.”
 
+#### Miüsov quabbles with the monk about instructions to thank the Father Superior
 “It would be a capital thing if he didn’t turn up. Do you suppose I like
 all this business, and in your company, too? So we will come to dinner.
 Thank the Father Superior,” he said to the monk.
@@ -122,6 +155,7 @@ hesitated.
 “Impertinent old man!” Miüsov observed aloud, while Maximov ran back to
 the monastery.
 
+#### Fyodor likens the monk to von Sohn, which gets a rise out of Miüsov who lectures a bit
 “He’s like von Sohn,” Fyodor Pavlovitch said suddenly.
 
 “Is that all you can think of?... In what way is he like von Sohn? Have
@@ -140,10 +174,14 @@ the pale, bloodless lips of the monk, but he made no reply, and was
 evidently silent from a sense of his own dignity. Miüsov frowned more than
 ever.
 
+#### Miüsov's perception of the whole event
 “Oh, devil take them all! An outer show elaborated through centuries, and
 nothing but charlatanism and nonsense underneath,” flashed through
 Miüsov’s mind.
 
+### The group arrives at the gates of the Hermitage where more antics ensue
+
+#### Fyodor puts on a bit of a superficial show of religion
 “Here’s the hermitage. We’ve arrived,” cried Fyodor Pavlovitch. “The gates
 are shut.”
 
@@ -156,6 +194,7 @@ eat cabbages. And not one woman goes in at this gate. That’s what is
 remarkable. And that really is so. But I did hear that the elder receives
 ladies,” he remarked suddenly to the monk.
 
+#### At Fyodor's inquiry, the Monk begins to explain the role of females in the monestary, creating a quarrel between Fyodor and Miüsov
 “Women of the people are here too now, lying in the portico there waiting.
 But for ladies of higher rank two rooms have been built adjoining the
 portico, but outside the precincts—you can see the windows—and the elder
@@ -165,11 +204,13 @@ waiting there now with her sick daughter. Probably he has promised to come
 out to her, though of late he has been so weak that he has hardly shown
 himself even to the people.”
 
+#### Fyodor suggests corruption in the system
 “So then there are loopholes, after all, to creep out of the hermitage to
 the ladies. Don’t suppose, holy father, that I mean any harm. But do you
 know that at Athos not only the visits of women are not allowed, but no
 creature of the female sex—no hens, nor turkey‐hens, nor cows.”
 
+#### Miüsov inturrupts Fyodor, who changes the subject to the roses there
 “Fyodor Pavlovitch, I warn you I shall go back and leave you here. They’ll
 turn you out when I’m gone.”
 
@@ -177,6 +218,7 @@ turn you out when I’m gone.”
 suddenly, stepping within the precincts, “what a vale of roses they live
 in!”
 
+#### Commentary about the flowers
 Though there were no roses now, there were numbers of rare and beautiful
 autumn flowers growing wherever there was space for them, and evidently
 tended by a skillful hand; there were flower‐beds round the church, and
@@ -191,6 +233,9 @@ with a stick,” observed Fyodor Pavlovitch, as he went up the steps.
 that’s told is foolishness. He never thrashed any one,” answered the monk.
 “Now, gentlemen, if you will wait a minute I will announce you.”
 
+### The monk announces their arrival, and Fyodor and Miüsov quarrel even more
+
+#### Fyodor and Miüsov quarrel again
 “Fyodor Pavlovitch, for the last time, your compact, do you hear? Behave
 properly or I will pay you out!” Miüsov had time to mutter again.
 

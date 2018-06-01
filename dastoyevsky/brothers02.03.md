@@ -1,6 +1,8 @@
 ## Chapter III. Peasant Women Who Have Faith
 
+### Father Zossima sees and blesses many women outside his hermitage
 
+#### Description of the scene
 Near the wooden portico below, built on to the outer wall of the precinct,
 there was a crowd of about twenty peasant women. They had been told that
 the elder was at last coming out, and they had gathered together in
@@ -8,6 +10,7 @@ anticipation. Two ladies, Madame Hohlakov and her daughter, had also come
 out into the portico to wait for the elder, but in a separate part of it
 set aside for women of rank.
 
+#### About a lady named Madame Hohlakov and her daughter
 Madame Hohlakov was a wealthy lady, still young and attractive, and always
 dressed with taste. She was rather pale, and had lively black eyes. She
 was not more than thirty‐three, and had been five years a widow. Her
@@ -29,6 +32,9 @@ carriage, and two paces from her stood an old monk, not one of our
 monastery, but a visitor from an obscure religious house in the far north.
 He too sought the elder’s blessing.
 
+### The first woman Father Zossima sees as he begins his blessings
+
+#### Father Zossima heals a deranged woman
 But Father Zossima, on entering the portico, went first straight to the
 peasants who were crowded at the foot of the three steps that led up into
 the portico. Father Zossima stood on the top step, put on his stole, and
@@ -38,6 +44,7 @@ and writhing as though in the pains of childbirth. Laying the stole on her
 forehead, he read a short prayer over her, and she was at once soothed and
 quieted.
 
+#### About this possession of women and their healings by the church
 I do not know how it may be now, but in my childhood I often happened to
 see and hear these “possessed” women in the villages and monasteries. They
 used to be brought to mass; they would squeal and bark like a dog so that
@@ -68,6 +75,7 @@ miracle of healing and the implicit belief that it would come to pass; and
 it did come to pass, though only for a moment. It was exactly the same now
 as soon as the elder touched the sick woman with the stole.
 
+#### Reaction of the healing, it is revealed to the reader that she was well acquainted with the Father
 Many of the women in the crowd were moved to tears of ecstasy by the
 effect of the moment: some strove to kiss the hem of his garment, others
 cried out in sing‐song voices.
@@ -76,6 +84,9 @@ He blessed them all and talked with some of them. The “possessed” woman he
 knew already. She came from a village only six versts from the monastery,
 and had been brought to him before.
 
+### Interaction with a woman who had to bury all her four children
+
+#### Father Zossima turns his attention to another woman, also deranged and delerious
 “But here is one from afar.” He pointed to a woman by no means old but
 very thin and wasted, with a face not merely sunburnt but almost blackened
 by exposure. She was kneeling and gazing with a fixed stare at the elder;
@@ -86,6 +97,7 @@ From afar off, Father, from afar off!” the woman began in a sing‐song
 voice as though she were chanting a dirge, swaying her head from side to
 side with her cheek resting in her hand.
 
+#### Commentary about Lamentations
 There is silent and long‐suffering sorrow to be met with among the
 peasantry. It withdraws into itself and is still. But there is a grief
 that breaks out, and from that minute it bursts into tears and finds vent
@@ -95,6 +107,7 @@ still more. Such grief does not desire consolation. It feeds on the sense
 of its hopelessness. Lamentations spring only from the constant craving to
 reopen the wound.
 
+#### Father asks of her background
 “You are of the tradesman class?” said Father Zossima, looking curiously
 at her.
 
@@ -105,6 +118,7 @@ pilgrimage. I have been in three monasteries, but they told me, ‘Go,
 Nastasya, go to them’—that is to you. I have come; I was yesterday at the
 service, and to‐day I have come to you.”
 
+#### She explains her troubles
 “What are you weeping for?”
 
 “It’s my little son I’m grieving for, Father. He was three years old—three
@@ -127,6 +141,7 @@ together? I’ve done with him, I’ve done. I’ve done with them all. I don’
 care to look upon my house and my goods. I don’t care to see anything at
 all!”
 
+#### Father explains that the child will become a saint in the eyes of God
 “Listen, mother,” said the elder. “Once in olden times a holy saint saw in
 the Temple a mother like you weeping for her little one, her only one,
 whom God had taken. ‘Knowest thou not,’ said the saint to her, ‘how bold
@@ -145,6 +160,7 @@ therefore weep not, but rejoice.”
 The woman listened to him, looking down with her cheek in her hand. She
 sighed deeply.
 
+#### She retorts that her husband also tried to comfort her in that way
 “My Nikita tried to comfort me with the same words as you. ‘Foolish one,’
 he said, ‘why weep? Our son is no doubt singing with the angels before
 God.’ He says that to me, but he weeps himself. I see that he cries like
@@ -164,6 +180,7 @@ She drew out of her bosom her boy’s little embroidered sash, and as soon
 as she looked at it she began shaking with sobs, hiding her eyes with her
 fingers through which the tears flowed in a sudden stream.
 
+#### Father gives her not consolation, but wisdom in her weeping
 “It is Rachel of old,” said the elder, “weeping for her children, and will
 not be comforted because they are not. Such is the lot set on earth for
 you mothers. Be not comforted. Consolation is not what you need. Weep and
@@ -182,6 +199,7 @@ soul. What was his name?”
 
 “Yes, Father.”
 
+#### Father agrees to pray for the son as he bids her off
 “What a saint he was! I will remember him, mother, and your grief in my
 prayers, and I will pray for your husband’s health. It is a sin for you to
 leave him. Your little one will see from heaven that you have forsaken his
@@ -193,6 +211,9 @@ his father and mother? He comes to you in dreams now, and you grieve. But
 then he will send you gentle dreams. Go to your husband, mother; go this
 very day.”
 
+### We turn to another woman who has not heard from her warbound son
+
+#### Introduction to our next lady, who has not heard from her son
 “I will go, Father, at your word. I will go. You’ve gone straight to my
 heart. My Nikita, my Nikita, you are waiting for me,” the woman began in a
 sing‐song voice; but the elder had already turned away to a very old
@@ -204,6 +225,7 @@ gone to Irkutsk in Siberia. He had written twice from there, but now a
 year had passed since he had written. She did inquire about him, but she
 did not know the proper place to inquire.
 
+#### She asks if she should pray for his resting soul even though she knows not if he is alive, in the hopes it will stir him if he is
 “Only the other day Stepanida Ilyinishna—she’s a rich merchant’s wife—said
 to me, ‘You go, Prohorovna, and put your son’s name down for prayer in the
 church, and pray for the peace of his soul as though he were dead. His
@@ -212,6 +234,7 @@ Stepanida Ilyinishna told me it was a certain thing which had been many
 times tried. Only I am in doubt.... Oh, you light of ours! is it true or
 false, and would it be right?”
 
+#### He remarks that such action would be sorcery, and offers alternative, to pray for his protection and help from God
 “Don’t think of it. It’s shameful to ask the question. How is it possible
 to pray for the peace of a living soul? And his own mother too! It’s a
 great sin, akin to sorcery. Only for your ignorance it is forgiven you.
@@ -221,9 +244,13 @@ thing I will tell you, Prohorovna. Either he will soon come back to you,
 your son, or he will be sure to send a letter. Go, and henceforward be in
 peace. Your son is alive, I tell you.”
 
+#### She accepts his words
 “Dear Father, God reward you, our benefactor, who prays for all of us and
 for our sins!”
 
+### Father speaks with another woman, she being guilty of the death of her sinful ex-husband
+
+#### The elder turns to another in the crowd
 But the elder had already noticed in the crowd two glowing eyes fixed upon
 him. An exhausted, consumptive‐looking, though young peasant woman was
 gazing at him in silence. Her eyes besought him, but she seemed afraid to
@@ -231,6 +258,7 @@ approach.
 
 “What is it, my child?”
 
+#### The woman introduces herself and her plea to the Father
 “Absolve my soul, Father,” she articulated softly, and slowly sank on her
 knees and bowed down at his feet. “I have sinned, Father. I am afraid of
 my sin.”
@@ -266,6 +294,7 @@ ill, and the thought never leaves me.”
 
 “Yes. I am afraid. I am afraid to die.”
 
+#### The Father tells her of repentance and the forgivness of God
 “Fear nothing and never be afraid; and don’t fret. If only your penitence
 fail not, God will forgive all. There is no sin, and there can be no sin
 on all the earth, which the Lord will not forgive to the truly repentant!
@@ -286,6 +315,9 @@ by it, and expiate not only your own sins but the sins of others.”
 He signed her three times with the cross, took from his own neck a little
 ikon and put it upon her. She bowed down to the earth without speaking.
 
+### The father turns to another woman, who wishes to give him coin so that he can distribute it to the poor
+
+#### We are introduced to another lady
 He got up and looked cheerfully at a healthy peasant woman with a tiny
 baby in her arms.
 
@@ -301,6 +333,7 @@ plenty to pray for you; how should you be ill?”
 
 “I thank you for all, daughter.”
 
+#### She gives him the coin and asks the Father, in his wisdom, to give it to one that he knows is less fortunate than she
 “By the way, I have a thing to ask, not a great one. Here are sixty
 copecks. Give them, dear Father, to some one poorer than me. I thought as
 I came along, better give through him. He’ll know whom to give to.”
