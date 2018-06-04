@@ -1,6 +1,19 @@
 ## Chapter 5: The White Rider
 _Character:Gimli_  
+_Character(Reference):Old Man(Saruman)_  
+_Character:Legolas_  
+_Character:Aragorn_  
+_Character(Reference):Merry_  
+_Character(Reference):Pippin_  
+_Place:Fangorn_  
+_Place:Rohan_  
+_Place(Referece):Isengard_  
+_Object(Reference):The Ring_  
+_Place:Treebeard's Hill_  
 
+### After finding lembas, the trio debate their next action, to go to Fangorn
+
+#### Gimli, Legolas, and Aragorn discuss the old man they saw
 'My very bones are chilled,' said Gimli, flapping his arms and stamping his
 feet. Day had come at last. At dawn the companions had made such breakfast as
 they could; now in the growing light they were getting ready to search the
@@ -22,6 +35,7 @@ Aragorn to read. But I do not expect him to find any traces. It was an evil
 phantom of Saruman that we saw last night. I am sure of it, even under the light
 of morning. His eyes are looking out on us from Fangorn even now, maybe.'
 
+#### Aragorn inquires about the horses
 'It is likely enough,' said Aragorn; 'yet I am not sure. I am thinking of the
 horses. You said last night, Gimli, that they were scared away. But I did not
 think so. Did you hear them, Legolas? Did they sound to you like beasts in
@@ -31,6 +45,7 @@ terror?'
 fear I should have guessed that they were beasts wild with some sudden gladness.
 They spoke as horses will when they meet a friend that they have long missed.'
 
+#### The companions continue to track the hobbits
 'So I thought,' said Aragorn; 'but I cannot read the riddle, unless they
 return. Come! The light is growing fast. Let us look first and guess later! We
 should begin here, near to our own camping-ground, searching carefully all
@@ -41,6 +56,7 @@ seen. If we find nothing between here and the eaves of the wood, then we will
 make a last search upon the battle-field and among the ashes. But there is
 little hope there: the horsemen of Rohan did their work too well.'
 
+#### The group find signs of the hobbits, the remains of their Lembas satchels
 For some time the companions crawled and groped upon the ground. The tree stood
 mournfully above them, its dry leaves now hanging limp, and rattling in the
 chill easterly wind. Aragorn moved slowly away. He came to the ashes of the
@@ -60,6 +76,7 @@ haft from which it had been snapped was beside it. 'It was an orc-weapon,' he
 said, holding it gingerly, and looking with disgust at the carved handle: it had
 been shaped like a hideous head with squinting eyes and leering mouth.
 
+#### Legolas presents his version of what he thinks happened
 'Well, here is the strangest riddle that we have yet found!' exclaimed Legolas.
 'A bound prisoner escapes both from the Orcs and from the surrounding horsemen.
 He then stops, while still in the open, and cuts his bonds with an orc-knife.
@@ -75,6 +92,7 @@ ourselves!'
 doing? What have you to say, Aragorn, to the reading of Legolas. Can you better
 it?'
 
+#### Aragorn gives his account of what he thinks happened
 'Maybe, I could,' said Aragorn, smiling. 'There are some other signs near at
 hand that you have not considered. I agree that the prisoner was a hobbit and
 must have had either legs or hands free, before he came here. I guess that it
@@ -112,11 +130,15 @@ case: one at least of our friends escaped. It is our task to find him and help
 him before we return to Rohan. We must not be daunted by Fangorn, since need
 drove him into that dark place.'
 
+#### They elect to go into the forest
 'I do not know which daunts me more: Fangorn, or the thought of the long road
 through Rohan on foot,' said Gimli.
 
 'Then let us go to the forest,' said Aragorn.
 
+### 
+
+#### Gimli and Legolas discuss Fangorn
 It was not long before Aragorn found fresh signs. At one point, near the bank
 of the Entwash, he came upon footprints: hobbit-prints, but too light for much
 to be made of them. Then again beneath the bole of a great tree on the very edge
@@ -157,6 +179,7 @@ for use on trees,' he added hastily, looking up at the tree under which they
 stood. 'I do not wish to meet that old man at unawares without an argument ready
 to hand, that is all. Let us go!'
 
+#### Aragorn finds footprints of the hobbits by the stream
 With that the three hunters plunged into the forest of Fangorn. Legolas and
 Gimli left the tracking to Aragorn. There was little for him to see. The floor
 of the forest was dry and covered with a drift of leaves; but guessing that the
@@ -176,6 +199,7 @@ friendship by starving together.'
 'If that is indeed all we can do, then we must do that,' said Aragorn. 'Let us
 go on.'
 
+#### The trio finds hobbit marks on Treebeard's Hill
 They came at length to the steep abrupt end of Treebeard's Hill and looked up
 at the rock-wall with its rough steps leading to the high shelf. Gleams of sun
 were striking through the hurrying clouds, and the forest now looked less grey
@@ -192,6 +216,7 @@ other marks, very strange marks, which I do not understand. I wonder if we can
 see anything from this ledge which will help us to guess which way they went
 next?'
 
+#### The trio stops and sees an old man through the trees
 He stood up and looked about, but he saw nothing that was of any use. The shelf
 faced southward and eastward; but only on the east was the view open. There he
 could see the heads of the trees descending in ranks towards the plain from
@@ -225,6 +250,7 @@ head was bowed, and he did not look towards them. In other lands they would have
 greeted him with kind words; but now they stood silent, each feeling a strange
 expectancy: something was approaching that held a hidden power-or menace.
 
+#### Gimli instructs to fire, but Legolas stays his bow
 Gimli gazed with wide eyes for a while, as step by step the figure drew nearer.
 Then suddenly, unable to contain himself longer, he burst out: 'Your bow,
 Legolas! Bend it! Get ready! It is Saruman. Do not let him speak, or put a spell
@@ -240,6 +266,7 @@ whisper.
 'Legolas is right,' said Aragorn quietly. 'We may not shoot an old man so, at
 unawares and unchallenged, whatever fear or doubt be on us. Watch and wait!'
 
+#### The old man holds their weapons while he makes his way up to them
 At that moment the old man quickened his pace and came with surprising speed to
 the foot of the rock-wall. Then suddenly he looked up, while they stood
 motionless looking down. There was no sound.
@@ -271,6 +298,7 @@ quick glint of white, as if some garment shrouded by the grey rags had been for
 an instant revealed The intake of Gimli's breath could be heard as a loud hiss
 in the silence.
 
+#### 
 'Well met, I say again!' said the old man, coming towards them. When he was a
 few feet away, he stood, stooping over his staff, with his head thrust forward,
 peering at them from under his hood. 'And what may you be doing in these parts?
@@ -298,6 +326,7 @@ your tale?'
 
 The three companions stood silent and made no answer.
 
+#### The old man guesses at their purpose
 'There are some who would begin to doubt whether your errand is fit to tell,'
 said the old man. 'Happily I know something of it. You are tracking the
 footsteps of two young hobbits, I believe. Yes, hobbits. Don't stare, as if you
@@ -308,6 +337,7 @@ taken? Well, well, maybe I can give you some news about that. But why are we
 standing? Your errand, you see, is no longer as urgent as you thought. Let us
 sit down and be more at ease.'
 
+#### The old man releases his spell on the trio, who draw their weapons
 The old man turned away and went towards a heap of fallen stones and rock at
 the foot of the cliff behind. Immediately, as if a spell had been removed, the
 others relaxed and stirred. Gimli's hand went at once to his axe-haft. Aragorn
@@ -321,6 +351,7 @@ beneath all in white.
 where you have hidden our friends! What have you done with them? Speak, or I
 will make a dint in your hat that even a wizard will find it hard to deal with!'
 
+#### The old man casts spells on their weapons, causing them each to react in a different way
 The old man was too quick for him. He sprang to his feet and leaped to the top
 of a large rock. There he stood, grown suddenly tall, towering above them. His
 hood and his grey rags were flung away. His white garments shone. He lifted up
@@ -329,6 +360,7 @@ The sword of Aragorn, stiff in his motionless hand, blazed with a sudden fire.
 Legolas gave a great shout and shot an arrow high into the air: it vanished in a
 flash of flame.
 
+#### The old man is reavealed to be Mithrandir by Legolas
 'Mithrandir!' he cried. 'Mithrandir!'
 
 'Well met, I say to you again. Legolas!' said the old man.

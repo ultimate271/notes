@@ -1,4 +1,13 @@
 ## Chapter III. Peasant Women Who Have Faith
+_Character:Elder Zossima_  
+_Character:Madame Hohlakov_  
+_Character:Lise_  
+_Character(Insignificant):Women Being Healed_  
+_Summary:This chapter details many of the healing proverbs and capabilities of
+Father Zossima as he heals many of the women outside his hermitage as they
+flock around him. We are breifly introduced to Madame Holokov and her daughter
+(who isn't even named) in this chapter, but only as foreshadowing to her
+appearence in the next chapter._  
 
 ### Father Zossima sees and blesses many women outside his hermitage
 

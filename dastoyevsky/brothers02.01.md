@@ -4,8 +4,8 @@
 _Character:Fyodor Pavlovitch Karamazov_  
 _Character:Pyotr Alexandrovitch Miüsov_  
 _Character:Pyotr Fomitch Kalganov_  
-_Character:Dmitri Fyodorovitch Karamazov_  
-_Character(Reference):Ivan Fyodorovitch Karamazov_  
+_Character(Reference):Dmitri Fyodorovitch Karamazov_  
+_Character:Ivan Fyodorovitch Karamazov_  
 _Character:Alexey Fyodorovitch Karamazov_  
 _Character(Insignificant):Maximov_  
 _Character(Introduced):A Monk_  

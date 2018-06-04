@@ -1,11 +1,18 @@
 ## Chapter IV. A Lady Of Little Faith
+_Character:Alexey Fyodorovitch Karamazov_  
+_Character:Elder Zossima_  
+_Character:Mother To Lise_  
+_Character:Lise_  
+_Character(Reference):Dmitri Fyodorovitch Karamazav_  
+_Character(Reference):Katerina Ivanovna_  
 
+### Lise and her mother invite Alexey to visit Katerina to discuss Dmitri
 
-A visitor looking on the scene of his conversation with the peasants and
-his blessing them shed silent tears and wiped them away with her
-handkerchief. She was a sentimental society lady of genuinely good
-disposition in many respects. When the elder went up to her at last she
-met him enthusiastically.
+#### A mother (to Lise) returns to the Father to inform him that her daughter has been in good health since they visited three days ago
+A visitor looking on the scene of his conversation with the peasants and his
+blessing them shed silent tears and wiped them away with her handkerchief.  She
+was a sentimental society lady of genuinely good disposition in many respects.
+When the elder went up to her at last she met him enthusiastically.
 
 “Ah, what I have been feeling, looking on at this touching scene!...” She
 could not go on for emotion. “Oh, I understand the people’s love for you.
@@ -22,7 +29,7 @@ praying over her last Thursday and laying your hands upon her. We have
 hastened here to kiss those hands, to pour out our feelings and our
 homage.”
 
-“What do you mean by healed? But she is still lying down in her chair.”
+"What do you mean by healed? But she is still lying down in her chair.”
 
 “But her night fevers have entirely ceased ever since Thursday,” said the
 lady with nervous haste. “And that’s not all. Her legs are stronger. This
@@ -35,6 +42,7 @@ Herzenstube. He shrugged his shoulders and said, ‘I am amazed; I can make
 nothing of it.’ And would you have us not come here to disturb you, not
 fly here to thank you? Lise, thank him—thank him!”
 
+#### Lise calls out Aloysha
 Lise’s pretty little laughing face became suddenly serious. She rose in
 her chair as far as she could and, looking at the elder, clasped her hands
 before him, but could not restrain herself and broke into laughter.
@@ -46,6 +54,7 @@ If any one had looked at Alyosha standing a step behind the elder, he
 would have caught a quick flush crimsoning his cheeks in an instant. His
 eyes shone and he looked down.
 
+#### The Mother gives a message from Katerina Ivanovna to Aloysha
 “She has a message for you, Alexey Fyodorovitch. How are you?” the mother
 went on, holding out her exquisitely gloved hand to Alyosha.
 
@@ -57,6 +66,7 @@ out his hand to her too. Lise assumed an important air.
 note. “She particularly begs you to go and see her as soon as possible;
 that you will not fail her, but will be sure to come.”
 
+#### The mother references Dmitri and implies there has been a lot that's happened lately
 “She asks me to go and see her? Me? What for?” Alyosha muttered in great
 astonishment. His face at once looked anxious. “Oh, it’s all to do with
 Dmitri Fyodorovitch and—what has happened lately,” the mother explained
@@ -70,15 +80,18 @@ once. And you will go to her, of course. It is a Christian duty.”
 suffering.... Think what she has gone through, what she is enduring now!
 Think what awaits her! It’s all terrible, terrible!”
 
+#### After convincing, Aloysha agrees to visit
 “Very well, I will come,” Alyosha decided, after rapidly scanning the
 brief, enigmatic note, which consisted of an urgent entreaty that he would
 come, without any sort of explanation.
 
+#### Lise gets really excited at the news
 “Oh, how sweet and generous that would be of you!” cried Lise with sudden
 animation. “I told mamma you’d be sure not to go. I said you were saving
 your soul. How splendid you are! I’ve always thought you were splendid.
 How glad I am to tell you so!”
 
+#### The mother talks about Lise's facination with Aloysha
 “Lise!” said her mother impressively, though she smiled after she had said
 it.
 
@@ -86,6 +99,9 @@ it.
 come to see us. Yet Lise has told me twice that she is never happy except
 with you.”
 
+### The elder speaks with the Mother about her lack of faith
+
+#### The elder turns his attention to a monk
 Alyosha raised his downcast eyes and again flushed, and again smiled
 without knowing why. But the elder was no longer watching him. He had
 begun talking to a monk who, as mentioned before, had been awaiting his
@@ -96,9 +112,11 @@ north, from Obdorsk, from Saint Sylvester, and was a member of a poor
 monastery, consisting of only ten monks. The elder gave him his blessing
 and invited him to come to his cell whenever he liked.
 
+#### The monk questions the elder about his authenticity
 “How can you presume to do such deeds?” the monk asked suddenly, pointing
 solemnly and significantly at Lise. He was referring to her “healing.”
 
+#### Father Zossimo speaks of his illness
 “It’s too early, of course, to speak of that. Relief is not complete cure,
 and may proceed from different causes. But if there has been any healing,
 it is by no power but God’s will. It’s all from God. Visit me, Father,” he
@@ -116,6 +134,7 @@ made for happiness, and any one who is completely happy has a right to say
 to himself, ‘I am doing God’s will on earth.’ All the righteous, all the
 saints, all the holy martyrs were happy.”
 
+#### The mother turns the conversation to her suffering
 “Oh, how you speak! What bold and lofty words!” cried the lady. “You seem
 to pierce with your words. And yet—happiness, happiness—where is it? Who
 can say of himself that he is happy? Oh, since you have been so good as to
@@ -159,6 +178,7 @@ convince myself? Oh, how unhappy I am! I stand and look about me and see
 that scarcely any one else cares; no one troubles his head about it, and
 I’m the only one who can’t stand it. It’s deadly—deadly!”
 
+#### The Elder replies to her, telling about active love
 “No doubt. But there’s no proving it, though you can be convinced of it.”
 
 “How?”
@@ -170,6 +190,7 @@ perfect self‐forgetfulness in the love of your neighbor, then you will
 believe without doubt, and no doubt can possibly enter your soul. This has
 been tried. This is certain.”
 
+#### The mother expresses her wish to pursue active love, but also her insecurity in her love of life
 “In active love? There’s another question—and such a question! You see, I
 so love humanity that—would you believe it?—I often dream of forsaking all
 that I have, leaving Lise, and becoming a sister of mercy. I close my eyes
@@ -198,6 +219,7 @@ am incapable of loving any one.”
 She was in a very paroxysm of self‐castigation, and, concluding, she
 looked with defiant resolution at the elder.
 
+#### The elder tells of another man he knew in a similar position
 “It’s just the same story as a doctor once told me,” observed the elder.
 “He was a man getting on in years, and undoubtedly clever. He spoke as
 frankly as you, though in jest, in bitter jest. ‘I love humanity,’ he
@@ -226,11 +248,13 @@ whole life will slip away like a phantom. In that case you will naturally
 cease to think of the future life too, and will of yourself grow calmer
 after a fashion in the end.”
 
+#### The mother applies his logic to herself
 “You have crushed me! Only now, as you speak, I understand that I was
 really only seeking your approbation for my sincerity when I told you I
 could not endure ingratitude. You have revealed me to myself. You have
 seen through me and explained me to myself!”
 
+#### Elders final words to the mother
 “Are you speaking the truth? Well, now, after such a confession, I believe
 that you are sincere and good at heart. If you do not attain happiness,
 always remember that you are on the right road, and try not to leave it.
@@ -256,11 +280,15 @@ not being able to stay longer with you. They are waiting for me. Good‐by.”
 
 The lady was weeping.
 
+### Meanwhile, Lise was teasing Aloysha, who is granted permission to visit the family
+
+#### The mother returns her attention to Lise, and blesses her
 “Lise, Lise! Bless her—bless her!” she cried, starting up suddenly.
 
 “She does not deserve to be loved. I have seen her naughtiness all along,”
 the elder said jestingly. “Why have you been laughing at Alexey?”
 
+#### In the mean time of the conversation, Lise had been mocking Alexey
 Lise had in fact been occupied in mocking at him all the time. She had
 noticed before that Alyosha was shy and tried not to look at her, and she
 found this extremely amusing. She waited intently to catch his eye.
@@ -274,6 +302,7 @@ of her chair to peep sideways at him, eagerly waiting for him to look.
 Catching his eye, she laughed so that the elder could not help saying,
 “Why do you make fun of him like that, naughty girl?”
 
+#### After being confronted about her playing, Lise says she only wishes that Alexey could visit
 Lise suddenly and quite unexpectedly blushed. Her eyes flashed and her
 face became quite serious. She began speaking quickly and nervously in a
 warm and resentful voice:
@@ -298,6 +327,7 @@ pressed it to her eyes and began crying.
 Alyosha’s right, quite right, in not wanting to come and see such a
 ridiculous girl.”
 
+#### The elder grants permission
 “I will certainly send him,” said the elder.
 
 
