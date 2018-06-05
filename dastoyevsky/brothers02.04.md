@@ -5,6 +5,12 @@ _Character:Mother To Lise_
 _Character:Lise_  
 _Character(Reference):Dmitri Fyodorovitch Karamazav_  
 _Character(Reference):Katerina Ivanovna_  
+_Summary:Our attention in this chapter goes to a girl named Lise, paralyzed and
+beginning healing by the elder, and her mother, both of which are acquainted
+with Aloysha. Lise first invites Alexey to visit Katerina to discuss Dmitri,
+and he accepts. Next, the mother speaks with the father of her lack of faith,
+and the father gives her wisdom in her wandering. Lastly, the elder explicitly
+grants permission for Aloysha to visit Lise and the family._  
 
 ### Lise and her mother invite Alexey to visit Katerina to discuss Dmitri
 

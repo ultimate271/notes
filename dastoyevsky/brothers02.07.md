@@ -1,5 +1,7 @@
 ## Chapter VII. A Young Man Bent On A Career
-
+_Character:Elder Zossima_  
+_Character:Alexey Fyodorovitch Karamazov_  
+_Character:Rakitin_
 
 Alyosha helped Father Zossima to his bedroom and seated him on his bed. It
 was a little room furnished with the bare necessities. There was a narrow

@@ -1,4 +1,5 @@
 ## Chapter II. The Old Buffoon
+_Character:Rakitin_
 
 
 They entered the room almost at the same moment that the elder came in

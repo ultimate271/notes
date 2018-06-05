@@ -6,6 +6,7 @@ _Character(Reference):Dmitri Fyodorovitch Karamazov_
 _Character:Ivan Fyodorovitch Karamazov_  
 _Character:Alexey Fyodorovitch Karamazov_  
 _Character:Elder Zossima_  
+_Character:Rakitin_
 _Character(Insignificant):Father Iosef_  
 _Character(Insignificant):Father Païssy_  
 _Summary:A discussion about the role of Church and State_  

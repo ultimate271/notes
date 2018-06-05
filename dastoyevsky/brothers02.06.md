@@ -6,6 +6,8 @@ _Character:Ivan Fyodorovitch Karamazov_
 _Character:Fyodor Pavlovitch Karamazov_  
 _Character:Pyotr Alexandrovitch Miüsov_  
 _Character:Pyotr Fomitch Kalganov_  
+_Character(Unmentioned):Rakitin_  
+
 _Character(Reference):Katerina Ivanovna_  
 
 ### Dmitri enters
@@ -348,7 +350,7 @@ think you bribe God with gudgeon.”
 
 “This is unendurable!” was heard on all sides in the cell.
 
-### At a remarkable gesture by Zossima, people begin to leave the hermitage and go to dinner with Father Superior
+### After a remarkable gesture by Zossima, people begin to leave the hermitage and go to dinner with Father Superior
 
 #### Father Zossima kisses the ground at Dmitri's feet
 But this unseemly scene was cut short in a most unexpected way. Father
