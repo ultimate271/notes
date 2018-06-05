@@ -1,6 +1,16 @@
 ## Chapter VI. Why Is Such A Man Alive?
+_Character:Dmitri Fyodorovitch Karamazov_  
+_Character(Reference):Katchalnikov_  
+_Character:Elder Zossima_  
+_Character:Ivan Fyodorovitch Karamazov_  
+_Character:Fyodor Pavlovitch Karamazov_  
+_Character:Pyotr Alexandrovitch Miüsov_  
+_Character:Pyotr Fomitch Kalganov_  
+_Character(Reference):Katerina Ivanovna_  
 
+### Dmitri enters
 
+#### Description of Dmitri as he enters
 Dmitri Fyodorovitch, a young man of eight and twenty, of medium height and
 agreeable countenance, looked older than his years. He was muscular, and
 showed signs of considerable physical strength. Yet there was something
@@ -32,6 +42,7 @@ guessing him to be their host. He made him a low bow, and asked his
 blessing. Father Zossima, rising in his chair, blessed him. Dmitri kissed
 his hand respectfully, and with intense feeling, almost anger, he said:
 
+#### Dmitri greets the Elder
 “Be so generous as to forgive me for having kept you waiting so long, but
 Smerdyakov, the valet sent me by my father, in reply to my inquiries, told
 me twice over that the appointment was for one. Now I suddenly learn—”
@@ -41,6 +52,7 @@ little late. It’s of no consequence....”
 
 “I’m extremely obliged to you, and expected no less from your goodness.”
 
+#### Dmitri bows to both the elder and his father
 Saying this, Dmitri bowed once more. Then, turning suddenly towards his
 father, made him, too, a similarly low and respectful bow. He had
 evidently considered it beforehand, and made this bow in all seriousness,
@@ -55,6 +67,9 @@ long, resolute stride, sat down on the only empty chair, near Father
 Païssy, and, bending forward, prepared to listen to the conversation he
 had interrupted.
 
+### Miüsov and Dmitri continue the discussion at hand
+
+#### Miüsov shrugs off the inquiry of those around him regarding Socialist Christians
 Dmitri’s entrance had taken no more than two minutes, and the conversation
 was resumed. But this time Miüsov thought it unnecessary to reply to
 Father Païssy’s persistent and almost irritable question.
@@ -72,6 +87,7 @@ and dilettanti who mix up socialism and Christianity, but, in many cases,
 it appears, the police—the foreign police, of course—do the same. Your
 Paris anecdote is rather to the point, Pyotr Alexandrovitch.”
 
+#### Miüsov turns the subject to opinions on the inherent good in mankind
 “I ask your permission to drop this subject altogether,” Miüsov repeated.
 “I will tell you instead, gentlemen, another interesting and rather
 characteristic anecdote of Ivan Fyodorovitch himself. Only five days ago,
@@ -93,6 +109,7 @@ the inevitable, the most rational, even honorable outcome of his position.
 From this paradox, gentlemen, you can judge of the rest of our eccentric
 and paradoxical friend Ivan Fyodorovitch’s theories.”
 
+#### Dmitri interjects, becoming upset at Miüsov's over-nuanced interpretation
 “Excuse me,” Dmitri cried suddenly; “if I’ve heard aright, crime must not
 only be permitted but even recognized as the inevitable and the most
 rational outcome of his position for every infidel! Is that so or not?”
@@ -104,6 +121,9 @@ rational outcome of his position for every infidel! Is that so or not?”
 Having uttered these words Dmitri ceased speaking as suddenly as he had
 begun. Every one looked at him with curiosity.
 
+### Ivan and the Elder share a moment of discussion
+
+#### Ivan and the elder discuss Miüsov's claims
 “Is that really your conviction as to the consequences of the
 disappearance of the faith in immortality?” the elder asked Ivan suddenly.
 
@@ -141,6 +161,7 @@ lofty heart capable of such suffering; of thinking and seeking higher
 things, for our dwelling is in the heavens. God grant that your heart will
 attain the answer on earth, and may God bless your path.”
 
+#### Ivan receives a blessing from the elder
 The elder raised his hand and would have made the sign of the cross over
 Ivan from where he stood. But the latter rose from his seat, went up to
 him, received his blessing, and kissing his hand went back to his place in
@@ -151,6 +172,9 @@ for a moment, and there was a look almost of apprehension in Alyosha’s
 face. But Miüsov suddenly shrugged his shoulders. And at the same moment
 Fyodor Pavlovitch jumped up from his seat.
 
+### Fyodor and Dmitri both give accounts of the situation
+
+#### Fyodor likens this scenario to Schiller's Robbers
 “Most pious and holy elder,” he cried, pointing to Ivan, “that is my son,
 flesh of my flesh, the dearest of my flesh! He is my most dutiful Karl
 Moor, so to speak, while this son who has just come in, Dmitri, against
@@ -158,6 +182,7 @@ whom I am seeking justice from you, is the undutiful Franz Moor—they are
 both out of Schiller’s _Robbers_, and so I am the reigning Count von Moor!
 Judge and save us! We need not only your prayers but your prophecies!”
 
+#### After being inturrputed, Fyodor plays the victim in explaining his side of the story
 “Speak without buffoonery, and don’t begin by insulting the members of
 your family,” answered the elder, in a faint, exhausted voice. He was
 obviously getting more and more fatigued, and his strength was failing.
@@ -200,6 +225,7 @@ now, trying to get money from me, though he has wasted thousands on this
 enchantress already. He’s continually borrowing money for the purpose.
 From whom do you think? Shall I say, Mitya?”
 
+#### Dmitri absconds his father, who continues to play victim
 “Be silent!” cried Dmitri, “wait till I’m gone. Don’t dare in my presence
 to asperse the good name of an honorable girl! That you should utter a
 word about her is an outrage, and I won’t permit it!”
@@ -220,6 +246,7 @@ slur on his honor. And three weeks ago, Dmitri seized him by the beard in
 a tavern, dragged him out into the street and beat him publicly, and all
 because he is an agent in a little business of mine.”
 
+#### Dmitri gives his side of the story
 “It’s all a lie! Outwardly it’s the truth, but inwardly a lie!” Dmitri was
 trembling with rage. “Father, I don’t justify my action. Yes, I confess it
 publicly, I behaved like a brute to that captain, and I regret it now, and
@@ -242,6 +269,7 @@ just this minute insulted not only me, but an honorable young lady, for
 whom I feel such reverence that I dare not take her name in vain, I have
 made up my mind to show up his game, though he is my father....”
 
+#### Dmitri stops before Miüsov interjects with his appallment at this situation
 He could not go on. His eyes were glittering and he breathed with
 difficulty. But every one in the cell was stirred. All except Father
 Zossima got up from their seats uneasily. The monks looked austere but
@@ -263,6 +291,7 @@ creature to get his son into prison! This is the company in which I have
 been forced to be present! I was deceived. I declare to you all that I was
 as much deceived as any one.”
 
+#### Fyodor feigns challenging Dmitri to a duel
 “Dmitri Fyodorovitch,” yelled Fyodor Pavlovitch suddenly, in an unnatural
 voice, “if you were not my son I would challenge you this instant to a
 duel ... with pistols, at three paces ... across a handkerchief,” he
@@ -274,6 +303,7 @@ of emotion in earnest, although at that very moment, or a second later,
 they are able to whisper to themselves, “You know you are lying, you
 shameless old sinner! You’re acting now, in spite of your ‘holy’ wrath.”
 
+#### Dmitri reflects with solemnity at the situation he is in
 Dmitri frowned painfully, and looked with unutterable contempt at his
 father.
 
@@ -282,6 +312,7 @@ voice, “that I was coming to my native place with the angel of my heart,
 my betrothed, to cherish his old age, and I find nothing but a depraved
 profligate, a despicable clown!”
 
+#### Fyodor continues to justify and explain his position
 “A duel!” yelled the old wretch again, breathless and spluttering at each
 syllable. “And you, Pyotr Alexandrovitch Miüsov, let me tell you that
 there has never been in all your family a loftier, and more honest—you
@@ -300,6 +331,7 @@ hollow voice, hunching up his shoulders till he looked almost deformed.
 “Tell me, can he be allowed to go on defiling the earth?” He looked round
 at every one and pointed at the old man. He spoke evenly and deliberately.
 
+#### Fyodor begins to insult the monks themselves
 “Listen, listen, monks, to the parricide!” cried Fyodor Pavlovitch,
 rushing up to Father Iosif. “That’s the answer to your ‘shameful!’ What is
 shameful? That ‘creature,’ that ‘woman of loose behavior’ is perhaps
@@ -316,6 +348,9 @@ think you bribe God with gudgeon.”
 
 “This is unendurable!” was heard on all sides in the cell.
 
+### At a remarkable gesture by Zossima, people begin to leave the hermitage and go to dinner with Father Superior
+
+#### Father Zossima kisses the ground at Dmitri's feet
 But this unseemly scene was cut short in a most unexpected way. Father
 Zossima rose suddenly from his seat. Almost distracted with anxiety for
 the elder and every one else, Alyosha succeeded, however, in supporting
@@ -329,17 +364,20 @@ faint smile on his lips.
 “Good‐by! Forgive me, all of you!” he said, bowing on all sides to his
 guests.
 
+#### Dmitri leaves the scene, people follow him
 Dmitri stood for a few moments in amazement. Bowing down to him—what did
 it mean? Suddenly he cried aloud, “Oh, God!” hid his face in his hands,
 and rushed out of the room. All the guests flocked out after him, in their
 confusion not saying good‐by, or bowing to their host. Only the monks went
 up to him again for a blessing.
 
+#### Fyodor inquires the meaning of the scene as they leave
 “What did it mean, falling at his feet like that? Was it symbolic or
 what?” said Fyodor Pavlovitch, suddenly quieted and trying to reopen
 conversation without venturing to address anybody in particular. They were
 all passing out of the precincts of the hermitage at the moment.
 
+#### Miüsov doesn't care and elects to gtfo
 “I can’t answer for a madhouse and for madmen,” Miüsov answered at once
 ill‐humoredly, “but I will spare myself your company, Fyodor Pavlovitch,
 and, trust me, for ever. Where’s that monk?”
@@ -349,6 +387,7 @@ Superior, did not keep them waiting. He met them as soon as they came down
 the steps from the elder’s cell, as though he had been waiting for them
 all the time.
 
+#### Miüsov and Fyodor quarell over who stays with Father Superior, Fyodor leaves
 “Reverend Father, kindly do me a favor. Convey my deepest respect to the
 Father Superior, apologize for me, personally, Miüsov, to his reverence,
 telling him that I deeply regret that owing to unforeseen circumstances I
@@ -387,6 +426,7 @@ hesitating, and watching the retreating buffoon with distrustful eyes. The
 latter turned round, and noticing that Miüsov was watching him, waved him
 a kiss.
 
+#### Miüsov and Ivan go off to the dinner
 “Well, are you coming to the Superior?” Miüsov asked Ivan abruptly.
 
 “Why not? I was especially invited yesterday.”

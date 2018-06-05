@@ -1,6 +1,18 @@
 ## Chapter V. So Be It! So Be It!
+_Character:Fyodor Pavlovitch Karamazov_  
+_Character:Pyotr Alexandrovitch Miüsov_  
+_Character:Pyotr Fomitch Kalganov_  
+_Character(Reference):Dmitri Fyodorovitch Karamazov_  
+_Character:Ivan Fyodorovitch Karamazov_  
+_Character:Alexey Fyodorovitch Karamazov_  
+_Character:Elder Zossima_  
+_Character(Insignificant):Father Iosef_  
+_Character(Insignificant):Father Païssy_  
+_Summary:A discussion about the role of Church and State_  
 
+### On the doings in the cell while the others were away curing women
 
+#### Meanwhile, those left in the cell were bound to conversation
 The elder’s absence from his cell had lasted for about twenty‐five
 minutes. It was more than half‐past twelve, but Dmitri, on whose account
 they had all met there, had still not appeared. But he seemed almost to be
@@ -17,6 +29,7 @@ him.
 progressive in Europe, and here the new generation positively ignores us,”
 he thought.
 
+#### Fyodor taunts Miüsov a bit
 Fyodor Pavlovitch, who had given his word to sit still and be quiet, had
 actually been quiet for some time, but he watched his neighbor Miüsov with
 an ironical little smile, obviously enjoying his discomfiture. He had been
@@ -35,6 +48,9 @@ intellect to them.”
 “You’ll be the last, the last of all to go!” Fyodor Pavlovitch delivered
 him another thrust, almost at the moment of Father Zossima’s return.
 
+### Disscussion between some Ivan, Miüsov, and the three fathers about Ivan's paper on Church and State
+
+#### The elder returns, and sits not wanting to inturrupt the conversation
 The discussion died down for a moment, but the elder, seating himself in
 his former place, looked at them all as though cordially inviting them to
 go on. Alyosha, who knew every expression of his face, saw that he was
@@ -44,6 +60,7 @@ before such attacks, and his lips were white. But he evidently did not
 want to break up the party. He seemed to have some special object of his
 own in keeping them. What object? Alyosha watched him intently.
 
+#### Father Iosif brings the Elder up to speed on their current topic, Ivan's paper on church and state
 “We are discussing this gentleman’s most interesting article,” said Father
 Iosif, the librarian, addressing the elder, and indicating Ivan. “He
 brings forward much that is new, but I think the argument cuts both ways.
@@ -60,6 +77,9 @@ to the separation of Church from State.”
 
 “That’s interesting. But in what sense?” Father Zossima asked Ivan.
 
+### The thesis
+
+#### At the inquiry of the Elder, Ivan explains his stance
 The latter, at last, answered him, not condescendingly, as Alyosha had
 feared, but with modesty and reserve, with evident goodwill and apparently
 without the slightest _arrière‐pensée_.
@@ -81,9 +101,11 @@ development of Christian society!”
 “Perfectly true,” Father Païssy, the silent and learned monk, assented
 with fervor and decision.
 
+#### Miüsov voices his objection to the ideas
 “The purest Ultramontanism!” cried Miüsov impatiently, crossing and
 recrossing his legs.
 
+#### Father Iosef voices Païssy's objections to the ideas
 “Oh, well, we have no mountains,” cried Father Iosif, and turning to the
 elder he continued: “Observe the answer he makes to the following
 ‘fundamental and essential’ propositions of his opponent, who is, you must
@@ -95,6 +117,7 @@ divine institution and as an organization of men for religious objects,’
 and, finally, in the third place, ‘the Church is a kingdom not of this
 world.’ ”
 
+#### Father Païssy breaks in to clarify
 “A most unworthy play upon words for an ecclesiastic!” Father Païssy could
 not refrain from breaking in again. “I have read the book which you have
 answered,” he added, addressing Ivan, “and was astounded at the words ‘the
@@ -109,6 +132,7 @@ connection is unpardonable and improper. The Church is, in truth, a
 kingdom and ordained to rule, and in the end must undoubtedly become the
 kingdom ruling over all the earth. For that we have the divine promise.”
 
+#### Ivan continues his explanation of his ideas
 He ceased speaking suddenly, as though checking himself. After listening
 attentively and respectfully Ivan went on, addressing the elder with
 perfect composure and as before with ready cordiality:
@@ -145,6 +169,7 @@ permanent, essential, and eternal foundations, he is going directly
 against the Church and its sacred and eternal vocation. That is the gist
 of my article.”
 
+#### Father Païssy summarizes the explanation
 “That is, in brief,” Father Païssy began again, laying stress on each
 word, “according to certain theories only too clearly formulated in the
 nineteenth century, the Church ought to be transformed into the State, as
@@ -158,6 +183,9 @@ into a higher type into the State, but, on the contrary, that the State
 should end by being worthy to become only the Church and nothing else. So
 be it! So be it!”
 
+### The position of criminals and condemnation in this view
+
+#### Miüsov remarks at the vast remoteness of Ivan's proposition
 “Well, I confess you’ve reassured me somewhat,” Miüsov said smiling, again
 crossing his legs. “So far as I understand, then, the realization of such
 an ideal is infinitely remote, at the second coming of Christ. That’s as
@@ -167,6 +195,7 @@ indeed. But I imagined that it was all meant seriously, and that the
 Church might be _now_ going to try criminals, and sentence them to
 beating, prison, and even death.”
 
+#### Ivan brings up the notion that the church would never condemn to show that it could be not that far off
 “But if there were none but the ecclesiastical court, the Church would not
 even now sentence a criminal to prison or to death. Crime and the way of
 regarding it would inevitably change, not all at once of course, but
@@ -200,6 +229,7 @@ sort of dream again. Something shapeless and even incomprehensible. What
 is excommunication? What sort of exclusion? I suspect you are simply
 amusing yourself, Ivan Fyodorovitch.”
 
+#### The elder interjects with his opinion
 “Yes, but you know, in reality it is so now,” said the elder suddenly, and
 all turned to him at once. “If it were not for the Church of Christ there
 would be nothing to restrain the criminal from evil‐doing, no real
@@ -292,6 +322,8 @@ of its appearance. And so be it, so be it!”
 
 “So be it, so be it!” Father Païssy repeated austerely and reverently.
 
+
+#### Miüsov's misunderstandings are cleared up
 “Strange, extremely strange!” Miüsov pronounced, not so much with heat as
 with latent indignation.
 
@@ -311,6 +343,7 @@ Ultramontanism and Rome, and your interpretation, and is only the glorious
 destiny ordained for the Orthodox Church. This star will arise in the
 east!”
 
+#### Miüsov relates the discussion to a chief detective he met that warned him that Socialist Christians are one to watch out for
 Miüsov was significantly silent. His whole figure expressed extraordinary
 personal dignity. A supercilious and condescending smile played on his
 lips. Alyosha watched it all with a throbbing heart. The whole
@@ -347,6 +380,9 @@ me here, gentlemen.”
 “You apply them to us, and look upon us as socialists?” Father Païssy
 asked directly, without beating about the bush.
 
+### Dmitri breaks the conversation
+
+#### Breaking the conversation, Dmitri enters long awaited to the Hermitage
 But before Pyotr Alexandrovitch could think what to answer, the door
 opened, and the guest so long expected, Dmitri Fyodorovitch, came in. They
 had, in fact, given up expecting him, and his sudden appearance caused
