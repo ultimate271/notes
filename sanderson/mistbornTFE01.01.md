@@ -2,7 +2,9 @@
 
 ## PROLOGUE
 
+### Epigraph
 
+#### 
 
 
 
@@ -32,6 +34,13 @@ When they see me, do they see a liar?
 
 
 
+### Lord Tresting and an Obligator of Lord Venture disscuss business
+_Character(Insignificant):Lord Tresting_  
+_Character(Reference):Lord Ruler_  
+_Character(Reference):Lord Venture_  
+_Place(Reference):Luthadel_  
+
+#### 
 
 ASH FELL FROM THE SKY.
 
@@ -55,6 +64,7 @@ Tresting turned to the man standing beside him on the hill. “One would think,�
 Tresting noted, “that a thousand years of working in fields would have bred
 them to be a little more effective at it.”
 
+#### Introduction to obligators
 The obligator turned, raising an eyebrow—the motion done as if to highlight his
 most distinctive feature, the intricate tattoos that laced the skin around his
 eyes. The tattoos were enormous, reaching all the way across his brow and up
@@ -64,6 +74,7 @@ were only minor functionaries, with barely a few marks around their eyes. This
 man had arrived from Luthadel with the same canal boat that had brought
 Tresting’s new suit.
 
+#### About Skaa
 “You should see city skaa, Tresting,” the obligator said, turning back to watch
 the skaa workers. “These are actually quite diligent compared to those inside
 Luthadel. You have more . . . direct control over your skaa here. How many
@@ -85,6 +96,7 @@ Like all skaa, they belonged to the Lord Ruler; Tresting only leased the
 workers from his God, much in the same way he paid for the services of His
 obligators.
 
+#### 
 The obligator looked down, checking his pocket watch, then glanced up at the
 sun. Despite the ashfall, the sun was bright this day, shining a brilliant
 crimson red behind the smoky blackness of the upper sky. Tresting removed a
@@ -190,8 +202,12 @@ then, he didn’t need much of a reason to give the workers a beating.
 
 They were, after all, only skaa.
 
+### Kelsier, a mysterious Skaa, visits the plantation of Lord Tresting and gives them news of things on the outside
+_Character:Kelsier_  
+_Character:Tepper_  
+_Character:Mennis_  
 
-
+#### 
 Kelsier had heard stories.
 
 He had heard whispers of times when once, long ago, the sun had not been red.
@@ -282,12 +298,14 @@ If you only knew, Kelsier thought. “Well, I guess this means I’m staying.”
 waved for a boy to bring him a stool. “It’s a good thing, too—it would have
 been a shame for me to leave before I shared my news.”
 
+#### It is reavealed that Kelsier is a renegade Skaa who travels from plantation to plantation
 More than one person perked up at the comment. This was the real reason they
 tolerated him—the reason even the timid peasants would harbor a man such as
 Kelsier, a skaa who defied the Lord Ruler’s will by traveling from plantation
 to plantation. A renegade he might be—a danger to the entire community—but he
 brought news from the outside world.
 
+#### 
 “I come from the north,” Kelsier said. “From lands where the Lord Ruler’s touch
 is less noticeable.” He spoke in a clear voice, and people leaned unconsciously
 toward him as they worked. On the next day, Kelsier’s words would be repeated
@@ -434,6 +452,7 @@ mists distorted sounds. The people in the hovel fell silent, listening to the
 faint, high-pitched yells. Despite the distance and the mist, Kelsier could
 hear the pain contained in those screams.
 
+#### Explanation of "Burning Tin" and Allomantic power
 Kelsier burned tin.
 
 It was simple for him now, after years of practice. The tin sat with other
@@ -450,6 +469,7 @@ could hear the screams with supernatural ears. Two separate people were
 yelling. One was an older woman, the other a younger woman—perhaps a child. The
 younger screams were getting farther and farther away.
 
+#### 
 “Poor Jess,” a nearby woman said, her voice booming in Kelsier’s enhanced ears.
 “That child of hers was a curse. It’s better for skaa not to have pretty
 daughters.”
@@ -495,7 +515,10 @@ for your hospitality.”
 With that, he pulled open the door and strode out into the mist.
 
 
+### The Skaa learn about the attack that happened at the plantation, forcing them into rebellion unlooked for
+_Character:Mennis_  
 
+#### 
 Mennis lay awake in the early hours of morning. It seemed that the older he
 became, the more difficult it was for him to sleep. This was particularly true
 when he was troubled about something, such as the traveler’s failure to return

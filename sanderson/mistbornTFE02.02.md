@@ -1,5 +1,8 @@
 ## 2
 
+### Epigraph
+
+#### 
 * * *
 
 
@@ -17,6 +20,20 @@ They hint, however, that I will have the power to destroy it as well.
 2
 
 
+### Kelsier and Dockson talk about big plans
+_Character:Kelsier_  
+_Place:Luthadel_  
+_Character(Reference):Lord Ruler_  
+_Place(Reference):Kredik Shaw_  
+_Character:Dockson_  
+_Character(Reference):Breeze_  
+_Character(Reference):Ham_  
+_Character(Irrelevent):Trap_  
+_Character(Irrelevent):Ruddy_  
+_Character(Reference):Clubs_  
+
+
+#### 
 
 IN KELSIER’S OPINION, THE CITY of Luthadel—seat of the Lord Ruler—was a gloomy
 sight. Most of the buildings had been built from stone blocks, with tile roofs
@@ -164,12 +181,14 @@ Kelsier shrugged. “I don’t see why. You always work with Mistings.”
 further argument. “No need, Kell. I’m not hedging—I just said it would take
 some getting used to.”
 
+#### Dockson mentions Breeze and Ham for the first time
 “Fine. Who’s coming tonight?”
 
 “Well, Breeze and Ham will be there, of course. They’re very curious about this
 mystery job of ours—not to mention rather annoyed that I won’t tell him what
 you’ve been up to these last few years.”
 
+#### Learning that their so called "Smoker" has been killed, Kelsier says they should find Clubs to fill the spot
 “Good,” Kelsier said with a smile. “Let them wonder. How about Trap?”
 
 Dockson shook his head. “Trap’s dead. The Ministry finally caught up with him a
@@ -245,8 +264,13 @@ prude of a brother. But . . .”
 
 “This will be worth your time,” Dockson promised.
 
+### Camon fetches Vin a few days after their previous gig
+_Character:Vin_  
+_Character:Camon_  
+_Place:Luthadel_  
+_Character(Reference):Reen_  
 
-
+#### 
 Vin sat in the corner of the safe house’s main lair. She kept to the shadows,
 as usual; the more she stayed out of sight, the more the others would ignore
 her. She couldn’t afford to expend Luck keeping the men’s hands off of her.
@@ -301,8 +325,15 @@ His eyes locked on Vin. “It’s time.”
 
 Vin frowned. Time for what?
 
+### Camon seeks to underhand the job by preemption, but Vin is warry of the encounter with the High Prelan
+_Character:Vin_  
+_Character:Camon_  
+_Character(Reference):Theron_  
+_Place:Canton of Finance_  
+_Character(Reference):Prelan Laird_  
+_Character:High Prelan Arriev_  
 
-
+#### 
 The Ministry’s Canton of Finance was an imposing structure—but, then,
 everything about the Steel Ministry tended to be imposing.
 
@@ -362,6 +393,7 @@ He’s nervous. More nervous, even, than before.
 
 Camon nodded.
 
+#### Theron's plan
 “But, how? Why?” Theron’s plan was complex in execution, but simple in concept.
 Every year, the Ministry transferred its new acolyte obligators from a northern
 training facility south to Luthadel for final instruction. Theron had
@@ -380,11 +412,13 @@ this job.”
 
 “But, the return he’ll make—” Vin said.
 
+#### Camon reveals his counterplan
 “Will never happen if I take what I can now, then run,” Camon said, smiling.
 “I’ll talk the obligators into a down payment to get my caravan boats afloat,
 then disappear and leave Theron to deal with the disaster when the Ministry
 realizes that it’s been scammed.”
 
+#### 
 Vin stood back, slightly shocked. Setting up a scam like this would have cost
 Theron thousands upon thousands of boxings—if the deal fell through now, he
 would be ruined. And, with the Ministry hunting him, he wouldn’t even have time
@@ -539,8 +573,14 @@ crew-leader.
 
 Apparently.
 
+### Kelsier and Dockson observe Camon and Vin leave the Canton of Finance being tailed
+_Character:Kelsier_  
+_Character:Dockson_  
+_Place:Outside Canton of Finance_  
+_Character(Reference):Camon_  
+_Character(Reference):Vin_  
 
-
+#### 
 Kelsier stuffed another one of the little red-frosted cakes into his mouth,
 chewing with satisfaction. The fat thief and his scrawny attendant passed
 through the waiting room, entering the entryway beyond. The obligator who had
@@ -569,6 +609,7 @@ could watch the Canton building’s doors.
 Kelsier munched contentedly on his cakes. “How’d you find out about her?” he
 asked between bites.
 
+#### It's revealed, all in one that the job Kelsier and Dockson are discussing has to do with the Girl Vin, and that Camon is Kelsier's brother
 “Your brother,” Dockson replied. “Camon tried to swindle Marsh a few months
 ago, and he brought the girl with him then, too. Actually, Camon’s little
 good-luck charm is becoming moderately famous in the right circles. I’m still
@@ -620,6 +661,7 @@ out of the building, and a second man exited behind him.
 
 Beside Kelsier, Dockson suddenly grew stiff.
 
+#### A Steel Inquisitor and some obligator's tail Camon and Vin
 The second man was tall with a strong build. As he turned, Kelsier was able to
 see that a thick metal spike had been pounded tip-first through each of the
 man’s eyes. With shafts as wide as an eye socket, the nail-like spikes were
@@ -661,6 +703,7 @@ of men will die. They’re not all the most admirable people, but . . .”
 not about to let a possible Mistborn slip away from us—I want to talk to that
 girl. Can you deal with those tails?”
 
+#### They agree on a plan to lose the tails and grab the girl
 “I said I’d become boring, Kell,” Dockson said. “Not sloppy. I can handle a
 couple of Ministry flunkies.”
 
