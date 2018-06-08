@@ -204,7 +204,7 @@ They were, after all, only skaa.
 
 ### Kelsier, a mysterious Skaa, visits the plantation of Lord Tresting and gives them news of things on the outside
 _Character:Kelsier_  
-_Character:Tepper_  
+_Character(Insignificant):Tepper_  
 _Character:Mennis_  
 
 #### 

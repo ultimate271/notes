@@ -31,6 +31,7 @@ _Character(Reference):Ham_
 _Character(Irrelevent):Trap_  
 _Character(Irrelevent):Ruddy_  
 _Character(Reference):Clubs_  
+_Location:Canton of Finance_  
 
 
 #### 
@@ -269,6 +270,7 @@ _Character:Vin_
 _Character:Camon_  
 _Place:Luthadel_  
 _Character(Reference):Reen_  
+_Location:Luthadel Underground_  
 
 #### 
 Vin sat in the corner of the safe house’s main lair. She kept to the shadows,
@@ -332,6 +334,7 @@ _Character(Reference):Theron_
 _Place:Canton of Finance_  
 _Character(Reference):Prelan Laird_  
 _Character:High Prelan Arriev_  
+_Location:Canton of Finance_  
 
 #### 
 The Ministry’s Canton of Finance was an imposing structure—but, then,
@@ -576,9 +579,11 @@ Apparently.
 ### Kelsier and Dockson observe Camon and Vin leave the Canton of Finance being tailed
 _Character:Kelsier_  
 _Character:Dockson_  
+_Character(Reference):Marsh_  
 _Place:Outside Canton of Finance_  
 _Character(Reference):Camon_  
 _Character(Reference):Vin_  
+_Location:Canton of Finance_  
 
 #### 
 Kelsier stuffed another one of the little red-frosted cakes into his mouth,
@@ -606,10 +611,10 @@ street, pulled his hood up against the still falling ash, then led the way
 across the street. He paused beside an alleyway, standing where he and Dockson
 could watch the Canton building’s doors.
 
+#### How Dockson became aware of Vin's powers through Kelsier's brother Marsh
 Kelsier munched contentedly on his cakes. “How’d you find out about her?” he
 asked between bites.
 
-#### It's revealed, all in one that the job Kelsier and Dockson are discussing has to do with the Girl Vin, and that Camon is Kelsier's brother
 “Your brother,” Dockson replied. “Camon tried to swindle Marsh a few months
 ago, and he brought the girl with him then, too. Actually, Camon’s little
 good-luck charm is becoming moderately famous in the right circles. I’m still

@@ -30,6 +30,7 @@ which the entire world now relies.
 _Character:Camon_  
 _Character:Vin_  
 _Character:Ulef_  
+_Location:Luthedel Underground_  
 
 #### Camon shows off his new wealth
 CAMON COUNTED HIS COINS, DROPPING THE golden boxings one by one into the small
@@ -224,6 +225,7 @@ _Character:Milev_
 _Character:Camon_  
 _Character:Vin_  
 _Character:Ulef_  
+_Location:Luthedel Underground_  
 
 #### Kelsier and Dockson make their entrance
 A few feet away, the stairwell door shook, then burst open. Camon paused, arm
@@ -461,6 +463,7 @@ cutthroats and thieves.
 _Character:Kelsier_  
 _Character:Dockson_  
 _Character:Vin_  
+_Location:Luthedel Underground_  
 
 #### Kelsier and Dockson begin conversation with Vin
 She eyed the bolt door. Kelsier was watching her. What would he do if she ran?
