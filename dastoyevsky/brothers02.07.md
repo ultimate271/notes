@@ -1,8 +1,15 @@
 ## Chapter VII. A Young Man Bent On A Career
 _Character:Elder Zossima_  
 _Character:Alexey Fyodorovitch Karamazov_  
-_Character:Rakitin_
+_Character:Rakitin_  
+_Character(Reference):Father Superior_  
+_Character(Reference):Dmitri_  
+_Character(Reference):Fyodor_  
+_Character(Reference):Grushanka_  
 
+### Elder Zossima dismisses Alexey who is hesitant to leave
+
+#### Elder Zossima shares some words with Alexey
 Alyosha helped Father Zossima to his bedroom and seated him on his bed. It
 was a little room furnished with the bare necessities. There was a narrow
 iron bedstead, with a strip of felt for a mattress. In the corner, under
@@ -41,6 +48,9 @@ follow the dead with tears, but here we rejoice over the father who is
 departing. We rejoice and pray for him. Leave me, I must pray. Go, and
 make haste. Be near your brothers. And not near one only, but near both.”
 
+### Alexey and Rakitin discuss matters of family with a lot of foreshadowing
+
+#### Alexey thinks to why he wants to stay
 Father Zossima raised his hand to bless him. Alyosha could make no
 protest, though he had a great longing to remain. He longed, moreover, to
 ask the significance of his bowing to Dmitri, the question was on the tip
@@ -63,6 +73,7 @@ pines beside the path. He had not far to go—about five hundred paces. He
 expected to meet no one at that hour, but at the first turn of the path he
 noticed Rakitin. He was waiting for some one.
 
+#### Alyosha runs in to Rakitin who was waiting for him
 “Are you waiting for me?” asked Alyosha, overtaking him.
 
 “Yes,” grinned Rakitin. “You are hurrying to the Father Superior, I know;
@@ -71,6 +82,7 @@ entertained the Bishop and General Pahatov, do you remember? I shan’t be
 there, but you go and hand the sauces. Tell me one thing, Alexey, what
 does that vision mean? That’s what I want to ask you.”
 
+#### Rakitin inquires about the gesture of the elder
 “What vision?”
 
 “That bowing to your brother, Dmitri. And didn’t he tap the ground with
@@ -96,6 +108,7 @@ house stinks of it.”
 
 “What crime?”
 
+#### Rakitin cleverly shifts the subject to his opinions.
 Rakitin evidently had something he was eager to speak of.
 
 “It’ll be in your family, this crime. Between your brothers and your rich
@@ -128,9 +141,11 @@ began speaking so strangely, I fancied I had thought of it myself.”
 “You see? (And how well you expressed it!) Looking at your father and your
 brother Mitya to‐day you thought of a crime. Then I’m not mistaken?”
 
+#### Aloysha asks two questions of Ratikin
 “But wait, wait a minute,” Alyosha broke in uneasily. “What has led you to
 see all this? Why does it interest you? That’s the first question.”
 
+#### Rakitin answers the first, saying how he came to his conclusions
 “Two questions, disconnected, but natural. I’ll deal with them separately.
 What led me to see it? I shouldn’t have seen it, if I hadn’t suddenly
 understood your brother Dmitri, seen right into the very heart of him all
@@ -189,6 +204,7 @@ Do you know, she’s an extraordinary woman, too!”
 “Thank her and say I’m not coming,” said Alyosha, with a strained smile.
 “Finish what you were saying, Misha. I’ll tell you my idea after.”
 
+#### Ratikin goes on about Ivan wanting to take Mitya's betrothed, and the weird love/money grabbing triangle between Fyodor, Mitya, and Grushenka
 “There’s nothing to finish. It’s all clear. It’s the same old tune,
 brother. If even you are a sensualist at heart, what of your brother,
 Ivan? He’s a Karamazov, too. What is at the root of all you Karamazovs is
@@ -232,6 +248,7 @@ refuse such a fascinating man as Ivan. She’s hesitating between the two of
 them already. And how has that Ivan won you all, so that you all worship
 him? He is laughing at you, and enjoying himself at your expense.”
 
+#### Alexey gives his counterpoints, but Ratikin insists on his point of view
 “How do you know? How can you speak so confidently?” Alyosha asked
 sharply, frowning.
 
@@ -268,6 +285,7 @@ must be confessed!’ His whole theory is a fraud! Humanity will find in
 itself the power to live for virtue even without believing in immortality.
 It will find it in love for freedom, for equality, for fraternity.”
 
+#### Alexey asks Rakitin if perhaps his whole theories are because he is jealous of Katarina Ivanovna
 Rakitin could hardly restrain himself in his heat, but, suddenly, as
 though remembering something, he stopped short.
 
@@ -292,6 +310,7 @@ condescends to abuse me, you know. Why haven’t I a right to abuse him?”
 “I never heard of his saying anything about you, good or bad. He doesn’t
 speak of you at all.”
 
+#### Rakitan talks about his grander plans
 “But I heard that the day before yesterday at Katerina Ivanovna’s he was
 abusing me for all he was worth—you see what an interest he takes in your
 humble servant. And which is the jealous one after that, brother, I can’t
@@ -324,6 +343,7 @@ my own ears; if you want to know, he didn’t tell me, but I overheard him,
 unintentionally, of course, for I was sitting in Grushenka’s bedroom and I
 couldn’t go away because Dmitri Fyodorovitch was in the next room.”
 
+#### Aloysha thinks that Katerina is a relation of Rakitan, and is corrected
 “Oh, yes, I’d forgotten she was a relation of yours.”
 
 “A relation! That Grushenka a relation of mine!” cried Rakitin, turning
@@ -348,6 +368,9 @@ often go to see her, and you told me yourself you’re not her lover. I
 never dreamed that you of all people had such contempt for her! Does she
 really deserve it?”
 
+### Foreshodowing to the ruccuss we are about to learn about
+
+#### After shrugging off his business with Katerina, Rakitan notices that there is rucuss coming from the Father Superior's dinner
 “I may have reasons of my own for visiting her. That’s not your business.
 But as for relationship, your brother, or even your father, is more likely
 to make her yours than mine. Well, here we are. You’d better go to the

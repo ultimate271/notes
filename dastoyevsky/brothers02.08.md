@@ -1,6 +1,13 @@
 ## Chapter VIII. The Scandalous Scene
+_Character:Miüsov_  
+_Character:Ivan_  
+_Character:Father Superior_  
+_Character:Fyodor_  
+_Character:Father Zossima_  
 
+### 
 
+#### 
 Miüsov, as a man of breeding and delicacy, could not but feel some inward
 qualms, when he reached the Father Superior’s with Ivan: he felt ashamed
 of having lost his temper. He felt that he ought to have disdained that
