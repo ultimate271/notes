@@ -1,4 +1,21 @@
 ## 6
+_Character:Vin_  
+_Character:Ham_  
+_Character:Kelsier_  
+_Character(Reference):Reen_  
+_Character:Clubs' Apprentice_  
+_Character:Clubs_  
+_Character:Yeden_  
+_Character:Breeze_  
+_Character:Dockson_  
+_Character:Marsh_  
+_Character(Reference):Lord Renoux_  
+_Location:Kelsier's hideout_  
+_Location(Reference):Arguois_  
+
+### Epigraph
+
+#### 
 
 * * *
 
@@ -19,6 +36,9 @@ my mind, far off in the mountains.
 
 
 
+### Vin examines her new surroundings
+
+#### Vin wakes up in a new room
 VIN AWOKE TO A QUIET room, red morning sunlight peeking through cracks in the
 shutters. She lay in bed for a moment, unsettled. Something felt wrong. It
 wasn’t that she was waking up in an unfamiliar place—traveling with Reen had
@@ -45,6 +65,7 @@ faint, which meant it was still early morning, but she could already hear
 people moving in the hallway. She crept to the door, creaking it open and
 peeking out.
 
+#### Vin wanders a bit and finds carpenters associated with Clubs
 After leaving Kelsier the night before, Dockson had led Vin to Clubs’s shop.
 Because of the late hour, Clubs had immediately led them to their separate
 rooms. Vin, however, had not gone to bed immediately. She had waited until
@@ -81,6 +102,7 @@ her that a powerful man like Kelsier would withhold knowledge from her as long
 as he could, stringing her along with occasional tidbits. His knowledge was
 what bound her to him—it would be unwise to give away too much too quickly.
 
+#### Vin takes a bath for the first time
 Footsteps sounded outside, and Vin continued to peek through the crack.
 
 “You’ll want to get ready, Vin,” Dockson said as he passed her door. He wore a
@@ -104,8 +126,9 @@ These men are more like noblemen than skaa, Vin thought. She wasn’t certain
 what she thought of that. However, they obviously expected her to do as they
 did, so she closed and bolted the door, then disrobed and crawled into the tub.
 
+### Vin continues to examine before going to meet with the crew
 
-
+#### Vin thinks about things as she eats breakfast
 She smelled funny.
 
 Even though the scent was faint, Vin still caught whiffs of herself
@@ -150,6 +173,7 @@ morning labors, working on various bits of furniture. They stayed in the back
 while Clubs worked in the main showroom, putting detailed finishing touches on
 the pieces.
 
+#### Ham enters and converses with Vin for a bit
 The back kitchen door suddenly slammed open. Vin slipped reflexively to the
 side, putting her back to a wall and peeking around into the kitchen.
 
@@ -203,12 +227,14 @@ I’m an important person now, she thought with a measure of discomfort. Did the
 know that she was . . . Mistborn? Or was she simply treated with respect
 because she was a guest?
 
+#### Vin stores some food for later
 Eventually, Vin took a third baywrap and fled to her room. It was more food
 than she could possibly eat; however, she intended to scrape out the barley and
 save the flatbread, which would keep well should she need it later.
 
+### Kelsier goes over the grand outline of the plan
 
-
+#### Vin enters the room where everyone is meeting
 A knock came at her door. Vin answered it, pulling the door open with a careful
 motion. A young man stood outside—the boy who had been with Clubs back at
 Camon’s lair the night before.
@@ -262,10 +288,12 @@ against approaching gloom. The only chairs were the ones in Kelsier’s half
 circle. Resigned, she moved forward and took the empty chair beside Dockson. It
 was too big for her, and she settled into it with her knees folded beneath her.
 
+#### Foreshadowing to the end of the chapter
 “That’s all of us,” Kelsier said.
 
 “Who’s the last chair for?” Ham asked.
 
+#### Kelsier and team begin formutating the outline of their plan
 Kelsier smiled, winked, but ignored the question. “All right, let’s talk. We’ve
 got something of a task ahead of ourselves, and the sooner we begin outlining a
 plan, the better.”
@@ -344,6 +372,7 @@ wasn’t just daunting—it was disturbing. Twenty thousand imperial soldiers? T
 collected forces and power of the high nobility? The Ministry? One Steel
 Inquisitor was said to be more powerful than a thousand troops.
 
+#### The list is daunting
 More discomforting, however, was how matter-of-factly they regarded the issues.
 How could they even think of resisting the Lord Ruler? He was . . . well, he
 was the Lord. He ruled all of the world. He was the creator, protector, and
@@ -376,6 +405,9 @@ The room was quiet and thoughtful.
 Breeze shook his head. “Now that it’s all up there, I can’t help wondering if
 the child has a point. This is a daunting task.”
 
+### The plan to start a House Wars to create chaos
+
+#### Rebellion won't work to create chaos, so a Nobility House War will have to do
 “But it can be done,” Kelsier said. “Let’s start by talking about how to break
 the city. What can we do that would be so threatening that it would throw the
 nobility into chaos, maybe even get the palace guard out into the city,
@@ -478,6 +510,9 @@ itself—and that’s why we’re going to succeed.”
 
 “Assuming we can deal with that Garrison,” Dockson noted.
 
+### What to do about the Garrison
+
+#### Turning attention to the Garrison
 Kelsier nodded, turning to write House War underneath Great Houses and Chaos.
 “All right, then. Let’s talk about the Garrison. What are we going to do about
 it?”
@@ -502,6 +537,7 @@ The group fell silent. Vin squirmed in her chair, looking over each man in
 turn. Breeze’s words had a profound effect. Ham opened his mouth to speak, then
 closed it again, sitting back to reconsider.
 
+#### After reaching a dead end on that thought, we turn to our own armies in the Arguois caverns
 “All right,” Kelsier finally said. “We’ll get back to the Garrison in a moment.
 Let’s look at our own army. How can we raise one of substantial size and hide
 it from the Lord Ruler?”
@@ -562,6 +598,7 @@ Kelsier shook his head. “Doubtful. The Garrison’s primary duty is to maintai
 order in the city. If we can’t deal with those troops, we’ll never pull this
 off.” He paused, then eyed Vin. “What do you think, Vin? Any suggestions?”
 
+#### Vin is asked her opinion, and she joins the conversation
 She froze. Camon had never asked her opinion. What did Kelsier want from her?
 She pulled back into her chair slightly as she realized that the other members
 of the crew had turned, looking at her.
@@ -575,6 +612,7 @@ Vin nodded, but Kelsier didn’t turn away from her. “No, really. Tell me what
 you’re thinking, Vin. You’ve got a much larger enemy threatening you. What do
 you do?”
 
+#### The idea to feint a rebellion to move the Garrison comes from Vin
 “Well,” she said slowly. “You don’t fight him, that’s for certain. Even if you
 won somehow, you’d be so hurt and broken that you couldn’t fight off anyone
 else.”
@@ -613,6 +651,7 @@ someplace nearby, perhaps the Lord Ruler would send the Garrison out to help.”
 “I doubt he’d send them away to protect another city,” Breeze said. “Not if it
 left him exposed in Luthadel.”
 
+#### Vin suggests attacking the pits to draw the Garrison
 The group fell silent, thinking again. Vin glanced around, then found Kelsier’s
 eyes on her.
 
@@ -654,6 +693,7 @@ before the Garrison could return from the Pits.”
 
 Kelsier nodded.
 
+#### Kelsier mentions a friend that can run canal boats to the north
 Dockson continued to scribble. “I’ll have to start stockpiling supplies in
 those caves, maybe make a trip out to check conditions there.”
 
@@ -664,6 +704,7 @@ outside the city—and skaa aren’t allowed to travel on their own.”
 Pits of Hathsin beneath Luthadel Garrison on his board. “I have a friend that
 can give us a front to run canal boats to the north.”
 
+#### Breeze's challenge to conjure up an army of 10,000 in a year
 “Assuming,” Yeden said, “you can even make good on your first and primary
 promise. I paid you to gather me an army. Ten thousand men is a great number,
 but I’ve still to see an adequate explanation of how you’re going to raise
@@ -697,6 +738,9 @@ at the caves.”
 
 Breeze nodded.
 
+### We talk about Lord Renoux, the planted imposter who will supply arms
+
+#### We begin asking about weapons and supplies and training for the army
 “We’ll also need weapons and supplies,” Ham said. “And we’ll need to train the
 men.”
 
@@ -725,6 +769,7 @@ men whose loyalty only goes as far as the boxings in their pockets.”
 Ham nodded, and Yeden quieted. Kelsier turned, writing Ham: Training and
 Breeze: Recruitment beneath Troops on the board.
 
+#### Kelsier reveals that he has a weapons guy, a nobleman named Lord Renoux
 “I’m interested in your plan to get weapons,” Breeze said. “How, exactly, do
 you intend to arm ten thousand men without making the Lord Ruler suspicious? He
 keeps a very careful eye on the armament flows.”
@@ -787,6 +832,7 @@ Kelsier nodded. “We’ll have to fake the shipping records, just in case.”
 “That’s . . . quite an ambitious front, Kell,” Ham said. “A lord’s family
 working on our side.”
 
+#### Kelsier next reveals that the nobleman was killed and an actor is in his place
 “But,” Breeze said, looking confused. “Kelsier, you hate noblemen.”
 
 “This one’s different,” Kelsier said with a sly smile.
@@ -823,6 +869,7 @@ require extraordinary risks.”
 “We minimize them as best we can, Yeden,” Kelsier said. “My actor is very good.
 However, these are the sorts of things we’re going to be doing in this job.”
 
+#### At this, Yeden begins getting uneasy at the absurdity of their plans
 “And if I order you to stop a few of them?” Yeden asked.
 
 “You can shut down the job at any time,” Dockson said, not looking up from his
@@ -848,6 +895,7 @@ fact, it is.”
 
 “All right,” Yeden said, sighing. “We continue.”
 
+#### Breeze is assigned the duty of stirring up noblemen
 “Good,” Kelsier said, writing Kelsier: Equipment under Troops. “The Renoux
 front will also give us an ‘in’ with Luthadel high society. This will be a very
 important advantage—we’ll need to keep careful track of Great House politics if
@@ -892,6 +940,9 @@ them snapping at each other like frightened animals.”
 He turned, adding Breeze: Planning and Kelsier: General Mayhem beneath Great
 Houses on the board.
 
+### Kelsier lands on Vin as spy for the operation
+
+#### Kelsier mentions the need for a spy
 “Anyway,” Kelsier continued, “we’ll need to keep an eye on local politics to
 find out which Houses are making alliances. That means sending a spy to some of
 their functions.”
@@ -906,6 +957,7 @@ circles.”
 “Well, that should be easy,” Breeze said. “We just bring up your impostor and
 send him into the parties.”
 
+#### For some sinister and hidden to the reader reason, Lord Renoux can't be used as a spy
 Kelsier shook his head. “Unfortunately, Lord Renoux himself won’t be able to
 come to Luthadel.”
 
@@ -932,6 +984,7 @@ back in his chair. “I think you’re probably right.”
 Vin frowned, eying the others in the room. They seemed to know what Kelsier was
 talking about. She’d have to study this Lord Renoux sometime.
 
+#### Someone needs to play relative to Renoux. Kelsier goes around the room before landing on Vin
 “Anyway,” Kelsier said, “we have to send someone to the social functions. Dox,
 therefore, will be playing Renoux’s nephew and heir, a scion of the family who
 has recently gained favor with Lord Renoux.”
@@ -1002,6 +1055,7 @@ tried to. . . .”
 Houses. “All right. Yeden, you should probably begin planning how you’re to
 keep control of the empire once this is all through.”
 
+#### Yeden's role in the whole thing is given to govern and rule afterward
 Yeden nodded. Vin felt a little sorry for the man, seeing how much the
 planning—the sheer outrageousness of it all—seemed to be overwhelming him.
 Still, it was hard to feel sympathy for him, considering what Kelsier had just
@@ -1043,6 +1097,7 @@ Rebellion on the board, “we’ll try and find a way to trick him out of the ci
 Perhaps we can get him to go with his army to the Pits and secure things
 there.”
 
+#### About the Lord Ruler
 “Then what?” Yeden asked.
 
 “You find some way to deal with him,” Kelsier said. “You didn’t hire us to kill
@@ -1062,6 +1117,9 @@ argument.
 
 Kelsier turned. “That should be it, then.”
 
+### At the end of the meeting, Marsh makes a grand appearance, wishing to speak in private with his brother Kelsier
+
+#### Marsh makes his apperence, quickly breaking up the meeting
 “Uh,” Ham said, “what about the Ministry? Shouldn’t we at least find a way to
 keep an eye on those Inquisitors?”
 
@@ -1090,6 +1148,7 @@ The others rose slowly, giving Marsh a wide berth as they left. Vin followed
 them, pulling the door shut and walking down the stairs to give the appearance
 of retiring to her room.
 
+#### Vin, pretending to leave, arrives back three minutes later to eavsdrop on their conversation
 Less than three minutes later she was back at the door, listening carefully to
 the conversation going on inside.
 
