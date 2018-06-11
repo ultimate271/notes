@@ -7,7 +7,7 @@ _Character:Pyotr Fomitch Kalganov_
 _Character(Reference):Dmitri Fyodorovitch Karamazov_  
 _Character:Ivan Fyodorovitch Karamazov_  
 _Character:Alexey Fyodorovitch Karamazov_  
-_Character(Insignificant):Maximov_  
+_Character:Maximov_  
 _Character(Introduced):A Monk_  
 _Character(Reference):Elder Zossima_  
 _Character(Reference):Father Superior_  

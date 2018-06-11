@@ -1,16 +1,22 @@
 ## Chapter VIII. The Scandalous Scene
 _Character:Miüsov_  
+_Character:Kalganov_  
 _Character:Ivan_  
 _Character:Father Superior_  
 _Character:Fyodor_  
 _Character:Father Zossima_  
+_Character:Father Iosif_  
+_Character:Father Païssy_  
+_Character:Maximov_  
+_Character:Rakitan_  
+_Character:Aloysha_  
 
-### 
+### The remaining group enters the Father Superior's quarters
 
-#### 
+#### Miüsov's attitude entering the scene
 Miüsov, as a man of breeding and delicacy, could not but feel some inward
 qualms, when he reached the Father Superior’s with Ivan: he felt ashamed
-of having lost his temper. He felt that he ought to have disdained that
+of having lost his temper. He felt[1] that he ought to have disdained that
 despicable wretch, Fyodor Pavlovitch, too much to have been upset by him
 in Father Zossima’s cell, and so to have forgotten himself. “The monks
 were not to blame, in any case,” he reflected, on the steps. “And if
@@ -25,6 +31,7 @@ his claims to the wood‐cutting and fishery rights at once. He was the more
 ready to do this because the rights had become much less valuable, and he
 had indeed the vaguest idea where the wood and river in question were.
 
+#### We get description of the scene as the rest of the host enters
 These excellent intentions were strengthened when he entered the Father
 Superior’s dining‐room, though, strictly speaking, it was not a dining‐
 room, for the Father Superior had only two rooms altogether; they were,
@@ -66,6 +73,7 @@ Superior drew it back in time to avoid the salute. But Ivan and Kalganov
 went through the ceremony in the most simple‐hearted and complete manner,
 kissing his hand as peasants do.
 
+#### Miüsov apologizes on behalf of Fyodor
 “We must apologize most humbly, your reverence,” began Miüsov, simpering
 affably, and speaking in a dignified and respectful tone. “Pardon us for
 having come alone without the gentleman you invited, Fyodor Pavlovitch. He
@@ -94,6 +102,9 @@ He stood before the holy image, and began to say grace, aloud. All bent
 their heads reverently, and Maximov clasped his hands before him, with
 peculiar fervor.
 
+### Fyodor changes his mind about leaving, and reenters, making a scene
+
+#### Fyodor, changing his mind, decides to make a shameless grand re-entry
 It was at this moment that Fyodor Pavlovitch played his last prank. It
 must be noted that he really had meant to go home, and really had felt the
 impossibility of going to dine with the Father Superior as though nothing
@@ -131,6 +142,7 @@ company, and laughing his prolonged, impudent, malicious chuckle, looked
 them all boldly in the face. “They thought I had gone, and here I am
 again,” he cried to the whole room.
 
+#### Miüsov is beside himself as Fyodor reenters
 For one moment every one stared at him without a word; and at once every
 one felt that something revolting, grotesque, positively scandalous, was
 about to happen. Miüsov passed immediately from the most benevolent frame
@@ -154,6 +166,7 @@ the Lord at our humble table.”
 
 “No, no, it is impossible!” cried Miüsov, beside himself.
 
+#### Fyodor likens Maximov to von Sohn
 “Well, if it is impossible for Pyotr Alexandrovitch, it is impossible for
 me, and I won’t stop. That is why I came. I will keep with Pyotr
 Alexandrovitch everywhere now. If you will go away, Pyotr Alexandrovitch,
@@ -182,6 +195,7 @@ Sohn?”
 
 “Let us go,” cried Miüsov, addressing Kalganov.
 
+#### Fyodor starts going on slanderously about confession
 “No, excuse me,” Fyodor Pavlovitch broke in shrilly, taking another step
 into the room. “Allow me to finish. There in the cell you blamed me for
 behaving disrespectfully just because I spoke of eating gudgeon, Pyotr
@@ -208,6 +222,7 @@ talk about it—so it is really a scandal! No, Fathers, one might be carried
 along with you to the Flagellants, I dare say ... at the first opportunity
 I shall write to the Synod, and I shall take my son, Alexey, home.”
 
+#### Commentary on Fyodor's comments
 We must note here that Fyodor Pavlovitch knew where to look for the weak
 spot. There had been at one time malicious rumors which had even reached
 the Archbishop (not only regarding our monastery, but in others where the
@@ -228,6 +243,7 @@ talking nonsense. And, though he knew perfectly well that with each word
 he would be adding more and more absurdity, he could not restrain himself,
 and plunged forward blindly.
 
+#### Father Superior replies the slander with courtesy
 “How disgraceful!” cried Pyotr Alexandrovitch.
 
 “Pardon me!” said the Father Superior. “It was said of old, ‘Many have
@@ -236,6 +252,7 @@ hearing it I have said to myself: it is the correction of the Lord and He
 has sent it to heal my vain soul.’ And so we humbly thank you, honored
 guest!” and he made Fyodor Pavlovitch a low bow.
 
+#### Fyodor deflects the courtesy and continues slandering the Elders
 “Tut—tut—tut—sanctimoniousness and stock phrases! Old phrases and old
 gestures. The old lies and formal prostrations. We know all about them. A
 kiss on the lips and a dagger in the heart, as in Schiller’s _Robbers_. I
@@ -254,6 +271,7 @@ laborer, brings here the farthing earned by his horny hand, wringing it
 from his family and the tax‐gatherer! You bleed the people, you know, holy
 fathers.”
 
+#### Fyodor declares he will leave after Miüsov
 “This is too disgraceful!” said Father Iosif.
 
 Father Païssy kept obstinately silent. Miüsov rushed from the room, and
@@ -294,12 +312,16 @@ kasha. We will have dinner with some brandy and liqueur to it.... I’ve
 cloudberry wine. Hey, von Sohn, don’t lose your chance.” He went out,
 shouting and gesticulating.
 
+### Aloysha watches as his father and brother leave the scene
+
+#### Fyodor yells at Alexey to join him as he and Ivan storm off
 It was at that moment Rakitin saw him and pointed him out to Alyosha.
 
 “Alexey!” his father shouted, from far off, catching sight of him. “You
 come home to me to‐day, for good, and bring your pillow and mattress, and
 leave no trace behind.”
 
+#### Aloysha watches the scene between Fyodor, Ivan, and Maximov
 Alyosha stood rooted to the spot, watching the scene in silence.
 Meanwhile, Fyodor Pavlovitch had got into the carriage, and Ivan was about
 to follow him in grim silence without even turning to say good‐by to
@@ -334,6 +356,7 @@ But the carriage had already driven away. Ivan made no reply.
 
 “Well, you are a fellow,” Fyodor Pavlovitch said again.
 
+#### Fyodor asks Ivan about his actions, and is met with coldness
 After a pause of two minutes, looking askance at his son, “Why, it was you
 got up all this monastery business. You urged it, you approved of it. Why
 are you angry now?”
@@ -359,5 +382,7 @@ Ivan shrugged his shoulders contemptuously, and turning away stared at the
 road. And they did not speak again all the way home.
 
 
+[1: Translated literally, more of nobility than of sincerity, Fyodor plays on
+this an spins it, saying damn the nobility]
 
-
+[1: This is here to fuck with shit]

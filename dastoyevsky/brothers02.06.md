@@ -7,7 +7,6 @@ _Character:Fyodor Pavlovitch Karamazov_
 _Character:Pyotr Alexandrovitch Miüsov_  
 _Character:Pyotr Fomitch Kalganov_  
 _Character(Unmentioned):Rakitin_  
-
 _Character(Reference):Katerina Ivanovna_  
 
 ### Dmitri enters
