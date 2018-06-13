@@ -1,6 +1,15 @@
 ## Chapter I. In The Servants’ Quarters
+_Character:Grigory_  
+_Character:Marfa Ignatyevna_  
+_Character(Reference):Fyodor_  
+_Character(Reference):Dmitri_  
+_Character(Reference):Ivan_  
+_Character(Reference):Aloysha_  
+_Character:Lizaveta Smerdyastchaya_  
 
+### A proper introduction of Grigory and his wife Marfa
 
+#### About the Karamazov's estate, as we begin to examine Grigory and his wife Marfa Ignatyevna
 The Karamazovs’ house was far from being in the center of the town, but it
 was not quite outside it. It was a pleasant‐looking old house of two
 stories, painted gray, with a red iron roof. It was roomy and snug, and
@@ -38,6 +47,7 @@ duty to stay here I never shall understand,” Marfa answered firmly.
 “Well, don’t understand then. But so it shall be. And you hold your
 tongue.”
 
+#### Grigory as victim of Fyodor's persistent soul yearning
 And so it was. They did not go away, and Fyodor Pavlovitch promised them a
 small sum for wages, and paid it regularly. Grigory knew, too, that he had
 an indisputable influence over his master. It was true, and he was aware
@@ -87,6 +97,7 @@ loved nothing but “evil.” When Alyosha had left him, he confessed to
 himself that he had learnt something he had not till then been willing to
 learn.
 
+#### Rehashing Grigory's stance on his masters wives and children
 I have mentioned already that Grigory had detested Adelaïda Ivanovna, the
 first wife of Fyodor Pavlovitch and the mother of Dmitri, and that he had,
 on the contrary, protected Sofya Ivanovna, the poor “crazy woman,” against
@@ -99,6 +110,7 @@ without frivolity. It was impossible to tell at first sight whether he
 loved his meek, obedient wife; but he really did love her, and she knew
 it.
 
+#### Marfa's loyalty to her husband, as we recall a story of her dancing with Fyodor's harlem
 Marfa Ignatyevna was by no means foolish; she was probably, indeed,
 cleverer than her husband, or, at least, more prudent than he in worldly
 affairs, and yet she had given in to him in everything without question or
@@ -121,6 +133,7 @@ danced, and, an hour later, at home in their cottage he gave her a lesson,
 pulling her hair a little. But there it ended: the beating was never
 repeated, and Marfa Ignatyevna gave up dancing.
 
+#### The story of their only child, and it's profound effect on Grigory
 God had not blessed them with children. One child was born but it died.
 Grigory was fond of children, and was not ashamed of showing it. When
 Adelaïda Ivanovna had run away, Grigory took Dmitri, then a child of three
@@ -172,6 +185,9 @@ of Flagellants settled in the neighborhood. He was evidently shaken by
 them, but judged it unfitting to go over to the new faith. His habit of
 theological reading gave him an expression of still greater gravity.
 
+### We transition to the night of Lizaveta giving birth
+
+#### At the sound of wailing in the Garden, Girgory investigates to find a girl named Lizaveta Merdyastchaya dying next to her newly born child
 He was perhaps predisposed to mysticism. And the birth of his deformed
 child, and its death, had, as though by special design, been accompanied
 by another strange and marvelous event, which, as he said later, had left

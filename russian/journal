@@ -1,0 +1,97 @@
+This document is for learning a word or so at a time, writing it a bunch, and
+using it in russian sentences and such. When I learn more about conjugation and
+such, I will include those cases as well, and as I get more familiar with
+Russian, English will be used less and less.
+
+I am going to start list some pronouns, because I know they will be used a lot
+
+The first person pronoun "I" is represented in russian by
+
+Я    ("I" am working)
+Меня (That was "me")
+Меня 
+Мне  (
+Мной
+Мне
+
+Upon further analysis, I have decided to use more concrete words, because I am
+unsure about the specifics of such a fundamental pronoun.
+
+Lets start learning vocabulary with family.
+
+Отец (Father)
+Отецы (Plural)
+Отеца 
+Отец
+Отец
+Отец
+
+
+All right, so we're doing this again with a different approach.
+
+Given a word, I want to be able to tell its gender, and the stem/conjugation of
+it.
+
+Lets start by going over the different cases.
+
+Before I want to start talking about cases, I just want to list "The Seven
+Letters" for the seven letter rule. The seven letter rule has to do with
+letters that follow one of these seven letters.
+
+Гг Кк Хх Жж Чч Шш Щщ
+
+In the nomnitive case (the dictionary definition, or "stem" of the noun), if
+the last letter of the word is a consonent or Й, the noun is masculine, the
+feminine nouns will end with а or я, and neutral words will end with о or е.
+If a stem ends with the soft sound ь, it can be either male or female, I'm not
+sure how to tell. Also I'm not sure, but maybe words never end in э or ы or
+etc., or something else.
+
+It seems that plural words will end with ы or и for male/female cases, and with
+а or я in neutral cases. Most masculine (plural) words will end with ы, which
+is appended after the final consonant, and most feminine words with и, which
+will replace the final vowel (or ь if so the case). So a masculine word ending
+in й (or ь) has that letter replaced by и. ы is used for feminine words when
+the word ends in а (unless it follows one of the seven letters, then use и
+anyway). Neutral plurals will end with а or я, cooresponding to о or е endings
+respectively (and always а if preceded by the seven letters).
+
+As an aside, basically what this all boils down to is that plurals will
+generally end with some sort of "ee" sound. Neutral word plurals will end with
+an "ah" sound. In it's coarsest form, the male version of the ee sound is ы and
+the female version is и, while the neutral sounds for "ah" are а and я. It is
+also worth noting that а and я are the endings of the stems for feminine words.
+
+Also, there is not a way to take an arbitrary string of Russian characters and
+determine if the word is plural or not, although we can boil it quite a bit.
+This is what we can deduce based on what we have so far. Any string that ends
+in a consonent or Й is singular male. Any word that ends in ы or и is plural.
+There is no way to determine outside of knowledge of vocabulary whether the
+plural word is male or female. Any word that ends in а or я is either female
+singular or neutral plural. Again, it seems there is no way to tell without
+vocabulary.
+
+Now lets on to the Accusative case. The Accusative case is not used much in
+English (I was it) (It was me) (and you can see in these two examples "I"
+transforms to "me" but "it" remains the same) but is used a little more
+extensively in Russian. In fact, it is possible for the word to remain
+unchanged in the accusative, so again there is no way to take an arbitrary
+string and determine if it is accusative. The rules for unchanged accusatives
+are convoluted. Inanimate Male words, female words ending in ь, and all neutral
+words remain unchanged. For animate male words, either append а after a
+consonent, or replace the vowel with я. For female words, replace а and я with
+у and ю.
+
+Okay, I don't know about you, but I am getting rather bored of this sort of
+tedium and want a table or something.
+
+I don't want to talk about plurals any more, and instead just want to talk
+about singulars. Also patterns I've noticed.
+
+Let's start with some pairs I've noticed. а and я go together (ah and yah), о
+and е go together, ы and и go together. There are six cases, Nominitive,
+Accusative, Dative, Genitive, Instrumental, Prepositional. Each one can be
+pluralized, and is either male, female, or neutor (each of which has two
+regular forms) giving 72 possibilities. This would best be placed on a table
+of 12 rows and 6 columns, one column for each case and one row for each form,
+along with a second set of rows for each plural form.

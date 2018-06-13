@@ -1,6 +1,13 @@
 ## Chapter II. Lizaveta
+_Character:Girgory_  
+_Character:Lizaveta_  
+_Character:Fyodor_  
+_Character:Pavel Fyodorovitch Smerdyakov_  
+_Character(Insignificant):Kondratyev_  
 
+### The life of Lizaveta
 
+#### About Lizaveta, her upbringing and her abusive father
 There was one circumstance which struck Grigory particularly, and
 confirmed a very unpleasant and revolting suspicion. This Lizaveta was a
 dwarfish creature, “not five foot within a wee bit,” as many of the pious
@@ -54,6 +61,7 @@ of the townspeople declared that she did all this only from pride, but
 that is hardly credible. She could hardly speak, and only from time to
 time uttered an inarticulate grunt. How could she have been proud?
 
+#### Fyodor passes by Lizaveta with his drunken friends, and she ends up pregnant
 It happened one clear, warm, moonlight night in September (many years ago)
 five or six drunken revelers were returning from the club at a very late
 hour, according to our provincial notions. They passed through the “back‐
@@ -93,6 +101,7 @@ troubled to contradict a set of tradespeople. In those days he was proud,
 and did not condescend to talk except in his own circle of the officials
 and nobles, whom he entertained so well.
 
+#### Lizaveta's escapes the care of a widow Kondratyev, and ends up in the Fyodor garden
 At the time, Grigory stood up for his master vigorously. He provoked
 quarrels and altercations in defense of him and succeeded in bringing some
 people round to his side. “It’s the wench’s own fault,” he asserted, and
@@ -114,6 +123,9 @@ accustomed to clambering over hurdles to sleep in gardens, had somehow
 managed to climb this fence, in spite of her condition, and had leapt
 down, injuring herself.
 
+### We return to our story as the child Pavel Fyodorovitch Smerdyakov is born
+
+#### The child is born and named Pavel Fyodorovitch Smerdyakov
 Grigory rushed to Marfa and sent her to Lizaveta, while he ran to fetch an
 old midwife who lived close by. They saved the baby, but Lizaveta died at
 dawn. Grigory took the baby, brought it home, and making his wife sit
@@ -129,6 +141,7 @@ vigorously in denying his responsibility. The townspeople were pleased at
 his adopting the foundling. Later on, Fyodor Pavlovitch invented a surname
 for the child, calling him Smerdyakov, after his mother’s nickname.
 
+#### The narrator decides to continue on with the story
 So this Smerdyakov became Fyodor Pavlovitch’s second servant, and was
 living in the lodge with Grigory and Marfa at the time our story begins.
 He was employed as cook. I ought to say something of this Smerdyakov, but
