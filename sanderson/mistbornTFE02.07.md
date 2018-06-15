@@ -75,7 +75,7 @@ and determination.”
 
 Marsh snorted quietly.
 
-#### 
+#### Marsh also absconds Kelsier for tying his rebellion with his job
 “You should be happy,” Kelsier said. “After decades of listening to your
 lectures, I’ve finally decided to do something worthwhile with my talents. Now
 that you’re here to help, I’m sure—”
@@ -134,7 +134,7 @@ army he’s apparently paying you for. But I won’t believe that you care.”
 “That’s where you are wrong, Marsh,” Kelsier said quietly. “That’s where you’ve
 always been wrong about me.”
 
-#### 
+#### Kelsier expects Marsh to help
 Marsh frowned. “Perhaps. How did this start, anyway? Did Yeden come to you, or
 did you go to him?”
 
@@ -148,7 +148,7 @@ Kelsier nodded. “That’s why you came here, no matter what you say. You once
 told me that you thought I could do great things if I ever applied myself to a
 worthy goal. Well, that’s what I’m doing now—and you’re going to help.”
 
-#### 
+#### Reference to some significant other missing
 “It’s not that easy anymore, Kell,” Marsh said with a shake of his head. “Some
 people are different now. Others are . . . gone.”
 
@@ -160,7 +160,7 @@ did . . . sometimes I wish that you hadn’t been the one to survive the Pits.�
 
 “I wish the same thing every day.”
 
-#### 
+#### Marsh, a Seeker, is hesitant to outright deny his services
 Marsh turned, studying Kelsier with his cold, discerning eyes. The eyes of a
 Seeker. Whatever he saw reflected inside of Kelsier must have finally met with
 his approval.
@@ -169,7 +169,7 @@ his approval.
 time. I’ll come back and listen to whatever insane plan you’ve concocted. Then
 . . . well, we’ll see.”
 
-#### 
+#### Kelsier notices Vin by burning Iron
 Kelsier smiled. Beneath it all, Marsh was a good man—a better one than Kelsier
 had ever been. As Marsh turned toward the door, Kelsier caught a flicker of
 shadowed movement from beneath the doorway. He immediately burned iron, and the
@@ -193,9 +193,9 @@ be able to encourage the skills while helping heal the scars.
 to do tonight.”
 
 
-### 
+### Kelsier begin to teach Vin about the different Allomantic abilities
 
-#### 
+#### Kelsier approaches Vin in the night after the disscussion with Marsh
 
 Vin waited quietly in her darkened room, listening to footsteps clomp down the
 stairs to the ground floor. She crouched beside her door, trying to determine
@@ -226,7 +226,7 @@ you to trust him is the one you must fear the most. Her brother’s voice almost
 seemed to whisper in her head. It had grown stronger since she’d met Kelsier,
 as if her instincts were on edge.
 
-#### 
+#### Kelsier decides to bring Vin along for training in the night
 Kelsier studied her for a moment, then stepped back from the doorframe. “Tuck
 in that shirt and follow me.”
 
@@ -244,7 +244,7 @@ what the hour. They walked down the steps to the first floor. The workroom was
 dark, furniture projects lying half finished in the shadows. The kitchen,
 however, was bright with light.
 
-#### 
+#### Vin contemplates things as they enter the workroom
 “Just a minute,” Kelsier said, walking toward the kitchen.
 
 Vin paused just inside the shadows of the workroom, letting Kelsier enter the
@@ -262,7 +262,7 @@ and the humor were a barrier—and she instead remained in the quiet, solemn
 workroom. She watched from the darkness, however, and wasn’t completely able to
 suppress her longing.
 
-#### 
+#### Kelsier hands Vin her Mistborn Robes and vials
 Kelsier returned a moment later, carrying his pack and a small cloth bundle.
 Vin regarded the bundle with curiosity, and he handed it to her with a smile.
 “A present.”
@@ -306,6 +306,7 @@ Kelsier laughed. “I’m just teasing you. However, you’re entering a new wor
 now—you may find that there are situations where it will be to your advantage
 to look less like a crew thief and more like a young lady.”
 
+#### Kelsier tells Vin a bit about attitude as a Mistborn
 Vin nodded, following Kelsier as he walked to the shop’s front door. He pushed
 the portal open, revealing a wall of darkly shifting mists. He stepped out into
 them. Taking a deep breath, Vin followed.
@@ -340,6 +341,7 @@ dark shutters and quiet air made Vin feel as if she and Kelsier were alone.
 Alone in the most densely populated, overcrowded city in all of the Final
 Empire.
 
+#### Kelsier informs Vin that nobles will tend to ignore the Mistborn
 Kelsier continued to walk, the spring in his step incongruent with the dark
 gloom.
 
@@ -369,6 +371,7 @@ wasn’t certain where he was taking her; it was easy to get lost in the night.
 Perhaps he didn’t even have a destination, and was just accustoming her to the
 mists.
 
+#### In training, Vin learns of the power of Pewter
 “All right,” Kelsier said, “let’s get you used to the basic metals. Can you
 feel your metal reserves?”
 
@@ -415,6 +418,7 @@ feel their strength. It wasn’t just in her muscles, however—it was everythin
 about her. Her bones, her flesh, her skin. She reached out to her reserve, and
 could feel it shrinking.
 
+#### About "Flaring"
 “I’m running out,” she said.
 
 Kelsier nodded. “Pewter burns relatively quickly. The vial I gave you was
@@ -438,6 +442,7 @@ felt invincible. Then it passed, her body relaxing slowly.
 Interesting, she thought, noting how quickly her pewter had burned during that
 brief moment.
 
+#### About the delicacy of Allomantic metals
 “Now, there’s something you need to know about Allomantic metals,” Kelsier said
 as they strolled forward in the mists. “The more pure they are, the more
 effective they are. The vials we prepare contain absolutely pure metals,
@@ -470,6 +475,7 @@ by eating with pewter utensils.”
 
 Vin nodded. Some of the mugs in Camon’s lair had been pewter.
 
+#### About those who burn Pewter, called thugs, and the duality of the metals
 “All right,” Kelsier said. “Extinguish the pewter and let’s move on to another
 metal.”
 
@@ -496,6 +502,7 @@ Kelsier nodded. “Mistings who can burn pewter are called Thugs. A crude term, 
 suppose—but they tend to be rather crude people. Our dear Hammond is something
 of an exception to that rule.”
 
+#### About Tin, the opposite of Pewter, and it's sensory enhancing abilities
 “So, what does the other internal physical metal do?”
 
 “Try it and see.”
@@ -525,6 +532,7 @@ certain that someone was sneaking up behind her.
 
 This is going to take some getting used to.
 
+#### About the dangers of "Flaring" too much
 “Leave it burning,” Kelsier said, waving for her to walk beside him as he
 continued down the street. “You’ll want to accustom yourself to the enhanced
 senses. Just don’t flare it all the time. Not only would you run out of it very
@@ -536,6 +544,7 @@ quickly, but perpetually flaring metals does . . . strange things to people.”
 pushes this stretching further. Stretch it too far for too long, and things
 start to break.”
 
+#### Using Tin, Vin can see stars for the first time
 Vin nodded uncomfortably. Kelsier fell quiet, and they continued to walk,
 letting Vin explore her new sensations and the detailed world that tin
 revealed. Before, her vision had been restricted to a tiny pocket within the
@@ -562,6 +571,7 @@ question, and continued to walk. Vin joined him. Suddenly, with tin, the mists
 around her didn’t seem so ominous. She was beginning to see how Kelsier could
 walk about at night with such confidence.
 
+#### Vin burns a blue line metal that Kelsier tells her they will get back to
 “All right,” Kelsier eventually said. “Let’s try another metal.”
 
 Vin nodded, leaving her tin on but picking another metal to burn as well. When
@@ -579,6 +589,7 @@ pointed at random objects. Doors, windows—a couple even pointed at Kelsier.
 “We’ll get to it,” he promised. “Extinguish that one and try one of the last
 two.”
 
+#### Kelsier informs Vin that Inquisitors are Seekers, burners of Bronze who can sense allomantic usage nearby
 Vin extinguished the strange metal and ignored its companion, picking one of
 the last metals. Immediately, she felt a strange vibration. Vin paused. The
 pulses didn’t make a sound that she could hear, yet she could feel them washing
@@ -597,6 +608,7 @@ grants the power. Either way, since their main duties are to find half-breed
 children and noblemen who use Allomancy improperly, it’s a useful skill for
 them to have. Unfortunately, ‘useful’ for them means ‘rather annoying’ for us.”
 
+#### Copper, used by Smokers, that hides allomantic usage
 Vin began to nod, then froze. The pulsing had stopped.
 
 “What happened?” she asked.
@@ -634,6 +646,7 @@ to the lair and disappear. They can also practice their abilities without fear
 of being discovered. Allomantic pulses coming from a shop in a skaa sector of
 town would be a quick giveaway to a passing Inquisitor.”
 
+#### About the role of Smokers in a crew
 “But, you can burn copper,” Vin said. “Why were you so worried about finding a
 Smoker for the crew?”
 
@@ -645,6 +658,7 @@ himself—several of those apprentices are Smokers too. When you hire a man like
 Clubs, it’s understood that he’ll provide you with a base of operations and a
 team of Smokers competent enough to keep you hidden at all times.”
 
+#### Vin burns the unknown metal from earlier and almost shoots a nail into herself
 Vin nodded. However, she was more interested in copper’s ability to protect her
 emotions. She would need to locate enough of it to keep it burning all the
 time.
@@ -697,6 +711,7 @@ incredible power indeed.
 
 Vin stood carefully, then joined him as he began to walk down the street again.
 
+#### Kelsier talks about consequences
 “I’ll explain what you did in a moment,” he promised. “First, there’s something
 you have to understand about Allomancy.”
 
@@ -723,6 +738,7 @@ once their pewter ran out.”
 
 “I see,” Vin said quietly.
 
+#### About Ironpulling and Steelpushing, the mysterious metals that allow manipulation of other metals
 “Ha!”
 
 Vin jumped in shock, throwing her hands up over her enhanced ears. “Ow!” she
@@ -742,6 +758,7 @@ Kelsier stopped, looking up ahead.
 Through the mist, Vin could see the massive city wall looming above them. “What
 are we doing here?”
 
+#### Vin tries Steelpushing for the first time
 “We’re going to practice Ironpulling and Steelpushing,” Kelsier said. “But
 first, some basics.” He pulled something out of his belt—a clip, the smallest
 denomination of coin. He held it up before her, standing to the side. “Burn
@@ -797,6 +814,7 @@ Understand?”
 
 Vin nodded again.
 
+#### Vin and Kelsier now practice using Steelpushing to jump over a wall
 “Good,” Kelsier said happily. “Now, let’s go jump over that wall.”
 
 “What?”

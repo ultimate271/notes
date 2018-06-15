@@ -1,6 +1,15 @@
 ## Chapter III. The Confession Of A Passionate Heart—In Verse
+_Character:Aloysha_  
+_Character(Reference):Katerina Ivanovna_  
+_Character(Reference):Madame Hohlakov_  
+_Character(Reference):Rakitin_  
+_Character(Reference):Ivan_  
+_Character(Reference):Fyodor_  
+_Character:Dmitri_  
 
+### 
 
+#### Aloysha considers his fathers plea
 Alyosha remained for some time irresolute after hearing the command his
 father shouted to him from the carriage. But in spite of his uneasiness he
 did not stand still. That was not his way. He went at once to the kitchen
@@ -22,6 +31,7 @@ want to hurt him, and, what is more, he knew that no one could hurt him.
 This was for him an axiom, assumed once for all without question, and he
 went his way without hesitation, relying on it.
 
+#### Aloysha's thoughts of Katerina and his quest to visit her alone
 But at that moment an anxiety of a different sort disturbed him, and
 worried him the more because he could not formulate it. It was the fear of
 a woman, of Katerina Ivanovna, who had so urgently entreated him in the
@@ -80,6 +90,9 @@ as he heard it, but now, on reaching the garden, he remembered the dress
 with the train, raised his head, which had been bowed in thought, and came
 upon something quite unexpected.
 
+### 
+
+#### Aloysha comes across his brother Dmitri on his way to Katerina's
 Over the hurdle in the garden, Dmitri, mounted on something, was leaning
 forward, gesticulating violently, beckoning to him, obviously afraid to
 utter a word for fear of being overheard. Alyosha ran up to the hurdle.
@@ -99,6 +112,7 @@ legged street urchin.
 deserted garden with no one near but themselves. The garden was small, but
 the house was at least fifty paces away.
 
+#### 
 “There’s no one here. Why do you whisper?” asked Alyosha.
 
 “Why do I whisper? Deuce take it!” cried Dmitri at the top of his voice.
@@ -114,6 +128,7 @@ then be quiet. I want to kiss you.
 
 I was just repeating that, sitting here, before you came.”
 
+#### Description of the garden as Mitya leads Aloysha through it
 The garden was about three acres in extent, and planted with trees only
 along the fence at the four sides. There were apple‐trees, maples, limes
 and birch‐trees. The middle of the garden was an empty grass space, from
@@ -136,6 +151,7 @@ was still possible to sit. Alyosha had at once observed his brother’s
 exhilarated condition, and on entering the arbor he saw half a bottle of
 brandy and a wineglass on the table.
 
+#### 
 “That’s brandy,” Mitya laughed. “I see your look: ‘He’s drinking again!’
 Distrust the apparition.
 
