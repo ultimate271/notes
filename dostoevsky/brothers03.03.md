@@ -7,7 +7,7 @@ _Character(Reference):Ivan_
 _Character(Reference):Fyodor_  
 _Character:Dmitri_  
 
-### 
+### Aloysha makes his way towards Katerina
 
 #### Aloysha considers his fathers plea
 Alyosha remained for some time irresolute after hearing the command his
@@ -90,7 +90,7 @@ as he heard it, but now, on reaching the garden, he remembered the dress
 with the train, raised his head, which had been bowed in thought, and came
 upon something quite unexpected.
 
-### 
+### Mitya stops Aloysha and proclaims his intention to provide confession in poetry
 
 #### Aloysha comes across his brother Dmitri on his way to Katerina's
 Over the hurdle in the garden, Dmitri, mounted on something, was leaning
@@ -112,7 +112,7 @@ legged street urchin.
 deserted garden with no one near but themselves. The garden was small, but
 the house was at least fifty paces away.
 
-#### 
+#### Mitya explains that he has been sitting there in secret waiting for Aloysha
 “There’s no one here. Why do you whisper?” asked Alyosha.
 
 “Why do I whisper? Deuce take it!” cried Dmitri at the top of his voice.
@@ -151,7 +151,7 @@ was still possible to sit. Alyosha had at once observed his brother’s
 exhilarated condition, and on entering the arbor he saw half a bottle of
 brandy and a wineglass on the table.
 
-#### 
+#### Mitya, dismissing his drunkenness, hugs Aloysha and proclaims his love for him
 “That’s brandy,” Mitya laughed. “I see your look: ‘He’s drinking again!’
 Distrust the apparition.
 
@@ -168,6 +168,7 @@ i‐ty—(can you take it in?) I love no one but you!”
 
 He uttered the last words in a sort of exaltation.
 
+#### Preamble to confession, Mitya's desire to be entirely honest with Aloysha and his analogy to freefall
 “No one but you and one ‘jade’ I have fallen in love with, to my ruin. But
 being in love doesn’t mean loving. You may be in love with a woman and yet
 hate her. Remember that! I can talk about it gayly still. Sit down here by
@@ -189,6 +190,7 @@ nature: you see what sunshine, how clear the sky is, the leaves are all
 green, it’s still summer; four o’clock in the afternoon and the stillness!
 Where were you going?”
 
+#### Aloysha reveals his intentions to see Katerina, and Mitya guesses about the letter
 “I was going to father’s, but I meant to go to Katerina Ivanovna’s first.”
 
 “To her, and to father! Oo! what a coincidence! Why was I waiting for you?
@@ -236,6 +238,7 @@ Alyosha made up his mind to wait. He felt that, perhaps, indeed, his work
 lay here. Mitya sank into thought for a moment, with his elbow on the
 table and his head in his hand. Both were silent.
 
+#### Mitya recites some verse from the Hymn to Joy
 “Alyosha,” said Mitya, “you’re the only one who won’t laugh. I should like
 to begin—my confession—with Schiller’s _Hymn to Joy_, _An die Freude_! I
 don’t know German, I only know it’s called that. Don’t think I’m talking
@@ -287,6 +290,7 @@ He raised his head, thought a minute, and began with enthusiasm:
 
 Mitya broke into sobs and seized Alyosha’s hand.
 
+#### Mitya speaks of his proud, self-degrading attitude towards himself
 “My dear, my dear, in degradation, in degradation now, too. There’s a
 terrible amount of suffering for man on earth, a terrible lot of trouble.
 Don’t think I’m only a brute in an officer’s uniform, wallowing in dirt
@@ -336,6 +340,7 @@ love Thee, and I feel the joy without which the world cannot stand.
     To insects—sensual lust.
 
 
+#### Mitya talks of Sodom now
 But enough poetry! I am in tears; let me cry. It may be foolishness that
 every one would laugh at. But you won’t laugh. Your eyes are shining, too.
 Enough poetry. I want to tell you now about the insects to whom God gave

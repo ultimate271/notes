@@ -1,6 +1,12 @@
 ## Chapter IV. The Confession Of A Passionate Heart—In Anecdote
+_Character:Aloysha_  
+_Character:Mitya_  
+_Character(Reference):Agafya Ivanovna_  
+_Character(Reference):Katerina Ivanovna_  
 
+### Preamble to confession
 
+#### Mitya begins his confession by speaking of his moves with the ladies
 “I was leading a wild life then. Father said just now that I spent several
 thousand roubles in seducing young girls. That’s a swinish invention, and
 there was nothing of the sort. And if there was, I didn’t need money
@@ -40,6 +46,7 @@ talk of such nonsense. No, I’m going to tell you something more curious;
 and don’t be surprised that I’m glad to tell you, instead of being
 ashamed.”
 
+#### To Mitya's surprise, Aloysha actually empathizes with Mitya
 “You say that because I blushed,” Alyosha said suddenly. “I wasn’t
 blushing at what you were saying or at what you’ve done. I blushed because
 I am the same as you are.”
@@ -60,6 +67,7 @@ to go up to the top one.”
 
 “I think not.”
 
+#### Mitya returns to his confession, revealing that Ivan knows everything as well
 “Hush, Alyosha, hush, darling! I could kiss your hand, you touch me so.
 That rogue Grushenka has an eye for men. She told me once that she’d
 devour you one day. There, there, I won’t! From this field of corruption
@@ -77,6 +85,9 @@ knows everything. He knew about it long before you. But Ivan’s a tomb.”
 
 Alyosha listened with great attention.
 
+### The first part of the confession. Mitya offers to pay his colonel's debt in exchange for Katerina. The debt is given to Katerina
+
+#### About the colonel, his two wives, and a daughter with each wife. Mitya was friendly with the elder daughter, and the second is Katerina
 “I was lieutenant in a line regiment, but still I was under supervision,
 like a kind of convict. Yet I was awfully well received in the little
 town. I spent money right and left. I was thought to be rich; I thought so
@@ -117,6 +128,7 @@ general’s family; although, as I learnt on good authority, she too brought
 the colonel no money. She had connections, and that was all. There may
 have been expectations, but they had come to nothing.
 
+#### Katerina, her visit much anticipated, gives Mitya the cold shoulder at their first contact
 “Yet, when the young lady came from boarding‐school on a visit, the whole
 town revived. Our most distinguished ladies—two ‘Excellencies’ and a
 colonel’s wife—and all the rest following their lead, at once took her up
@@ -136,6 +148,7 @@ and I had neither. You think I meant to make her an offer? No, I simply
 wanted to revenge myself, because I was such a hero and she didn’t seem to
 feel it.
 
+#### Mitya begins to speak of his money affairs with his father, before returning to his present story
 “Meanwhile, I spent my time in drink and riot, till the lieutenant‐colonel
 put me under arrest for three days. Just at that time father sent me six
 thousand roubles in return for my sending him a deed giving up all claims
@@ -145,6 +158,7 @@ I came here, Alyosha, till the last few days, indeed, perhaps even now, I
 haven’t been able to make head or tail of my money affairs with father.
 But never mind that, we’ll talk of it later.
 
+#### The father of Katya and Agafya gets into trouble, and Mitya offers to procure his debts when the arrive to Agafya in exchange for her sending him Katerina. Agafya is naturally appalled
 “Just as I received the money, I got a letter from a friend telling me
 something that interested me immensely. The authorities, I learnt, were
 dissatisfied with our lieutenant‐colonel. He was suspected of
@@ -186,6 +200,7 @@ far above them, and waited on her, hand and foot. But Agafya told her of
 our conversation. I found that out afterwards. She didn’t keep it back,
 and of course that was all I wanted.
 
+#### The debtors eventually come to the father, and him being unable to procure it attempts suicide before Agafya intervenes
 “Suddenly the new major arrived to take command of the battalion. The old
 lieutenant‐colonel was taken ill at once, couldn’t leave his room for two
 days, and didn’t hand over the government money. Dr. Kravchenko declared
@@ -218,6 +233,7 @@ getting dusk, and I was just preparing to go out. I had dressed, brushed
 my hair, scented my handkerchief, and taken up my cap, when suddenly the
 door opened, and facing me in the room stood Katerina Ivanovna.
 
+#### Katerina arrives at Mitya's house, requesting the funds he promised her sister
 “It’s strange how things happen sometimes. No one had seen her in the
 street, so that no one knew of it in the town. I lodged with two decrepit
 old ladies, who looked after me. They were most obliging old things, ready
@@ -235,6 +251,7 @@ Alyosha, are you listening, or are you asleep?”
 
 “Mitya, I know you will tell the whole truth,” said Alyosha in agitation.
 
+#### Mitya's train of thought in that moment, leading to cruel toying of Katerina
 “I am telling it. If I tell the whole truth just as it happened I shan’t
 spare myself. My first idea was a—Karamazov one. Once I was bitten by a
 centipede, brother, and laid up a fortnight with fever from it. Well, I
@@ -275,6 +292,7 @@ oath, I looked at her for three seconds, or five perhaps, with fearful
 hatred—that hate which is only a hair’s‐breadth from love, from the
 maddest love!
 
+#### Mitya decides to give the money to Katerina, who accepts it, and leads Mitya to consider killing himself out of delight, which concludes this portion of the confession
 “I went to the window, put my forehead against the frozen pane, and I
 remember the ice burnt my forehead like fire. I did not keep her long,
 don’t be afraid. I turned round, went up to the table, opened the drawer

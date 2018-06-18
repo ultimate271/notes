@@ -13,7 +13,9 @@ In accordance with the U.S. Copyright Act of 1976, the scanning, uploading, and 
 
 
 
-Preface
+# Preface
+
+## Preface
 
 
 A book on Mythology must draw from widely different sources. Twelve hundred years separate the first writers through whom the myths have come down to us from the last, and there are stories as unlike each other as “Cinderella” and “King Lear.” To bring them all together in one volume is really somewhat comparable to doing the same for the stories of English literature from Chaucer to the ballads, through Shakespeare and Marlowe and Swift and Defoe and Dryden and Pope and so on, ending with, say, Tennyson and Browning, or even, to make the comparison truer, Kipling and Galsworthy. The English collection would be bigger, but it would not contain more dissimilar material. In point of fact, Chaucer is more like Galsworthy and the ballads like Kipling than Homer is like Lucian or Aeschylus like Ovid.
@@ -26,8 +28,7 @@ My hope is that those who do not know the classics will gain in this way not onl
 
 
 
-Introduction to Classical Mythology
-
+## Introduction to Classical Mythology
 
 
 Of old the Hellenic race was marked off from the barbarian as more keen-witted and more free from nonsense.
@@ -55,7 +56,7 @@ But a very brief consideration of the ways of uncivilized peoples everywhere and
 
 
 
-THE MYTHOLOGY OF THE GREEKS
+## THE MYTHOLOGY OF THE GREEKS
 
 
 This dark picture is worlds apart from the stories of classical mythology. The study of the way early man looked at his surroundings does not get much help from the Greeks. How briefly the anthropologists treat the Greek myths is noteworthy.
@@ -123,7 +124,7 @@ The Odyssey speaks of “the divine for which all men long,” and hundreds of y
 
 
 
-THE GREEK AND ROMAN WRITERS OF MYTHOLOGY
+## THE GREEK AND ROMAN WRITERS OF MYTHOLOGY
 
 
 Most of the books about the stories of classical mythology depend chiefly upon the Latin poet Ovid, who wrote during the reign of Augustus. Ovid is a compendium of mythology. No ancient writer can compare with him in this respect. He told almost all the stories and he told them at great length. Occasionally stories familiar to us through literature and art have come down to us only in his pages. In this book I have avoided using him as far as possible. Undoubtedly he was a good poet and a good storyteller and able to appreciate the myths enough to realize what excellent material they offered him; but he was really farther away from them in his point of view than we are today. They were sheer nonsense to him. He wrote,
@@ -167,7 +168,7 @@ Other Roman poets wrote of the myths. Catullus tells several of the stories, and
 
 
 
-PART ONE
+# PART ONE
 
 
 The Gods, the Creation, and the Earliest Heroes
@@ -176,7 +177,7 @@ The Gods, the Creation, and the Earliest Heroes
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 The Gods
@@ -844,7 +845,7 @@ POMONA AND VERTUMNUS began as Numina, as Powers Protecting Orchards and Gardens.
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 The Two Great Gods of Earth
@@ -1197,7 +1198,7 @@ Around the year 80 A.D., a great Greek writer, Plutarch, received news, when he 
 
 
 
-CHAPTER III
+## CHAPTER III
 
 
 How the World and Mankind Were Created
@@ -1550,7 +1551,7 @@ Fortunately Zeus was not offended, because the two were pious, faithful worshipe
 
 
 
-CHAPTER IV
+## CHAPTER IV
 
 
 The Earliest Heroes
@@ -1934,7 +1935,7 @@ But down in the black underworld Adonis could not hear them, nor see the crimson
 
 
 
-PART TWO
+# PART TWO
 
 
 Stories of Love and Adventure
@@ -1943,7 +1944,7 @@ Stories of Love and Adventure
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 Cupid and Psyche
@@ -2026,7 +2027,7 @@ So all came to a most happy end. Love and the Soul (for that is what Psyche mean
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 Eight Brief Tales of Lovers
@@ -2558,7 +2559,7 @@ When Jason came full of fury for what she had done to his bride and determined t
 
 
 
-CHAPTER IV
+## CHAPTER IV
 
 
 Four Great Adventures
@@ -2741,7 +2742,7 @@ Minos was enraged at his escape and determined to find him. He made a cunning pl
 
 
 
-PART THREE
+# PART THREE
 
 
 The Great Heroes before the Trojan War
@@ -2750,7 +2751,7 @@ The Great Heroes before the Trojan War
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 Perseus
@@ -2896,7 +2897,7 @@ Medusa’s head was given to Athena, who bore it always upon the aegis, Zeus’s
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 Theseus
@@ -3045,7 +3046,7 @@ Even if the Athenians did banish him, very soon after his death they honored him
 
 
 
-CHAPTER III
+## CHAPTER III
 
 
 Hercules
@@ -3211,7 +3212,7 @@ But it is not easy to imagine him contentedly enjoying rest and peace, or allowi
 
 
 
-CHAPTER IV
+## CHAPTER IV
 
 
 Atalanta
@@ -3267,7 +3268,7 @@ The two are said to have been turned into lions because of some affront offered 
 
 
 
-PART FOUR
+# PART FOUR
 
 
 The Heroes of the Trojan War
@@ -3276,7 +3277,7 @@ The Heroes of the Trojan War
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 The Trojan War
@@ -3470,7 +3471,7 @@ And with it the Iliad ends.
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 The Fall of Troy
@@ -3642,7 +3643,7 @@ There below, the Greek ships wait.
 
 
 
-CHAPTER III
+## CHAPTER III
 
 
 The Adventures of Odysseus
@@ -3770,7 +3771,7 @@ Then the well-ordered hall was filled with rejoicing. The minstrel drew sweet so
 
 
 
-CHAPTER IV
+## CHAPTER IV
 
 
 The Adventures of Aeneas
@@ -3924,7 +3925,7 @@ Virgil’s poem ends with Turnus’ death. Aeneas, we are given to understand, m
 
 
 
-PART FIVE
+# PART FIVE
 
 
 The Great Families of Mythology
@@ -3933,7 +3934,7 @@ The Great Families of Mythology
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 The House of Atreus
@@ -4269,7 +4270,7 @@ Thoas answered submissively, “Whatever is your pleasure, Goddess, shall be don
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 The Royal House of Thebes
@@ -4492,7 +4493,7 @@ Peace came to the mothers, with the knowledge that at last their children’s sp
 
 
 
-CHAPTER III
+## CHAPTER III
 
 
 The Royal House of Athens
@@ -4684,7 +4685,7 @@ Athena appears to Creüsa and Ion.
 
 
 
-PART SIX
+# PART SIX
 
 
 The Less Important Myths
@@ -4693,7 +4694,7 @@ The Less Important Myths
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 Midas—and Others
@@ -4819,7 +4820,7 @@ These two were Roman divinities, not Greek. Pomona was the only nymph who did no
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 Brief Myths Arranged Alphabetically
@@ -5096,7 +5097,7 @@ TYRO was the daughter of Salmoneus. She bore twin sons to Poseidon—but fearing
 
 
 
-PART SEVEN
+# PART SEVEN
 
 
 The Mythology of the Norsemen
@@ -5126,7 +5127,7 @@ The Elder Edda is much the more important of the two. It is made up of separate 
 
 
 
-CHAPTER I
+## CHAPTER I
 
 
 The Stories of Signy and Sigurd
@@ -5265,7 +5266,7 @@ Beneath the sun than Sigurd.
 
 
 
-CHAPTER II
+## CHAPTER II
 
 
 The Norse Gods
@@ -5600,6 +5601,7 @@ Along with their truly awe-inspiring heroism, these men of the North had delight
 
 
 
+# FINE
 
 
 Genealogical Tables
