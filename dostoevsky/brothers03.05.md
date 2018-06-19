@@ -1,6 +1,8 @@
 ## Chapter V. The Confession Of A Passionate Heart—"Heels Up"
 
+### 
 
+#### Transition to the second part of confession
 “Now,” said Alyosha, “I understand the first half.”
 
 “You understand the first half. That half is a drama, and it was played
@@ -13,6 +15,7 @@ out there. The second half is a tragedy, and it is being acted here.”
 “Stop, Dmitri. There’s one important question. Tell me, you were
 betrothed, you are betrothed still?”
 
+#### Life goes on, and Katerina leaves her visit after her father dies, promising to write to Mitya before she leaves
 “We weren’t betrothed at once, not for three months after that adventure.
 The next day I told myself that the incident was closed, concluded, that
 there would be no sequel. It seemed to me caddish to make her an offer. On
@@ -37,6 +40,7 @@ went away (I hadn’t seen them, didn’t see them off or take leave) I
 received a tiny note, a sheet of thin blue paper, and on it only one line
 in pencil: ‘I will write to you. Wait. K.’ And that was all.
 
+#### Katya receives 80k from her widowed step-mother
 “I’ll explain the rest now, in two words. In Moscow their fortunes changed
 with the swiftness of lightning and the unexpectedness of an Arabian
 fairy‐tale. That general’s widow, their nearest relation, suddenly lost
@@ -48,6 +52,7 @@ present use, eighty thousand roubles, as a marriage portion, to do what
 she liked with. She was an hysterical woman. I saw something of her in
 Moscow, later.
 
+#### Mitya receives a letter from Katya, containing the lent money, along with a note expressing her love to him. Mitya sends Ivan to Katya, leading to another love triangle between Mitya, Ivan, and Katya
 “Well, suddenly I received by post four thousand five hundred roubles. I
 was speechless with surprise, as you may suppose. Three days later came
 the promised letter. I have it with me now. You must read it. She offers
@@ -74,6 +79,7 @@ me, especially after all that has happened here?”
 “But I am convinced that she does love a man like you, and not a man like
 him.”
 
+#### Mitya expresses his opinion of the matter, remarking on the absurdity of Katya choosing him over Ivan
 “She loves her own _virtue_, not me.” The words broke involuntarily, and
 almost malignantly, from Dmitri. He laughed, but a minute later his eyes
 gleamed, he flushed crimson and struck the table violently with his fist.
@@ -100,6 +106,7 @@ and with enjoyment. I’ve been talking foolishly. I’ve no words left. I use
 them at random, but it will be as I have said. I shall drown in the back‐
 alley, and she will marry Ivan.”
 
+#### About Dmitri's betrothal to Katya
 “Stop, Dmitri,” Alyosha interrupted again with great anxiety. “There’s one
 thing you haven’t made clear yet: you are still betrothed all the same,
 aren’t you? How can you break off the engagement if she, your betrothed,
@@ -123,6 +130,7 @@ to reform. I gave my promise, and here—”
 
 “What?”
 
+#### Dmitri reveals his reason for seeking Aloysha: to tell Katya he will never see her again
 “Why, I called to you and brought you out here to‐day, this very
 day—remember it—to send you—this very day again—to Katerina Ivanovna,
 and—”
@@ -137,6 +145,7 @@ his compliments.’ ”
 “That’s just the reason I’m sending you, in my place, because it’s
 impossible. And, how could I tell her myself?”
 
+#### About Mitya's first encounter with Grushenka, him going to beat her for being assigned to collect Mitya's debt to his father, and her responding to his depravity
 “And where are you going?”
 
 “To the back‐alley.”
@@ -177,6 +186,7 @@ still!”
 Dmitri leapt up with a sort of fury. He seemed all at once as though he
 were drunk. His eyes became suddenly bloodshot.
 
+#### About Katerina's money that should have been spent towards Agafya, which Mitya wants Aloysha to procure to Katya to give to Agafya herself
 “And do you really mean to marry her?”
 
 “At once, if she will. And if she won’t, I shall stay all the same. I’ll
@@ -205,6 +215,7 @@ is your three thousand; he sends it back. Send it yourself to Agafya
 Ivanovna. But he told me to say “he sends his compliments.” ’ But, as it
 is, she will ask, ‘But where is the money?’ ”
 
+#### About Mitya's infatuation with Grushenka
 “Mitya, you are unhappy, yes! But not as unhappy as you think. Don’t worry
 yourself to death with despair.”
 
@@ -219,6 +230,7 @@ what happens.”
 go into the next room. I’ll clean her friends’ goloshes, blow up their
 samovar, run their errands.”
 
+#### Aloysha and Mitya discuss where they might get the payment to Katerina, ending with Mitya requesting Aloysha to ask their father for it
 “Katerina Ivanovna will understand it all,” Alyosha said solemnly. “She’ll
 understand how great this trouble is and will forgive. She has a lofty
 mind, and no one could be more unhappy than you. She’ll see that for
@@ -263,6 +275,7 @@ this chance.”
 
 “Mitya, he won’t give it for anything.”
 
+#### About the money that Fyodor their father has put away for Grushenka, that only Smerdyakov knows about, and Mitya is here on watch for Grushenka's arrival
 “I know he won’t. I know it perfectly well. Now, especially. That’s not
 all. I know something more. Now, only a few days ago, perhaps only
 yesterday he found out for the first time _in earnest_ (underline _in
@@ -305,6 +318,7 @@ thousand for the timber. So the old man keeps asking Ivan to help him by
 going to arrange it. It will take him two or three days. That’s what the
 old man wants, so that Grushenka can come while he’s away.”
 
+#### Mitya pleads Aloysha to go to their father then to Katya with or without the money
 “Then he’s expecting Grushenka to‐day?”
 
 “No, she won’t come to‐day; there are signs. She’s certain not to come,”
@@ -335,6 +349,7 @@ the money or without the money_, and say, ‘He sends his compliments to
 you.’ I want you to say that verse to her: ‘He sends his compliments to
 you.’ ”
 
+#### Mitya's intention to kill their father if he catches Grushenka and him in the act
 “Mitya! And what if Grushenka comes to‐day—if not to‐day, to‐morrow, or
 the next day?”
 
