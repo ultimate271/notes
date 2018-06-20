@@ -1,6 +1,8 @@
 ## Chapter VII. The Controversy
 
+### Smerdyakov QED's the shit out of Grigory in a discussion about Christian faith and martyrdom
 
+#### About the topic of conversation, a Christian martyr killed for praising Christianity over Islam
 But Balaam’s ass had suddenly spoken. The subject was a strange one.
 Grigory had gone in the morning to make purchases, and had heard from the
 shopkeeper Lukyanov the story of a Russian soldier which had appeared in
@@ -16,6 +18,7 @@ observed that they ought to make a saint of a soldier like that, and to
 take his skin to some monastery. “That would make the people flock, and
 bring the money in.”
 
+#### Smerdyakov gives his opinion, that renounce Christianity would have been the correct thing to do
 Grigory frowned, seeing that Fyodor Pavlovitch was by no means touched,
 but, as usual, was beginning to scoff. At that moment Smerdyakov, who was
 standing by the door, smiled. Smerdyakov often waited at table towards the
@@ -36,12 +39,14 @@ the course of years to expiate his cowardice.”
 straight to hell and be roasted there like mutton,” put in Fyodor
 Pavlovitch.
 
+#### Aloysha is ushered in to the conversation
 It was at this point that Alyosha came in, and Fyodor Pavlovitch, as we
 have seen, was highly delighted at his appearance.
 
 “We’re on your subject, your subject,” he chuckled gleefully, making
 Alyosha sit down to listen.
 
+#### Smerdyakov justifies himself through the name-calling, saying the sin happens at the thought
 “As for mutton, that’s not so, and there’ll be nothing there for this, and
 there shouldn’t be either, if it’s according to justice,” Smerdyakov
 maintained stoutly.
@@ -77,6 +82,7 @@ He addressed Grigory with obvious satisfaction, though he was really
 answering Fyodor Pavlovitch’s questions, and was well aware of it, and
 intentionally pretending that Grigory had asked the questions.
 
+#### Interaction between Fyodor and Ivan, as Fyodor becomes increasing inebriated
 “Ivan,” cried Fyodor Pavlovitch suddenly, “stoop down for me to whisper.
 He’s got this all up for your benefit. He wants you to praise him. Praise
 him.”
@@ -95,6 +101,7 @@ his father.
 
 He was watching Smerdyakov with great curiosity.
 
+#### Smerdyakov continues his argument
 “You’re anathema accursed, as it is,” Grigory suddenly burst out, “and how
 dare you argue, you rascal, after that, if—”
 
@@ -136,6 +143,7 @@ said, he had caught something in this rigmarole, and stood, looking like a
 man who has just hit his head against a wall. Fyodor Pavlovitch emptied
 his glass and went off into his shrill laugh.
 
+#### Smerdyakov continues to lean in, saying that those that have faith should be able to move mountains
 “Alyosha! Alyosha! What do you say to that! Ah, you casuist! He must have
 been with the Jesuits, somewhere, Ivan. Oh, you stinking Jesuit, who
 taught you? But you’re talking nonsense, you casuist, nonsense, nonsense,
@@ -194,6 +202,7 @@ that idea. Surely that’s Russian, isn’t it?”
 
 “Yes, that’s purely Russian,” said Alyosha smiling.
 
+#### After going through each scenario, using faith to move mountians or that failing renouncing faith, Smerdyakov completes his point
 “Your words are worth a gold piece, O ass, and I’ll give it to you to‐day.
 But as to the rest you talk nonsense, nonsense, nonsense. Let me tell you,
 stupid, that we here are all of little faith, only from carelessness,

@@ -1,6 +1,6 @@
 ## Chapter V. The Confession Of A Passionate Heart—"Heels Up"
 
-### 
+### Second part of confession, how Mitya squandered 3k entrusted to him by Katya, and his plea to Aloysha to visit their father and then Katya
 
 #### Transition to the second part of confession
 “Now,” said Alyosha, “I understand the first half.”

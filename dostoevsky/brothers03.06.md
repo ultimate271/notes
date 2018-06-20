@@ -1,6 +1,8 @@
 ## Chapter VI. Smerdyakov
 
+### Aloysha enters his fathers place
 
+#### The scene is painted as Aloysha enters his fathers house
 He did in fact find his father still at table. Though there was a dining‐
 room in the house, the table was laid as usual in the drawing‐room, which
 was the largest room, and furnished with old‐fashioned ostentation. The
@@ -27,6 +29,7 @@ Before he entered the room, Alyosha heard the shrill laugh he knew so
 well, and could tell from the sound of it that his father had only reached
 the good‐humored stage, and was far from being completely drunk.
 
+#### Fyodor greets his son with his usual bafoonary
 “Here he is! Here he is!” yelled Fyodor Pavlovitch, highly delighted at
 seeing Alyosha. “Join us. Sit down. Coffee is a lenten dish, but it’s hot
 and good. I don’t offer you brandy, you’re keeping the fast. But would you
@@ -65,6 +68,9 @@ now. Sit still. Now we’ve a treat for you, in your own line, too. It’ll
 make you laugh. Balaam’s ass has begun talking to us here—and how he
 talks! How he talks!”
 
+### Background on Smerdyakov, servent of Fyodor
+
+#### Smerdyakov's upbringing, killing cats, mocking scripture, and given reading material
 Balaam’s ass, it appeared, was the valet, Smerdyakov. He was a young man
 of about four and twenty, remarkably unsociable and taciturn. Not that he
 was shy or bashful. On the contrary, he was conceited and seemed to
@@ -136,6 +142,7 @@ Smaragdov’s _Universal History_. That’s all true. Read that.”
 But Smerdyakov did not get through ten pages of Smaragdov. He thought it
 dull. So the bookcase was closed again.
 
+#### After showing interest in food, Smerdyakov is sent to Moscow and trained as a cook
 Shortly afterwards Marfa and Grigory reported to Fyodor Pavlovitch that
 Smerdyakov was gradually beginning to show an extraordinary
 fastidiousness. He would sit before his soup, take up his spoon and look
@@ -179,6 +186,7 @@ not suit Fyodor Pavlovitch at all.
 askance at his new cook. “Would you like to get married? Shall I find you
 a wife?”
 
+#### About Smerdyakov's honesty and contemplative nature
 But Smerdyakov turned pale with anger, and made no reply. Fyodor
 Pavlovitch left him with an impatient gesture. The great thing was that he
 had absolute confidence in his honesty. It happened once, when Fyodor

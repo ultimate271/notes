@@ -1,5 +1,12 @@
 ## 36
+_Character:Vin_  
+_Location:Kredik Shaw_  
+_Character:Trevidian_  
+_Character:Kar_  
 
+### Epigraph
+
+#### 
 * * *
 
 
@@ -15,7 +22,9 @@ or love; my place is to ensure mankind’s survival.
 36
 
 
+### 
 
+#### Vin riot's the guards at Kredik Shaw to make her entrance
 VIN WALKED QUIETLY TOWARD KREDIK Shaw. The sky behind her burned, the mists
 reflecting and diffusing the light of a thousand torches. It was like a radiant
 dome over the city.
@@ -54,6 +63,7 @@ Finally, one of the men stepped forward and ripped the symbol off his uniform,
 then strode determinedly into the night. The other three paused, then
 followed—leaving Vin with an open entrance to the palace.
 
+#### Vin pushes her way down the corridor
 Vin walked down the corridor, eventually passing the same guard chamber as
 before. She strode inside—stepping past a group of chatting guards without
 hurting any of them—and entered the hallway beyond. Behind her, the guards
@@ -71,6 +81,7 @@ She passed through the archway, stepping into the dome-roofed central chamber.
 Silver murals lined the walls, braziers burned in the corners, the floor was an
 ebony marble.
 
+#### Vin outsmarts two inquisitors
 And two Inquisitors stood blocking her path.
 
 Vin strode quietly through the room, approaching the building-within-a-building
@@ -114,6 +125,7 @@ crackly voice.
 Good thing that worked, Vin thought, leaping over the groaning body of the
 first Inquisitor. Wasn’t sure about those eyes of theirs.
 
+#### Vin makes her way into the inner room to find nothing remarkable
 She threw her weight against the door, flaring pewter and tossing up another
 handful of dust to keep the remaining Inquisitor from targeting any metals on
 her body. She didn’t turn back to fight the two further—not with the trouble
@@ -141,6 +153,7 @@ study or den. It was packed full of strange objects and decorations—like the
 horns of some foreign beast and a strange pair of shoes with very wide, flat
 bottoms. It was the room of a pack rat, a place to keep memories of the past.
 
+#### Vin sees an old man that an Inquisitor calls the Lord Ruler
 She jumped as something moved near the center of the room. A pivoting chair
 stood by the hearth, and it spun slowly, revealing the wizened old man who sat
 in it. Bald, with liver-spotted skin, he appeared to be in his seventies. He
@@ -159,6 +172,7 @@ twist away, but the Inquisitor had her in a powerful grasp.
 
 Lord Ruler! But . . . I saw him. He was a young man.
 
+#### The old man requests the Inquisitor to kill her, but the inquisitor wishes to capture her instead
 “Kill her,” the old man said, waving his hand.
 
 “My lord,” the Inquisitor said. “This child is . . . of special interest. Might
@@ -175,6 +189,7 @@ Canton of Orthodoxy.”
 pewter. The Inquisitor pinned her arms to her sides, however, and her backward
 kicking did very little good. He’s so strong! she thought with frustration.
 
+#### Vin burns the Atium. Nothing happens, and two more men appear until her atium goes out, and they vanish again
 And then, she remembered it. The Eleventh Metal, its power sitting within her,
 forming an unfamiliar reserve. She looked up, glaring at the old man. This had
 better work. She burned the Eleventh Metal.
@@ -201,6 +216,7 @@ What is going on?
 
 The Eleventh Metal burned out. Both newcomers vanished like ghosts.
 
+#### The lord ruler agrees to capture Vin, and the Inquisitor knocks her unconscious
 “Very well,” said the elderly Lord Ruler, sighing. “I agree to your request. We
 will meet in several hours’ time—Tevidian has already requested a gathering to
 discuss matters outside the palace.”
@@ -215,7 +231,13 @@ through her head.
 Despite her pewter, all went black.
 
 
+### 
+_Character:Elend_  
+_Character:Lord Venture_  
+_Character(Reference):Valette_  
+_Character(Reference):Temadre_  
 
+#### 
 Elend found his father in the north entryway—a smaller, less daunting entrance
 to Keep Venture, though only when compared with the majestic grand hall.
 
@@ -362,7 +384,9 @@ in charge—those five and I have another mission.”
 Elend turned back toward the mists. “We’re going to go turn ourselves in.”
 
 
+### Vin, captured, is taken to the lord ruler where lots of shit goes down. Tevidian is killed
 
+#### Vin is forced to swallow an unknown metal which drains her reserves
 Vin awoke to wetness. She coughed, then groaned, feeling a sharp pain in the
 back of her skull. She opened dizzy eyes—blinking away the water that had been
 thrown on her—and immediately burned pewter and tin, bringing herself
@@ -388,6 +412,7 @@ burning the metal.
 
 Immediately, all of her other metal reserves vanished.
 
+#### Vin searches desperately in her cell for any metal in vain
 “Good,” the Inquisitor said, dropping her to the ground. The stones were wet,
 pooled with a bucketful of water. The Inquisitor turned, leaving the cell and
 slamming its barred door; then he disappeared through a doorway on the other
@@ -457,6 +482,7 @@ familiarity about the things the Eleventh Metal had shown her. Not because of
 the way the visions had appeared, but because of the way Vin had felt when
 burning the metal.
 
+#### Vin speculates about Gold and Atium
 Gold. The moment when I burned the Eleventh Metal felt like that time when
 Kelsier had me burn gold.
 
@@ -490,6 +516,7 @@ past, it had shown her similar images from other people. And that told her . .
 was the current man, the tyrant that ruled the Final Empire, that she had to
 defeat.
 
+#### An inquisitor takes vin down a long hallway towards the Lord Ruler
 A figure appeared in the doorway—an Inquisitor dressed in a black robe, the
 hood up. His face was shadowed, but his spike-heads jutted from the front of
 the cowl.
@@ -540,6 +567,7 @@ everything but lonely depression. She sagged in the Inquisitor’s grip, no
 longer struggling. It took all of her energy to simply resist the Lord Ruler’s
 pressure on her soul.
 
+#### Vin is taken to a large circular throne room of the Lord Ruler
 After a short time in the tunnel-like stairwell, the Inquisitors carried her
 out into a large, circular room. And, despite the power of the Lord Ruler’s
 Soothing, despite her visits to noble keeps, Vin took just a brief moment to
@@ -568,6 +596,7 @@ with iron eyes. That made nine of them in all, counting the two that had
 escorted Vin. Her scar-faced captor delivered her to one of the others, who
 held her with a similarly inescapable grip.
 
+#### Trevadian questions the Lord Ruler's actions as the skaa outside rebel
 “Let us be on with this,” said the Lord Ruler.
 
 A regular obligator stepped forward, bowing. With a chill, she realized that
@@ -608,6 +637,7 @@ question this further.”
 
 “Yes, my lord,” Tevidian said, bowing and backing away.
 
+#### The Lord Ruler question Vin of her father as it is revealed to be Tevidian in the room
 “Now,” the Lord Ruler said, turning to the Inquisitors. “What is it you wished
 to present?”
 
@@ -723,6 +753,7 @@ The room fell silent.
 The Lord Ruler closed his eyes, sighing. He turned back toward his throne. “He
 is yours,” he said to the Inquisitors.
 
+#### Tevidian is killed
 Immediately, six Inquisitors dashed across the room, howling in joy, pulling
 obsidian knives from sheaths beneath their robes. Tevidian raised his arms,
 crying out as the Inquisitors fell on him, exulting in their brutality. Blood
@@ -733,6 +764,7 @@ Kar remained behind, smiling as he watched the massacre, as did the Inquisitor
 who was Vin’s captor. One other Inquisitor remained back as well, though Vin
 didn’t know why.
 
+#### Kar is granted authority over the Ministry
 “Your point is proven, Kar,” the Lord Ruler said, sitting wearily on his
 throne. “It seems that I have trusted too much in the . . . obedience of
 mankind. I did not make a mistake. I have never made a mistake. However, it is
@@ -740,6 +772,7 @@ time for a change. Gather the high prelans and bring them here—rouse them from
 their beds, if need be. They will witness as I grant the Canton of Inquisition
 command and authority over the Ministry.”
 
+#### Kar requests to question Vin
 Kar’s smile deepened.
 
 “The half-breed child will be destroyed.”

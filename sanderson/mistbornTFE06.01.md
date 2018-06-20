@@ -4,6 +4,13 @@
 _Character:Vin_  
 _Character:Sazed_  
 _Character(Dead):Kelsier_  
+_Character(Reference):Rashek_  
+_Character:Ham_  
+_Character:Breeze_  
+_Character:Dockson_  
+_Character:Renoux_  
+_Character(Reference):Mare_  
+_Character:Spook_  
 
 ### Epigraph
 
@@ -35,9 +42,9 @@ For I have seen what will happen if I do.
 35
 
 
-### 
+### Vin floats down out of the mist as she contemplates the events that transpired
 
-#### 
+#### Vin floats in the mist as she thinks about the trust she placed in Kelsier
 TO WORK WITH ME, KELSIER had said, I only ask that you promise one thing—to
 trust me.
 
@@ -87,6 +94,7 @@ take me?”
 The mists gave no answer. They continued to spin playfully, uncaring. Always
 changing—yet somehow, always the same.
 
+#### Sazed and Vin discuss Kelsiers death and its ramifications
 “Mistress?” called an uncertain voice from below. “Mistress, is that you up
 there?”
 
@@ -165,6 +173,7 @@ Vin snorted. “This is no religion we’re talking about, Sazed. This is Kelsie
 
 “So many of them are, I think,” Sazed said quietly.
 
+#### Sazed discusses his plans now, to tell the Skaa of Rashek
 Vin just shook her head. They stood there for a moment, watching the night.
 “What of the others?” she finally asked.
 
@@ -193,9 +202,9 @@ end. It was time to go back to the streets. Time to be alone again.
 
 “Mistress . . .” Sazed said slowly. “Do you hear that?”
 
-### 
+### Kelsier's plan to martyr himself and use Renoux as the image of his resurrected self and stir rebellion is revealed
 
-#### 
+#### Skaa fanatics begin to rise up and speak of Kelsier
 She shrugged. But . . . there was something. Voices. Vin frowned, walking to
 the other side of the building. They grew louder, becoming easily distinct even
 without tin. She peered over the side of the rooftop.
@@ -262,6 +271,7 @@ down again?”
 Breeze shook his head. “I didn’t think they had it in them. Too bad it’s such a
 small—”
 
+#### They speculate that this was Kelsier's plan all along, to become a martyr
 “What’s that?” Dox asked.
 
 Vin turned, frowning. There was a pocket of light in the distance. Like . . .
@@ -294,6 +304,7 @@ to. He knew that he would have to die.”
 Breeze shook his head. “I don’t buy it. Why even bother with us, then? He could
 have done this on his own.”
 
+#### Dockson leads Vin to the warehouse where the weapons are stored
 Why even bother . . . “Dox,” Vin said, turning. “Where’s that warehouse Kelsier
 rented, the one where he held his informant meetings?”
 
@@ -323,6 +334,7 @@ going to succeed in taking the city.”
 
 “I guess,” Vin said.
 
+#### Renoux appears, and is revealed to be a Kandra, a Mistwraith that is to take the appearance of Kelsier born again
 “Wrong,” a voice said, echoing through the cavernous warehouse. “There was so
 much more to it than that.”
 
@@ -386,6 +398,7 @@ talents.” The kandra nodded to a large sheet of paper affixed to a table a
 short distance away. “That is for you to follow. I have other business to be
 about.”
 
+#### Renoux gives Vin a pouch from Kelsier
 It turned as if to leave, then paused beside Vin, turning toward her with its
 disturbingly Kelsier-like face. Yet, the creature itself wasn’t like Renoux or
 Kelsier. It seemed passionless.
@@ -398,6 +411,7 @@ Breeze started toward the table first, but Ham and Dockson beat him to it. Vin
 looked down at the bag. She was . . . afraid to see what it contained. She
 hurried forward, joining the crew.
 
+#### They read Kelsier's plan on the map
 The sheet was a map of the city, apparently copied from the one Marsh had sent.
 Written at the top were some words.
 
@@ -453,6 +467,9 @@ and the nobility that survive will soon be at open warfare on the countryside.
 Kell showed us how to kill Inquisitors—we’ll just need to pull down the others
 and behead them. As for the Lord Ruler . . .”
 
+### Vin, armed with the Atium she received from Kelsier, resolves to find her place in the plan.
+
+#### Vin opens the pouch to find Atium, and a note from Kelsier on his assignment to her
 Eyes turned on Vin. She looked down at the pouch in her hand, and pulled it
 open. A smaller sack, obviously filled with atium beads, fell into her hand. It
 was followed by a small bar of metal wrapped in a sheet of paper. The Eleventh
@@ -490,6 +507,7 @@ toss him in a dungeon.”
 
 The others nodded.
 
+#### The crew begins organizing the rebellion
 “All right!” Dockson said. “Breeze and Ham, you need to get to those other
 warehouses and begin giving out weapons. Spook, go fetch the apprentices—we’ll
 need them to run messages. Let’s go!”
@@ -514,6 +532,7 @@ Perhaps your place was simply to show Kelsier that fact?”
 Vin shook her head. “No. I have to do more, Saze.” She gripped the empty pouch,
 frustrated. Something crinkled inside of it.
 
+#### Vin's resolve to kill the Lord Ruler by first finding out what is in the guarded room of the palace
 She looked down, opening the pouch and noticing a piece of paper that she
 hadn’t seen before. She pulled it out and unfolded it delicately. It was the
 drawing that Kelsier had shown her—the picture of a flower. Mare had always
