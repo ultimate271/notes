@@ -1,6 +1,8 @@
 ## Chapter VIII. Over The Brandy
 
+### Fyodor rambles on in his drunkenness
 
+#### Fyodor dismisses his servents
 The controversy was over. But, strange to say, Fyodor Pavlovitch, who had
 been so gay, suddenly began frowning. He frowned and gulped brandy, and it
 was already a glass too much.
@@ -11,6 +13,7 @@ off! Don’t cry, Grigory. Go to Marfa. She’ll comfort you and put you to
 bed. The rascals won’t let us sit in peace after dinner,” he snapped
 peevishly, as the servants promptly withdrew at his word.
 
+#### They talk of Smerdyakov
 “Smerdyakov always pokes himself in now, after dinner. It’s you he’s so
 interested in. What have you done to fascinate him?” he added to Ivan.
 
@@ -42,6 +45,7 @@ about so much?”
 
 “Of course he isn’t.”
 
+#### Fyodor goes on in drunken ramble about beating peasants
 “And as for the ideas he may be hatching, the Russian peasant, generally
 speaking, needs thrashing. That I’ve always maintained. Our peasants are
 swindlers, and don’t deserve to be pitied, and it’s a good thing they’re
@@ -91,6 +95,7 @@ mint!”
 “Well, if Truth were to prevail, you know, you’d be the first to be robbed
 and suppressed.”
 
+#### Fyodor asks Ivan and Aloysha about their stance on God and immortality
 “Ah! I dare say you’re right. Ah, I’m an ass!” burst out Fyodor
 Pavlovitch, striking himself lightly on the forehead. “Well, your
 monastery may stand then, Alyosha, if that’s how it is. And we clever
@@ -165,6 +170,7 @@ invented God! Hanging on a bitter aspen tree would be too good for him.”
 “No. And there would have been no brandy either. But I must take your
 brandy away from you, anyway.”
 
+#### Fyodor transitions the conversation to Aloysha and the monestary
 “Stop, stop, stop, dear boy, one more little glass. I’ve hurt Alyosha’s
 feelings. You’re not angry with me, Alyosha? My dear little Alexey!”
 
@@ -195,6 +201,7 @@ in what.’ ”
 
 “Really?”
 
+#### Fyodor goes on about the father Piassy
 “He really did. But I respect him. There’s something of Mephistopheles
 about him, or rather of ‘The hero of our time’ ... Arbenin, or what’s his
 name?... You see, he’s a sensualist. He’s such a sensualist that I should
@@ -218,6 +225,7 @@ him with some one else ... without noticing it. Come, another glass and
 that’s enough. Take away the bottle, Ivan. I’ve been telling lies. Why
 didn’t you stop me, Ivan, and tell me I was lying?”
 
+#### Ivan begins to take the brandy away
 “I knew you’d stop of yourself.”
 
 “That’s a lie. You did it from spite, from simple spite against me. You
@@ -233,6 +241,7 @@ and you don’t go.”
 “You won’t go. You want to keep an eye on me. That’s what you want,
 spiteful fellow. That’s why you won’t go.”
 
+#### More drunkeness speech as Ivan tries to take the brandy away
 The old man persisted. He had reached that state of drunkenness when the
 drunkard who has till then been inoffensive tries to pick a quarrel and to
 assert himself.
@@ -249,6 +258,7 @@ said emphatically.
 “Oh, all right. Ugh, my head aches. Take away the brandy, Ivan. It’s the
 third time I’ve told you.”
 
+#### Fyodor rambles a bit about Grushenka
 He mused, and suddenly a slow, cunning grin spread over his face.
 
 “Don’t be angry with a feeble old man, Ivan. I know you don’t love me, but
@@ -260,6 +270,7 @@ despise them—they’re pearls!”
 
 And he kissed his hand with a smack.
 
+#### Fyodor continues on about the attacks of madness Aloysha's mother used to have
 “To my thinking,” he revived at once, seeming to grow sober the instant he
 touched on his favorite topic. “To my thinking ... Ah, you boys! You
 children, little sucking‐pigs, to my thinking ... I never thought a woman
@@ -307,6 +318,7 @@ hands, then suddenly hid her face in them, began trembling all over and
 fell on the floor ... fell all of a heap. Alyosha, Alyosha, what’s the
 matter?”
 
+#### Aloysha begins to have an attack of madness
 The old man jumped up in alarm. From the time he had begun speaking about
 his mother, a change had gradually come over Alyosha’s face. He flushed
 crimson, his eyes glowed, his lips quivered. The old sot had gone
@@ -335,6 +347,9 @@ yours too! Damn it! My mind has never been so darkened before. Excuse me,
 why, I was thinking, Ivan.... He he he!” He stopped. A broad, drunken,
 half‐senseless grin overspread his face.
 
+### Dmitri enters the room in a clamor
+
+#### Enter Dmitiri
 At that moment a fearful noise and clamor was heard in the hall, there
 were violent shouts, the door was flung open, and Dmitri burst into the
 room. The old man rushed to Ivan in terror.
