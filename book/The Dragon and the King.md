@@ -1,5 +1,5 @@
 In there land there was a king. As far as kings go, this king was what his
-critics would call "okay",never extraordinary, but still keeping to his kingly
+critics would call "okay", never extraordinary, but still keeping to his kingly
 duties and generally doing with kind heart what was expected of him as king. He
 was a figurehead for a farming town during a time of peace and prosperity. The
 king owned a crown, but he never wore it except to very special occasions where
@@ -52,7 +52,8 @@ and he knew the part he had to play in it was no more. He was becoming old, and
 weary of this world. The king wanted to gain enjoyment out of the growth he
 once knew, but he couldn't knowing that his involvment was being filtered out
 and replaced by the very system which he put in place. It was a beautiful
-thing.
+thing, but just because something is beautiful doesn't mean it can't also be
+sad.
 
 In his later years, the king grew nihilistic. "Why should I go the extra mile
 to govern my people if a mile short will do and I can run two fewer miles than
@@ -60,7 +61,7 @@ I would otherwise," would be something the king might say to his trusted
 friends in a time of late night inebriation that was becoming only too common.
 
 Of course, the king didn't want to lose interest in the things that once gave
-him joy, but old age without a mate was wearing on him, and the began to
+him joy, but old age without a mate was wearing on him, and he began to
 realize the error in rejecting a mate earlier in life. He was only too aware of
 the pains in his soul that he was missing for not having shared in another
 human being his sexual and emotional energy, and more for not having received
@@ -126,4 +127,234 @@ world to ours just so they could ask him about our socio-political issues of
 the day, but as time grew more and crops grew less, eventually the will of the
 mass turned to action.
 
+And so a group of those so inspired, and perhaps a little foolish, consisting
+of enlightened farm owners and noblemen of the town, took it upon themselves to
+go on a quest into the mountains to the West and summon this beast who may or
+may not have answers for them. This band of people, numbered so that each knew
+the name of every other but would still be considered a pack, gathered their
+belongings, bringing candles and torches and incense of ritual, along with a
+sacrifice of their greatest crop and livestock, and took upon themselves to
+march Westward into the mountains where this beast, rumored to be a dragon of
+yore by some, was said to sleep across this realm and into another.
 
+Their march was as just as eventful as any march of such a number through the
+mountains could be. At first, there was a clear path, where those before them
+had trod before, and ventured through there to gather herds of animals and
+hunts, but as they continued on their journey, their path grew less and less
+traveled upon, until the underbrush overcame their path. Some turned back, but
+not out of lack of faith, but due to practical reasons of hardship along the
+road. However, most carried on, and after multiple risings and settings of the
+sun, they arrived at their desired destination.
+
+Indeed, when they made it there, the people only at first saw a clearing in the
+trees of the mountains. Peculiar though it was, it was certainly not divine
+and could have very easily been the cause of some natural phenomenon. It was
+peculiar, though, because this clearing, covered in vine and brush though it
+was, made a perfect circle in the trees, so that at it's very center the sun
+shone through as if illuminating their destination. Some that saw this at first
+felt even a little uneasy in their stomach, and others set their packs down and
+came to their knees as if already praying before some imaginary alter that
+would fit so perfectly if it were there.
+
+As the people began to investigate the clearing, they became more convinced
+that they had arrived at their desired destination. There were a few other
+clearings that they had felt could perhaps be their stopping point, but those
+had each felt off in some way, and after debate among them they had decided to
+move on. This clearing, however, felt more and more correct as the people
+continued to investigate, until, after clearing much of the vines and leaves
+the people started to uncover some peculiar and even grooves around the edges,
+marking a perfect circular ridge that in no way could be the product of nature.
+As they continued to look around, they found that under the brush and dirt was
+nothing but smooth, level stone, as if it were the floor of a marble castle
+that had long been abanoneded but somehow maintained it's polish through the
+years. This was the place they were looking for.
+
+Those people continued to clear the brush, until the stone underneath was fully
+unearthed, and the ridge around it made a perfect circle, coming up to the
+knees of those standing on the outside, and they were able to see faint but
+distinct markings designated for the ritual they had only heard about in
+stories of lore from their fathers and their father's fathers. Having seen
+this, the people their began to unwrap their bags, and arrange the incense and
+torches about the wide stone slab in the way that seemed to be guided not by
+their own knowledge but knowledge which came from beyond. Acting in unison, as
+if driven by some external guiding mind, the people set up their scene until
+they were ready to begin their ritual.
+
+Every gathered around and upon the scene, and those around the edges began to
+beat their drums. At first the beating was slow, and without rythym, but as if
+by instinct the people began to sense the beat and the pulse of the mountains
+around them, and with each resounding drum beat, it seemed as though the trees
+around them began to respond, and the ground beneath them seemed to agree with
+their sounds in a strange and unfamiliar yet calming way that only seemed right
+to those in the ceremony. The drum beats grew louder, and while the deeper
+drums kept the beat steady, those that were feeling as such began to create
+rythym within the resounding beats. Those bearing drums continued in this way,
+as if building first from nothing but ever steadily into a crecendo, not a
+crecendo that was leading to anything, but a crecendo that only felt right in
+the pulse of the mountain around. And then some began to sing. Like the drums,
+those that sang at first were cautious, not wanting to disturb the harmony with
+the earth that the drummers had established, but as their hums began to grow,
+and resonate out towards the heavens, they grew more confident in their humming
+and continue as such. The flames of incense continued to burn, and this
+crecendo continued without conscious effort of those involved. If they were to
+have stopped to think about it, it would have seemed ridiculous, but none of
+them stopped to think about it, each simply became a part of the harmony that
+was being created, and included their own voice when it felt right. And when it
+felt right, they knew it felt right, and they continued on this way, ever
+building and evolving towards a climax that none there were overhasty to reach.
+Some began to dance with the music, weaving in and out betweeen eachother in
+harmony, never stepping on the toes of another but always passing through the
+right steps at the right time. None knew from where this inspiration came, and
+they all became caught up in the music that each became lost in their trance.
+
+This continued on for some time, every increasing in intensity in beauty as the
+time went on, until one among them led their finest calf that had walked with
+them through the mountains into the center of the circle. Even this calf had a
+sort of steady walk to itself, as if it knew it's place in this noise and knew
+where it needed to go. There was no fear, no apprehension, only resolve in the
+moment of where it needed to go. This calf was led to the center of the scene,
+until the one leading took in his hand his hallowed knife, a knife that had
+been passed down through his family for generations and been kept in safe
+keeping by the people and had never been touched by flesh nor bone until that
+moment, and grasping it firmly within his hand, as the music began to reach a
+sort of climax, he thrust it through the calf at the heart, so that his blood
+would spill all through the slab, until the stone became soaked in that still
+oxygenated blood. At this, the calf was laid gently on its side, and the blood
+from the wound spewed forth from the calf, it's bright red glimmering in the
+sun which had come up and caused the ground beneath them to glisten in the
+magnificent patterns and ridges which were faint at first but grew into a
+beautiful network of lines and curves, until the entire stone slab was covered
+in this living blood.
+
+All at once the people stopped, they held their torches, and their incense,
+they took their drums and instruments, and gathered around the edges, and
+became silent, looking upon this scene with wonder, seeing only the man with
+the knife and the slaughted calf in the center. This silent lasted only for
+a moment, but for the people it felt as though their entire lifetime, and
+the lives of their fathers and the lives of their children could have gone by
+in that one moment, and at the end of that eternal moment, the one in the
+center held up his flame, recited an ancient chant in a tongue that had never
+been spoken before, and lowered his flame to the calf, setting it ablaze with
+flame. This flame started slowly from the center, but quickly and steadily
+grew, acting not as any flame that those people had seen before, until it began
+to engulf the entire stone. The one who started the flame at first stood within
+it, but as it grew hot he stepped to the edge with his fellow townsfolk, and
+gathered with all of them there in the circle.
+
+For a moment, each of the townspeople there looked at one another, each sharing
+in their ritual and acknowledging the presence and the magnificence of what
+they had done together. The flame continued to grow about the slab, billowing
+out from the edges and growing strongest towards the center. The sounds of
+winds like mist began to grow, and though the towns people from this point
+remained silent in reverence of the act they had just done, the noise began to
+grow, and the flames began to swirl. The spiral winds grew stronger and
+stronger until the winds began to grow a sort of life of their own, the flames
+continued to burn strongly, so much so that the people could no longer look
+upon it, and they each in their time began to lower themselves to their knees,
+and bow their heads down lest their faces be burned.
+
+And at this, the stone began to rumble, and out of its center came that which
+they had come waiting for. The flames shot forth out of the
+stone, upward through the clearing in the trees, and with it a mighty roar, deeper and more
+majestic than any roar that had been heard to that point, and out of this roar
+came first the nostrils of the mighty dragon as he flew out of the stone and
+upwards into the sky. No one could see from where the
+dragon had appeared from, whether an opening had been made in the stone or not
+could not be seen as all there continued to bow their heads out of fear and
+reverence for that which they knew was greater than them. This dragon continued
+fly out of the stone, with mighty winds and flames that would have taken away
+any one person of that group had they not been joined together and braced by
+the stone which they were gathered around. The dragon came up and up further
+into the sky, through the flames and the winds, spiraling up and up as it's
+body like a serpent came entirely out of the stone.
+
+When the dragon had finish its genesis, the flames had been extinguished, and
+the winds died down, and the people there could again gather themselves and
+evaluate themselves. They had been so lost in their ritual that many of them
+had not realized what they had gone through. Some had burns, others had cuts,
+other merely bruises, but all continue to stay there, some in shock, some in
+awe, some losing themselves, but all keeping their wits about them as they
+witnessed the dragon fly above them and circle back around to that hallowed
+ritual place. As the dragon flew back down, and began to take his place of
+resting coiled around the stone, comfortable atop it's surface, the people
+continued to bow their heads low, not knowing what else to do. None were brave
+enough to speak the first word or make the first move, and for a moment they
+simply continued to sit as they watched the dragon take its place. Many were
+also surprised, as they looked up and saw that the dragon, though indeed much
+larger and quite longer than any of them as human beings, was of a size that
+was reasonable, and when he coiled himself on the stone, they could imagine him
+not as a supreme being bigger then themselves but instead as simply another
+beast among them. However, they knew better than to underestimate or disrespect
+that which they had summoned, espcically after such a ritual, and continued to
+sit. It was indeed the dragon who broke that silence, and spoke the first
+words.
+
+"What sort of peoples are these, that would dare summon me from my eternal
+sleep?"
+
+The dragons voice was bellowing, but not so overwhelming that it couldn't be
+understood. It was forceful, and commanded a certain authority that none of
+those had felt before. After another long silence, the people, still uneasy,
+remained silent.
+
+At that, the dragon blew great flames from his belly, and out his mouth, and
+into the sky as if blowing flames that could reach beyond the clouds and even
+to the sun. From this breath, echoed his forceful voice again.
+
+"Well?"
+
+At this, one of the people, indeed, the one that slew the calf that began the
+flames, rose and spoke, unsure of his words and confidence of the previous
+ritual, but still trying to muster in himself something appropiate to say.
+
+"Mighty.... um.... dragon, uh....sir... uh, we summon you because I... I mean,
+uh, we... um, wish to, ask your assistance in a great trouble that we as the
+memebers of our lowly and humble town have recently come across... well... not
+trouble, but, uh, well, we have a problem that we don't know how to.... um" and
+he was inturrupted before he could decide between the word "solve" or
+"rectify".
+
+"Silence! Speak plainly, mortal, for though I am certainly greater than you I
+have no time for your fear or reverence. Address me however you would address
+your fellow man and get to your point before I grow impatient of your
+yammering."
+
+"Yes, um, of course, uh, dragon... sir. We here have summoned you to ask your
+help. Our king, you see, he used to be a good king, but now, well, he is not as
+good anymore, and he locks himself in his room and blocks himself off from his
+kingly duties. Our leadership has suffered, and our town grows weaker at his...
+what's the word...  negligence, you could say, and our townspeople suffer
+because of him. We wish your aid in our situation, oh mighty dragon... uh...
+one, that you might help us restore our town to it's former..." and he wanted
+to use the word "glory", but that word seemed much to innapproiate to use for
+the town in the presence of one as mighty as the dragon, so he ended with
+"town-ness." At this utterance he felt quite foolish before the dragon, quite
+foolish indeed at not only having made up a word so silly as "town-ness" but
+also having voiced what seemed at this point quite a trivial matter after the
+magnificent ritual that they had just taken part. And before he could stammer
+on and correct himself about the use of the word "town-ness" and the trivial
+nature of their request, the dragon inturrupted him.
+
+"And what of his heir? Why has he not taken up the kingship?"
+
+And to this the man replied, "Well, you see, that's the thing, is the king
+never married, so there is no rightful heir, and finding one among us to rule,
+well, we have not been in this situation before, and we don't know who will
+take his place, and it seems wrong to decide that before the current king is,
+well... not king, um... dead... I mean, and we wish to come to a solution
+before it comes to fighting." And before he could add any more needless
+honerifics or useless words to tack on to the end of his statement, the dragon
+began.
+
+"I see, I see." There was a moment pause. The people sat in curiosity, waiting
+intently for what the dragon would say. And the dragon continued. "I will be
+your king. Your present king will go into the forests, and he should find
+himself, he should find perspective, he will be relieved of his duties until he
+decides he is ready to come back. And though the may be old, he can still find
+a wife, and make an heir, and if not, I will rule and maintian peace and order
+as you townspeople decide who among you should take his place. Yes, this is how
+it will be."
+
+-- I have to go now, but I want the people to deny this at first, the dragon to
+show his strength in his decision, and the people to question whether or not
+this was more than they bargained for.
