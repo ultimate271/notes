@@ -596,6 +596,7 @@ to see what happens.”
 
 #### 
 
+_Fellise_  
 Having a keep in Luthadel qualified a house for high noble status. However,
 having a keep didn’t mean that one had to live in it, especially not all of the
 time. Many families also maintained a residence in one of Luthadel’s outskirt
@@ -642,6 +643,7 @@ should know about Allomancy.”
 
 Vin nodded.
 
+####
 “First,” Kelsier said, “remember to burn away any unused metals you have inside
 of you at the end of the night. Some of the metals we use can be poisonous if
 digested; it’s best not to sleep with them in your stomach.”
@@ -654,6 +656,7 @@ burn a metal that isn’t Allomantically sound at all, it could be deadly.”
 
 Vin nodded solemnly. Good to know, she thought.
 
+####
 “Ah,” Kelsier said, turning back toward the window. “Here we are: the newly
 purchased Manor Renoux. You should probably take off your cloak—the people here
 are loyal to us, but it always pays to be careful.”
@@ -740,6 +743,7 @@ Vin allowed herself to be led into the building. The group turned right,
 entering a room whose whites were muted slightly by the addition of maroon
 furnishings and drapes.
 
+####
 Renoux paused. “Perhaps the lady could enjoy some refreshment here for a
 moment,” he said to Kelsier. “There are some matters of a . . . delicate nature
 that I would discuss with you.”
@@ -795,6 +799,7 @@ no sense of drudgery about their efforts. She heard laughter in the outer
 hallway. These were not mistreated skaa; whether they had been included in
 Kelsier’s plans or not was irrelevant.
 
+####
 So, Vin sat and forced herself to eat fruit, yawning occasionally. It was
 turning out to be a long night indeed. The servants eventually left her alone,
 though Sazed continued to loom just behind her.
@@ -873,6 +878,7 @@ Sazed smiled. “That depends. The right belief is like a good cloak, I think. I
 it fits you well, it keeps you warm and safe. The wrong fit, however, can
 suffocate.”
 
+####
 Vin paused, frowning slightly, but Sazed just smiled. Eventually, she turned
 her attention back to her meal. After a short wait, the side door opened, and
 Kelsier and Renoux returned.
@@ -943,6 +949,7 @@ would go forward, and she suddenly realized what that meant. Being around
 Renoux made her uncomfortable—and he was a fake nobleman. How would she react
 to an entire room full of real ones?
 
+####
 “I’m afraid I’ll have to borrow Sazed from you for a while,” Kelsier said.
 
 “Quite all right,” Renoux said. “He’s really not my steward, but yours.”
@@ -980,6 +987,7 @@ Vin and Kelsier trailed the tall Terrisman from the room as a group of servants
 took away the remnants of the meal. I left food behind, Vin noticed, feeling a
 bit drowsy. She wasn’t certain what to think of the occurrence.
 
+####
 As they crested the stairs and turned into a side hallway, Kelsier fell into
 place beside Vin. “I’m sorry for excluding you back there, Vin.”
 
@@ -993,6 +1001,7 @@ nothing we discussed has any bearing on your part in the plan.”
 
 Vin continued walking. “I . . . believe you.”
 
+####
 “Good,” Kelsier said with a smile, clapping her on the shoulder. “Saze, I know
 my way to the men’s guest quarters—I was, after all, the one who bought this
 place. I can make my way from here.”
@@ -1015,6 +1024,7 @@ Vin shook her head. Sazed smiled, bid her good evening, then walked back out in
 the hallway. Vin stood quietly for a short moment, studying the room. Then she
 turned, glancing once again in the direction Kelsier had gone.
 
+####
 “Sazed?” she said, peeking back out into the hallway.
 
 The steward paused, turning back. “Yes, Mistress Vin?”
