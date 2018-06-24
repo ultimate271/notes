@@ -1,5 +1,9 @@
 ## 10
 
+###
+
+#### 
+
 * * *
 
 
@@ -15,6 +19,9 @@ the value of peace and cooperation.
 
 
 
+### 
+
+#### 
 
 10
 
@@ -83,6 +90,7 @@ see a splintery wooden door set in the room’s corner. A man seated by the door
 caught her eyes, nodded slightly, and pushed the door open. Vin passed quickly
 into the small room beyond.
 
+#### 
 “Vin, my dear!” Breeze said, lounging at a table near the center of the room.
 “Welcome! How was Fellise?”
 
@@ -123,6 +131,7 @@ to come here today?”
 “He told me to watch you,” Vin said, a bit annoyed at being handed off to
 Breeze. “He said he didn’t have time to train me in all the metals.”
 
+#### 
 “Well,” Breeze said, “let us begin, then. First, you must understand that
 Soothing is about more than just Allomancy. It’s about the delicate and noble
 art of manipulation.”
@@ -197,6 +206,7 @@ trained her well. If she didn’t have power over this thing, others would gain
 power over her through it. She started burning copper—as Kelsier had taught
 her—to shield herself from further manipulations on Breeze’s part.
 
+#### 
 The door opened again, and a familiar vest-wearing form tromped in. “Hey, Vin,”
 Ham said with a friendly wave. He walked over to the table, eyeing the wine.
 “Breeze, you know that the rebellion doesn’t have the money for that kind of
@@ -223,6 +233,7 @@ Shall I have someone fetch you a cup?”
 
 Breeze shrugged, sipping his wine.
 
+#### 
 There was a moment of silence. Finally, Ham spoke. “So . . .”
 
 “No,” Breeze interrupted.
@@ -314,6 +325,7 @@ about that question, Vin.”
 
 “All right . . .” Vin said as Ham left.
 
+#### 
 “Over here, Vin,” Breeze said, rising. “There are peepholes on the wall for us.
 Be a dear and bring my chair over, would you?”
 
@@ -346,6 +358,7 @@ quiet a room of hungry men by simply standing before them. Was he using
 Allomancy, perhaps? Yet, even with her copper on, she felt a . . . presence
 from him.
 
+#### 
 Once the room fell quiet, Kelsier began to speak. “You’ve probably all heard of
 me, by now,” he said. “And, you wouldn’t be here if you weren’t at least a
 little bit sympathetic to my cause.”
@@ -367,6 +380,7 @@ One of the guards nodded, cracking the door and whispering something to the man
 outside. A moment later, Vin saw a serving girl wearing a faded blue dress move
 through the crowd, filling drinks.
 
+#### 
 “My Soothers are mixed with the crowd,” Breeze said, his voice growing
 distracted. “The serving girls are a sign, telling my men which emotions to
 Soothe away. They will work, just as I do. . . .” He trailed off, concentrating
@@ -378,6 +392,7 @@ Soothers work, the Rioters enflame the emotions we want the crowd to be
 feeling. Curiosity . . . that’s what they need now. Yes, listen to Kelsier.
 You’ve heard legends and stories. See the man for yourself, and be impressed.”
 
+#### 
 “I know why you came today,” Kelsier said quietly. He spoke without much of the
 flamboyance Vin associated with the man, his tone quiet, but direct.
 “Twelve-hour days in a mill, mine, or forge. Beatings, lack of pay, poor food.
@@ -386,6 +401,7 @@ find another tragedy? A friend, slain by an uncaring taskmaster. A daughter,
 taken to be some nobleman’s plaything. A brother, dead at the hand of a passing
 lord who was having an unpleasant day.”
 
+#### 
 “Yes,” Breeze whispered. “Good. Red, Rudd. Send in the girl in light red.”
 
 Another serving girl entered the room.
@@ -399,6 +415,7 @@ trying to sense Breeze’s use of Allomancy. No pulses came from him.
 Of course, she thought. I forgot about Clubs’s apprentice—he’d keep me from
 sensing any Allomantic pulses. She turned her copper back on.
 
+#### 
 Kelsier continued to speak. “My friends, you’re not alone in your tragedy.
 There are millions, just like you. And they need you. I’ve not come to
 beg—we’ve had enough of that in our lives. I simply ask you to think. Where
@@ -432,6 +449,7 @@ He tried, but he failed. For I am the thing that he can never kill.”
 
 With that, Kelsier turned, walking from the room the way he had come.
 
+#### 
 “Hum,” Breeze said, “well, that was a little dramatic. Rudd, bring back the red
 and send out the brown.”
 
@@ -457,6 +475,7 @@ outside seemed to react exactly according to Breeze’s mumbled instructions.
 Yeden, too, showed effects of the Soothing: He grew more comfortable, his voice
 more confident, as he spoke.
 
+#### 
 Curious, Vin let her copper drop again. She concentrated, seeing if she could
 sense Breeze’s touch on her emotions; she would be included in his general
 Allomantic projections. He didn’t have time to pick and choose individuals,
@@ -484,6 +503,7 @@ focused in any one power.
 I need to make certain he sends me to learn from the others, Vin thought.
 They’ll be masters at their own powers.
 
+#### 
 Vin turned her attention back to the dining room as Yeden wrapped up. “You
 heard Kelsier, the Survivor of Hathsin,” he said. “The rumors about him are
 true—he’s given up his thieving ways, and turned his considerable attention
@@ -504,6 +524,7 @@ entered the crowd.
 stay. If people associate strong emotion with an event, they’ll remember it
 better.”
 
+#### 
 A few moments later, Ham entered through the back door. “That went well. The
 men are leaving invigorated, and a number of them are staying behind. We’ll
 have a good set of volunteers to send off to the caves.”
@@ -522,6 +543,7 @@ believe Kelsier wishes to hold a progress meeting this evening.”
 
 
 
+#### 
 Kelsier looked to the west. The afternoon sun was a poisonous red, shining
 angrily through a sky of smoke. Just below it, Kelsier could see the
 silhouetted tip of a dark peak. Tyrian, closest of the Ashmounts.
@@ -565,6 +587,7 @@ was tall. And each one ended in a point.
 Kredik Shaw. That’s where it had ended three years before. And he needed to go
 back.
 
+#### 
 The trapdoor opened, and a figure climbed onto the roof. Kelsier turned with a
 raised eyebrow as Sazed brushed off his robe, then approached in his
 characteristically respectful posture. Even a rebellious Terrisman maintained
@@ -605,6 +628,7 @@ Kelsier nodded, turning back toward the city. He had so many plans, so much
 work to do—and at the core of it all were the skaa. The poor, humble, defeated
 skaa.
 
+#### 
 “Tell me about another one, Saze,” Kelsier said. “One with power.”
 
 “Power?” Sazed asked. “That is a relative term when applied to religion, I
@@ -638,6 +662,7 @@ convert.”
 you, I think. It has a level of brashness that you might find appealing, but
 you would find the theology simplistic.”
 
+#### 
 “You’re getting to know me too well,” Kelsier said, still regarding the city.
 “In the end, after kingdoms and armies had fallen, the religions were still
 fighting, weren’t they?”
@@ -677,6 +702,7 @@ Breeze and Vin returned yet?”
 
 
 
+#### 
 Vin sat in her overstuffed chair in the conference room, legs tucked beneath
 her, trying to study Marsh out of the corner of her eye.
 
@@ -712,6 +738,7 @@ the nickname; even referring to a Steel Inquisitor made her shiver.
 Lestibournes smiled. He was an earnest boy. Strange, intense, and jumpy—but
 earnest. He retreated to his stool as Kelsier finally arrived.
 
+#### 
 “All right, crew,” he said. “What’ve we got?”
 
 “Besides the bad news?” Breeze asked.
@@ -746,6 +773,7 @@ area. Breeze, can you split your crew into two effective groups?”
 I can probably make it to all of the meetings, assuming we organize them so
 they don’t happen at the same time.”
 
+#### 
 “That many meetings will expose us even more,” Yeden said.
 
 “And that, by the way, brings up another problem,” Ham said. “Weren’t we
@@ -762,6 +790,7 @@ times. It’s impossible.”
 
 The room fell silent.
 
+#### 
 “I have an idea,” Vin said quietly.
 
 Kelsier raised an eyebrow.
@@ -783,6 +812,7 @@ Kelsier nodded thoughtfully. “It’s worth looking into.”
 Dockson scribbled something on a sheet with his fountain pen. “I’ll contact
 Theron and see if his informant is still viable.”
 
+#### 
 “How are our resources coming?” Kelsier asked.
 
 Dockson shrugged. “Ham found us two ex-soldier instructors. The weapons,
@@ -792,6 +822,7 @@ come in bulk.”
 
 Kelsier nodded. “That’s everything, right?”
 
+#### 
 Breeze cleared his throat. “I’ve . . . been hearing a lot of rumors on the
 streets, Kelsier,” he said. “The people are talking about this Eleventh Metal
 of yours.”
@@ -813,6 +844,7 @@ you insa . . .” Yeden trailed off, then glanced at the rest of the room.
 
 “He’s catching on,” Dockson noted.
 
+#### 
 Heavy footsteps sounded in the hallway, and one of Ham’s guards entered a
 moment later. He made his way to Ham’s chair and whispered a brief message.
 
