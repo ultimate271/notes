@@ -1,8 +1,8 @@
 ## Chapter X. Both Together
 
-### 
+### Aloysha's interactions with Katya and Grushenka at Katya's place
 
-#### 
+#### Aloysha's thoughts as he makes his way to Katerina's place
 Alyosha left his father’s house feeling even more exhausted and dejected
 in spirit than when he had entered it. His mind too seemed shattered and
 unhinged, while he felt that he was afraid to put together the disjointed
@@ -27,7 +27,6 @@ Dmitri, feeling himself dishonored and losing his last hope, might sink to
 any depth. He had, moreover, told him to describe to Katerina Ivanovna the
 scene which had just taken place with his father.
 
-#### 
 It was by now seven o’clock, and it was getting dark as Alyosha entered
 the very spacious and convenient house in the High Street occupied by
 Katerina Ivanovna. Alyosha knew that she lived with two aunts. One of
@@ -41,14 +40,13 @@ but her benefactress, the general’s widow, who had been kept by illness in
 Moscow, and to whom she was obliged to write twice a week a full account
 of all her doings.
 
-#### 
+#### Aloysha arrives at Katerina's, noticing movement and observing the place
 When Alyosha entered the hall and asked the maid who opened the door to
 him to take his name up, it was evident that they were already aware of
 his arrival. Possibly he had been noticed from the window. At least,
 Alyosha heard a noise, caught the sound of flying footsteps and rustling
 skirts. Two or three women, perhaps, had run out of the room.
 
-#### 
 Alyosha thought it strange that his arrival should cause such excitement.
 He was conducted however to the drawing‐room at once. It was a large room,
 elegantly and amply furnished, not at all in provincial style. There were
@@ -64,10 +62,11 @@ footsteps Katerina Ivanovna came in, holding out both hands to Alyosha
 with a radiant smile of delight. At the same instant a servant brought in
 two lighted candles and set them on the table.
 
-#### 
+#### Katerina greets Aloysha
 “Thank God! At last you have come too! I’ve been simply praying for you
 all day! Sit down.”
 
+#### Description of Aloysha's first encounter with Katerina and his thoughts of her then
 Alyosha had been struck by Katerina Ivanovna’s beauty when, three weeks
 before, Dmitri had first brought him, at Katerina Ivanovna’s special
 request, to be introduced to her. There had been no conversation between
@@ -112,7 +111,7 @@ was conquered and captivated immediately. Besides all this, he noticed at
 her first words that she was in great excitement, an excitement perhaps
 quite exceptional and almost approaching ecstasy.
 
-#### 
+#### Aloysha gives Dmitri's message and Katerina reflects on it
 “I was so eager to see you, because I can learn from you the whole
 truth—from you and no one else.”
 
@@ -146,7 +145,7 @@ times not to forget to say so.”
 
 Katerina Ivanovna flushed hotly.
 
-#### 
+#### They both agree that Dmitri is perhaps not entirely finished with Katerina
 “Help me now, Alexey Fyodorovitch. Now I really need your help. I’ll tell
 you what I think, and you must simply say whether it’s right or not.
 Listen! If he had sent me his compliments in passing, without insisting on
@@ -160,7 +159,7 @@ bravado.”
 
 “Yes, yes!” cried Alyosha warmly. “I believe that is it.”
 
-#### 
+#### They discuss the issue of the 3k roubles
 “And, if so, he’s not altogether lost. I can still save him. Stay! Did he
 not tell you anything about money—about three thousand roubles?”
 
@@ -189,7 +188,7 @@ the same?”
 
 The last words she uttered in tears. Tears gushed from her eyes.
 
-#### 
+#### Aloysha describes the scene to Katya, and they discuss Grushenka
 “I must tell you,” Alyosha began, his voice trembling too, “what happened
 just now between him and my father.”
 
@@ -206,6 +205,7 @@ laughed strangely.
 
 “He may marry her,” said Alyosha mournfully, looking down.
 
+#### Katerina describes Grushenka breifly before calling her out
 “He won’t marry her, I tell you. That girl is an angel. Do you know that?
 Do you know that?” Katerina Ivanovna exclaimed suddenly with extraordinary
 warmth. “She is one of the most fantastic of fantastic creatures. I know
@@ -219,7 +219,7 @@ about our affairs. Show yourself to him.”
 “I’ve only been waiting behind the curtain for you to call me,” said a
 soft, one might even say sugary, feminine voice.
 
-#### 
+#### Description of Grushenka, as Katerina begins kissing her as if in love
 The portière was raised and Grushenka herself, smiling and beaming, came
 up to the table. A violent revulsion passed over Alyosha. He fixed his
 eyes on her and could not take them off. Here she was, that awful woman,
@@ -274,7 +274,7 @@ joy in her eyes. Katerina Ivanovna at once made her sit down in an arm‐
 chair facing Alyosha, and ecstatically kissed her several times on her
 smiling lips. She seemed quite in love with her.
 
-#### 
+#### Katerina continues to shower Grushenka, making Aloysha very uncomfortable
 “This is the first time we’ve met, Alexey Fyodorovitch,” she said
 rapturously. “I wanted to know her, to see her. I wanted to go to her, but
 I’d no sooner expressed the wish than she came to me. I knew we should
@@ -297,7 +297,7 @@ Alyosha flushed, and faint, imperceptible shivers kept running down him.
 “You make so much of me, dear young lady, and perhaps I am not at all
 worthy of your kindness.”
 
-#### 
+#### Katya tells about the officer Grushenka is involved with
 “Not worthy! She’s not worthy of it!” Katerina Ivanovna cried again with
 the same warmth. “You know, Alexey Fyodorovitch, we’re fanciful, we’re
 self‐willed, but proudest of the proud in our little heart. We’re noble,
@@ -318,6 +318,7 @@ her—saved her!”
 “You defend me very kindly, dear young lady. You are in a great hurry
 about everything,” Grushenka drawled again.
 
+#### Katerina kisses Grushenka on the hand three times, creating more tension in Aloysha
 “Defend you! Is it for me to defend you? Should I dare to defend you?
 Grushenka, angel, give me your hand. Look at that charming soft little
 hand, Alexey Fyodorovitch! Look at it! It has brought me happiness and has
@@ -329,7 +330,6 @@ of Grushenka in a sort of rapture. She held out her hand with a charming
 musical, nervous little laugh, watched the “sweet young lady,” and
 obviously liked having her hand kissed.
 
-#### 
 “Perhaps there’s rather too much rapture,” thought Alyosha. He blushed. He
 felt a peculiar uneasiness at heart the whole time.
 
@@ -339,7 +339,7 @@ before Alexey Fyodorovitch.”
 “Do you think I meant to make you blush?” said Katerina Ivanovna, somewhat
 surprised. “Ah, my dear, how little you understand me!”
 
-#### 
+#### Katerina reveals her motives to use Grushenka to save Dmitri, while Grushenka reveals that she may or may not go through with what they discussed
 “Yes, and you too perhaps quite misunderstand me, dear young lady. Maybe
 I’m not so good as I seem to you. I’ve a bad heart; I will have my own
 way. I fascinated poor Dmitri Fyodorovitch that day simply for fun.”
@@ -393,7 +393,7 @@ slave was very strangely expressed. She looked intently into her eyes; she
 still saw in those eyes the same simple‐hearted, confiding expression, the
 same bright gayety.
 
-#### 
+#### Grushenka taunts Katerina quite vilely, refusing to kiss her hand for the sole purpose of amusing herself and Dmitri,
 “She’s perhaps too naïve,” thought Katerina Ivanovna, with a gleam of
 hope.
 
@@ -433,6 +433,7 @@ feature was working in her utterly distorted face.
 “For sale indeed! You used to visit gentlemen in the dusk for money once;
 you brought your beauty for sale. You see, I know.”
 
+#### Katerina has to be held back from attacking Grushenka
 Katerina Ivanovna shrieked, and would have rushed at her, but Alyosha held
 her with all his strength.
 
@@ -442,6 +443,7 @@ away—she’ll go at once.”
 At that instant Katerina Ivanovna’s two aunts ran in at her cry, and with
 them a maid‐servant. All hurried to her.
 
+#### Grushenka leaves after telling Aloysha to see her at her home
 “I will go away,” said Grushenka, taking up her mantle from the sofa.
 “Alyosha, darling, see me home!”
 
@@ -455,7 +457,7 @@ home, dear, you’ll be glad of it afterwards.”
 Alyosha turned away, wringing his hands. Grushenka ran out of the house,
 laughing musically.
 
-#### 
+#### Katerina is in a sort of shock at this whole thing
 Katerina Ivanovna went into a fit of hysterics. She sobbed, and was shaken
 with convulsions. Every one fussed round her.
 
@@ -487,7 +489,7 @@ ached.
 morrow, I beg you on my knees, come to‐morrow. Don’t condemn me. Forgive
 me. I don’t know what I shall do with myself now!”
 
-#### 
+#### Aloysha leaves this scene, receiving a letter from a maid as he leaves
 Alyosha walked out into the street reeling. He could have wept as she did.
 Suddenly he was overtaken by the maid.
 
