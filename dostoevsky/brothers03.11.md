@@ -1,6 +1,8 @@
 ## Chapter XI. Another Reputation Ruined
 
+### 
 
+#### 
 It was not much more than three‐quarters of a mile from the town to the
 monastery. Alyosha walked quickly along the road, at that hour deserted.
 It was almost night, and too dark to see anything clearly at thirty paces
@@ -46,6 +48,7 @@ Forgive my foolery—it was only nonsense, and there’s nothing unseemly in
 my soul.... Damn it all, tell me what’s happened. What did she say? Strike
 me, crush me, don’t spare me! Was she furious?”
 
+#### 
 “No, not that.... There was nothing like that, Mitya. There—I found them
 both there.”
 
@@ -72,6 +75,7 @@ parted, and Dmitri Fyodorovitch broke into uncontrolled, spontaneous
 laughter. He literally shook with laughter. For a long time he could not
 speak.
 
+#### 
 “So she wouldn’t kiss her hand! So she didn’t kiss it; so she ran away!”
 he kept exclaiming with hysterical delight; insolent delight it might have
 been called, if it had not been so spontaneous. “So the other one called
@@ -105,6 +109,7 @@ by her own dream, her own delusion—because it was _her_ dream, _her_
 delusion! Alyosha, darling, how did you escape from them, those women? Did
 you pick up your cassock and run? Ha ha ha!”
 
+#### 
 “Brother, you don’t seem to have noticed how you’ve insulted Katerina
 Ivanovna by telling Grushenka about that day. And she flung it in her face
 just now that she had gone to gentlemen in secret to sell her beauty!
@@ -127,6 +132,7 @@ but now ‘the dagger in the heart’! That’s how women are.”
 
 He looked down and sank into thought.
 
+#### 
 “Yes, I am a scoundrel, a thorough scoundrel!” he said suddenly, in a
 gloomy voice. “It doesn’t matter whether I cried or not, I’m a scoundrel!
 Tell her I accept the name, if that’s any comfort. Come, that’s enough.
@@ -139,6 +145,7 @@ his head, as though tearing himself away, turned rapidly towards the town.
 
 Alyosha looked after him, unable to believe he would go away so abruptly.
 
+#### 
 “Stay, Alexey, one more confession to you alone!” cried Dmitri, suddenly
 turning back. “Look at me. Look at me well. You see here, here—there’s
 terrible disgrace in store for me.” (As he said “here,” Dmitri struck his
@@ -167,7 +174,9 @@ wildly. “Why, I shall certainly see him to‐morrow. I shall look him up. I
 shall make a point of it. What does he mean?”
 
                   ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+### 
 
+#### 
 He went round the monastery, and crossed the pine‐wood to the hermitage.
 The door was opened to him, though no one was admitted at that hour. There
 was a tremor in his heart as he went into Father Zossima’s cell.
@@ -176,6 +185,7 @@ was a tremor in his heart as he went into Father Zossima’s cell.
 peace. Here was holiness. But there was confusion, there was darkness in
 which one lost one’s way and went astray at once....”
 
+#### 
 In the cell he found the novice Porfiry and Father Païssy, who came every
 hour to inquire after Father Zossima. Alyosha learnt with alarm that he
 was getting worse and worse. Even his usual discourse with the brothers
@@ -211,6 +221,7 @@ entering the monastery—their proper place is in the world. Even in the
 temple one cannot be safe from sin and the devil. So it was no good taking
 it too much into account.”
 
+#### 
 “He is weaker, a drowsiness has come over him,” Father Païssy whispered to
 Alyosha, as he blessed him. “It’s difficult to rouse him. And he must not
 be roused. He waked up for five minutes, sent his blessing to the
@@ -225,6 +236,7 @@ something in your destiny! Understand, Alexey, that if you return to the
 world, it must be to do the duty laid upon you by your elder, and not for
 frivolous vanity and worldly pleasures.”
 
+#### 
 Father Païssy went out. Alyosha had no doubt that Father Zossima was
 dying, though he might live another day or two. Alyosha firmly and
 ardently resolved that in spite of his promises to his father, the
@@ -254,6 +266,7 @@ hesitation, he opened the envelope. In it was a letter to him, signed by
 Lise, the young daughter of Madame Hohlakov, who had laughed at him before
 the elder in the morning.
 
+#### 
 “Alexey Fyodorovitch,” she wrote, “I am writing to you without any one’s
 knowledge, even mamma’s, and I know how wrong it is. But I cannot live
 without telling you the feeling that has sprung up in my heart, and this
@@ -294,6 +307,7 @@ meeting.—LISE.
 
 “P.S.—Alyosha! You must, must, must come!—LISE.”
 
+#### 
 Alyosha read the note in amazement, read it through twice, thought a
 little, and suddenly laughed a soft, sweet laugh. He started. That laugh
 seemed to him sinful. But a minute later he laughed again just as softly

@@ -1,6 +1,8 @@
 ## Chapter IX. The Sensualists
 
+### 
 
+#### 
 Grigory and Smerdyakov ran into the room after Dmitri. They had been
 struggling with him in the passage, refusing to admit him, acting on
 instructions given them by Fyodor Pavlovitch some days before. Taking
@@ -56,6 +58,7 @@ the other entrance locked, and the key actually was in Fyodor Pavlovitch’s
 pocket. The windows of all the rooms were also closed, so Grushenka could
 not have come in anywhere nor have run out anywhere.
 
+#### 
 “Hold him!” shrieked Fyodor Pavlovitch, as soon as he saw him again. “He’s
 been stealing money in my bedroom.” And tearing himself from Ivan he
 rushed again at Dmitri. But Dmitri threw up both hands and suddenly
@@ -85,6 +88,7 @@ Katerina Ivanovna at once and be sure to say, ‘He sends his compliments to
 you!’ Compliments, his compliments! Just compliments and farewell!
 Describe the scene to her.”
 
+#### 
 Meanwhile Ivan and Grigory had raised the old man and seated him in an
 arm‐chair. His face was covered with blood, but he was conscious and
 listened greedily to Dmitri’s cries. He was still fancying that Grushenka
@@ -97,12 +101,16 @@ altogether.”
 
 He ran out of the room.
 
+### 
+
+#### 
 “She’s here. She must be here. Smerdyakov! Smerdyakov!” the old man
 wheezed, scarcely audibly, beckoning to him with his finger.
 
 “No, she’s not here, you old lunatic!” Ivan shouted at him angrily. “Here,
 he’s fainting! Water! A towel! Make haste, Smerdyakov!”
 
+#### 
 Smerdyakov ran for water. At last they got the old man undressed, and put
 him to bed. They wrapped a wet towel round his head. Exhausted by the
 brandy, by his violent emotion, and the blows he had received, he shut his
@@ -122,6 +130,7 @@ smile.
 
 “I used to wash him in his tub. He’s insulted me,” repeated Grigory.
 
+#### 
 “Damn it all, if I hadn’t pulled him away perhaps he’d have murdered him.
 It wouldn’t take much to do for Æsop, would it?” whispered Ivan to
 Alyosha.
@@ -137,6 +146,7 @@ Alyosha shuddered.
 “Of course I won’t let him be murdered as I didn’t just now. Stay here,
 Alyosha, I’ll go for a turn in the yard. My head’s begun to ache.”
 
+#### 
 Alyosha went to his father’s bedroom and sat by his bedside behind the
 screen for about an hour. The old man suddenly opened his eyes and gazed
 for a long while at Alyosha, evidently remembering and meditating. All at
@@ -170,6 +180,7 @@ the truth, was she here just now or not?”
 
 “She won’t. She won’t. She won’t. She won’t on any account!”
 
+#### 
 The old man fairly fluttered with joy, as though nothing more comforting
 could have been said to him. In his delight he seized Alyosha’s hand and
 pressed it warmly to his heart. Tears positively glittered in his eyes.
@@ -195,6 +206,7 @@ shameless hussy. You mustn’t go to her, you mustn’t!”
 
 “No, father, and it wouldn’t be suitable, it wouldn’t be right at all.”
 
+#### 
 “Where was he sending you just now? He shouted ‘Go’ as he ran away.”
 
 “To Katerina Ivanovna.”
@@ -203,6 +215,7 @@ shameless hussy. You mustn’t go to her, you mustn’t!”
 
 “No. Not for money.”
 
+#### 
 “He’s no money; not a farthing. I’ll settle down for the night, and think
 things over, and you can go. Perhaps you’ll meet her.... Only be sure to
 come to me to‐morrow in the morning. Be sure to. I have a word to say to
@@ -222,6 +235,9 @@ it. I’ve a word to say to you to‐morrow—but I must think about it.”
 
 “I shall get up to‐morrow and go out, perfectly well, perfectly well!”
 
+### 
+
+#### 
 Crossing the yard Alyosha found Ivan sitting on the bench at the gateway.
 He was sitting writing something in pencil in his note‐book. Alyosha told
 Ivan that their father had waked up, was conscious, and had let him go
@@ -230,6 +246,7 @@ back to sleep at the monastery.
 “Alyosha, I should be very glad to meet you to‐morrow morning,” said Ivan
 cordially, standing up. His cordiality was a complete surprise to Alyosha.
 
+#### 
 “I shall be at the Hohlakovs’ to‐morrow,” answered Alyosha, “I may be at
 Katerina Ivanovna’s, too, if I don’t find her now.”
 
@@ -240,6 +257,7 @@ farewell,’ ” said Ivan smiling. Alyosha was disconcerted.
 went before. Dmitri has asked you to go to her and say that he—well, in
 fact—takes his leave of her?”
 
+#### 
 “Brother, how will all this horror end between father and Dmitri?”
 exclaimed Alyosha.
 
@@ -247,6 +265,7 @@ exclaimed Alyosha.
 That woman is a beast. In any case we must keep the old man indoors and
 not let Dmitri in the house.”
 
+#### 
 “Brother, let me ask one thing more: has any man a right to look at other
 men and decide which is worthy to live?”
 
@@ -270,6 +289,7 @@ him. But in my wishes I reserve myself full latitude in this case. Good‐by
 till to‐morrow. Don’t condemn me, and don’t look on me as a villain,” he
 added with a smile.
 
+#### 
 They shook hands warmly as they had never done before. Alyosha felt that
 his brother had taken the first step towards him, and that he had
 certainly done this with some definite motive.
