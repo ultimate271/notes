@@ -1,10 +1,13 @@
 ## Chapter III. A Meeting With The Schoolboys
 
+### 
 
+#### Aloysha is relieved that he didn't have to tell his father about Grushenka yesterday
 “Thank goodness he did not ask me about Grushenka,” thought Alyosha, as he
 left his father’s house and turned towards Madame Hohlakov’s, “or I might
 have to tell him of my meeting with Grushenka yesterday.”
 
+#### Aloysha reflects on Mitya's and his fathers plans and hardened hearts for eachother
 Alyosha felt painfully that since yesterday both combatants had renewed
 their energies, and that their hearts had grown hard again. “Father is
 spiteful and angry, he’s made some plan and will stick to it. And what of
@@ -12,6 +15,7 @@ Dmitri? He too will be harder than yesterday, he too must be spiteful and
 angry, and he too, no doubt, has made some plan. Oh, I must succeed in
 finding him to‐day, whatever happens.”
 
+#### 
 But Alyosha had not long to meditate. An incident occurred on the road,
 which, though apparently of little consequence, made a great impression on
 him. Just after he had crossed the square and turned the corner coming out
@@ -124,6 +128,7 @@ towards the boy.
 “You’d better look out,” the boys called after him; “he won’t be afraid of
 you. He will stab you in a minute, on the sly, as he did Krassotkin.”
 
+#### 
 The boy waited for him without budging. Coming up to him, Alyosha saw
 facing him a child of about nine years old. He was an undersized weakly
 boy with a thin pale face, with large dark eyes that gazed at him
@@ -158,6 +163,7 @@ eyes.
 tease you. They told me how they tease you, but I don’t want to tease you.
 Good‐by!”
 
+#### The boy attacks Aloysha as he tries to leave, biting his finger.
 “Monk in silk trousers!” cried the boy, following Alyosha with the same
 vindictive and defiant expression, and he threw himself into an attitude
 of defense, feeling sure that now Alyosha would fall upon him; but Alyosha
@@ -185,6 +191,7 @@ round his injured hand. He was a full minute bandaging it. The boy stood
 waiting all the time. At last Alyosha raised his gentle eyes and looked at
 him.
 
+#### Aloysha asks calmly to the boy how he has wronged him
 “Very well,” he said, “you see how badly you’ve bitten me. That’s enough,
 isn’t it? Now tell me, what have I done to you?”
 
@@ -195,6 +202,7 @@ went on with the same serenity, “yet I must have done something to you—you
 wouldn’t have hurt me like this for nothing. So what have I done? How have
 I wronged you, tell me?”
 
+#### The boy runs off, and Aloysha, though he wishes to understand these events, decides he does not have the time to pursue at the moment
 Instead of answering, the boy broke into a loud tearful wail and ran away.
 Alyosha walked slowly after him towards Mihailovsky Street, and for a long
 time he saw the child running in the distance as fast as ever, not turning

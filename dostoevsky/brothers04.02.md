@@ -1,6 +1,8 @@
 ## Chapter II. At His Father’s
 
+### Aloysha visits his beaten up father
 
+#### Aloysha goes to visit his father and is greeted by Marfa who informs him that Ivan left two hours earlier
 First of all, Alyosha went to his father. On the way he remembered that
 his father had insisted the day before that he should come without his
 brother Ivan seeing him. “Why so?” Alyosha wondered suddenly. “Even if my
@@ -15,6 +17,7 @@ hours ago.
 
 “He is up, taking his coffee,” Marfa answered somewhat dryly.
 
+#### Description of Fyodor as Aloysha walks in to visit him
 Alyosha went in. The old man was sitting alone at the table wearing
 slippers and a little old overcoat. He was amusing himself by looking
 through some accounts, rather inattentively however. He was quite alone in
@@ -27,6 +30,7 @@ giving his whole face a peculiarly spiteful and irritable look. The old
 man was aware of this, and turned a hostile glance on Alyosha as he came
 in.
 
+#### The first interaction between Fyodor and Aloysha as they make uncomfortable pleasentries
 “The coffee is cold,” he cried harshly; “I won’t offer you any. I’ve
 ordered nothing but a Lenten fish soup to‐day, and I don’t invite any one
 to share it. Why have you come?”
@@ -47,6 +51,7 @@ sententiously. “Well, how are things over there? How is your elder?”
 “He is very bad; he may die to‐day,” answered Alyosha. But his father had
 not listened, and had forgotten his own question at once.
 
+#### About Ivan and his intention to take Katerina for himself
 “Ivan’s gone out,” he said suddenly. “He is doing his utmost to carry off
 Mitya’s betrothed. That’s what he is staying here for,” he added
 maliciously, and, twisting his mouth, looked at Alyosha.
@@ -59,6 +64,7 @@ object in coming.”
 
 “What do you mean? Why do you say such things?” said Alyosha, troubled.
 
+#### Fyodor's philosophy of sin and his use of money to fuel that sin
 “He doesn’t ask for money, it’s true, but yet he won’t get a farthing from
 me. I intend living as long as possible, you may as well know, my dear
 Alexey Fyodorovitch, and so I need every farthing, and the longer I live,
@@ -104,6 +110,7 @@ moments, else you know I am an ill‐natured man.”
 
 “You are not ill‐natured, but distorted,” said Alyosha with a smile.
 
+#### Fyodor's intention to lock up Dmitri, and his intention to play the victim for the sake of Grushenka
 “Listen. I meant this morning to get that ruffian Mitya locked up and I
 don’t know now what I shall decide about it. Of course in these
 fashionable days fathers and mothers are looked upon as a prejudice, but
@@ -141,6 +148,7 @@ cupboard and put the key back in his pocket.
 
 “You see you are in a better humor now,” said Alyosha, smiling.
 
+#### Fyodor speaks of Ivan as a cloud of dust and Mitya as a beetle to crush. He had wanted to ask Aloysha to ask Mitya if he would accept money, but has since taken that idea back
 “Um! I love you even without the brandy, but with scoundrels I am a
 scoundrel. Ivan is not going to Tchermashnya—why is that? He wants to spy
 how much I give Grushenka if she comes. They are all scoundrels! But I
@@ -182,6 +190,7 @@ he shan’t! I’ll crush him!”
 
 His anger had returned with the last words.
 
+#### Fyodor bids Aloysha off, asking him to return for some fish soup the next day
 “You can go. There’s nothing for you to do here to‐day,” he snapped
 harshly.
 
