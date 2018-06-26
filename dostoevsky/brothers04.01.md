@@ -1,6 +1,8 @@
 ## Chapter I. Father Ferapont
 
+### 
 
+#### 
 Alyosha was roused early, before daybreak. Father Zossima woke up feeling
 very weak, though he wanted to get out of bed and sit up in a chair. His
 mind was quite clear; his face looked very tired, yet bright and almost
@@ -30,6 +32,7 @@ and not simply for the sake of instructing them, but as though thirsting
 to share with all men and all creation his joy and ecstasy, and once more
 in his life to open his whole heart.
 
+#### 
 “Love one another, Fathers,” said Father Zossima, as far as Alyosha could
 remember afterwards. “Love God’s people. Because we have come here and
 shut ourselves within these walls, we are no holier than those that are
@@ -72,6 +75,7 @@ and recover his strength, but he was in a sort of ecstasy. They heard him
 with emotion, though many wondered at his words and found them obscure....
 Afterwards all remembered those words.
 
+#### 
 When Alyosha happened for a moment to leave the cell, he was struck by the
 general excitement and suspense in the monks who were crowding about it.
 This anticipation showed itself in some by anxiety, in others by devout
@@ -80,6 +84,9 @@ after the elder’s death. Their suspense was, from one point of view,
 almost frivolous, but even the most austere of the monks were affected by
 it. Father Païssy’s face looked the gravest of all.
 
+### 
+
+#### 
 Alyosha was mysteriously summoned by a monk to see Rakitin, who had
 arrived from town with a singular letter for him from Madame Hohlakov. In
 it she informed Alyosha of a strange and very opportune incident. It
@@ -116,6 +123,7 @@ message to Father Païssy before that to Alyosha, the latter found after
 reading the letter, there was nothing left for him to do but to hand it to
 Father Païssy in confirmation of the story.
 
+#### 
 And even that austere and cautious man, though he frowned as he read the
 news of the “miracle,” could not completely restrain some inner emotion.
 His eyes gleamed, and a grave and solemn smile came into his lips.
@@ -132,6 +140,9 @@ might well have chanced naturally,” he added, prudently, as it were to
 satisfy his conscience, though scarcely believing his own disavowal, a
 fact his listeners very clearly perceived.
 
+### 
+
+#### 
 Within the hour the “miracle” was of course known to the whole monastery,
 and many visitors who had come for the mass. No one seemed more impressed
 by it than the monk who had come the day before from St. Sylvester, from
@@ -140,6 +151,7 @@ standing near Madame Hohlakov the previous day and had asked Father
 Zossima earnestly, referring to the “healing” of the lady’s daughter, “How
 can you presume to do such things?”
 
+#### 
 He was now somewhat puzzled and did not know whom to believe. The evening
 before he had visited Father Ferapont in his cell apart, behind the
 apiary, and had been greatly impressed and overawed by the visit. This
@@ -184,6 +196,7 @@ belief, chiefly however among the most ignorant, that Father Ferapont had
 communication with heavenly spirits and would only converse with them, and
 so was silent with men.
 
+#### 
 The monk from Obdorsk, having been directed to the apiary by the
 beekeeper, who was also a very silent and surly monk, went to the corner
 where Father Ferapont’s cell stood. “Maybe he will speak as you are a
@@ -224,6 +237,7 @@ well?”
 
 The monk hesitated.
 
+#### 
 “You are a senseless lot! How do you keep the fasts?”
 
 “Our dietary is according to the ancient conventual rules. During Lent
@@ -258,6 +272,7 @@ unclean is their judgment.”
 
 “Och, true,” sighed the monk.
 
+#### 
 “And have you seen devils among them?” asked Ferapont.
 
 “Among them? Among whom?” asked the monk, timidly.
@@ -281,6 +296,7 @@ like a crushed spider. He must have rotted there in the corner and be
 stinking, but they don’t see, they don’t smell it. It’s a year since I
 have been there. I reveal it to you, as you are a stranger.”
 
+#### 
 “Your words are terrible! But, holy and blessed Father,” said the monk,
 growing bolder and bolder, “is it true, as they noise abroad even to
 distant lands about you, that you are in continual communication with the
@@ -314,6 +330,7 @@ unseemly questions. You want to know too much, monk.”
 “Terrible are your words, most holy and blessed Father,” the monk shook
 his head. But there was a doubtful look in his frightened little eyes.
 
+#### 
 “Do you see this tree?” asked Father Ferapont, after a pause.
 
 “I do, blessed Father.”
@@ -336,6 +353,7 @@ clearly and tremble. It’s terrible, terrible!”
 “In the spirit and glory of Elijah, haven’t you heard? He will take me in
 His arms and bear me away.”
 
+#### 
 Though the monk returned to the cell he was sharing with one of the
 brothers, in considerable perplexity of mind, he still cherished at heart
 a greater reverence for Father Ferapont than for Father Zossima. He was
@@ -358,6 +376,9 @@ from one group to another, listening and asking questions among the monks
 that were crowding within and without the elder’s cell. But he did not pay
 much attention to him at the time, and only recollected it afterwards.
 
+### 
+
+#### 
 He had no thought to spare for it indeed, for when Father Zossima, feeling
 tired again, had gone back to bed, he thought of Alyosha as he was closing
 his eyes, and sent for him. Alyosha ran at once. There was no one else in
@@ -374,6 +395,7 @@ them to‐day?”
 
 “I did promise—to my father—my brothers—others too.”
 
+#### 
 “You see, you must go. Don’t grieve. Be sure I shall not die without your
 being by to hear my last word. To you I will say that word, my son, it
 will be my last gift to you. To you, dear son, because you love me. But
@@ -386,6 +408,7 @@ that he might finish what he had to do in the town and return quickly.
 Father Païssy, too, uttered some words of exhortation which moved and
 surprised him greatly. He spoke as they left the cell together.
 
+#### 
 “Remember, young man, unceasingly,” Father Païssy began, without preface,
 “that the science of this world, which has become a great power, has,
 especially in the last century, analyzed everything divine handed down to
@@ -408,6 +431,7 @@ heart for your guidance, seeing you are young, and the temptations of the
 world are great and beyond your strength to endure. Well, now go, my
 orphan.”
 
+#### 
 With these words Father Païssy blessed him. As Alyosha left the monastery
 and thought them over, he suddenly realized that he had met a new and
 unexpected friend, a warmly loving teacher, in this austere monk who had
