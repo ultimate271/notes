@@ -1,6 +1,6 @@
 ## Chapter III. A Meeting With The Schoolboys
 
-### 
+### Aloysha thinks over some things as he leaves his fathers
 
 #### Aloysha is relieved that he didn't have to tell his father about Grushenka yesterday
 “Thank goodness he did not ask me about Grushenka,” thought Alyosha, as he
@@ -15,7 +15,9 @@ Dmitri? He too will be harder than yesterday, he too must be spiteful and
 angry, and he too, no doubt, has made some plan. Oh, I must succeed in
 finding him to‐day, whatever happens.”
 
-#### 
+### The rock-throwing scene between a group of six boys and a solo boy
+
+#### Aloysha comes accross a group of six boys and another boy off in the distance
 But Alyosha had not long to meditate. An incident occurred on the road,
 which, though apparently of little consequence, made a great impression on
 him. Just after he had crossed the square and turned the corner coming out
@@ -39,6 +41,7 @@ sparkling black eyes. He kept an attentive and anxious watch on the other
 six, obviously his schoolfellows with whom he had just come out of school,
 but with whom he had evidently had a feud.
 
+#### Aloysha approaches the group of six and addresses one who is learned to be left-handed
 Alyosha went up and, addressing a fair, curly‐headed, rosy boy in a black
 jacket, observed:
 
@@ -57,6 +60,7 @@ answered promptly. All the others stared at Alyosha.
 
 “He even throws stones with his left hand,” observed a third.
 
+#### The solo boy begins throwing stones at Aloysha, but hits the left-handed boy instead. The six begin firing at the one
 At that instant a stone flew into the group, but only just grazed the
 left‐handed boy, though it was well and vigorously thrown by the boy
 standing the other side of the ditch.
@@ -78,6 +82,7 @@ too.
 “What are you about! Aren’t you ashamed? Six against one! Why, you’ll kill
 him,” cried Alyosha.
 
+#### Aloysha goes to sheild the solo boy. The six tease both the solo boy and Aloysha, as Aloysha merely tries to understand the situation
 He ran forward and met the flying stones to screen the solitary boy. Three
 or four ceased throwing for a minute.
 
@@ -128,7 +133,7 @@ towards the boy.
 “You’d better look out,” the boys called after him; “he won’t be afraid of
 you. He will stab you in a minute, on the sly, as he did Krassotkin.”
 
-#### 
+#### Aloysha approaches the lone boy, who is rude to his inquiries
 The boy waited for him without budging. Coming up to him, Alyosha saw
 facing him a child of about nine years old. He was an undersized weakly
 boy with a thin pale face, with large dark eyes that gazed at him
