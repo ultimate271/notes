@@ -3,9 +3,9 @@
 ## 9
 
 
-###
+### Epigraph
 
-#### 
+#### Epigraph
 
 REBELS BENEATH
 
@@ -26,9 +26,9 @@ In the end, I worry that my arrogance shall destroy us all.
 
 
 
-### 
+### Vin is goes through training with both Kelsier and Sazed as she is made more ladylike for her role as a mole in nobility
 
-#### 
+#### Vin and an unknown opponent are in a magic sparring match
 
 9
 
@@ -155,7 +155,7 @@ cobblestones, eventually coming to a dizzy rest. A dark figure approached,
 mistcloak ribbons billowing around him. Vin lurched to her feet, grasping for
 knives she’d forgotten that she’d dropped.
 
-#### 
+#### The opponent is revaled to be Kelsier, who is training her
 Kelsier put down his hood and held her knives toward her. One was broken. “I
 know it’s instinctual, Vin, but you don’t have to put your hands forward when
 you Push—nor do you have to drop what you’re holding.”
@@ -186,7 +186,7 @@ flattened from the pressure.
 
 “I’ll see you back at the mansion,” Kelsier said.
 
-#### 
+#### Vin thinks through what she is to have to do, comparing Allomancy to her task in nobility
 Vin nodded, and Kelsier disappeared into the night. He’s right, she thought.
 I’m smaller, I weigh less, and I have a shorter reach than anyone I’m likely to
 fight. If I attack someone head on, I’ll lose.
@@ -254,7 +254,7 @@ something that gives him away?
 It was a small item, but Vin had not forgotten it. Despite Kelsier’s words
 about honesty and trust, he still had his secrets. Everyone did.
 
-#### 
+#### Vin finds Sazed in the kitchens, who instructs a barber named Cosahn to cut her hair all lady like
 Sazed was, indeed, to be found in the kitchens. He stood with a middle-aged
 servant. She was tall for a skaa woman—though standing next to Sazed made her
 look diminutive. Vin recognized her as a member of the mansion staff; Cosahn
@@ -309,7 +309,7 @@ had put in appearances on the properties of a dozen different noble houses,
 both in Luthadel and in Fellise. He varied his disguises and apparent motives,
 trying to create an air of confusion among the Great Houses.
 
-#### 
+#### Sanderson imposes his opinion of religion on us through Sazed
 “What?” Vin asked, eyeing Sazed, who was regarding her with a curious look.
 
 The Terrisman nodded his head slightly with respect. “I was wondering if you
@@ -378,7 +378,7 @@ Sazed nodded.
 
 Is everyone involved with Kelsier insane?
 
-#### 
+#### Sazed quizes Vin on the background of the world and the nobility
 “The Final Empire cannot last forever,” Sazed said quietly. “I do not know if
 Master Kelsier will be the one who finally brings its end, but that end will
 come. And when it does—when the Steel Ministry no longer holds sway—men will
@@ -449,7 +449,7 @@ will be suspect in and of itself.”
 
 Great.
 
-#### 
+#### Kelsier comes in and fetches Sazed off for a while
 Sazed paused, cocking his head slightly. A few seconds later, Vin heard
 footsteps in the hallway outside. Kelsier sauntered into the room, bearing a
 self-satisfied smile. He pulled off his mistcloak, then paused as he saw Vin.
@@ -495,9 +495,9 @@ room—once again leaving Vin where she couldn’t eavesdrop.
 
 
 
-### 
+### Sazed and Keliser discuss the potential of Vin
 
-#### 
+#### Sazed and Kelsier discuss Vin
 Kelsier peeked into the kitchen, watching Vin sit sullenly in her chair. The
 haircut really was good. However, his compliments had an ulterior motive—he
 suspected that Vin had spent far too much of her life being told that she was
@@ -546,7 +546,7 @@ else to be our mole if Vin does badly. Poor girl—I wish I had time to train he
 better in Allomancy. We’ve barely covered the first four metals. I just don’t
 have enough time!”
 
-#### 
+#### Sazed suggest to have Vin train with other members of the crew
 “If I might make a suggestion . . .”
 
 “Of course, Saze.”
@@ -605,7 +605,7 @@ that Sazed hid. Few men, Allomancers or not, would fare well in a fight with a
 Keeper whose anger had been roused. That was probably why the Ministry had
 hunted the sect virtually to extinction.
 
-#### 
+#### They conclude the conversation, Kelsier mentioning a ball that Vin is going to have to attend
 “All right,” Kelsier said. “Get back to your teaching. Lord Venture is throwing
 a ball at the end of the week, and—ready or not—Vin is going to be there.”
 
