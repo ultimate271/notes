@@ -1,8 +1,8 @@
 ## Chapter V. A Laceration In The Drawing‐Room
 
-### 
+### Ivan, Katya, and Aloysha discuss the events of late
 
-#### 
+#### Aloysha contemplates Katya, and her relationship to Ivan, as he enters the room, speak of lacerations
 But in the drawing‐room the conversation was already over. Katerina
 Ivanovna was greatly excited, though she looked resolute. At the moment
 Alyosha and Madame Hohlakov entered, Ivan Fyodorovitch stood up to take
@@ -72,7 +72,7 @@ sides. “It was lacerating,” as was said just now. But what could he
 understand even in this “laceration”? He did not understand the first word
 in this perplexing maze.
 
-#### 
+#### Katya greets Aloysha with expected anticipation, as she expresses the feeling of pity, not love, towards Mitya
 Seeing Alyosha, Katerina Ivanovna said quickly and joyfully to Ivan, who
 had already got up to go, “A minute! Stay another minute! I want to hear
 the opinion of this person here whom I trust absolutely. Don’t go away,”
@@ -100,7 +100,7 @@ she does not love Dmitri any more.”
 
 “That’s true, that’s true,” cried Madame Hohlakov.
 
-#### 
+#### Katya expresses her desire to not marry Mitya but instead to never abandon him
 “Wait, dear. I haven’t told you the chief, the final decision I came to
 during the night. I feel that perhaps my decision is a terrible one—for
 me, but I foresee that nothing will induce me to change it—nothing. It
@@ -157,7 +157,7 @@ She felt this herself. Her face suddenly darkened, an unpleasant look came
 into her eyes. Alyosha at once saw it and felt a pang of sympathy. His
 brother Ivan made it worse by adding:
 
-#### 
+#### Ivan gives his (somewhat cheeky) opinion on the matter
 “I’ve only expressed my own view,” he said. “From any one else, this would
 have been affected and overstrained, but from you—no. Any other woman
 would have been wrong, but you are right. I don’t know how to explain it,
@@ -189,7 +189,7 @@ intention.
 
 “Oh, dear, how mistaken it all is!” Madame Hohlakov cried again.
 
-#### 
+#### Katya asks Aloysha to speak his opinion
 “Alexey Fyodorovitch, you speak. I want dreadfully to know what you will
 say!” cried Katerina Ivanovna, and burst into tears. Alyosha got up from
 the sofa.
@@ -198,7 +198,7 @@ the sofa.
 didn’t sleep last night. But by the side of two such friends as you and
 your brother I still feel strong—for I know—you two will never desert me.”
 
-#### 
+#### Before he can, Ivan announces he is going to Moscow, to Katya's great delight
 “Unluckily I am obliged to return to Moscow—perhaps to‐morrow—and to leave
 you for a long time—And, unluckily, it’s unavoidable,” Ivan said suddenly.
 
@@ -225,7 +225,7 @@ But I am only glad of that, believe me. Of course, no one can take your
 place.... I will run at once to write the letter,” she finished suddenly,
 and took a step as though to go out of the room.
 
-#### 
+#### Aloysha gives his thoughts, joining the hands of Katya and Ivan and declaring that he believes that she is hiding her love from him
 “And what about Alyosha and his opinion, which you were so desperately
 anxious to hear?” cried Madame Hohlakov. There was a sarcastic, angry note
 in her voice.
@@ -276,7 +276,7 @@ love—because you’ve persuaded yourself.”
 
 Alyosha broke off and was silent.
 
-#### 
+#### Katya becomes upset, and Ivan gives his well spoken opinion on the matter, before he leaves
 “You ... you ... you are a little religious idiot—that’s what you are!”
 Katerina Ivanovna snapped. Her face was white and her lips were moving
 with anger.
@@ -333,7 +333,7 @@ Her face beamed with delight, to the great distress of Alyosha, but
 Katerina Ivanovna suddenly returned. She had two hundred‐rouble notes in
 her hand.
 
-#### 
+#### After Ivan leaves, Katya suddenly shifts the conversation to a man that Mitya harmed, giving Aloysha money to give to him as a show of good faith, and then she leaves also
 “I have a great favor to ask of you, Alexey Fyodorovitch,” she began,
 addressing Alyosha with an apparently calm and even voice, as though
 nothing had happened. “A week—yes, I think it was a week ago—Dmitri
@@ -377,7 +377,9 @@ could not bear to go out of the room without it. But Madame Hohlakov took
 him by the hand and drew him along with her. In the hall she stopped him
 again as before.
 
-#### 
+### After Ivan and then Katya both make their dramatic exits, Aloysha eventually leaves after talking again with Lise and Madam Hohlakov 
+
+#### After Katya leaves, Madame Hohlakov discusses things with Alyosha, calling him an angel and Lise eavesdrops
 “She is proud, she is struggling with herself; but kind, charming,
 generous,” she exclaimed, in a half‐whisper. “Oh, how I love her,
 especially sometimes, and how glad I am again of everything! Dear Alexey
@@ -413,7 +415,7 @@ will happen now?”
 “To whom, to whom?” cried Lise. “Mamma, you really want to be the death of
 me. I ask you and you don’t answer.”
 
-#### 
+#### Madame Hohlakov rambles on to Lise and Aloysha as she goes off to Katya
 At the moment the maid ran in.
 
 “Katerina Ivanovna is ill.... She is crying, struggling ... hysterics.”
@@ -444,7 +446,7 @@ keep Alexey Fyodorovitch a minute. He will come back to you at once.”
 Madame Hohlakov at last ran off. Before leaving, Alyosha would have opened
 the door to see Lise.
 
-#### 
+#### Lise beckons Aloysha to not open the door to see her, as Aloysha exits
 “On no account,” cried Lise. “On no account now. Speak through the door.
 How have you come to be an angel? That’s the only thing I want to know.”
 
