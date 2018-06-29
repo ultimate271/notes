@@ -1,6 +1,8 @@
 ## Chapter IV. At The Hohlakovs’
 
+### 
 
+#### 
 Alyosha soon reached Madame Hohlakov’s house, a handsome stone house of
 two stories, one of the finest in our town. Though Madame Hohlakov spent
 most of her time in another province where she had an estate, or in
@@ -18,6 +20,7 @@ nervously.
 
 “He is dying to‐day,” said Alyosha.
 
+#### 
 “I have heard, I know, oh, how I long to talk to you, to you or some one,
 about all this. No, to you, to you! And how sorry I am I can’t see him!
 The whole town is in excitement, they are all suspense. But now—do you
@@ -43,6 +46,7 @@ the most important thing—I had quite forgotten what’s most important. Tell
 me, why has Lise been in hysterics? As soon as she heard you were here,
 she began to be hysterical!”
 
+#### 
 “_Maman_, it’s you who are hysterical now, not I,” Lise’s voice caroled
 through a tiny crack of the door at the side. Her voice sounded as though
 she wanted to laugh, but was doing her utmost to control it. Alyosha at
@@ -85,6 +89,7 @@ not a tragedy. Tell me, will Father Zossima live till to‐morrow, will he?
 Oh, my God! What is happening to me? Every minute I close my eyes and see
 that it’s all nonsense, all nonsense.”
 
+#### 
 “I should be very grateful,” Alyosha interrupted suddenly, “if you could
 give me a clean rag to bind up my finger with. I have hurt it, and it’s
 very painful.”
@@ -125,6 +130,7 @@ cupboard, there’s a big bottle of it there with the lint.”
 fuss. You see how bravely Alexey Fyodorovitch bears it. Where did you get
 such a dreadful wound, Alexey Fyodorovitch?”
 
+#### 
 Madame Hohlakov hastened away. This was all Lise was waiting for.
 
 “First of all, answer the question, where did you get hurt like this?” she
@@ -152,6 +158,7 @@ and another basin of water. Now she is gone, I can speak; will you give me
 the letter I sent you yesterday, dear Alexey Fyodorovitch—be quick, for
 mamma will be back in a minute and I don’t want—”
 
+#### 
 “I haven’t got the letter.”
 
 “That’s not true, you have. I knew you would say that. You’ve got it in
@@ -194,6 +201,7 @@ crimson.
 a joke! Here’s mamma, very _à propos_, perhaps. Mamma, how slow you always
 are, how can you be so long! And here’s Yulia with the ice!”
 
+#### 
 “Oh, Lise, don’t scream, above all things don’t scream. That scream drives
 me ... How can I help it when you put the lint in another place? I’ve been
 hunting and hunting—I do believe you did it on purpose.”
@@ -222,6 +230,7 @@ Alyosha.
 “But why married, Lise? What makes you talk of such a thing? It’s quite
 out of place—and perhaps the boy was rabid.”
 
+#### 
 “Why, mamma! As though there were rabid boys!”
 
 “Why not, Lise, as though I had said something stupid! Your boy might have
@@ -238,6 +247,7 @@ of the boy being rabid, and you pounced upon it at once Katerina Ivanovna
 has only just heard that you are here, Alexey Fyodorovitch, she simply
 rushed at me, she’s dying to see you, dying!”
 
+#### 
 “Ach, mamma, go to them yourself. He can’t go just now, he is in too much
 pain.”
 
@@ -268,6 +278,7 @@ How quickly you have made her sleepy, and how fortunate it is!”
 
 “Ah, mamma, how sweetly you talk! I must kiss you for it, mamma.”
 
+#### 
 “And I kiss you too, Lise. Listen, Alexey Fyodorovitch,” Madame Hohlakov
 began mysteriously and importantly, speaking in a rapid whisper. “I don’t
 want to suggest anything, I don’t want to lift the veil, you will see for

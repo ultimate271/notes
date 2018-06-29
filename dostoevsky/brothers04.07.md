@@ -1,12 +1,15 @@
 ## Chapter VII. And In The Open Air
 
+### 
 
+#### 
 “The air is fresh, but in my apartment it is not so in any sense of the
 word. Let us walk slowly, sir. I should be glad of your kind interest.”
 
 “I too have something important to say to you,” observed Alyosha, “only I
 don’t know how to begin.”
 
+#### 
 “To be sure you must have business with me. You would never have looked in
 upon me without some object. Unless you come simply to complain of the
 boy, and that’s hardly likely. And, by the way, about the boy: I could not
@@ -72,6 +75,7 @@ against me. And so I kept quiet, and you have seen our retreat. But now
 let me ask you: did Ilusha hurt your finger much? I didn’t like to go into
 it in our mansion before him.”
 
+#### 
 “Yes, very much, and he was in a great fury. He was avenging you on me as
 a Karamazov, I see that now. But if only you had seen how he was throwing
 stones at his school‐fellows! It’s very dangerous. They might kill him.
@@ -205,6 +209,7 @@ alone saw us, I hope He will record it to my credit. You must thank your
 brother, Alexey Fyodorovitch. No, sir, I won’t thrash my boy for your
 satisfaction.”
 
+#### 
 He had gone back to his original tone of resentful buffoonery. Alyosha
 felt though that he trusted him, and that if there had been some one else
 in his, Alyosha’s place, the man would not have spoken so openly and would
@@ -242,6 +247,7 @@ astonishment. Such an outcome of their conversation was the last thing he
 expected. Nothing could have been farther from his dreams than help from
 any one—and such a sum!
 
+#### 
 He took the notes, and for a minute he was almost unable to answer, quite
 a new expression came into his face.
 
@@ -263,6 +269,7 @@ me if I take it, eh?”
 “No, no, on my salvation I swear I shan’t! And no one will ever know but
 me—I, you and she, and one other lady, her great friend.”
 
+#### 
 “Never mind the lady! Listen, Alexey Fyodorovitch, at a moment like this
 you must listen, for you can’t understand what these two hundred roubles
 mean to me now.” The poor fellow went on rising gradually into a sort of
@@ -327,6 +334,7 @@ saving of you, especially of your boy—and you ought to go quickly, before
 the winter, before the cold. You must write to us when you are there, and
 we will always be brothers.... No, it’s not a dream!”
 
+#### 
 Alyosha could have hugged him, he was so pleased. But glancing at him he
 stopped short. The man was standing with his neck outstretched and his
 lips protruding, with a pale and frenzied face. His lips were moving as
@@ -376,6 +384,7 @@ sobbing voice he cried:
 
 “What should I say to my boy if I took money from you for our shame?”
 
+#### 
 And then he ran on without turning. Alyosha looked after him,
 inexpressibly grieved. Oh, he saw that till the very last moment the man
 had not known he would crumple up and fling away the notes. He did not

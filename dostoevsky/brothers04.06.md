@@ -1,6 +1,8 @@
 ## Chapter VI. A Laceration In The Cottage
 
+### 
 
+#### 
 He certainly was really grieved in a way he had seldom been before. He had
 rushed in like a fool, and meddled in what? In a love‐affair. “But what do
 I know about it? What can I tell about such things?” he repeated to
@@ -13,6 +15,7 @@ hands, and he felt fearfully ashamed again. “Though I acted quite
 sincerely, I must be more sensible in the future,” he concluded suddenly,
 and did not even smile at his conclusion.
 
+#### 
 Katerina Ivanovna’s commission took him to Lake Street, and his brother
 Dmitri lived close by, in a turning out of Lake Street. Alyosha decided to
 go to him in any case before going to the captain, though he had a
@@ -43,6 +46,7 @@ were not at Grushenka’s or in hiding at Foma’s (Alyosha spoke so freely on
 purpose), all three looked at him in alarm. “They are fond of him, they
 are doing their best for him,” thought Alyosha. “That’s good.”
 
+#### 
 At last he found the house in Lake Street. It was a decrepit little house,
 sunk on one side, with three windows looking into the street, and with a
 muddy yard, in the middle of which stood a solitary cow. He crossed the
@@ -125,6 +129,7 @@ an extremely light color, long out of fashion, and of very thin material.
 They were so crumpled and so short that he looked as though he had grown
 out of them like a boy.
 
+#### 
 “I am Alexey Karamazov,” Alyosha began in reply.
 
 “I quite understand that, sir,” the gentleman snapped out at once to
@@ -141,6 +146,7 @@ upholstered) and set it for him almost in the middle of the room; then,
 taking another similar chair for himself, he sat down facing Alyosha, so
 close to him that their knees almost touched.
 
+#### 
 “Nikolay Ilyitch Snegiryov, sir, formerly a captain in the Russian
 infantry, put to shame for his vices, but still a captain. Though I might
 not be one now for the way I talk; for the last half of my life I’ve
@@ -169,6 +175,7 @@ Alyosha. His lips were strangely compressed like a thread.
 
 “What wisp of tow?” muttered Alyosha.
 
+#### 
 “He is come to complain of me, father!” cried a voice familiar to
 Alyosha—the voice of the schoolboy—from behind the curtain. “I bit his
 finger just now.” The curtain was pulled, and Alyosha saw his assailant
@@ -203,6 +210,7 @@ the fifth one too?” He stopped short with a catch in his throat. Every
 feature in his face was twitching and working; he looked extremely
 defiant. He was in a sort of frenzy.
 
+#### 
 “I think I understand it all now,” said Alyosha gently and sorrowfully,
 still keeping his seat. “So your boy is a good boy, he loves his father,
 and he attacked me as the brother of your assailant.... Now I understand
@@ -233,6 +241,7 @@ me.”
 
 “Ah, that’s perfectly true!” exclaimed Alyosha.
 
+#### 
 “Oh, do leave off playing the fool! Some idiot comes in, and you put us to
 shame!” cried the girl by the window, suddenly turning to her father with
 a disdainful and contemptuous air.
@@ -274,6 +283,7 @@ needle.”
 
 “We are of humble origin,” the captain muttered again.
 
+#### 
 “Oh, father, father!” the hunchback girl, who had till then been silent on
 her chair, said suddenly, and she hid her eyes in her handkerchief.
 
@@ -319,6 +329,7 @@ sitting up in his bed and gazing at his father with glowing eyes.
 “Do give over fooling, showing off your silly antics which never lead to
 anything!” shouted Varvara, stamping her foot with passion.
 
+#### 
 “Your anger is quite just this time, Varvara, and I’ll make haste to
 satisfy you. Come, put on your cap, Alexey Fyodorovitch, and I’ll put on
 mine. We will go out. I have a word to say to you in earnest, but not
@@ -333,6 +344,7 @@ went on indignantly.
 is a heavenly angel incarnate too, and she has good reason to call me so.
 Come along, Alexey Fyodorovitch, we must make an end.”
 
+#### 
 And, snatching Alyosha’s hand, he drew him out of the room into the
 street.
 
