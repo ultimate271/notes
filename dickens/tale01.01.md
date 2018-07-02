@@ -32,7 +32,7 @@ that things in general were settled for ever.
 
 It was the year of Our Lord one thousand seven hundred and seventy-five.
 Spiritual revelations were conceded to England at that favoured period,
-as at this. Mrs. Southcott had recently attained her five-and-twentieth
+as at this. [Mrs. Southcott] had recently attained her five-and-twentieth
 blessed birthday, of whom a prophetic private in the Life Guards had
 heralded the sublime appearance by announcing that arrangements were
 made for the swallowing up of London and Westminster. Even the Cock-lane
