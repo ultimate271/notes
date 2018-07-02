@@ -989,3 +989,476 @@ where socializing and eating is going to be a thing that is even on his mind.
 This time I will be more keen on the signals I get from my mom and see what to
 do from there.
 
+# 20180630
+So today was the day that I was planning on doing the speed dating event, but
+that was canceled so instead I am going to plan on going to the Roughnecks game
+in about an hour. I will arrive late, but fuck it, I don't want to watch the
+first quarter anyway.
+
+I still haven't decided if I want to do this journaling in the morning or the
+afternoon. I want learning the Russian language to take priority, not only
+because I do want to seriously learn it, but also because I feel that the
+morning while the brain is still warming up is the best time to learn something
+so taxing as learning a language, and my mind will be more receptive to the new
+words and concepts and grammatical ideas in the morning compared to later in
+the day, I know that. However, if I am to follow the trend of writing down my
+dreams in this journal, I should definitely write sooner rather than later as I
+am apt to forget my dreams by this time in the after noon. Indeed, it is late
+now, 5:30, after the time when I would normally get off of work, and I had a
+dream but I have forgotten most of it by this point, so that leaves me in a bit
+of a predicament. I might elect to write about the dream first, if I have one,
+and do this journalling just before I begin doing my Russian work for the day,
+with some actual work thrown in the mix in the morning so I don't feel too
+guilty about the whole thing, all before going to Jiu-Jitsu, at which point I
+could return, do my work in the afternoon, along with whatever reading I want
+to get done. That seems like the best course of action. Indeed, also, I feel as
+though I tend to have the most ideas of what to write about in the morning, and
+currently when I have those ideas, I will try to make note of them in my head
+so that I remember them when I get to the journal, but later in the afternoon,
+not only has the magic or spark of those ideas escaped, if not even the idea
+entirely, but my motivation to write about these things has passed. I would
+then leave my media consumption to the evening, be that a Russian TV show, or
+novel reading, or my mastabatory youtube watching, just before bed as I am
+eating my meal for the day. I think that is the best course of action when it
+comes to the schedule for how these things will probably end up turning out.
+
+So about this dream. Like I said, I don't remember much about my dream. I know
+earlier in the day I had memory of it before the point that I have memory now,
+but the earliest I can remember is, I was in a sort of rusty trapdoor, and I
+was walking back in to it after looking around for my father. I was looking
+around this area, and I don't remember what happenend at that point or what the
+area was like, but I do remember having a sort of sense of "actually, let's
+pretend like I was never looking here and escape back and pretend like I wasn't
+doing this" which I think is probably a sense of my feeling to be with my
+father followed by my recent events of calling myself a righteous fool put
+together in a sort of dream way, and so after I was done exploring this area, I
+was going to go back down into this rusty trap door which led to I don't know
+where, at which point my father, along with some of his work colleagues which I
+have never met but heard of before and have pictures in my head of what I
+imagine their faces look like, finds me escaping down this trap door and says
+something like "Hey, what are you doing here," in a very good natured and
+surprised to see me sort of way. I remember at that point, I had that instant
+where, when you are trying to fabricate an alibi, and the entire reason for
+that alibi vanishes instantly before it can be used and you decide to entirely
+abandon it and pretend like you weren't trying to fabricate an alibi, at that
+moment I entirly abandoned my alibi and immediatly came up with a different
+one, closer to the truth, saying that I was just coming here to look for him,
+which was partially true but I made it sound like I had just started looking
+and was coming up the trapdoor rather than going down it. My father took this,
+and I came up to him, and the only other thing I am able to remember about this
+dream was that, after I woke up, I got the very strong feeling that one does
+when having a dream that it was my dream self understanding the situation
+better than my real self, and that my father was good enough to visit today and
+that I should go through with my plan to visit.
+
+So taking this article through the rest of the day then, most of this day I
+have been scraping through resources on the Russian language, looking through
+various textbooks, youtube videos, tv shows, and articles, and whatever else,
+trying to find the best resource for me to use to learn Russian. In between, I
+began reading the B and N version of the Aeneid that I purchased some days ago,
+and despite it being an somewhat archaic one, I find it to be quite readable
+actual, more so than a lot of other translations of ancient works like this
+one, and I quite like it because in the notes of the translation it talks about
+the traslators great care in trying to maintain the tone of the original
+without sacrificing the readability of it. The effect is something quite
+noticably "old poemey" which I dislike a bit, but something which I believe I
+will quite enjoy actually.
+
+After doing that for some time, I called my mom and talked with here a bit. I
+called her just before noon, after I was browsing reddit looking at my nsfw
+subs for a bit and weirding myself out a touch, I gave myself ample time
+in-between doing that and calling her so as to not feel so strange about it. In
+fact, I think that is when I read the aeneid. Regardless, when I called her,
+she was clearly distruaght to a point, but I feel she is staying strong, but
+she was talking to be about my fathers condition, and she mentioned his dignity
+(which was the word I was looking for earlier, I used pitiful earlier, but
+dignity is a much better word here) and I mentiond that I entirely understad
+that. Basically, I would have visited, except that she was planning on coming
+back to the house to shower and gather herself and work through an issue with
+her Fidelity credit card and other such housekeeping things, as well as to
+visit Kyle and Evan and Granny and Papa while they were all together at the
+house, and so I decided that while she does all of that, it made the most sense
+to me to forgoe the visit today, and make the visit tomorrow. I don't imagine
+that my fathers condition will be any different tomorrow, but my mom
+understands as I do that the visit is certainly not going to be a sociable one,
+as all sense of modesty and visitation has entirely vanished as of late. She
+mentioned something about the doctors wanting to give my father steroids to
+stop the "turf war" as she called it between my dad's still fighting cells and
+Evan's transfused cells, and apparently that turf war is still going on to an
+effect that is beyond what they had hoped for, and if it continues this way
+they will hope to give him steroids which will kill a lot of the transfused
+cells so they really don't want to do that but they might have to. I don't know
+how that all works, as I am not a doctor after all, but regardless, my father
+is in poor condition, but that was to be expected, and all of these things are
+tactics that go in to the strategy of making a bone marrow transplant.
+
+Also, as I mentioned, my grandparents are in town, and they texted me yesterday
+asking me if we wanted to go to the german restaurant, the Bavarian Grill, for
+dinner. I replied that I had plans for the evening but I could go late, and
+that worked for everyone, so I ended up eating with them yesterday evening. I
+had a pleasent conversation with my grandfather on my mothers side (indeed, as
+you probably know my father's father was dead before I was born and his mother
+died of old age about five years ago now) about his experience learing french
+late in life like he did. I asked him at what age he decided to try and learn
+French, and he told me that it was around his retirement, which was around age
+55 for him. Mostly I was interested in how fluent and conversational he was
+able to get with it, and he said that he was never able to get to the point
+where he was truly thinking in french, and he was always thinking in english
+and translating to french in his head. However, he also said that he only took
+a nine month course at Rice university, and that he only visited france and
+became immersed in it for a few weeks. He mentioned an incident where the train
+they were on was coming to a stop before their desired stop, and the announcer
+got on in french, and he was able to determine from the announcements that
+there was an accident on the rail further ahead, and that they were trying to
+clear up the accident and that there would be another train coming for them in
+45 minutes or whatever, and he was able to determine that all through great
+concentration at that moment, and that was what he felt like the peak of his
+french had gotten too. Regardless, it was a pleasent conversation, and we
+ended up talking about language and some of their travels and a bunch of other
+things.
+
+More amusing at this dinner event, though, was the interaction of my
+grandfather with the waiter there. When we were seated and the waiter got us
+our order, I could tell that he was not very comfortable with his position, and
+gathered that he was probably new. I had ordered water, and I consitently had
+to ask him to refill the glass, which is generally something that they do just
+as they are passing by, and I wouldn't have minded so much if the glass weren't
+so small (it was probably only a 16 oz glass) and if the glass didn't have so
+much ice in it and if I hadn't just came from Bikram class and been needing the
+water in a bad way. I mention only to illustrate the noviceness of our waiter,
+which I don't mind (indeed, I could give my opinion on the uncomfortableness I
+feel when being treated and waited on, but that's an entirely different
+discussion). So after we finish the meal, and Papa goes to pay for the check,
+the waiter returns after a bit of time, and shows him the card. He mentions
+that something went wrong and shows my grandfather the black thingy doogy magig
+foldy thing whatever that is called, opening it to him showing what I can only
+assume is a receipt that says the card was declined. However, my grandfather
+was not to keen on taking the hint to read what was being said, and the waiter,
+bless his heart, was trying his best to be discreet about the whole thing, said
+something like "well, it seems the system hasn't taken the card". My
+grandfather then asked, "well is it your system or the card" at which point the
+waiter says "well it may have been a bit of both" to which I could only laugh
+because at this point I am thinking that the card must have been declined, and
+my grandfather gives him another card and as the waiter is walking away, my
+grandfather raises his voice to be heard across the table asking "well, was the
+card declined or did it just not get run through the system?" at which point
+the waiter, in all his attempts to be discrete at that point, eventully fell
+into his ineveitable annoucement across the table that the card had been
+declined. Kyle and Evan my brothers got great amusement out of this of course,
+and after the waiter ran the other card and it was accepted, and my grandfather
+had called Fidelity and asked about the transaction and found that there was no
+transaction that had been run through there system (indeed, I have later
+guessed that there might be something going on on Fidelities end since my mom
+was mentioning that she was having troubles with her card as well), when the
+waiter got back, and he and my grandfather began exchanging words, the
+conversation went something like "well it seems the card wasn't even run,
+becaues I called fidelity and they said they had no record of the transaction"
+to which the waiter replied that it could have been their network and that this
+sort of thing has happened before, to which my grandfather replied, "well hose
+your network." Well, I don't know what the fuck "hose your network" means, but
+the waiter interpretted this to mean "how old's your network" and replied that
+he wouldn't know as he as only been working here two months. At this my
+grandfather ended up conceding a bit, and the waiter walked away after
+apologizing very sincerely for what was probably the sixth time in five
+minutes, and asked us if we would like anything before leaving, making eye
+contact with me directly and asking me if I would like more water. I could do
+nothing but smile and say "no thank you", and if I would have been on top of my
+game I would have been able to make some witty remark about the callousness of
+my grandfather in that moment, but I couldn't think of anything clever, and
+indeed have not come up with anything clever that I could have said to lighten
+the situation even in reflection (although my reflection hasn't been too deep).
+Indeed, this waiter should have just been refilling my water glass without
+asking my permission to do so, so he was clearly quite new to the whole thing
+and was only so unfortunate to come across my grandfather and his hallowed
+fidelity card, and as he walked away, rid of us and entirely done with our
+table as the check was payed, my grandfather began to laugh. And as my
+grandfather laughed, I couldn't help but let out a good laugh as well. Indeed,
+seeing him laugh with his great big belly bouncing up and down with each heave
+of his voice, as his abdominals contracted and curled him up involunarily into
+a hunched position as his laugh got bigger and bigger and less and less
+controlled only made me want to laugh even more, and I decided not to supress
+it in that moment, and I myself had a great good laugh, the kind of laugh that
+you just let out in the moment as I could only feel sympathy for the poor
+waiter and understanding of my grandfathers frustration. Indeed, that laugh
+came out of me not out of pity for the waiter, but instead at the way my
+grandfather handled the entire situation, with the least amount of empathy and
+understanding as possible. To see my grandfather interact with that waiter was
+something straight out of a comedy, a shakespearean comedy, where the actors go
+back and forth with the most absurd clash of personalities, the one being an
+old man with a lot of money who would never have his card declined due to a
+lack of funds, and the other a young kid just trying to make the best of a
+situation and acting in the most timid way. Innocent aggression matches violent
+timidness. How funny that was. And I could have supressed that laugh, but I had
+no reason to, and certainly a small part of me was laughing with my
+grandfather, as I certainly have seen a lot of that assholery behavior in
+myself before, but more I was laughing at the perfect storm that was that
+scene, and the escalation it came to (indeed, it wasn't even really escalated,
+because I know my grandfather and I know his kindheartedness, but that waiter
+certainaly had not seen that side of him), and I laughed simply at the fact
+that the escalation could have been entirely avoided had my grandfather had
+just a touch of empathy for the man, but he didn't, and that was only all too
+amusing to me. So I let myself laugh at that scene.
+
+Besides that, as we were leaving I was able to discuss the topic of my arrest
+with Kyle, and was able to get his side of the whole thing, which was good to
+hear, as he rode with me in my car back to the house, where we finished our
+conversation and I made my way back to my apartment.
+
+Indeed, I have to stop now (I am quite done anyway) and make my way to the
+Roughnecks game. That's it for today.
+
+# 20180701
+So today it is now in the morning, where as yesterday it was the evening time,
+like I said I would do in my article yesterday. In fact, I literally just woke
+up, and I am still gathering myself as far as waking up and gathering my
+senses. You might be able to tell by the lack of grace in my sentence
+structure. Yeah, it's very stilted, as if I don't know what I want to talk
+about, and I am simply just writing words for the sake of writing words. So be
+it, words are fun to write anyway, although it is quite interesting, I can tell
+that my writing is much slower than it usually is. I'm not sure if this is
+because I am just waking up, or if it is because I have nothing to say.
+
+I do actually have something to say, and I thought about writing about this
+last night after I came back from the Roughnecks game, but I didn't and instead
+spent my time trying and failing to go to sleep as I wholly decided I wanted to
+read anything and everything that I came across, jumping from literary work to
+work, even reading various synopses on wikipedia to see if I want to read them,
+before finally coming to a mindless hearthstone tournament to ease my mind. I
+have this idea for my lit anaylzer, as well as ideas for my workout logger, and
+both of those projects have been neglected by me as of late, so I might end up
+writing out my ideas for each of those and getting to work on them, and making
+one of them my project for the day/evening. Regardless, lets go back to the
+events of my life.
+
+Last night I know I had a dream, and I remember having a sort of moment when I
+woke up in the night, but not entierly woke up but just that half awake half
+not awake at all state that you arrive at sometimes, and in this state I
+remember trying to keep in my head some detail about this dream, but even at
+the time I remember thinking that it wasn't worth remembering and that the
+dream was wholly short and entirely boring, so I don't remember what happened.
+If I had a nice dream, similar to the Seattle dream I had a few days ago, then
+perhaps this whole, "wake up and start writing immediately" thing would feel
+more natural, but as of right now it feels like I am simply writing for the
+sake of it without getting anywhere. Although I do say, now that it is a few
+minutes past getting into it, and I am beginning to wake up a little better,
+this is starting to flow a little better. Actually, I think I will decide to
+take a shower, go outside for a bit, collect myself, and think about what I
+might want to write about, and come back and continue writing. Yes, let's do
+that. I will return.
+
+-
+
+So I am back now from my walk, which took me about 30 minutes in total to
+complete, and I am back and I have a few things I want to talk about.
+
+The first is, I think I am spreading myself a little thin as far as my hobbies
+and interests are concerned, and I have been having a hard time finding the
+time to do all the things I want to do, and I am not making strategic choices
+as to what to sacrifice. That whole point my lie wholey in that statement right
+there, but I had this sort of strong feeling about it as I was nearing the end
+of my walk, as I was talking to myself about my felony, which was the primary
+topic of conversation on my walk. The second has to do with my feeling of out
+of place ness at the Roughnecks game, which also might have the whole of the
+idea expressed in that statement right there.
+
+So I am definintely being spread thin as far as all the things I want to do,
+and I very much ran in to this last night as I was reading from so many
+different books and things. I have so many great ideas of things I want to
+write and program about, but it seems as though by the time I end up doing
+them, I get lost in them, and begin working on them, it's time for bed, and
+it's back to the whole grind of work, sleep, eat, train, yoga, repeat, which is
+why my work life is beginning to suffer, as that is the path of least
+resistance for me right now. At least, it will be the path of least resistance
+until I get fired, at which point finding a job will be the path of least
+resistance, I think, unfortunately. So with all of that, one can imagine why I
+don't want to dedicate myself to a girlfriend, as that would just be one more
+additional thing that would occupy my time, and I don't want that.
+
+I would like to brainstorm about the various things I want to continue on with
+for my projects, so before I do that I do want to touch on breifly the game
+yesterday. The game was a wholly boring game. The wind was a bit strong, not so
+strong that the concept of throwing upwind was entirely impossible, but enough
+to the point where upwind and downwind scores were just as important a
+consideration as breaks and holds, so the way the game ended up going was the
+Roughnecks went up by five or six and then proceeded to trade downwind points
+with Austin Sol through the third quarter when I left. I sat in my two typical
+corners, which were on the downwind side of the field, but even there there
+wasn't much to see. The one thing I will say is that I was very impressed by
+Steven Borik's play, and he is doing great things for himself for the team. He
+was a defensive handler for the team, and he did a very damn good job at it,
+finding holes and punching in upwind bombs that you would expect from any calm,
+collected, seasoned veteran. I made eye contact with Falkor as I was walking by
+the stands, and he made eye contact with me, and that was it. Not even a smile
+or anything, just eye contact. I made a smile and a raise of the eyebrows,
+which was not returned, so I guess that is the level of our interaction now. I
+will surely make comment of it if we ever to stop to talk to eachother on the
+field, but unless that happens I'll just let it be for now. I liked him, but I
+think he very much looks down on me and has become a bit of a douche now
+because of his acheivments in ulitmate, and that's cool with me. I don't
+particularly care. Besides that, I ran across Jack who was coming back from Two
+Finger, which I didn't realize was this weekend, so we crossed paths as he was
+coming in and I was leaving, and shared a pleasent exchange, so that was the
+only real redeeming quality of the game yesterday. So enough of that.
+
+So I want to talk about my productivity now. There are two primary projects
+which, when I have them under control, will I feel go long ways to increseing
+my productivity, and both of those projects are my workout logger, and my
+literary analyzer, and on both of them I am just a little bit stuck as to what
+I want to do with them. The lit analyzer I have tried to work on a few times,
+but I have always gotten stuck at this one aspect of it, and that aspect is the
+concept of how exactly do I want to expose the structure of a work? Everytime I
+think I find the best way to do something, I think of a better way to do it,
+but then when I think about doing it that way, I find reasons why my first way
+was better, and I am sort of stuck in this loop of "well how the fuck do you
+want to represent literature anyway you asshole?" One consistent piece that has
+remained constant throughout, and a piece that I want to keep, is that of
+organizing the entire thing into a tree like structure. However, I always run
+in to opposing ideas of how to parse the whole of the work into said structure.
+What I am doing at this point, is I am putting the authors imposed structure,
+being the chapter, and book and section deliniations, all as implicitly part of
+the tree (and indeed, this has to be done in order to break the source material
+into smaller files, otherwise the entire thing would be too difficult to
+manipulate in Vim without becoming annoyed at the unweildiness of the file, so
+there are practical reasons for this), but I have noticed sections where
+chapters will come to a sort of cliffhanger and the cliffhanger will be
+resolved at a later point in the story, even across chapters (Clancy or Dan
+Brown or other writers would have this problem for sure), so while the concept
+of dividing up my files into chapters for ease of reading is one I want to
+keep, when it comes to analyzing the whole of the work, it doesn't make as much
+sense to me to keep the author's impossed structure.
+
+So lets go back to a Clancy novel, and use that as a framework for how I want
+to analyze this. Let's reduce a novel down into it's simplest forms. A Clancy
+novel will generally have multiple threads running through the thing. So in the
+prologue, Clancy will kick of his threads, usually three or four of them, and
+in doing will then set the stage for the different, at first disconnected
+stories that end up coming into eachother. I've had this sort of idea last
+night, that each thread would be it's own independent thing, and that it will
+contain a list of events that are a part of the thread, but already I run in to
+the problem what the best way to represent all of this would be. Take the Lord
+of the Rings for instance. I could have Frodo's thread be sepearte from Sam's
+thread, even though for the most part they are always together, they do
+seperate for part of the novel, and they have different concerns and such
+throughout the novel. But this is the problem I run into (and this is perhaps
+the questions that I have been asking myself in my head but not making
+explicit), is when Sam and Frodo are having dialogue together, what parts of
+the dialog go into Sam's thread and which parts of the dialog go in to Frodo's
+thread? One method of resolving this would be to say "any time Frodo is
+talking, it goes in to Frodo's thread, and any time Sam is talking it goes into
+Sam's thread," but I don't like this idea for the reason that, if the whole of
+the thread is something like "Sam and Frodo travel through Mordor towards Mount
+Doom where they plan to destroy the ring" then the dialog between Sam and Frodo
+would all go through that thread, but when Sam and Frodo seperate, it would
+have be to be different threads. And that is the problem, is I don't know how
+broad I want these threads to be. I have this concept of being able to split at
+thread into to, so a thread might have all of the dialog between Sam and Frodo,
+and then when Sam is seperated from Frodo, that would create a split in the
+thread, and when they are reunited, the thread comes back together, and there
+is that way of representing it, so in that way a thread would be something that
+has a list of primary actors, and a thread is something approaching more of an
+event than an overaching thread. Indeed, in this way, one thread might contain
+the events of the fellowship from Loth Lorien to Emyn Muil, and then that
+thread would end there, and the we'd have new threads for Merry and Pippen,
+Aragorn Gimli and Legolas, and Frodo and Sam, and then the Merry and Pippen
+thread would combine with the Aragorn and Gimli and Legolas thread when they
+meet back up, which would be a new thread there, and so on, and one can imagine
+how this would go. What I don't like about this is, suppose I wanted to
+extract Frodo's journey to Mordor out of these threads, I would simply find all
+of the threads that contain Frodo, and say that that is Frodo's thread, but
+then that thread would contain all of the dialog of the fellowship between say
+Aragorn and Boromir, and while Frodo is there for that dialog, he is not a part
+of it in any way, so again I am at a loss as to the best way to do this, and I
+go back and forth as to how this should be represented.
+
+So at this point I think it is important to take a step back and reconsider my
+purpose in these threads in the first place. The whole purpose of this idea of
+threads is to bring myself to be able to rewrite the whole of the novel in a
+different order, or just extract the excerpts that have certain symbolism, or
+certain other ideas. So in this way, the concept of annotations is a much more
+useful one. However, then I run in to a different problem, and that is the
+difference between a reference an actor in an event. So suppose I want to
+extract every excerpt regarding Sauron. There are so many references to Sauron
+throughout the LOTR, but he takes part in very few events. Pippen sees him in
+the Palantir, as does Aragorn, but besides that he is only referenced by the
+characters more than anything. Sauron is not the best example though, lets take
+Gandalf. What I am getting at, if I want to find the path of Gandalf through
+the Lord of the Rings, should that include the references to him? For instance,
+I know surely (okay, not surely, but I'm pretty sure) that Frodo at least
+thinks about him as he and Sam and Gollum travel there way to Mount Doom, but
+the event "Frodo ties the elven rope around Gollum and it burns him" should not
+contain Gandalf in it even if Frodo does make a mention to him. Gandalf is
+being refernced, but that event would not be included in the path that Gandalf
+takes through the lord of the Rings. However, Gandalf should definitely be
+included as an annotation in that scene, and this is where my problem lies.
+Indeed, perhaps this concept of thread is one of those concepts that nears the
+mark, but needs to be re-imagined in a different way, similar to how clever
+mathmeticians just simply have to think about a problem very hard in order to
+solve it.
+
+--
+
+So I think at this point I have three concepts which encapsulate everything I
+want to capture in my system. The first, and most specific, is that of the
+speaker, which would be the lowest most base form of an excerpt. The second is
+the idea of an event, which would be composed of multiple of these speakers,
+and would have multiple actors. So the event, "Gandalf tells the council about
+the betrayal of Saruman" would be an event, but "Saruman's betrayal" would not
+be, since we never have dialog which tells about the betrayal of Saruman in
+real time, only Gandalf's recollection of it. I'm not sure if Saruman would be
+considered an actor in that event or not, I haven't decided yet. The last is
+the concept of character reference, and I think the best way to reconcile this
+would be to have a list of tags that the system looks for for a character. This
+could be done in the form of [brackets] like this one. So in Harry Potter,
+everytime "He who must not be named" is mentioned, I could put [Voldemort] in
+brackets next to the name. It would be implied that the brackets are added by
+me. To find all of these references, the use of regular expressions would be
+used to scrape the raw data, and one could imagine a function that takes in the
+regular expression input and returns every reference in the source (as the base
+level of source), or returns every event that Voldemort is mentioned in, and
+also every event that Voldemort is an actor in.
+
+So every event would have a list of actors (and these actors need not even have
+dialog, it could just be known that they were there) but every source has one
+speaker. I'm not sure how unweildy this would get, trying to mark out every
+time the speaker changes in my work, but it could be done. The events are what
+are imposed into a tree like structure, and I find it neccesary to require that
+leaves of events could be applied in non-sequential order. That is, I could
+have an event like, "the gang discuss their plans" and "the villian creeps
+closer to the gangs hideout", and in the case that the author wants to create
+suspense by writting about the villian creeping closer to the hideout
+interwoven in the dialog about the gang discuss their plans, I could still by
+forcing some sub events be a part of the first parent event, and some sub
+events being a part of the second parent event.
+
+When it comes to thinking about these things, I think I have to take a top-down
+(breadth first) approach to these events. So a first level event would be
+something that spans the entire novel (Frodo's journey through middle earth vs
+Aragorn's ascension to kingship), and each of these events would have their sub
+events. This is the part where I am still having the hardest time imagining
+what this is like in my head, as both of those bigger events would contain
+overlaping sub-events, which is a concept I have not been able to capture in my
+annotations and notes so far, so I'm still struggling with finding the best way
+to represent this.
+
+So after taking a bit of a walk on this, while I still haven't totally
+reconciled how this will go in full, I have gotten quite a bit closer. I like
+the idea of using brackets (which, when I acheive a certain level of
+cleverness, I will be able to generate using vim scripts and autocompletion to
+allow for easy night time reading) to represent speakers. Every source will
+have a speaker. An event will be a list of sources. (Also note that I have the
+freedom to break up one source by the same speaker as I see fit. This will
+become helpful when someone goes on at length about something, and at the very
+end of their monologue, they ask a question which fits in an entirely different
+event. So I could annotate with brackets something like [speaker:Aloysha] for
+his monologue, and then break up his monologue with [speaker:Aloysha] again
+when the tone of his conversation changes as I deem appropiate). Once I have
+these events, I then think that the best course of action will be to have a way
+to combine events to this tree structure. I also want to have the notion that
+one source can go into multiple events, and also the notion that one event can
+go into multiple parent events as well.
+
+With this concept well formed in my head, I think it will be best if I continue
+to read Mistborn and break down that story in this way. That story is
+complicated enough to warrent this sort of analysis but not so complicated that
+I will get confused as to what I am doing and why.
+
