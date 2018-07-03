@@ -1594,3 +1594,173 @@ the way to this pilgramage, to summon that which you have fear of and request
 guidance from, if you are not to listen and obey when that has spoken?" I want
 to liken this to some myth right now, but maybe I have been reading to much
 epic poetry and should leave the references out of it.
+
+# 20180703
+So I want to get this down before I forget it. This dream I had last night was
+not too spectacular, but it is definitely worth writing down and setting off my
+thoughts for this journal article with, as I feel there is definitely something
+in it. Before I talk about the dream though, I want to say a little bit about
+my night. So last night was what I would consider an ideal night. I went to bed
+promptly after stuffing myself full of a turkey sandwich and a PBJ, along with
+what must have been over a half a gallon of milk, before I laid down to rest
+with my full stomach and my tablet. I woke up around four o'clock, which would
+have been a good five cycles of sleep, all dreamless to my recollection. When I
+woke, I got up and played the second part of the opus whatever it is of
+Chopin's nocturnes in F minor and Eflat major, and I promptly decided that I
+don't particularly care for this set and have elected to print out another to
+occupy myself at the night like this. The second one is interesting, but I
+don't have any emotion to it. I do find it neccesary to associate myself, or at
+least become familiar with this sort of disconcordant harmony which I have
+subconsciously stayed away from in the past simply due to the fact that it is
+unfamiliar to me, but I quite like the sound of it when it is played well, and
+I would like to familiarize myself with it so that I can better parse it and
+understand it, so that my understanding of music as a whole will become more
+enlightened as I continue on this path of neglecting my worldly
+responsibilities in favor of indulgence in these fine arts. After I was
+finished with that nocturne, I then went back towards the reading of the Grand
+Inquisator of the Brother's Karamazov, and though I found it extremely lengthy
+and unneccesarily archaic (at least the tranlsation by Garnett is so), it had a
+cool little punch at the end, I liked the climax, even though I knew how it
+was, but mostly I like where it fits in the story, rising tension happening
+everywhere, and even so our characters are able to discuss this matter of
+philosophy as if it is more important than all of the rising action that is
+going on up to this point. Quite interesting indeed, if not a little pompous,
+but the author makes note of this pompousness quite explictly, so it can be
+excused as it is excused by the author himself.
+
+But all of this has nothing to do with the dream I had that followed. Like most
+of my dreams, I don't remember much of this one except that it had to do with
+Crossfit. This Crossfit setting is different than the ones I've had in the
+past. This one was a rather small gym, one story on the surface level (not the
+one with the basement that I usually associate with Crossfit competition) with
+one opening that faces west. And the fact that it faces west I know to be true,
+or at least, I know that the direction the opening faces I strongly associate
+with Left. This gym is much smaller than the big with with the pullup rig that
+goes all around it in a square with two openings, this one is shaped rather in
+two sort of rectangle areas, each connected, the northern one being more like a
+square, and the southern one being more like a rectangle. And in the square
+area, as will become relevent in the dream, there are two sets of pull up
+rigs, one that is more reachable, and another that one would have to climb up
+in some way to get to. However, the person on the upper pull up rig in the
+dream is simply up there, and I did not think of how he got up there or how I
+or anyone would get up there in order to use it, rather it was just a feature
+of the gym that you could get up there and that it was completely normal. What
+I remember about this gym is walking in, and talking with the owner. How I knew
+he was the owner, I don't know, but he was and I knew it because it was a dream
+and you just know these sorts of things in dreams. I don't remember the
+conversation I had with the owner, but I do remember that it mostly involved me
+asking him some questions, questions about his gym and such, and that the
+nature of these questions was that I was asking him as if quizing him, not
+because I had questions that I wanted answered for myself, but because I wanted
+the answers from him so I could learn his answers. These are the sorts of
+questions that I would ask (and have asked) Crossfit box owners about their box
+in order to size them up. I then transitioned to talking about the workout we
+would do for the day, to which he defered me to one of the others in the gym. I
+must remind you that this gym was quite small, so while we were talking in the
+southern part of the gym, there were two others who were working out in the
+northern part, and the four of us brought the gym to its highest comfortable
+capacity. Surely there could have been more in the gym to work out, but any
+more than the four of us would have made the gym feel croweded. So I take a few
+steps over to the other section of the gym, and I ask one of them what the
+workout of the day is. The two people were already in the act of working out,
+but not "doing a workout" or "WOD" as crossfiters would say, but instead doing
+working sets and resting in between. So the person on the lower set of the
+pullup rig, who was in between sets, begins to describe to me the workout that
+they are doing, and the first thing he says is that it involves ninety pullups.
+At this I inturupt him, saying that I am meant to do ninety pullup per round?
+in a questioning way, because I knew this was supposed to be a very metcony
+workout, and I knew that though I would be able to complete whatever workout
+they threw my way, I also knew that ninety pullups per round would work much
+more of a muscular endurance aspect of the movement rather than the breathing
+heavy aspect, so I asked him something like "really, ninety pullups per round
+or do you mean something else?" And then he replied something like, "well yeah,
+we do things seriously here." which didn't answer my question at all, and I
+immediately dismissed him as a foolish meathead who only concerned himself with
+big numbers and used that to determine the quality of his workouts. The person
+on the higher pull up rig, who was on top of it, who had overheard our
+conversation (and how could he not, he was right there), then replies that no,
+it's not ninety pullups per round, but instead nine pullups at the start of
+each round, making a total of ninety. I then thanked him, and entirely
+dismissed the first athelete, and focused my attention on this other one,
+saying, "Okay, so describe to me the workout, it is 10 rounds of nine
+pullups..." and I left the statement hanging there as if he were to finish it,
+but then he did not. Now, I cannot remember if he went back to his workout, but
+I think what happened is they both became a touch confused the first one more
+so and the one on the rig I think more amused than anything, and this was near
+the end of the dream, so I never got what the other movements of this workout
+were meant to be, and I certainly didn't get to the point where I was ready to
+start it. And that is where the dream ended.
+
+I also find it pertinant to say that I did have some sleep paralysis at some
+point in the night as well. I don't remember at what point in the timeline of
+the night I had this paralysis, but it was accopanied by hallucinations again,
+which now that I am aware that I do indeed hallucinate during my sleep
+paralysis, I am made aware of the fact that the people I am imagining coming
+into my room are not real, and I was able to rest easier and almost enjoy the
+feeling of paralysis. Yes, enjoy is the word I would use. And in order to
+justify my use of that word I should say a bit about yesterday.
+
+Yesterday was a rough day for me. Currently I have been assigned a programming
+case which I am not quite sure at all what to do with, and instead of working
+on it I continued to work on learning Russian (which I think I have finally
+narrowed in on a couple of primary resources I want to use, as well formulated
+my conception of how I want to help myself learn vocabulary, so the hours I
+spent yesterday, though they felt in vain a bit, were acutally quite fruitful
+in my whole endeavor) and writing the story of the King and the Dragon, and
+doing all sorts of other unproductive things, unproductive in relation to my
+work at least, and I began to feel quite guilty of it all. That, coupled with
+the empty stomach (I had not eaten enough the night before) and the feeling of
+tiredness (which I blamed on the fact that the people of Alliant take great
+concern in me taking a twenty minute nap during the afternoon, which I can
+understand their jealousy of, but we would all be better off if we could take
+such naps) led to a rather shitty late afternoon, which was only redeemed what
+I was able to steal a nap during the spine strengthening series of Bikram Yoga
+which I dread so much. I really hate the poses involved in the spine
+strengthening series, I think they are silly and dumb and I don't like them,
+which they would say indicates that they are the poses that I need the most,
+but I disagree, saying instead that I would much rather work shoulder related
+poses in that time as my shoulders need so much more opening than my spine
+needs strengthening, and the soreness I feel in my back come entirely from that
+god-awful series. I digress. The point is that I had a rough day yesterday, and
+in reflection of that day I determined that it was mostly caused by lack of
+sleep and lack of food, both of which are things that are in my control and
+both of which are things that I neglected the night before, the food much more
+so than the sleep as, though I know certain things that hinder sleep, I don't
+have quite as much control over that aspect than I do the ability to jam food
+in my mouth.
+
+And that is why I say I could enjoy the sleep paralysis. Once I knew the
+hallucinations, I was able to determine, by looking at my door, that indeed it
+was shut, and the going in and out of my room that I thought I heard was indeed
+hallucination. Indeed, if I describe the hallucinations as if I thought they
+were real, I thought that what I saw was someone entering and exiting my
+apartment, I heard the door opening and closing (and since I forget at what
+point in the night these hallucinations happened, it is plausible, though I
+think not likely that these door sounds could have been real), and I heard
+speaking, as if there were someone talking to someone else as one worker would
+talk to another about the work they are doing, and I thought I even saw the
+figure of someone over my box which I am sleeping behind right now. However, I
+was able to look over to the corner of my door, and I saw that the sound of the
+door opening and closing was not accompanied by my door actually opening and
+closing, so using this I was able to determine that the hallucinations were not
+real and I was able to let myself rest there more soundly. In fact, I at that
+point attempted to embrace the feeling of paralysis, because even though I know
+the ways to bring myself out of the paralysis when it happens (focusing on the
+breath is the biggest one, and ensuring that it goes in and out in deep full
+breaths) I knew that the paralysis was a good thing. I knew that it wasn't time
+to wake up and that I wanted to continue to sleep, so I embraced the paralysis,
+and was glad in it. And that feeling of paralysis suddenly felt pleasurable. It
+was the kind of pleasure one feels on the toungue when you place a tasty bit of
+food on it, but instead of simply feeling it on the tongue I felt it throughout
+my entire being (since the body is paralyzed, the concept of feeling a
+sensation at a certain part of the body is gone entirely, so that all of your
+sensation is the sensation of your being rather than the sensation of any
+particular nerve). This sensation was not pleasure, in the traditional sense,
+like one might think of orgasm though, instead this was the feeling one gets
+when you lay in your bed and you know you should get up, but you don't, except
+instead of having the ability to get up and feeling all of your limbs be heavy,
+you don't feel heavy limbs but instead feel as though you are just a spirit in
+space. This feeling can be very scary, especially if you try and resist it and
+attempt to move your limbs (which I remind you are paralyzed), but once I was
+able to accept it and realized that it was the feeling that I wanted to
+embrace, I was able to embrace it, and then I returned to sleep.
