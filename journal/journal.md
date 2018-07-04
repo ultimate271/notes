@@ -1764,3 +1764,172 @@ space. This feeling can be very scary, especially if you try and resist it and
 attempt to move your limbs (which I remind you are paralyzed), but once I was
 able to accept it and realized that it was the feeling that I wanted to
 embrace, I was able to embrace it, and then I returned to sleep.
+
+--
+
+I feel very compelled now to write about the dream I had. This dream was very
+vivid and involved the consumption of Marijuana and the subsequent drug testing
+that would happen, along with alot of other symbolism involving my mom, the
+setting and other things, that I do truly have to write about it. This dream
+happened after a nap occuring on July the third, after we were dismissed early
+from work, and I decided to lay my head down despite the fact that I knew I had
+signed up for Bikram yoga that day at 5. This dream actually occured
+immediately after I had woken up at five o'clock almost precisely, and saw that
+I would indeed be missing my Bikram yoga class for the day.
+
+This dream began in a house that was almost exactly like the Franda's, a dream
+location that I know I have had before, and which truely was the spitting image
+of the Franda's old house from my childhood. In this location, on the stove,
+there was a bit of Marijuana, and for some reason, which I had reciprocated
+with my mom, who agreed, I had determined that it was required for me to take a
+hit of marijuana, and subsequently get drug tested immediately following, in
+order to mark the beginning of the process which I have literally just today
+signed on to. So in the dream I had rolled up a joint (in these dreams it is
+always a joint even though as I've said before I don't know how to roll a joint
+in real life and the joint is very much not my prefered methode of consumption)
+at the stove of the Franda's, and I took a sort of ritualistic hit, savoring it
+as a convict on death row might savor his last meal (that analogy is mine in
+this moment, I wasn't thinking about death row in the dream, but I simply
+wanted to emphasize that I savored it as a man condemned might savor something)
+before proceeding to talk to my mom about what needs to be done. I discussed
+with her the plan, and after I had taken the hit, I came to her, or she to me,
+in that place of the Franda's, and talked about what needed to be done. I gave
+her the paperwork, and we went together to the place where I was to get tested.
+Now, this place, which was just down the road from the Franda's place where the
+dream started, we were able to walk to, and I know I have been to this place
+before in my dreams, although I forget in what context this dream location
+exists, but it's description I will describe now. In the bottom floor, you walk
+in from the corner, and the first thing you see straight ahead is door to an
+inner stairwell which leads to the upstairs area, which when you are in the
+upstairs area is not really upstairs, but to the left and right of this stair
+well entrance, coming at ninety degrees from the corner through which you walk,
+is a big open area, one could imagine being in an airport or stadium or
+something else that has this area, and to the left there is a laser tag
+section, which I have had dreams about before, and to the right, I'm not sure.
+This area reminds me very greatly of some other dream locations which are
+appearing to me as a write this almost against my will, as I try and imagine
+which dream area this one truely was, I have all these other dream locations
+appearing in my mind, so this location must have some sort of significance to
+me. Regardless, we, me and my mom, looked around this area, left and then
+right, before deciding that up was the direction we needed to go. And I want to
+mention at this point as well that this place was a place intended for
+children, that this establishment was created for the amusement of children,
+similar to Chuck E Cheese or similar, but for slightly older children, and as
+we went up this stairwell, which the stairwell itself had this sort of
+steampunk back alley feel to it, as if the walls and floors hadn't been cleaned
+in years, we made it to the up stairs area. Now this upstairs area, as you walk
+up into it, had this peculiar feature. There was a sort of walkway, where as
+you come up the stairs (there was no exit door to the stairs, even though there
+should have been) on your left is a wall that comes up to about chest height,
+which when you get high enough on the stairs you can easily see over into the
+room to the left, and this wall goes on from the top of the stairs a good way,
+maybe three or four yards, until you get to the top right-most of the room,
+which has a doorway into the "employees only" area of the room. Upon coming to
+this sort of walkway, I look to the left to see many children in roller skates
+going around on this roller rink, as this upstairs area is a roller rink, and
+the wall that you can look over marks the edge of the rink. Evenutually the
+wall comes down, to the floor where the rink meets the walkway, indicating the
+perimeter of the rink, and the entire place was dark except for one opening
+that was past the walkway beyond the chest high wallway where it is open and
+leads to somewhere with light. I want to talk about this place with light for a
+moment, because it does not simply lead outside, but it leads to another
+portion of the dream area which surely must represent something else to me,
+but I don't know what in this moment, and I don't know if I have ever been
+there before, but I see in my head right now a sort of air hanger area, a
+garage sort of space, where you could imagine that airplanes are kept, antique
+single passengers airplanes, but this area does not come up again in the dream.
+I don't know why this area feels significant to me, but it does. Regardless,
+when we reach the top of the staircase, we are greeted by a man, clearly a
+young kid no older than me or at the very most my age who works there, and
+seeing this peculiar thing of a grown man walking up these stairs with his mom
+to this place clearly intended for children, he inquires if he can help us. I
+take a breif glance to my mom, who gives me the gesture to take care of this as
+an adult would, and I speak to him and request in that moment, to be
+administered a drug test. Actually I asked first if they administer drug tests,
+but I didn't wait for the answer and simply then requested to be admistered
+one. He asks me for my paperwork, which I remember pulling out of my pocket,
+and looking to my mom as if to ask in one moment of eye-contact "this is
+correct right?" to which she nods. After procuring the paper-work, he then asks
+me, "and this drug test is meant to return clean is it not?" to which I at
+first say yes, of course, but then remember that I had taken a hit of the
+joint, and at that moment the reason for taking that hit escapes me, and for
+the first time in the dream I start to realize that maybe the reason I took the
+hit was illegitament, and that I just come up with it as an excuse to take a
+hit, but I then thought that that, also, was an absurd thought, and that I had
+distinctly remembered being against taking the hit at first but indeed did have
+very legitamte reason for doing so, but that reason was escaping me. I tried to
+explain this to the worker there, who looked at me with a sort of guilty
+glance, as if he knew that I was full of shit, and I remember asking to call my
+attorney after the test had been done, or I actually asked my mom to call the
+attorney, because she didn't know the reason for my taking the hit. Eventually,
+after the judgemental (that's the word!) glance from the attendent there lasted
+a bit, I remember asking to be adminstered the test anyway, and to let it come
+back positive and that I knew that that was the plan, although I was second
+guessing myself the entire time. The attendendent, still with his judgemental
+look on his face, takes me through the employees only area at the back right of
+the room from the stairs, and in this area is a kitchen area, much closed off
+from the rink area and much more enclosed and almost even claustrophobic, and
+in this kitchen area is an employees only bathroom which I am led into. This
+bathroom was a single person restroom, and was quite unkept, being very dirty
+and rusty as a neglected outdoors camping restroom might be, and in this place
+I took all of things I had in my hand and put them on the sink which was there
+next to the toilet, and I found the cup I was meant to pee into. In all of
+those things I also saw my phone, which I thought about the illigatamcy of the
+whole thing (as if I could somehow produce clean piss from my phone) and
+thought about using it to get the reason for taking the hit from my attorney,
+but I knew my mom was calling him so I didn't. So at this point we are nearing
+the end of the dream, as I took the cup, and also this device which looked like
+a pregnancy test, and I started peeing into the cup, and interjected this other
+testing device between the stream and the cup, and immediately the device
+showed a blue line indicating that the urine was not clean (which I had for
+some reason thought it wouldn't even though I had just smoked weed earlier in
+the dream), and I began to go into a sort of calm panic, if that makes sense,
+knowing that panicing wasn't worthwhile in that situation, but not having any
+other sensible thing to do. After doing this, for some reason to complete the
+task I had to apply a sort of sticker to the underside of my penis, which had
+become incredibly erect all of a sudden, as if it had been erect the whole time
+and I hadn't realized it, and I heard my mom outside talking with the
+administer of the test, speaking about just how clean I had been the past days,
+knowing it to be true, and also talking about how I had given up masterbation
+as well, and how she was so impressed by it, and that he must have had a good
+reason to smoke the marijuana because he has been otherwise extremely faithful
+to staying clean. So as I am applying this sticker thing to my extremely erect
+(and to go into detail, very veiny and almost even the texture of glass, as I
+thought about how it resemebles the pipe that I like to smoke out of, and as I
+thought this the veins started to resemeble strongly the artistic markings on
+my pipe, and though I have made the pipe/penis analog in my head before, who
+hasn't, I had not made the analogy of the veins to the decorative marking
+before), as I am applying this sticker, and listening to my mom talk so highly
+of me, I felt as though somehow everything would be okay. I thought about how I
+did not have even the slightest compulsion to stroke that large penis to orgasm
+so as to lower it, but instead I just let it be entirely erect and did nothing
+to try and prevent it. So I applied this sticker to the underside of my erect
+penis, and closed up the cup and put all of the things aside, and that was the
+end of the dream. The dream ended before I knew anything about what would
+happen as a result of that test.
+
+I will remark that I did have a bit of wood as I woke up, (although not nearly
+as much as the dream would have indicated, just a slight chubby that went down
+rather quickly after waking) and that this was one of those times where I had
+to gather myself and remind myself that I had not in actuality smoked anything,
+and I want to say that I felt rather dehydrated and "numb" in a way that I
+sometimes do when I take naps of this single REM length. Indeed, when I woke I
+found the length of the sleep to be exactly one sleep cycle, as I woke at 6:35,
+which would mark out exactly one full cycle of REM sleep. I then lay there,
+deciding to wake up, and I have been writing ever since, which has taken just
+under an hour to do.
+
+I could have dismissed this dream a simply another marijuana dream, but there
+seems to be something more here, the images of unclean area, the judgmental
+(and now that I think about it probably hypocritical) look on the attendents
+face, and the fact that my mom is there, and that she knows about my giving up
+masterbation (I have told her about this before and we have had discussions
+about it), and the peculiar erection that I had towards the end, all point to
+something, but I can't put all the peices of it together, but I can only leave
+it as it is so that one day maybe I'll read it back and still not know what it
+all means but instead will simply just live with it being there. The dependance
+on my mother is what troubles me the most, similar to a past dream I have
+written about, where it is simply there, and as much as I don't want to label
+it or assign it anything, I can only think that I dislike that aspect of my
+subconscious, and it gives me curiosity as to when that aspect might go away. I
+don't know.
