@@ -17,9 +17,9 @@ They will have to be watched carefully, these Terrismen. They could be very
 dangerous, if given the opportunity and the motivation.
 
 
-### 
+### Some of the gang visit Camon's now raided hideout and investigate the scene
 
-#### 
+#### Vin, Kelsier, Dockson, and Sazed arrive to see the carange of Camon's old lair
 
 
 11
@@ -74,7 +74,7 @@ maintain a stiff face in front of the others, but she found herself cringing
 occasionally, glancing away from mangled corpses. The ones who had performed
 the attack had been quite . . . thorough.
 
-#### 
+#### Vin evaluates Sazed role in this whole thing
 This seems extreme, even for the Ministry, she thought. What kind of person
 would do something like this?
 
@@ -96,7 +96,7 @@ from birth by very careful trainers.
 Sazed’s smooth step and calm face gave her few clues. He didn’t appear shocked
 by the carnage, however.
 
-#### 
+#### Kelsier and Vin discuss the motivations of the Inquisitor in this slaughter
 Interesting, Vin thought, picking her way through shattered furniture, stepping
 clear of blood pools, making her way to Kelsier’s side. He crouched beside a
 pair of corpses. One, Vin noticed in a moment of shock, had been Ulef. The
@@ -153,7 +153,7 @@ her. They don’t quite follow the normal rules.
 
 Vin shivered again.
 
-#### 
+#### Ham enters, and Sazed gives a prayer
 Footsteps sounded on the stairs, and Vin grew tense, crouching and preparing to
 run.
 
@@ -191,7 +191,7 @@ behind them all—and I believe in the need for each one to be remembered.”
 “It just seemed . . . appropriate,” Sazed said quietly, regarding the scene of
 shadowed death.
 
-#### 
+#### Dockson finds Milev tortured in the backroom
 “Kell,” Dockson called from the back of the room. “Come look at this.”
 
 Kelsier moved to join him, as did Vin. Dockson stood by the long corridor-like
@@ -211,7 +211,7 @@ floor, the way his limbs are twisted. He had time to scream and struggle.”
 
 Vin felt a chill. She glanced up at Kelsier.
 
-#### 
+#### They contemplate their danger
 “Shall we move our base?” Ham asked.
 
 Kelsier slowly shook his head. “When Clubs came to this lair, he would have
@@ -223,7 +223,7 @@ be safe.”
 No one spoke the obvious. The Inquisitor shouldn’t have been able to find this
 lair either.
 
-#### 
+#### Vin uses allomancy to overhear some words between Dockson and Kelsier
 Kelsier stepped back into the main room, pulling Dockson aside and speaking to
 him in a quiet voice. Vin edged closer, trying to hear what they were saying,
 but Sazed placed a restraining hand on her shoulder.
@@ -242,7 +242,7 @@ And she could hear, quite distinctly, Dockson’s voice.
 “ . . . went to check on him a couple times, like you asked. You’ll find him
 three streets west of the Fourwell Crossroads.”
 
-#### 
+#### Kel asks Ham to take the crew besides Him and Dockson back to the shop
 Kelsier nodded. “Ham,” he said in a loud voice, causing Vin to jump.
 
 Sazed looked down at her with disapproving eyes.
@@ -260,9 +260,9 @@ Vin eyed Kelsier, then resentfully allowed herself to be ushered from the lair
 with Sazed and Dockson.
 
 
-### 
+### Vin follows Kelsier, who discovers Camon's hanging body in an alley
 
-#### 
+#### Kelsier contemplates the situation as he walks from Camon's lair
 I should have taken the carriage, Kelsier thought, frustrated by his slow pace.
 The others could have walked back from Camon’s lair.
 
@@ -277,7 +277,6 @@ best to ignore the other.
 
 Patience. Speed doesn’t matter. If they know about him, he’s already dead.
 
-#### 
 Kelsier entered a large crossroad square. Four wells sat in its corners, and a
 massive copper fountain—its green skin caked and blackened by soot—dominated
 the square’s center. The statue depicted the Lord Ruler, standing dramatically
@@ -336,7 +335,7 @@ thin alleyway to his left. Taking a breath, he flared pewter and ducked inside.
 The thin, dark alley was clogged with refuse and ash. No one waited for him—at
 least, no one living.
 
-#### 
+#### Kelsier finds Camon's corpse hanging from a rope above
 Camon, crewleader turned beggar, hung quietly from a rope tied far above. His
 corpse spun leisurely in the breeze, ash falling lightly around it. He hadn’t
 been hanged in the conventional fashion—the rope had been tied to a hook, then
@@ -346,7 +345,7 @@ His hands were tied, his still plump body showing signs of torture.
 
 This isn’t good.
 
-#### 
+#### Vin is discovered to be following Kelsier
 A foot scraped the cobblestones behind, and Kelsier spun, flaring steel and
 spraying forth a handful of coins.
 
@@ -392,7 +391,7 @@ your friends. Plus, the noblemen consider it an insult to use Allomancy in
 formal settings. Those reflexes will get you into trouble if you don’t learn to
 control them.”
 
-#### 
+#### Kelsier discusses how this won't change their plans.
 She nodded, rising to study Camon. Kelsier expected her to turn away in
 disgust, but she just stood quietly, a look of grim satisfaction on her face.
 

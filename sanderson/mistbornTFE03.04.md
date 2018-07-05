@@ -1,8 +1,8 @@
 ## 12
 
-### 
+### Epigraph
 
-#### 
+#### Epigraph
 * * *
 
 
@@ -18,9 +18,9 @@ It could never happen.
 
 
 
-### 
+### Vin prepares for the ball
 
-#### 
+#### Vin thinks through things in her noblewoman's dress
 
 12
 
@@ -72,6 +72,7 @@ prospect—unlikely and unreasonable, but still seductive—of a group whose
 members actually trusted one another. She had to stay. She had to know if it
 lasted, or if it was—as Reen’s growing whispers promised—all a lie.
 
+#### Vin meets Sazed, and they enter their carraige
 She turned and left her room, walking toward the front of Mansion Renoux, where
 Sazed waited with a carriage. She had decided to stay, and that meant she had
 to do her part.
@@ -80,9 +81,9 @@ It was time to make her first appearance as a noblewoman.
 
 
 
-### 
+### Kelsier and Vin discuss her role before her entrance into the ballroom
 
-#### 
+#### Kelsier makes a surprise appearance
 The carriage shook suddenly, and Vin jumped in surprise. The vehicle continued
 normally, however, and Sazed didn’t move from his place in the driver’s seat.
 
@@ -104,6 +105,7 @@ surprising me in that alleyway last week.”
 
 “How very adult of you,” Vin said flatly.
 
+#### Kelsier trys to calm Vin's nervousness
 “I’ve always been very confident in my immaturity. So, are you ready for this
 evening?”
 
@@ -113,6 +115,7 @@ do I look?”
 “Splendid,” Kelsier said. “Just like a noble young lady. Don’t be nervous,
 Vin—the disguise is perfect.”
 
+#### Vin asks Kelsier about the reasons for her doing this. Kelsier explains
 For some reason, that didn’t feel like the answer she’d wanted to hear.
 “Kelsier?”
 
@@ -166,6 +169,7 @@ Kelsier smiled. “I can live with that. How about you?”
 
 Vin smiled despite her tension.
 
+#### Kelsier tells of his other reason, to get a mistborn on the inside to get intel on the Lord Ruler
 “There’s another reason for you to do this,” Kelsier said. “Sometime during
 this fiasco of a plan of mine, we might need to face the Lord Ruler. I have a
 feeling that the fewer people we need to sneak into his presence, the better.
@@ -197,6 +201,7 @@ about him for now—our goal this evening is to establish Lady Valette Renoux.
 You won’t need to do anything dangerous or unusual. Just make an appearance,
 then leave when Sazed tells you. We’ll worry about building confidences later.”
 
+#### Kelsier makes his exit
 Vin nodded.
 
 “Good girl,” Kelsier said, reaching out and pushing open the door. “I’ll be
@@ -206,9 +211,9 @@ Vin nodded gratefully, and Kelsier jumped out of the carriage door,
 disappearing into the dark mists.
 
 
-### 
+### Vin's first entrance to the ball, she handles herself well
 
-#### 
+#### Vin is barely able to contain her nervousness as she enters the ball
 Vin was unprepared for how bright Keep Venture would be in the darkness. The
 massive building was enveloped in an aura of misty light. As the carriage
 approached, Vin could see that eight enormous lights blazed along the outside
@@ -266,6 +271,7 @@ And well he should worry! Everything he had taught her seemed
 fleeting—vaporous, like the mists themselves. She couldn’t remember names,
 customs, anything.
 
+#### Vin realizes her dress is like a disguise and comes more at ease
 She stopped just inside the foyer, and an imperious-looking nobleman in a black
 suit turned to regard her. Vin froze.
 
@@ -294,6 +300,7 @@ She could do this. She was still nervous, but the moment of panic was over. She
 didn’t need shadows or corners—she just needed a mask of sapphires, makeup, and
 blue fabric.
 
+#### Sazed brings Vin to her table, which marks her as single
 The Venture main hall was a grand and imposing sight. Four or five daunting
 stories high, the hall was several times as long as it was wide. Enormous,
 rectangular stained-glass windows ran in rows along the hall, and the strange,
@@ -342,6 +349,7 @@ Vin nodded, and the serving man led them to a small table near the center of
 the hallway. Vin seated herself in the only chair while Sazed ordered her meal.
 He then stepped up to stand behind her chair.
 
+#### Vin observes obligators and noblemen social encounters
 Vin sat primly, waiting. Most of the tables lay just beneath the overhang of
 the gallery—up close to the dancing—and that left a corridorlike walkway behind
 them, near the wall. Couples and groups passed along this, speaking quietly.
@@ -365,6 +373,7 @@ seem to be acting really as police, or even specifically as spies. And yet,
 they were there. Hovering about, joining in conversations. A constant reminder
 of the Lord Ruler and his empire.
 
+#### Vin looks at the windows to observe the scenes
 Vin turned her attention away from the obligators—their presence still made her
 a bit uncomfortable—and instead focused on something else: the beautiful
 windows. Sitting where she was, she could see some of the ones directly across
@@ -397,6 +406,7 @@ could almost believe.
 What if something like that had existed? And, if it had, how had the Lord Ruler
 managed to defeat it?
 
+#### Vin observes more of the ballroom
 She sighed, shaking her head at the thoughts. Already, she was beginning to
 think too much like a noblewoman. She was admiring the beauty of the
 decorations—thinking about what they meant—without giving more than a passing
@@ -425,6 +435,7 @@ I wonder if they even notice the outside world, she thought, crossing her arms
 on the table as she watched the dancing. Perhaps they can’t see beyond their
 keeps and their balls—just like they can’t see past my dress and makeup.
 
+#### Vin's food arrives and she eats
 Sazed tapped her shoulder, and Vin sighed, adopting a more ladylike posture.
 The meal arrived a few moments later—a feast of such strange flavors that she
 would have been daunted, had she not eaten similar fare often during the last
@@ -439,6 +450,7 @@ afraid she’d panic again if anyone actually spoke to her. However, a meal coul
 only be extended so long—especially one with a lady’s small portions. She soon
 finished, and set her fork across the plate, indicating that she was done.
 
+#### Vin gracefully rejects a suitor
 The first suitor approached not two minutes later. “Lady Valette Renoux?” the
 young man asked, bowing just slightly. He wore a green vest beneath his long,
 dark suit coat. “I am Lord Rian Strobe. Would you care to dance?”
@@ -449,6 +461,7 @@ nervousness on the dance floor. Perhaps, next time . . .?”
 
 “Of course, my lady,” he said with a courteous nod, then withdrew.
 
+#### Sazed arrives at Vin, who congratulates her on her behavior so far
 “Very well done, Mistress,” Sazed said quietly. “Your accent was masterful. You
 will, of course, have to dance with him at the next ball. We shall surely have
 you trained by then, I think.”
@@ -492,6 +505,7 @@ approach, turn them away as delicately as you did the first.”
 
 Vin nodded hesitantly.
 
+#### Sazed exits
 “I shall return in about an hour,” Sazed promised. He remained, however, as if
 waiting for something.
 
@@ -499,18 +513,20 @@ waiting for something.
 
 “Thank you, Mistress,” he said, bowing and withdrawing. Leaving her alone.
 
-### 
+### Vin begins to eavesdrop on obligators and noblemen at the ball using Allomancy
 
-#### 
+#### Vin imagines Kelsier watching her
 Not alone, she thought. Kelsier’s out there somewhere, watching in the night.
 The thought comforted her, though she wished she didn’t feel the empty space
 beside her chair quite so keenly.
 
+#### Three more young men approach her to dance
 Three more young men approached her for dances, but each one accepted her
 polite rejection. No others came after them; word had probably gotten around
 that she wasn’t interested in dancing. She memorized the names of the four men
 who had approached her—Kelsier would want to know them—and began to wait.
 
+#### Vin overhears a random conversation between obligators
 Oddly, she soon found herself growing bored. The room was well ventilated, but
 she still felt hot beneath the layers of fabric. Her legs were especially bad,
 since they had to deal with her ankle-long undergarments. The long sleeves
@@ -549,6 +565,7 @@ the table, slipping something—likely the coins—into a pocket of his robes.
 
 Interesting, Vin thought.
 
+#### Vin recognizes her father as an obligator at another table
 Unfortunately, the people at that table soon rose and went their separate ways,
 leaving Vin without anyone close enough to eavesdrop upon. Her boredom returned
 as she watched the obligator stroll across the room toward one of his
@@ -577,9 +594,9 @@ turned her attention away from him, looking up at the windows instead. She
 couldn’t get that good a look at them, however, because the pillars and
 overhang restricted her view.
 
-### 
+### Vin meets Elend Venture on the balcony of the ballroom
 
-#### 
+#### Vin notices a balcony, and gains the urge to go up to it.
 As she sat, she noticed something she hadn’t seen before—a lofty, inset balcony
 that ran just above the entire far wall. It was like a counterpart to the
 alcove beneath the windows, except it ran at the top of the wall, between the
@@ -600,6 +617,7 @@ floor.
 It isn’t like anyone else is asking me to dance, she thought. And I’ve done
 what Kelsier wanted, I’ve been seen by the nobility.
 
+#### Vin asks the serving boy how to get up there
 She paused, then waved for a serving boy.
 
 He approached with alacrity. “Yes, Lady Renoux?”
@@ -609,6 +627,7 @@ He approached with alacrity. “Yes, Lady Renoux?”
 “There are stairs just to the side of the orchestra, my lady,” the boy said.
 “Climb them to the top landing.”
 
+#### Vin goes to the balcony and finds a seat
 Vin nodded her thanks. Then, determined, she stood and made her way to the
 front of the room. No one gave her passing more than a glance, and she walked
 with more confidence as she crossed the hallway to the stairwell.
@@ -634,6 +653,7 @@ form of thick, curving vines. To her sides, the tops of the pillars were carved
 into stone animals that appeared frozen in the motion of jumping off of the
 balcony.
 
+#### Vin is inturupted by a boy who was occupying that seat before
 “Now, see, here’s the problem with going to refill your cup of wine.”
 
 The sudden voice made Vin jump, and she spun. A young man stood behind her. His
@@ -657,6 +677,7 @@ Vin paused. Could she politely refuse? He obviously wanted her to stay near
 him—did he know who she was? Should she try to find out his name, so she could
 tell Kelsier?
 
+#### The boy and Vin share an initial interaction, the boy more interested in his book than her
 She stepped a bit to the side, and the man took a place next to her. He leaned
 back against the side pillar, and, surprisingly, took out his book and began to
 read. He was right: The lantern shined directly on the pages. Vin stood for a
@@ -686,6 +707,7 @@ Vin paused. The man smiled, then turned back to his book.
 “There were four,” Vin said with a huff. “And I refused them because I don’t
 know how to dance very well.”
 
+#### The boy introduces himself sarcastically as Elend Venture
 The man lowered his book slightly, eyeing her. “You know, you’re a lot less
 timid than you look.”
 
@@ -708,6 +730,7 @@ this particular conversation.
 Oddly, she didn’t feel a desire to shrug this man away as she had the others.
 Instead, she felt another stab of annoyance as he again raised his book.
 
+#### Elend sarcastically offers Vin to dance
 “You still haven’t told me why you would rather read than participate,” she
 said.
 
@@ -739,6 +762,7 @@ that she couldn’t determine which.
 we’ve established that I’m a gentleman. However, I doubt the couples below
 would appreciate us trampling their toes.”
 
+#### Vin inquires about the reading material, and Elend gives his opinion of the nobility
 “Agreed. What were you reading?”
 
 “Dilisteni,” Elend said. “Trials of Monument. Heard of it?”
@@ -764,6 +788,7 @@ morning.”
 
 Vin cocked her head. Not words I’d expect to hear from a nobleman.
 
+#### Elend points out to Vin that Sazed is looking for her
 Elend paused, looking a little embarrassed. “But, well, never mind that. I
 think your Terrisman is looking for you.”
 
@@ -775,6 +800,7 @@ Vin yelped quietly. “I’ve got to go,” she said, turning toward the stairwe
 “Ah, well then,” Elend said, “back to reading it is.” He gave her a half wave
 of farewell, but he had his book open before she passed the first step.
 
+#### Sazed and Vin discuss Elend Venture, as Sazed mentions he is heir to the house title
 Vin reached the bottom out of breath. Sazed saw her immediately.
 
 “I’m sorry,” she said, chagrined as she approached.
@@ -825,6 +851,7 @@ He trailed off, mumbling to himself as he led Vin to the entryway. She got one
 more glimpse into the main chamber as she retrieved her shawl, and she burned
 tin, squinting against the light and seeking the balcony above.
 
+#### Vin glances back at Elend as they leave
 He held the book, closed, in one hand—and she could have sworn that he was
 looking down in her direction. She smiled, and let Sazed usher her to their
 carriage.
