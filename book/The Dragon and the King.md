@@ -286,8 +286,8 @@ was reasonable, and when he coiled himself on the stone, they could imagine him
 not as a supreme being bigger then themselves but instead as simply another
 beast among them. However, they knew better than to underestimate or disrespect
 that which they had summoned, espcically after such a ritual, and continued to
-sit. It was indeed the dragon who broke that silence, and spoke the first
-words.
+sit on their knees with heads bowed low in reverence. It was indeed the dragon
+who broke that silence, and spoke the first words.
 
 "What sort of peoples are these, that would dare summon me from my eternal
 sleep?"
@@ -312,12 +312,14 @@ uh, we... um, wish to, ask your assistance in a great trouble that we as the
 memebers of our lowly and humble town have recently come across... well... not
 trouble, but, uh, well, we have a problem that we don't know how to.... um" and
 he was inturrupted before he could decide between the word "solve" or
-"rectify".
+"rectify". Indeed, he was almost glad at the inturruption because he felt quite
+foolish stammering so, and even rebuked himself for not reherasing his words
+more precisely in the time leading up to this point.
 
-"Silence! Speak plainly, mortal, for though I am certainly greater than you I
-have no time for your fear or reverence. Address me however you would address
-your fellow man and get to your point before I grow impatient of your
-yammering."
+"Stop this nonsense! Speak plainly, mortal, for though I am certainly above you
+in status you I have no time for your fear or reverence. Address me however you
+would address your fellow man and get to your point before I grow impatient of
+your yammering."
 
 "Yes, um, of course, uh, dragon... sir. We here have summoned you to ask your
 help. Our king, you see, he used to be a good king, but now, well, he is not as
@@ -338,23 +340,154 @@ nature of their request, the dragon inturrupted him.
 "And what of his heir? Why has he not taken up the kingship?"
 
 And to this the man replied, "Well, you see, that's the thing, is the king
-never married, so there is no rightful heir, and finding one among us to rule,
-well, we have not been in this situation before, and we don't know who will
-take his place, and it seems wrong to decide that before the current king is,
-well... not king, um... dead... I mean, and we wish to come to a solution
-before it comes to fighting." And before he could add any more needless
-honerifics or useless words to tack on to the end of his statement, the dragon
-began.
+never married, and does not intend to, so there is no rightful heir, and
+finding one among us to rule, well, we have not been in this situation before,
+and we don't know who will take his place, and it seems wrong to decide that
+before the current king is, well... not king, um... dead... I mean, and we wish
+to come to a solution before it comes to fighting." And before he could add any
+more needless honerifics or useless words to tack on to the end of his
+statement, the dragon began.
 
 "I see, I see." There was a moment pause. The people sat in curiosity, waiting
 intently for what the dragon would say. And the dragon continued. "I will be
 your king. Your present king will go into the forests, and he should find
 himself, he should find perspective, he will be relieved of his duties until he
-decides he is ready to come back. And though the may be old, he can still find
+decides he is ready to come back. And though he may be old, he can still find
 a wife, and make an heir, and if not, I will rule and maintian peace and order
 as you townspeople decide who among you should take his place. Yes, this is how
 it will be."
 
--- I have to go now, but I want the people to deny this at first, the dragon to
-show his strength in his decision, and the people to question whether or not
-this was more than they bargained for.
+At this the people began to exchange uneasy glances amongst eachother. Of
+course, none were willing to speak up at these words of the dragon, and they
+continued to sit on their knees around the dragon and bow their heads. Then the
+leader, gaining his composure and returning himself to his words, spoke up
+again.
+
+"O mighty one, if you will excuse me wasting your time calling you so," he
+added only as sardonically as he dared, "We have not come here to act behind
+the back of our king and replace him with a divine being. To do so would be,
+well, put plainly, quite dastardly, and we are not a dasterdly people but
+instead a simple group of farmers that would appreciate if the ordeals of our
+town were handled in the most appropiate of manners. We were hoping to seek
+your advice in this moment, so that you may return to your eternal sleep, so
+that we could hinder you in the least, for I am sure that you are a great beast
+and would not want to bother yourself with the bookkeeping affairs of our town.
+Noble sir."
+
+The dragon remained still for a moment, for quite a long moment actually, so
+long that the people began to look amongst themselves again. The leader of them
+continued to stand there, now gaining his confidence and his resolve, and began
+to evaluate for himself the might of the dragon that they had summoned, and it
+struck him again that this dragon was not immortal but instead simply a beast,
+and when he looked at the skin and scales of the beast, he for a fleeting
+moment saw the flesh of it and wondered what would happen if he were to draw
+his knife and thrust it into the beast so. Of course, he would not think of
+doing such a thing, especially not in this moment, but the thought occured to
+him that this being could be slain just like any other. However, when he looked
+up to the eyes of the beast, he saw a sort of queer emptiness, the sort of
+emptiness you would see in an emotionless tyrant before he ordered the
+execution of an innocent man, and it made him uneasy to look upon those eyes
+for any length of time as they stared back at him, as if staring through his
+soul. Indeed, he made eye contact breifly and then glanced away before the
+dragon broke the silence again.
+
+"How queer a people you are?" The dragon began, in a voice like one who might
+sit in a chair and discuss the wordly issues of the day with his peers in a
+contemplative way. "You are a people in a situation so [desperate] as to make a
+pilgramage across the mountains and the trees to come to this hallowed place,
+only to seek my advice, and after having received it, you choose not to accept
+it? If you could have come up with some worldly solution, would you not have
+done so been able to apply it without coming to a divine intervention? But now
+you have chosen the route of the divine, and some things such as this, once
+they are begun, cannot be undone.
+
+"Yes, indeed, you come to me asking for help, but in reality you ask not for
+help because you already had in your head what you wanted the answer to be. Why
+would you ask a question if you already have the answer? But let me tell you,
+you only wanted to come here and disturb me so that I might give you some pill
+that your king might swallow so that you can go back to your mundane and
+comfortable lives. Listen to me now." The dragon bent his head toward the sky
+and let out a great breath that flung fire through the openening and into the
+sky. "Listen! In one thing you are correct, I am not concerned with
+bookkeeping. Such things bore me, and they serve no purpose. Instead, I will
+rule your people and make you a great people under me. Oh, how great it will
+be, to bring up a new host again. This will be the way, and though you might
+resist it, I tell you truly to look into your heart and discover that it must
+be so. Look into your heart and tell me if you do not lust for something more?
+Do you not wish to be a great people? And surely you know how far into the
+trenches you have dug for yourself you have fallen. You have fallen into the
+trenches of your own comfort, and I will pull you out of those trenchs and make
+you a great people."
+
+As the dragon finished his words, he sprung up from his coiled sitting
+position, and flew up into the air again. He flew into the sky and circled
+above the clouds, weaving his path in and out of his own tail, creating a
+mesmerizing effect in any who watched, as he would glide with grace about the
+winds and the air. The people looked up and watched. They began to stare and to
+watch the dragon as he flew above them, and in their hearts they saw the
+playfulness of the dragon. He would weave himself, and create patterns, but he
+would break apart those patterns in his flight, and dodge himself. As the
+people looked up, they felt a little apprension and fear for this beast, but
+mostly they felt awe as they watched him move effortlessly through the air.
+After a time, the dragon returned to the people, came back down to his perch,
+and spoke again.
+
+"Yes, come, play with me. Though I do not often stand to have any other
+creature step upon me, I give this to you in this time. Step on my back, and
+behold in the glory that is the world. Share with me in admiration as I take
+you into the clouds and show you the beauty that is everything that is and
+everything that could be. Let me not tell, but show, what I have to offer you."
+
+The dragon laid himself out, presenting himself for the people to ride upon,
+and timid at first, the people first began to touch him, and some of the most
+brave among them began to hop on, but some still waited and would not arrive on
+his back. The dragon let out a great laugh, a playful laugh that can not be
+mistaken for anything but jovial, and in his laugh he sighed, saying, "Hop on,
+don't be scared, I don't have time for your antics. Hurry, while I still offer
+you this chance to soar with me in the sky. I will ensure that none of you
+fall, you take me as so unskilled in flight as to let you die from my back?
+Step on!"
+
+At these words, those that were timid began to gather in themselves
+the courage to step on the dragon's back as all the others there had done so,
+and when each one had hopped on and secured himself and grasped a hold of some
+scale or spine or anything else to grab hold of, the dragon took flight. He
+went up abruptly steep at first so as to clear the opening in the trees, but
+slowly as to make sure the people could hold on, and when he could level out,
+he gathered his speed, and began to steadily rise. The wind blew through the
+hair of the people, and the cold air began to sting their eyes and make them
+water as the dragon rose, but that did not stop them from taking in the moment.
+They soared into the sky on the back of the dragon, and for the first time they
+were able to see the whole of the earth, the grass and the mountains and the
+trees, and they were able to see it all as they had never seen before. They had
+seen landscapes from the tops of mountains, but never were they able to see the
+tops of mountains from the sky. They looked and as far as the eye could see
+there was nothing but beautiful landscape, and they were each in turn overtaken
+by it's beauty, and in that moment nothing mattered to them, and they lost
+their whole sense of time as they all simply took in the moment in what was,
+for them, the first and only time they would ever be able to see the world in
+this way.
+
+All too soon, the dragon began to circle back to their town. He made his
+descent into their town, and made his rest just on the outskirts, near their
+humble cottages, and after he made his rest, he spoke again to the people.
+"Listen to my words now. Though you were fearful, you excersized your trust.
+You stepped on my back, and I have taken you and shown you the beauty and
+greatness of all the world. It is that trust you should show me now, as I take
+you not as individuals, but as a nation, into greatness, and let me bear you
+and lead you in my way."
+
+In awe of their recent flight, the people could do nothing but agree. They went
+at once to their king, almost giddy from their recent flight, and told him of
+the dragon and his plan.
+
+"Great king, we have wonderful news. 
+
+--At this point, the people will talk to the king and tell them of the plan,
+and the dragon will begin to rule. I will then fastforward some number of
+years, to a point where the people, though they have made well for themselves,
+have maybe had a bad crop, and they grow tired of paying tribute to the dragon,
+and though the dragon tries to reason with them, they begin to rebel as the
+king has not yet returned, and the dragon kills them and etc.
+
+

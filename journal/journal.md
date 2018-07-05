@@ -1462,3 +1462,962 @@ to read Mistborn and break down that story in this way. That story is
 complicated enough to warrent this sort of analysis but not so complicated that
 I will get confused as to what I am doing and why.
 
+# 20180702
+So today I don't have much to say. I did have a dream last night, but it was
+mostly uninteresting, since when I tried to go to sleep in one location, I had
+my watch with the alarm for BJJ on it, but I could not go to sleep in that
+location because I just couldn't, so I went into my bedroom but didn't take the
+watch with me, so the dream was mostly about dreaming that it was a different
+time than it was, and I actually woke up at 3 o'clock after my dream self had
+convinced myself that it was past 7 o'clock. I knew as soon as I woke up that
+it couldn't be 7, and I checked the time and it was indeed 3, so I did some
+quick sleep math and determined I had two more sleep cycles, so I went back to
+sleep and proceded to have a dream where I created an absurdly massive joint,
+scraping off a bunch of weed (and dust) from a shelf onto a big sheet of
+butcher paper, and the entire dream was so absurd that I didn't even smoke the
+joint but just made it into two pieces and that was that. It was very strange,
+and I honestly don't even know how to roll a joint so the entire thing was
+quite absurd. I woke up knowing how absurd it was, so I am glad that at least I
+didn't wake up thinking I had smoked some weed like I have in the past.
+
+I will say I will be glad when this First Drug Offender Program gets started,
+because at this point I still have temptations (not to the point of acting on
+them, but to the point of amusing myself with them idly and subconciously as my
+thought will drift) since I don't know when the first time I am going to have
+to piss in a cup is, and it could very well be more than a month from now, at
+which point I could smoke weed right now if it weren't for my own self enforced
+probation. Obviously I am not going to, but I imagine that as long as my
+thoughts are able to entertain the idea that I could do it and probably get
+away with it, I will probably continue to have dreams like this, which is
+unfortanate, but it is just how it is.
+
+I visited my father on Sunday. He is doing a lot better than he was on
+Thursday. His fever has gone down, his diarehha has gone down, and while he is
+still certainly not anywhere close to recoverd from this thing, it seems like
+the worst of it is over. The climax has been acheived and at this point it is
+falling action. We didn't talk about much. I told him about our experince at
+the Bavarian Grill, which he got a good kick out of, and we talked about other
+things in between when the nurse was coming in and out and applying blood
+transfusions. The most notable thing is, as I was approaching getting ready to
+leave (and this is something that I will have to remember in the future, a sort
+of trick for handling emotionally driven moments, to have them towards the end
+of a conversation when arrangments require that one party leave at that
+moment), he brought up our relationship, mentioning that as a child he was
+always told to do things on his own, and he felt that he wanted to give us the
+opposite, to do things for us, because he never anyone do anything for him.
+Now, of course, I had thought about these things before, but never had I
+thought about his reasoning for doing all of the things before, that it was
+because he never had things done for him, and that he felt strongly that he
+needed to provide that for us, and he mentioned the time he changed my spark
+plugs without me there, and he said that he knew that it frosted me, and that
+he didn't know it would frost me so. And he apologized for it, and as I was
+driving away I thought about how I handled that moment. I could have handled it
+a little better, but at the same time I didn't want to just say "I forgive you"
+because that is too much like he is the only one at fault and I am applying my
+forgivness as some hypocritical saint, so I said something like "well I have
+known these things and thought about them, and though I knew them in my head I
+was too bitter to be okay with them (or something equally unweildy) but I don't
+fault you for it. You did a good job. You are doing a good job." and I was
+speaking softly, so he didn't catch the last bit, and asked me to repeat it, so
+I did. And then we shared our goodbyes I held his hand, which didn't have as
+much strength as it has had before but still had some, and as I walked out I
+said something like "I would tell you to keep getting better but I don't think
+I have to tell you that" to which he replied that no indeed, I didn't have to
+tell him that, and I made my leave. I don't recall if I said I love you (and
+the fact that I can't recall that indicates to me that I didn't because I would
+recall that if I did) and I remember thinking that I could have applied my
+forgivness, or rather applied my past forgiveness again, to that situation a
+little better, but still that I felt that it was a nice moment between us. Nice
+moment indeed.
+
+I also mentioned that lately, as this thing has been approaching it's climax, I
+have felt a stronger inclination to visit, and that I'm not sure where it comes
+from, but at the end there of our conversation I said that it eases my heart to
+see him, and indeed it does ease my heart to see him, and I am glad that I said
+that in that way. I thought about this, how it could be a selfish thing, and
+again I go on about being selfish here, but I meant it in an entirely unselfish
+way, and only just afterwards realized that it might be selfish, and so I can
+say that it could in no way be meant as selfish. It is one of those things that
+should only be said once though, I think for this very reason, because that
+statement is in a since selfish, as if I am only visiting him to ease my own
+heart, so I will not say it again, or at least I do not see myself seeing a
+situation where it would be appropiate to say it again. Maybe such a situation
+exists, but I can't forsee it so I think it is something that will be said once
+and not again, at least not in relation to visiting him during this time.
+
+I want to jump directly now to the short story that I have not brought myself
+to finish yet. It is rather a peculiar thing, that I feel as though that I
+should only write it when I feel so inspired, and that I shouldn't touch it
+otherwise. Indeed, what would be the harm in writing for it, only to entirely
+discard it and write it again when I feel so inspired? Would there be great
+harm in writing a sub par draft of the ending of the story? I don't think so,
+especially since I have a very sub par draft of the beginning of the story, and
+a subpar draft of the ending would be only appropiate. I guess this comes to
+the point of making my writing speak in volume rather than require there to be
+consistent quality every time I sit to strike keys on the keyboard. Indeed, if
+the concept of writing out some thousand words of a story that I am working on
+become a routine ordeal, and the concept of constanly weeding through and
+editing and finding structure in that which was written is one that I want to
+make part of my writing, then I think for sure I should entirely dismiss this
+idea of having my first draft be good, and instead simply sit down and write
+for the story without concern for whether on not I will be satisfied with what
+I write.
+
+Still though, this particular story I have such a fondness for, as I
+feel as though it is not my own story but instead entirely inspired by
+something apart from me. Indeed, I don't know if I still have the original
+recording, but I don't remember anything about the inspiration or motivation
+for that original recording, and I have no idea where the idea came from. I can
+only imagine being so high in my room, thinking about my nihilistic thoughts,
+and coming up with this story to directly express them.
+
+What I love about this story is that it has only three characters, the Dragon,
+the King, and the People, each entirely different, each with different
+motivations and motives and all of that, with different reasons for doing what
+they do. In fact, this is the first story with characters that I have felt
+don't neccesarrily fit into a mold like my other characters do (since I am very
+much not a character person). The king is very much a part of me, but the
+dragon and the people both represent ideas that are very much not a part of me.
+Indeed, I don't empathize with the people, and I don't empathize with the
+dragon. Instead, they are concepts, reflections, of what I think those
+characters should be like.
+
+At the point I am in the story right now I have just written up the ritual, and
+I was interrupted (I had to go to yoga) at the point where the dragon was
+summoned, and the people began to tell the dragon of their plight. I do not
+believe I have written it yet, but I want the people to tell the dragon about
+their problems, and for the dragon to insist on leading the people in the kings
+place. I want this to be almost forced, I want there to be a sense of fear in
+the people which is invoked, and I want the dragon to insist that this is the
+way it must be. I have a line in my head "For what reason would you come all
+the way to this pilgramage, to summon that which you have fear of and request
+guidance from, if you are not to listen and obey when that has spoken?" I want
+to liken this to some myth right now, but maybe I have been reading to much
+epic poetry and should leave the references out of it.
+
+# 20180703
+So I want to get this down before I forget it. This dream I had last night was
+not too spectacular, but it is definitely worth writing down and setting off my
+thoughts for this journal article with, as I feel there is definitely something
+in it. Before I talk about the dream though, I want to say a little bit about
+my night. So last night was what I would consider an ideal night. I went to bed
+promptly after stuffing myself full of a turkey sandwich and a PBJ, along with
+what must have been over a half a gallon of milk, before I laid down to rest
+with my full stomach and my tablet. I woke up around four o'clock, which would
+have been a good five cycles of sleep, all dreamless to my recollection. When I
+woke, I got up and played the second part of the opus whatever it is of
+Chopin's nocturnes in F minor and Eflat major, and I promptly decided that I
+don't particularly care for this set and have elected to print out another to
+occupy myself at the night like this. The second one is interesting, but I
+don't have any emotion to it. I do find it neccesary to associate myself, or at
+least become familiar with this sort of disconcordant harmony which I have
+subconsciously stayed away from in the past simply due to the fact that it is
+unfamiliar to me, but I quite like the sound of it when it is played well, and
+I would like to familiarize myself with it so that I can better parse it and
+understand it, so that my understanding of music as a whole will become more
+enlightened as I continue on this path of neglecting my worldly
+responsibilities in favor of indulgence in these fine arts. After I was
+finished with that nocturne, I then went back towards the reading of the Grand
+Inquisator of the Brother's Karamazov, and though I found it extremely lengthy
+and unneccesarily archaic (at least the tranlsation by Garnett is so), it had a
+cool little punch at the end, I liked the climax, even though I knew how it
+was, but mostly I like where it fits in the story, rising tension happening
+everywhere, and even so our characters are able to discuss this matter of
+philosophy as if it is more important than all of the rising action that is
+going on up to this point. Quite interesting indeed, if not a little pompous,
+but the author makes note of this pompousness quite explictly, so it can be
+excused as it is excused by the author himself.
+
+But all of this has nothing to do with the dream I had that followed. Like most
+of my dreams, I don't remember much of this one except that it had to do with
+Crossfit. This Crossfit setting is different than the ones I've had in the
+past. This one was a rather small gym, one story on the surface level (not the
+one with the basement that I usually associate with Crossfit competition) with
+one opening that faces west. And the fact that it faces west I know to be true,
+or at least, I know that the direction the opening faces I strongly associate
+with Left. This gym is much smaller than the big with with the pullup rig that
+goes all around it in a square with two openings, this one is shaped rather in
+two sort of rectangle areas, each connected, the northern one being more like a
+square, and the southern one being more like a rectangle. And in the square
+area, as will become relevent in the dream, there are two sets of pull up
+rigs, one that is more reachable, and another that one would have to climb up
+in some way to get to. However, the person on the upper pull up rig in the
+dream is simply up there, and I did not think of how he got up there or how I
+or anyone would get up there in order to use it, rather it was just a feature
+of the gym that you could get up there and that it was completely normal. What
+I remember about this gym is walking in, and talking with the owner. How I knew
+he was the owner, I don't know, but he was and I knew it because it was a dream
+and you just know these sorts of things in dreams. I don't remember the
+conversation I had with the owner, but I do remember that it mostly involved me
+asking him some questions, questions about his gym and such, and that the
+nature of these questions was that I was asking him as if quizing him, not
+because I had questions that I wanted answered for myself, but because I wanted
+the answers from him so I could learn his answers. These are the sorts of
+questions that I would ask (and have asked) Crossfit box owners about their box
+in order to size them up. I then transitioned to talking about the workout we
+would do for the day, to which he defered me to one of the others in the gym. I
+must remind you that this gym was quite small, so while we were talking in the
+southern part of the gym, there were two others who were working out in the
+northern part, and the four of us brought the gym to its highest comfortable
+capacity. Surely there could have been more in the gym to work out, but any
+more than the four of us would have made the gym feel croweded. So I take a few
+steps over to the other section of the gym, and I ask one of them what the
+workout of the day is. The two people were already in the act of working out,
+but not "doing a workout" or "WOD" as crossfiters would say, but instead doing
+working sets and resting in between. So the person on the lower set of the
+pullup rig, who was in between sets, begins to describe to me the workout that
+they are doing, and the first thing he says is that it involves ninety pullups.
+At this I inturupt him, saying that I am meant to do ninety pullup per round?
+in a questioning way, because I knew this was supposed to be a very metcony
+workout, and I knew that though I would be able to complete whatever workout
+they threw my way, I also knew that ninety pullups per round would work much
+more of a muscular endurance aspect of the movement rather than the breathing
+heavy aspect, so I asked him something like "really, ninety pullups per round
+or do you mean something else?" And then he replied something like, "well yeah,
+we do things seriously here." which didn't answer my question at all, and I
+immediately dismissed him as a foolish meathead who only concerned himself with
+big numbers and used that to determine the quality of his workouts. The person
+on the higher pull up rig, who was on top of it, who had overheard our
+conversation (and how could he not, he was right there), then replies that no,
+it's not ninety pullups per round, but instead nine pullups at the start of
+each round, making a total of ninety. I then thanked him, and entirely
+dismissed the first athelete, and focused my attention on this other one,
+saying, "Okay, so describe to me the workout, it is 10 rounds of nine
+pullups..." and I left the statement hanging there as if he were to finish it,
+but then he did not. Now, I cannot remember if he went back to his workout, but
+I think what happened is they both became a touch confused the first one more
+so and the one on the rig I think more amused than anything, and this was near
+the end of the dream, so I never got what the other movements of this workout
+were meant to be, and I certainly didn't get to the point where I was ready to
+start it. And that is where the dream ended.
+
+I also find it pertinant to say that I did have some sleep paralysis at some
+point in the night as well. I don't remember at what point in the timeline of
+the night I had this paralysis, but it was accopanied by hallucinations again,
+which now that I am aware that I do indeed hallucinate during my sleep
+paralysis, I am made aware of the fact that the people I am imagining coming
+into my room are not real, and I was able to rest easier and almost enjoy the
+feeling of paralysis. Yes, enjoy is the word I would use. And in order to
+justify my use of that word I should say a bit about yesterday.
+
+Yesterday was a rough day for me. Currently I have been assigned a programming
+case which I am not quite sure at all what to do with, and instead of working
+on it I continued to work on learning Russian (which I think I have finally
+narrowed in on a couple of primary resources I want to use, as well formulated
+my conception of how I want to help myself learn vocabulary, so the hours I
+spent yesterday, though they felt in vain a bit, were acutally quite fruitful
+in my whole endeavor) and writing the story of the King and the Dragon, and
+doing all sorts of other unproductive things, unproductive in relation to my
+work at least, and I began to feel quite guilty of it all. That, coupled with
+the empty stomach (I had not eaten enough the night before) and the feeling of
+tiredness (which I blamed on the fact that the people of Alliant take great
+concern in me taking a twenty minute nap during the afternoon, which I can
+understand their jealousy of, but we would all be better off if we could take
+such naps) led to a rather shitty late afternoon, which was only redeemed what
+I was able to steal a nap during the spine strengthening series of Bikram Yoga
+which I dread so much. I really hate the poses involved in the spine
+strengthening series, I think they are silly and dumb and I don't like them,
+which they would say indicates that they are the poses that I need the most,
+but I disagree, saying instead that I would much rather work shoulder related
+poses in that time as my shoulders need so much more opening than my spine
+needs strengthening, and the soreness I feel in my back come entirely from that
+god-awful series. I digress. The point is that I had a rough day yesterday, and
+in reflection of that day I determined that it was mostly caused by lack of
+sleep and lack of food, both of which are things that are in my control and
+both of which are things that I neglected the night before, the food much more
+so than the sleep as, though I know certain things that hinder sleep, I don't
+have quite as much control over that aspect than I do the ability to jam food
+in my mouth.
+
+And that is why I say I could enjoy the sleep paralysis. Once I knew the
+hallucinations, I was able to determine, by looking at my door, that indeed it
+was shut, and the going in and out of my room that I thought I heard was indeed
+hallucination. Indeed, if I describe the hallucinations as if I thought they
+were real, I thought that what I saw was someone entering and exiting my
+apartment, I heard the door opening and closing (and since I forget at what
+point in the night these hallucinations happened, it is plausible, though I
+think not likely that these door sounds could have been real), and I heard
+speaking, as if there were someone talking to someone else as one worker would
+talk to another about the work they are doing, and I thought I even saw the
+figure of someone over my box which I am sleeping behind right now. However, I
+was able to look over to the corner of my door, and I saw that the sound of the
+door opening and closing was not accompanied by my door actually opening and
+closing, so using this I was able to determine that the hallucinations were not
+real and I was able to let myself rest there more soundly. In fact, I at that
+point attempted to embrace the feeling of paralysis, because even though I know
+the ways to bring myself out of the paralysis when it happens (focusing on the
+breath is the biggest one, and ensuring that it goes in and out in deep full
+breaths) I knew that the paralysis was a good thing. I knew that it wasn't time
+to wake up and that I wanted to continue to sleep, so I embraced the paralysis,
+and was glad in it. And that feeling of paralysis suddenly felt pleasurable. It
+was the kind of pleasure one feels on the toungue when you place a tasty bit of
+food on it, but instead of simply feeling it on the tongue I felt it throughout
+my entire being (since the body is paralyzed, the concept of feeling a
+sensation at a certain part of the body is gone entirely, so that all of your
+sensation is the sensation of your being rather than the sensation of any
+particular nerve). This sensation was not pleasure, in the traditional sense,
+like one might think of orgasm though, instead this was the feeling one gets
+when you lay in your bed and you know you should get up, but you don't, except
+instead of having the ability to get up and feeling all of your limbs be heavy,
+you don't feel heavy limbs but instead feel as though you are just a spirit in
+space. This feeling can be very scary, especially if you try and resist it and
+attempt to move your limbs (which I remind you are paralyzed), but once I was
+able to accept it and realized that it was the feeling that I wanted to
+embrace, I was able to embrace it, and then I returned to sleep.
+
+--
+
+I feel very compelled now to write about the dream I had. This dream was very
+vivid and involved the consumption of Marijuana and the subsequent drug testing
+that would happen, along with alot of other symbolism involving my mom, the
+setting and other things, that I do truly have to write about it. This dream
+happened after a nap occuring on July the third, after we were dismissed early
+from work, and I decided to lay my head down despite the fact that I knew I had
+signed up for Bikram yoga that day at 5. This dream actually occured
+immediately after I had woken up at five o'clock almost precisely, and saw that
+I would indeed be missing my Bikram yoga class for the day.
+
+This dream began in a house that was almost exactly like the Franda's, a dream
+location that I know I have had before, and which truely was the spitting image
+of the Franda's old house from my childhood. In this location, on the stove,
+there was a bit of Marijuana, and for some reason, which I had reciprocated
+with my mom, who agreed, I had determined that it was required for me to take a
+hit of marijuana, and subsequently get drug tested immediately following, in
+order to mark the beginning of the process which I have literally just today
+signed on to. So in the dream I had rolled up a joint (in these dreams it is
+always a joint even though as I've said before I don't know how to roll a joint
+in real life and the joint is very much not my prefered methode of consumption)
+at the stove of the Franda's, and I took a sort of ritualistic hit, savoring it
+as a convict on death row might savor his last meal (that analogy is mine in
+this moment, I wasn't thinking about death row in the dream, but I simply
+wanted to emphasize that I savored it as a man condemned might savor something)
+before proceeding to talk to my mom about what needs to be done. I discussed
+with her the plan, and after I had taken the hit, I came to her, or she to me,
+in that place of the Franda's, and talked about what needed to be done. I gave
+her the paperwork, and we went together to the place where I was to get tested.
+Now, this place, which was just down the road from the Franda's place where the
+dream started, we were able to walk to, and I know I have been to this place
+before in my dreams, although I forget in what context this dream location
+exists, but it's description I will describe now. In the bottom floor, you walk
+in from the corner, and the first thing you see straight ahead is door to an
+inner stairwell which leads to the upstairs area, which when you are in the
+upstairs area is not really upstairs, but to the left and right of this stair
+well entrance, coming at ninety degrees from the corner through which you walk,
+is a big open area, one could imagine being in an airport or stadium or
+something else that has this area, and to the left there is a laser tag
+section, which I have had dreams about before, and to the right, I'm not sure.
+This area reminds me very greatly of some other dream locations which are
+appearing to me as a write this almost against my will, as I try and imagine
+which dream area this one truely was, I have all these other dream locations
+appearing in my mind, so this location must have some sort of significance to
+me. Regardless, we, me and my mom, looked around this area, left and then
+right, before deciding that up was the direction we needed to go. And I want to
+mention at this point as well that this place was a place intended for
+children, that this establishment was created for the amusement of children,
+similar to Chuck E Cheese or similar, but for slightly older children, and as
+we went up this stairwell, which the stairwell itself had this sort of
+steampunk back alley feel to it, as if the walls and floors hadn't been cleaned
+in years, we made it to the up stairs area. Now this upstairs area, as you walk
+up into it, had this peculiar feature. There was a sort of walkway, where as
+you come up the stairs (there was no exit door to the stairs, even though there
+should have been) on your left is a wall that comes up to about chest height,
+which when you get high enough on the stairs you can easily see over into the
+room to the left, and this wall goes on from the top of the stairs a good way,
+maybe three or four yards, until you get to the top right-most of the room,
+which has a doorway into the "employees only" area of the room. Upon coming to
+this sort of walkway, I look to the left to see many children in roller skates
+going around on this roller rink, as this upstairs area is a roller rink, and
+the wall that you can look over marks the edge of the rink. Evenutually the
+wall comes down, to the floor where the rink meets the walkway, indicating the
+perimeter of the rink, and the entire place was dark except for one opening
+that was past the walkway beyond the chest high wallway where it is open and
+leads to somewhere with light. I want to talk about this place with light for a
+moment, because it does not simply lead outside, but it leads to another
+portion of the dream area which surely must represent something else to me,
+but I don't know what in this moment, and I don't know if I have ever been
+there before, but I see in my head right now a sort of air hanger area, a
+garage sort of space, where you could imagine that airplanes are kept, antique
+single passengers airplanes, but this area does not come up again in the dream.
+I don't know why this area feels significant to me, but it does. Regardless,
+when we reach the top of the staircase, we are greeted by a man, clearly a
+young kid no older than me or at the very most my age who works there, and
+seeing this peculiar thing of a grown man walking up these stairs with his mom
+to this place clearly intended for children, he inquires if he can help us. I
+take a breif glance to my mom, who gives me the gesture to take care of this as
+an adult would, and I speak to him and request in that moment, to be
+administered a drug test. Actually I asked first if they administer drug tests,
+but I didn't wait for the answer and simply then requested to be admistered
+one. He asks me for my paperwork, which I remember pulling out of my pocket,
+and looking to my mom as if to ask in one moment of eye-contact "this is
+correct right?" to which she nods. After procuring the paper-work, he then asks
+me, "and this drug test is meant to return clean is it not?" to which I at
+first say yes, of course, but then remember that I had taken a hit of the
+joint, and at that moment the reason for taking that hit escapes me, and for
+the first time in the dream I start to realize that maybe the reason I took the
+hit was illegitament, and that I just come up with it as an excuse to take a
+hit, but I then thought that that, also, was an absurd thought, and that I had
+distinctly remembered being against taking the hit at first but indeed did have
+very legitamte reason for doing so, but that reason was escaping me. I tried to
+explain this to the worker there, who looked at me with a sort of guilty
+glance, as if he knew that I was full of shit, and I remember asking to call my
+attorney after the test had been done, or I actually asked my mom to call the
+attorney, because she didn't know the reason for my taking the hit. Eventually,
+after the judgemental (that's the word!) glance from the attendent there lasted
+a bit, I remember asking to be adminstered the test anyway, and to let it come
+back positive and that I knew that that was the plan, although I was second
+guessing myself the entire time. The attendendent, still with his judgemental
+look on his face, takes me through the employees only area at the back right of
+the room from the stairs, and in this area is a kitchen area, much closed off
+from the rink area and much more enclosed and almost even claustrophobic, and
+in this kitchen area is an employees only bathroom which I am led into. This
+bathroom was a single person restroom, and was quite unkept, being very dirty
+and rusty as a neglected outdoors camping restroom might be, and in this place
+I took all of things I had in my hand and put them on the sink which was there
+next to the toilet, and I found the cup I was meant to pee into. In all of
+those things I also saw my phone, which I thought about the illigatamcy of the
+whole thing (as if I could somehow produce clean piss from my phone) and
+thought about using it to get the reason for taking the hit from my attorney,
+but I knew my mom was calling him so I didn't. So at this point we are nearing
+the end of the dream, as I took the cup, and also this device which looked like
+a pregnancy test, and I started peeing into the cup, and interjected this other
+testing device between the stream and the cup, and immediately the device
+showed a blue line indicating that the urine was not clean (which I had for
+some reason thought it wouldn't even though I had just smoked weed earlier in
+the dream), and I began to go into a sort of calm panic, if that makes sense,
+knowing that panicing wasn't worthwhile in that situation, but not having any
+other sensible thing to do. After doing this, for some reason to complete the
+task I had to apply a sort of sticker to the underside of my penis, which had
+become incredibly erect all of a sudden, as if it had been erect the whole time
+and I hadn't realized it, and I heard my mom outside talking with the
+administer of the test, speaking about just how clean I had been the past days,
+knowing it to be true, and also talking about how I had given up masterbation
+as well, and how she was so impressed by it, and that he must have had a good
+reason to smoke the marijuana because he has been otherwise extremely faithful
+to staying clean. So as I am applying this sticker thing to my extremely erect
+(and to go into detail, very veiny and almost even the texture of glass, as I
+thought about how it resemebles the pipe that I like to smoke out of, and as I
+thought this the veins started to resemeble strongly the artistic markings on
+my pipe, and though I have made the pipe/penis analog in my head before, who
+hasn't, I had not made the analogy of the veins to the decorative marking
+before), as I am applying this sticker, and listening to my mom talk so highly
+of me, I felt as though somehow everything would be okay. I thought about how I
+did not have even the slightest compulsion to stroke that large penis to orgasm
+so as to lower it, but instead I just let it be entirely erect and did nothing
+to try and prevent it. So I applied this sticker to the underside of my erect
+penis, and closed up the cup and put all of the things aside, and that was the
+end of the dream. The dream ended before I knew anything about what would
+happen as a result of that test.
+
+I will remark that I did have a bit of wood as I woke up, (although not nearly
+as much as the dream would have indicated, just a slight chubby that went down
+rather quickly after waking) and that this was one of those times where I had
+to gather myself and remind myself that I had not in actuality smoked anything,
+and I want to say that I felt rather dehydrated and "numb" in a way that I
+sometimes do when I take naps of this single REM length. Indeed, when I woke I
+found the length of the sleep to be exactly one sleep cycle, as I woke at 6:35,
+which would mark out exactly one full cycle of REM sleep. I then lay there,
+deciding to wake up, and I have been writing ever since, which has taken just
+under an hour to do.
+
+I could have dismissed this dream a simply another marijuana dream, but there
+seems to be something more here, the images of unclean area, the judgmental
+(and now that I think about it probably hypocritical) look on the attendents
+face, and the fact that my mom is there, and that she knows about my giving up
+masterbation (I have told her about this before and we have had discussions
+about it), and the peculiar erection that I had towards the end, all point to
+something, but I can't put all the peices of it together, but I can only leave
+it as it is so that one day maybe I'll read it back and still not know what it
+all means but instead will simply just live with it being there. The dependance
+on my mother is what troubles me the most, similar to a past dream I have
+written about, where it is simply there, and as much as I don't want to label
+it or assign it anything, I can only think that I dislike that aspect of my
+subconscious, and it gives me curiosity as to when that aspect might go away. I
+don't know.
+
+--
+
+At this moment, now, I have a compulsion to write. Indeed, there is this story
+that I have thought of, that I haven't had the time to discover yet, but I
+think it is time to discover it.
+
+Inside of me, there are four characters. Each of these characters falls on a
+different end of a two by two square, the sorts of two by two squares that are
+a part of any good ted talk, the kind of two by two square that always aims to
+oversimplify something so as to make it understandable to the most stupid of
+audiences, stupid in the sense that even though the individuals in that
+audience may each be intellgent, the intersection of the intellegence of the
+whole of the group could be said to have the IQ of only the most dull of farm
+animals. The sort of stupidity that smart people will see be able to apply to
+their own intelligence in an intellegent way, but when taken on its own and
+analyzed as it's own work is taken as nothing but a gross oversimplifaction of
+a vast and varied topic that scholars of many ages have wrestled with through
+debate across grand scenes with wide implications on the thought and cultures
+of our people.
+
+My square is thus: on one dimension, we have the belief in Christianity, in
+God, the God of the bible, and on the other dimension, we have dogmatism in
+belief. So you can see the four extremes of these two spectrums. On the one
+extreme end, we have the dogmatic Christian, believing in Christianity wholely
+and completely, taking part in rituals of faith. On the other extreme end, we
+have the dogmatic Atheist, in all his grossness of oversimplifications. Next,
+we have the concept of the accepting Christian, similar to say Grant or Tim in
+my own life, and then we have the character most representing myself, the
+skeptical agnostic, seeing the reasonablness of everything and taking as few
+axioms from the world as he can.
+
+In my work, I will make no attempt to glorify the character representing
+myself. In fact, I would very much like the reasonable Christian to be the
+focus of the work, and have him be the protagonist in the story.
+
+How these four become friends, I do not know yet. What brings them together?
+What is the thing that makes these four inteact? It must be something wholly
+unrelated to Christianity, some worldly pursuit that they all share. Maybe they
+all play on the same sports team? I think for this story to work, it must be
+written like a novel, similar to something like Anna Karenina, where the
+characters each have their own affairs and their own dealings, and I need to be
+able to explore each of them as individuals, and in pairs, and all together, in
+order to get the whole of my work written in adequete fashion.
+
+What is the setting of my story? I have failed to mention a fifth character,
+the fifth cardinal direction, of a man, a hermit, taken as a spiritual figure,
+who dies at the time of the characters, and found are his notes, his tomes, at
+first scattered, but later compiled and put together. These writings will be of
+my mythology. And at this point it is important to lay out the mythology of the
+story. I want this man to tell his mythology in dreams, and in visions. I want
+the mythology to be revealed through the lens of this hermit. I also want to
+very much explore the mind of the hermit. I want there to be articles written
+by him which are simply idle musings by him, where he questions his own visions
+and questions his motivations for hermitage. I need to seclude myself for some
+time in order to truly acheive this effect. When will that happen? I don't
+know. If I am to marry and have children, I don't know when that might occur.
+But I hope for my sake that it does.
+
+I don't know what will be my mythology. So far I have several disconnected
+stories, and I hope that through my dreams and my sparks of ideas that I have
+and write into this journal that I can come up with an adequeate mythology. So
+far I have the story of the King and the Dragon, but that is more of a tale
+than a mythology. The dragon and the King would fit more in the history of my
+world, similar to how Tolkien's middle earth is really an alternate history of
+our earth, rather than a part of the mythology. But still, I need a mythology
+as well.
+
+How this mythology interacts with our real world, I am still not sure yet. I
+want it to be through prophets and such, but I want the prophets to be
+unreliable. I don't want there to ever be a sense of these people knowing for
+certian the mythology. However, I want their stories to verify eachother
+independently. This is difficult to do without making their stories self
+fullfilling. In fact, that could be a crucial aspect of the whole thing as
+well, including prophets who are found to be false. I also want to include real
+prophets from our time, your David's and your Isaiah's and Mohammeds and such.
+I want these prophets to be used more as reference though, I want the prophets
+in my story to reference these and perhaps be aware of them, but I don't want
+them to actually be a part of the mythology.
+
+All of this is so mixed up in my head as to what I want. So far the only
+original creation that I have is the character of Fice, who is a sort of
+Devil's accomplice, as well as the original idea of the headless angels, those
+that lose their way and impale themselves in order to gain their flight again.
+Both of these concepts are very much concepts conceived of by my college self,
+and I think that I have to let go of them because I didn't write about them
+when I was in college, and those concepts and ideas are not so dear to me now
+as others are.
+
+I have a very strong inclination to talk about injustice, especially due to the
+recent events of my life, the events being my dad's diagnosis of Lukemia as
+well as my being charged with a felony. The adjudicator is a member of this
+mythology.
+
+# 20180704
+So I woke up today thinking only about how much I didn't want to go to yoga. I
+would so much rather sit here and describe my dream. So that's what I'm doing.
+
+So this dream starts at the parking lot of this sort of crowded ocean location.
+Or at least, I'm pretty sure it's the ocean, although thinking on it, the water
+is much too still to be the ocean and it is probably a really big lake. If I
+had to give a location for this whole thing, it would probably be the sister
+city of my dream location of Seattle, so I suppose this is dream Portland. It
+only makes logical sense. Anyway, I would like to spend a few words describing
+the location. So as I said, this location is a massive lake, so massive that I
+didn't even think to look out to the other side and see if it were possible to
+swim across, and having woken up now, as I said, my first inclination was that
+this was the ocean, but thinking about it, and thinking about exploring the
+location in my mind, I know in my mind that if I were to get in a boat and
+travel across it, I would certainly reach the other side, and I could go around
+in a circle and go along the perimeter of this lake, so it is indeed a lake,
+just a rather large one. That, and I know for certain that it is fresh water
+rather than saltwater, and that the water is relatively still. So at the sort
+of "popular entry point" to this lake is a parking lot, a rather small one for
+the number of people that were here, but such things don't have to make sense
+in this context. Somehow these people are all here, all of which are visiting,
+and all of which somehow made it there without needing a spot to park. The
+wonders of dream logic. From this parking lot, there is a sort of floating
+bridge. If you can imagine the floating docks that you see at certain places,
+that rise and fall with the tides, this place had many of these sort of
+floating docks like this, but they were all connected in a wide web of piers
+and bridges, all of which connected off of this one parking lot location. I
+also do know, similarly to how I know that this body of water is a lake, that
+there are other connecting locations for this dock network, and when I say
+other connecting locations, I mean just one other, now that I think about it.
+So this whole dock network, which is actually more solid than these floating
+docks now that I think about it, has many different nodes and areas, some
+covered, some not, all of which are different and unique in their own way, and
+all of which are connected by these bridges in their own way. One can imagine a
+children's playground, the sort of playground with a few circular areas, barred
+off, with little children bridges between them, but all adult sized, and most
+of them meant for adults to come to and lounge at and fish from. Because that
+was what a lot of people were doing in the dream, not only the people who I
+know in the dream, but just a lot of people, were fishing from these location
+where it was appropaite. So the scene having been described, that is honestly
+most of what the dream is. The dream starts with me parking my car in this
+parking lot. I do want to mention that this is very much another dream I have
+had of me living in my car. I was living in my car in this dream. And I don't
+know when this first event happened, if it happened while I was in the car,
+before the dream started, or if I farted a little too vulptuously in the dream
+itself, but for a vast majority of the dream, perhaps even the entire dream, I
+had come to this place for leisure, but the entire time I was looking for a
+restroom, because in the dream, either before or during like I said I don't
+remember, I had farted, but instead of a fart it had a little bit of poo in it,
+and the entire dream I was attempting to find a restroom to take care of the
+mess I made. Now, I am very much reminded of the time in Seattle that this did
+indeed happen to me, but in Seattle when it happened, I immediatly (like a
+thinking and reasoning human being would) checked myself, realized I had shit
+in my pants (not a lot mind you, but enough that the term "I had shit in my
+pants" is a reasonable thing to say), and took off the underwear I was wearing,
+wiped myself breifly with the clean part of it so as not to spoil anything else
+in the car, put on new underwear, and promptly threw the soiled underwear in
+the nearest dumpster. I was a bit embarrassed by the event, but I knew that it
+would all be okay, and that I was the only one who knew anything about the
+whole thing, so I didn't concern myself with it. However, this dream was not
+like this, for some reason I had determined that I needed to find some sort of
+restroom in order to right this situation, and the entire dream was spent going
+from person to person, being as cordial to them as I could while still finding
+my way to a place where I could take care of my situation. So as I step onto
+this pier web structure (because the whole point was to enjoy the scenes and
+the view, which unfortanatly as you will find, I woke up before I could do
+that) I step on and go along the first part of the bridge. At first it is
+uncovered, but after a few dozen steps you go to a covered area, and this
+covered area also has a wall at the back, towards the left side when you enter
+it, and it comes to a sort of semi-circle area, which is wider than the bridge,
+and could be said to be the first stopping point on this network of bridges. As
+I get to the covered point, I had a sort of out of body dream experience, where
+I took the point of view of a diver watching the fish take the bait, and I
+overheard too people talking in this dream about thier fishing experience,
+which is what prompted the out of body moment. I heard them talking about how
+one of them caught a shark, and as he described it I could see the shark
+grabbing thier bait and hooking on their line, but the shark had been eaten by
+a whale, and as I heard him say that I could see the whale devour the shark in
+a whole bite, the shark being one of those smaller sharks (although still quite
+large) and the whale being of larger size then the shark, large enough for the
+whole of the shark to fit in it's belly with minimal chewing, and mostly just
+swallowing. Indeed, it would be appropiate to say that the whale swallowed the
+shark. Having witnessed this scene from under the water first hand, my breif
+out of body experience returned to my body, and I saw the fisherman holding his
+pole with all his might, struggling to reel it in, with the tip of the pole
+bending in every way, as he wrestled trying to pull the whale in, and he was
+wholly dissapointed because he wanted to catch the shark, but he wanted to
+salvage his pole now at this point, so he was forced to struggle to reel in the
+whale. I then left these fisherman to their task, and continued along the way,
+and as I continued along, I saw under this covered area and stopping at the
+first sort of stopping point, were Kyle, Mom, and Evan, fishing in the center
+with my Dad. The four of them all were there, but Kyle and Mom and Evan only
+took notice of me and kept to whatever task they were doing (I don't think they
+were all fishing, I know Kyle and Dad were, but I don't know about Mom and
+Evan, and I am honesly not even sure thinking on it if they were a part of this
+dream at all), but dad stopped me, and wanted to talk with me. What we talked
+about, I don't remember, I only remember him holding his pole there, as he was
+inbetween casts, and I sat down on the edge so as to conceal my uncomfortable
+poop situation from my father as much as possible. After a somewhat breif
+conversation that I was not listening to and only making the slightest replies
+of, I mentioned that I wanted to go, and my dad let me go, but not before
+making a remark to my smell, saying something like "you smell awful. What is
+that?" to which I said I have no fucking clue and I got up and left, thinking
+only about continuing on this path and looking past it towards a bathroom. And
+after examination of the rest of this network beyond this first stop, I saw
+multiple "nodes" on this network which were covered fishing nodes, each one
+unique in its design and construction, even the bridges between them being
+unique also, and I saw a place designed as a restroom a few nodes away. So I
+begin making my way towards that direction, but I have to stop at another node
+there as well, and as I come up to this node, this one being a sort of circular
+node that was covered but was open in all direction except for the bridges that
+connected to it, (which both connected to it in one corner of the circle, and I
+know circles don't have corners but I mean corner in the sense that only a
+small arc of this circle contained the bridges that connected to it and the
+rest was open out, not entirely to open water as it faced more of the network,
+but to a sort of openening in the network that gave access to a good chunk of
+water), and when I came to this node, I examined the family that was fishing on
+it to determine that it was Chuck and Michelle and Jessica and Chase. The only
+people concerned my coming up to this node were Chuck, who was sitting in the
+center of the node on top of what I somehow knew was an expensive ice chest,
+and Michelle, who glanced over her shoulder and made an amicable gesture to me.
+I stopped there and talked with Chuck for a bit, but not about anything that I
+remember but instead just simply a short conversation, and I do remember
+Michelle making more than an amicable gesture now that I think about it, but
+she offered to give a spot for me if I wanted to join them. I respectfully
+declined, and said that I was there more to explore, and I actually inquired to
+them that I was looking for a restroom, and I wanted to confirm that the node I
+was looking at was indeed a restroom. They replied that yeah, it was, almost in
+a sort of way that said, "But why would you want to go there?" but they gave
+their confirmation none-the-less, and thanked them and made my way over. As I
+walked over there, I looked out to more bridges and more nodes, and at this
+point I was getting to the point where I was approaching sort of the far edge
+of this network of bridges from my parking location, but not entirely the far
+edge, but still I knew I was about as far out as it would get from the parking
+location, and I came up close to this outhouse. Now the way this outhouse was
+designed, it was an open area, about chest high, with a door on the far end
+that I was approaching it, and as I made it there, there was one person there,
+I'm not sure if he was waiting for it of if he had just used it, but I felt
+comfortable that I could go around him and use this toilet/outhouse area as no
+one was using it and he was making no moves to enter it himself. And about the
+time I was about to enter it (I didn't even see it in the dream, so I can't
+describe what it looked like) I woke up.
+
+Now I do want to say, when I woke up, I had to check myself a bit. I was
+wearing loose sweat pants, my pants that have vegas and dice printed on them,
+and I did a quick check to make sure they weren't soiled. I have not even to
+this point used the restroom, not even to pee now that I think on it, but I do
+have to poop a little bit, but not near so much as to warrent this dream.
+Rather, I think it represents something, rather than an inclination to need to
+poop, but instead it represents my apprehension to engage with others at the
+embarrasment of the actions I have made. Indeed, shitting myself is a sort of
+metephor that has been used by others to say when someone has fucked up. "He
+really shit himself this time" and I think I understand after this dream that
+the actual act of shitting myself in the dream came before my realization of
+teh phrase, and I only just now remembered the phrase. It could represent my
+choices to neglect my work, and in that way I have shit myself, and that is on
+my mind, I know, so that could be the source of the dream, but I find it
+strange that the main characters of the dream, and the ones I'm most embarresed
+to make contact with, are my family and extended family, so I think it might be
+a little deeper than this one case that I am failing to work on at work. But I
+don't know.
+
+--
+
+Of the Father of Man
+
+When they had gone through the hermitage, and found all of the belongings of
+this man, let it be remembered and kept, the account of the mans notions and
+visions of this world that he claims to have found, to have understood as the
+real. The truth in these words I leave it to the reader to decide for himself,
+for there are many things that some claim to be true, and must be navigated
+carefully, but their truth is not always in fact but in their life. So this is
+the life of the Father of Man, and the telling of it by the prophet. And so it
+begins.
+
+Of the beginning of everything, I wish to tell. Of the nature of man, and of
+that which bore into him, which fled into his soul and gave him life, I must
+tell of everything, for in this everything else is born. Yes, even God, and
+Jesus, and the Devil, these beings, these spirits, these Divine Souls, yes even
+Zeus and Hades, and Allah and Yahweh, and so many more that people do not know
+about or have not even found to write about, I have seen them all. All, and
+one, all from one, they have come. From this One, this way, I wish to speak. In
+the beginning of all things, I begin my ramblings.
+
+Oh, who am I, but a simple man of flesh, to have seen these things. To have
+seen those spirits of the world where Chaos becomes Stillness, and Death
+becomes Life, this upside-down place where no man is meant to go, this place
+where time travels not forward or backward or even sideways, this place that
+only the most wise and most in-tune of us get to visit. How blessed am I to
+have seen it, but how wise I am to know that words will ever and always fail to
+describe it in it's glory and justice. For what is this world if not the
+embodiment of our ownselves? Indeed, I tell you that all of us, every one of
+us, can see it and go there, but so many, only woefully too many of those with
+feet that step upon the Earth, the mighty and terrible earth, will seek this
+land and even see just a glimpse of it. Is it divine intervention? No, it is
+mortal intervention, intervention of the soul, yearning to see that which makes
+up the fabric of our existance. I have seen it, I have seen it only through the
+lens of my blurred and immortal soul, and how inadequate my soul is to even
+begin to attempt to describe this world to others. I tell you, I implore you,
+this world cannot be described, it can only be visited. It can be visited by
+every soul that has the ability to look into itself and find the world, the
+way, the Eternal Way, that which goes beyond this world and into the next. No,
+not the next, that is not the word, but the Other. The other. That is the
+world. I have been there, and I only pray that my words allow others to go
+there with their wisdom, with their soul, for I tell you that all of our souls
+are the same, and what is seen in my soul, I that have been blessed with the
+clarity of internal sight, who have been blessed with minimal influence of the
+outer world, I have been able to see the world of the inner, in it's glory,
+it's brightness, it's harmony and discordance of melody, but my vision is only
+ever necceisarly imperfect, it is only from one angle that I see this world,
+and each of us has our own angle, our own lens, with which we can view this
+world, and we can only hope that by each of us sharing this world, and seeing
+it, and letting our soul reveal itself to ourselves without intervention, it is
+only be seeing this for ourselves, and then later, after seeing it through the
+death of the ego and comparing accounts that we will be able to begin to
+understand that which goes beyond our human thought. Yes, it is beyond
+mortality, but even if this world is greater than any one of us, and perhaps
+even all of us as humans, for I tell you everything, everything in this worldly
+existance has it's own glimpse, it is only be becoming in tune with this
+everything, the everything that is and that speaks to us in our sense, it is
+only by touching as many of this everything that we can that we are able to
+take glory and wisdom in what is only a fleeting knowledge of that which ties
+it all together and weaves it all. And so I share my account, my imperfect,
+blurred account that only comes from the angle of one soul, so that others may
+see it from their angle and add to it, as we have done and have been doing for
+millenia.
+
+Oh, muses of Homer and Virgil, of Dante and Milton, yes, even the muses of
+Newton and Einstein, muses of written thought and spoken word, of intellgent
+sceintific speech and glorious prose and even the muses of Ceasar or Hitler,
+muses of Isaiah or Mohammed or Ghandi or Buddha, those muses who inspire all to
+try and bring their perfect vision of this other world into this imperfect one
+and as such always neccesarily hit off the mark but always seek to illuminate
+that which exists apart from us, oh glorious Muse, guide my words so that I may
+bring my vision of this other world also into the hands of man. Let my words
+not be final, and let any who seek to give the final account of all be known to
+be false in that way, but instead guide my pen as it glides along the page so
+that I may speak in a tongue that aims to guide the souls of as many that see
+this as possible. O muse, take part of my soul, take me from my fleshly
+existance, trancende my ego out of this world so that I may speak clearly and
+plainly, without judgement, without preconception. Guide me so that I can
+reveal to all the nature of All, the nature of my visions, these visions that
+bind us all, that bind everything. Take me O muse!
+
+First I must speak on the nature of these gods. Yes, gods, not God, because God
+is simply one amonst these gods. I feel it neccesary to arrive at new name for
+the beings, the spirits, the otherworldly that I see, some name other than god
+lest I become mistaken for some false prophet, some slanderer who attempts
+merely to reitterate the mythologies which have sprung out of our history. But
+without another appropiate name coming to mind, let me just simply call them
+the gods of the otherworld.
+
+Every feeling, every emotion, and every action by every person or thing (yes,
+even thing, no matter how inanimate it may seem) can be told of in the context
+of a god. These gods do not have physical bodies or manifistations in this
+world as we may think of them, but rather they inhabit an area of the other. A
+god, once born, never dies, but will only grow more or less, and this growth
+will come about by the comings and goings of our world into theirs. Indeed,
+there is no portal from this dimension into that, or any other such nonsense,
+there is no physical place that we can visit to find this other; rather, we can
+only visit in our mind, and experience what we know to be them.
+
+At this point, you might ask who am I to talk of my thoughts and my visions as
+if they are real? But that is the whole crux of my preface, of the false
+prophets who seek to bend and force their vision to their own will so that they
+might see it. But the true prophet, the prophet who has no attachments to the
+physical and wishes only to see this other world as it truely is, without
+seeking to distort or morph it into his own conception of what it should be,
+this is the kind of prophet I seek to be, and it is only in my words that
+another may judge me to be true or false. Indeed, I know for certain that my
+visions must be false to some extent, as I must bend them in order to fit them
+into the framework of language that we use to share, and of that neccesary
+morphing I see no way around, as we all live in this flesh and of the flesh is
+how we communicate. So I implore the reader, try and remove the flesh from my
+words, and see the visions I see for yourself. Don't let my words impose upon
+you the visions that I know you can see, but instead let them guide you and
+inspire you to visit this realm for yourself, in truth, so that you may judge
+my words for your own.
+
+Indeed, it is because of this history, the history of the gods, that I must
+preface my history of the gods so. For in the beginning, there was no god of
+Judgement, there was no god of Retribution, or Violence, or even of Love or of
+Peace. No, in the beginning, as far as my vision can tell, there was only the
+god of Stillness. And I say that only in my vision, for my vision can only go
+back so far, as there is no true beginning of these things. Indeed, to say
+something about the beginning is absurd, it's a construction of the flesh to
+try and make sense of that which we cannot understand. However, as far back as
+can be seen by our only so finite souls, the first god of this world was
+Stillness. Stillness is empty, it is the vessal through which all things are
+filled. It is the Dao that could be talked about in Eastern Religion. It does
+not hurt, it does not feel. It has no thoughts, and it has no motive. Indeed,
+this god named Stillness is only a god so much in the sense that there must be
+some god to describe this concept. This god, Stillness, is the god from which
+Chaos is born. And truly I tell you, Chaos is born out of Stillness.
+
+And in this way I must tell you more about the nature of these gods, and more
+the nature of this "Other realm" we speak of. The best way I can describe this
+realm is in music. When one closes the eyes and listens, not even to a symphony
+as that has too much humanity in it, but when one listens to nature, to the
+sounds around you, and takes them in without judging them, one can be
+transported to a new realm. In this realm, you have no senses, no feeling of
+touch or sight or sound, nothing but your own conscious floating in a dream. It
+is in this realm that the gods are born. When one feels something move in this
+realm, in this state of meditation, that feeling of something is the closest
+thing we as mortals of the flesh have to understanding these otherworldly
+beings. These beings inhabit us and take us, and most don't think on it or
+realize it. It takes great meditative introspection to understand it, and most
+refuse to acknowledge that. This is the closest thing we have to seeing these
+gods.
+
+But let me tell you, these gods are real. They are real in as much as the grass
+you step on is real, or the chirping of the bird in the forest is real. As much
+as the love one man can have for a woman is real, these gods are real. Every
+feeling, every emotion, however false it may be, is inhabited by these very
+real and ever harmonizing gods. You may think my words are not so, but believe
+me when I say that the feelings in introspection that one feels can be felt
+across the self, without the ego, and without the ego, these gods are only too
+real, perhaps even more real than what we may usually consider to be real. What
+I speak to you I speak of as my understading of the world, as reality as I
+experience it. Do not take this lightly, it is real, and I implore you to
+suspend your disbelief so that you can come to understand that with me as well.
+
+And so these gods are born in this realm, and though they may grow and shrink,
+they never die. One god can consume another and encapsulate it, but that
+original god has not died but merely changed form, it has morphed,
+Metaphorphasized as Ovid might say, into another form. And gods are always born
+out of another, not through intercourse (as indeed, the concept of intercourse
+is a much fleshly one indeed) but through a sort of godly intercourse, through
+two gods coming together as one, they not only are able to create something, a
+new god out of their union, but also they will lose a part of themselves in
+doing so, and in this way, their broader nature is brought into greater
+divisions. But this union is never taken lightly, it only comes out of
+neccesity. There is no courtship amongst the gods, only the union of them as
+the physical requires it. In our own actions, and the actions of all in this
+fleshly world that takes place do these gods transform and become changed.
+
+To the skeptics in my audience who might say sadonically, "Oh wise prophet, if
+this other world exists, and exists in the same way our world exists today,
+then what are it's rules? Does a body in motion stay in motion, and a body at
+rest stay at rest in this other world?" To this I say, the point is missed. The
+visions of the prophet should not be wasted on finding trivial matters of rules
+in this world. That is a devastaing waste of life, and to the person that
+wishes to dismiss my visions simply because they do not have well defined
+rules, I implore you to attempt to open your soul, not your mind but yes, your
+soul, to my teachings, so that you may visit there yourself, because I know in
+my heart that any soul can find it in themselves to visit, and when you visit
+tell me if you still wish to know the rules of this world. If you visit, and
+you say, "Yes, I would like to know the rules of this otherworld" still then
+you have missed all of the other beauty and knowledge that can be gained from
+the mere experience of the other. And perhaps you truly did experience all of
+teh beauty and knowledge, and you have exhausted your interest in those aspects
+of what I am to say to you, and if you have somehow managed to do that you are
+truly more wise and connected than I can even begin to fathom, and if even
+still at that point you wish to define the rules, than as one who is clearly
+above myself in these matters, as a god amongst men (which such a thing is not
+meant to exist) you may begin to define the rules for yourself.  But until
+then (and then will never come to be I feel in my heart) I will only say that
+the rules of this world are entirely secondary to the understanding of the
+world.
+
+And to those who say, "Wise sage, I have read your teachings, and I have
+visited this world, but the world I visited was not like yours, but instead of
+a forest where you describe a forest I saw a mountain, and instead of a god
+where you saw a god I saw a tree" and etc and etc. for all the discrepancies
+between your experience and mine, I say this. These discrepencies, if the world
+you visited truely is the world that I visited, are merely discrepencies in the
+flesh, in the manifestation of your experince of the world in comparison to
+mine rather that differences in the world. Truely, we are all the product of
+our enviorment, myself as any other, and our environment is what gives us these
+visions. Indeed, it would be a great feet if you were able to see what I saw
+exactly as I saw it, for that would be that you lived a life exactly as I lived
+it, which would be a remarkable feature of our two lives being connected in
+that way. You can see how absurd that would be, how maginificently impossible,
+for two beings to share the exact same life experience. Indeed, truely that is
+impossible, and though I do not know this to be true entirely, for I take
+nothing to be the absolute truth, I know it it my heart that no two beings,
+indeed, not even the smallest of quarks, would share the exact some experinces
+in their life times, but instead each is taken as its own and is entirely
+unique to itself.
+
+This is why I speak of lenses and angles, when viewing this otherworld. I can
+only visit and observe this world through my lens, and from my vantage point,
+and you can only visit this world from your lens and your vantage point, and
+this world is unique in that the lens and the vantage point don't obey the
+standard rules of optics and vision of our world of light and sound. Indeed, I
+hope I have impressed on you that the concepts of light and optics are complete
+absurdities in this otherworld, but instead the visions and the sights and the
+experinces had as they are described is merely the only way that we know how to
+communicate these things to eachother, so let us communicate in that way so
+that we may come to understand eachother. In fact, we must communicate with
+eachother, as I truely believe that the only way to got the most complete sense
+of this world is through communication and attempted understanding of all that
+there is in this world.
