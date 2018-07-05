@@ -336,6 +336,7 @@ thin alleyway to his left. Taking a breath, he flared pewter and ducked inside.
 The thin, dark alley was clogged with refuse and ash. No one waited for him—at
 least, no one living.
 
+#### 
 Camon, crewleader turned beggar, hung quietly from a rope tied far above. His
 corpse spun leisurely in the breeze, ash falling lightly around it. He hadn’t
 been hanged in the conventional fashion—the rope had been tied to a hook, then
@@ -345,6 +346,7 @@ His hands were tied, his still plump body showing signs of torture.
 
 This isn’t good.
 
+#### 
 A foot scraped the cobblestones behind, and Kelsier spun, flaring steel and
 spraying forth a handful of coins.
 
@@ -390,6 +392,7 @@ your friends. Plus, the noblemen consider it an insult to use Allomancy in
 formal settings. Those reflexes will get you into trouble if you don’t learn to
 control them.”
 
+#### 
 She nodded, rising to study Camon. Kelsier expected her to turn away in
 disgust, but she just stood quietly, a look of grim satisfaction on her face.
 
