@@ -1,6 +1,6 @@
 ## 13
 
-### 
+### Epigraph
 
 #### 
 * * *
@@ -19,9 +19,9 @@ Mocking. Hating.
 
 
 
-### 
+### Vin, Kelsier, Sazed, and Lord Renoux discuss the ball
 
-#### 
+#### Vin thinks back to the ball
 13
 
 
@@ -64,7 +64,7 @@ hadn’t been careful enough.
 I’ll be more cautious next time. She assumed that they would meet again. They’d
 better.
 
-#### 
+#### Kelsier and Renoux enter, and discuss Vin's meeting with Elend
 A servant entered and whispered quietly to Sazed. A quick burn of tin let Vin
 hear the conversation—Kelsier had finally returned.
 
@@ -134,7 +134,7 @@ Vin regarded Kelsier with a flat look.
 
 “That’s the one!” Kelsier said with a laugh.
 
-#### 
+#### Vin mentions that she saw her father
 Vin clinched her teeth, then forced herself to relax. “I saw my father at the
 ball tonight,” she said, hoping to distract Kelsier and the others away from
 Lord Venture.
@@ -156,14 +156,14 @@ Vin shook her head.
 
 Kelsier chuckled. “Just point him out to me sometime, all right?”
 
-#### 
+#### Kelsier gets the list of prospective suitors from Sazed
 Vin nodded, and Kelsier turned to Sazed. “Now, did you bring me the names of
 which noblemen asked Vin to dance?”
 
 Sazed nodded. “She gave me a list, Master Kelsier. I also have several
 interesting tidbits to share from the stewards’ meal.”
 
-#### 
+#### Kelsier whimsically leaves the room
 “Good,” Kelsier said, glancing at the grandfather clock in the corner. “You’ll
 have to save them for tomorrow morning, though. I’ve got to be going.”
 
@@ -176,9 +176,9 @@ sleep—you’re looking a bit ragged.”
 Kelsier waved a farewell to the group, then ducked out of the room, whistling
 amiably to himself.
 
-### 
+### Vin follows Kelsier
 
-#### 
+#### Vin sneaks out and catches Kelsier's trail
 Too nonchalant, Vin thought. And too secretive. He usually tells us which
 families he plans to hit.
 
@@ -221,7 +221,7 @@ Ahead, Kelsier’s line vanished into the night. Vin sighed, slowing. She flared
 her iron, but it was barely enough to catch a glimpse of him disappearing again
 in the distance. She’d never keep up.
 
-#### 
+#### Vin sees the bronze trail that Kelsier uses to jump to Luthadel
 Her flared iron, however, showed her something else. She frowned, continuing
 forward until she reached a stationary source of metal—two small bronze bars
 stuck into the ground a couple feet from each other. She flipped one up into
@@ -241,7 +241,7 @@ between Luthadel and Fellise with remarkable speed. She’d assumed that he was
 using horses, but it appeared that there was a better way. He—or perhaps
 someone before him—had laid down an Allomantic road between the two cities.
 
-#### 
+#### Vin uses the bars to follow Kelsier down the trail
 She gripped the first bar in her palm—she’d need it to soften her landing if
 she was wrong—then stepped up in front of the second pair of bars and launched
 herself into the air.
@@ -267,7 +267,6 @@ to speed up. She’d spent too long studying the bronze bars. She had to catch u
 to Kelsier; otherwise she’d arrive in Luthadel, but not know where to go from
 there.
 
-#### 
 She began to throw herself from point to point at an almost reckless speed,
 watching desperately for some sign of Allomantic motion. After about ten
 minutes of leaping, a line of blue finally appeared ahead of her—one pointing
@@ -297,7 +296,7 @@ window clasps and bits of metal, using the bronze bar—then pulling it back int
 her hand—when long jumps were necessary. It wasn’t until she arrived that she
 realized she’d unconsciously gone to a specific destination.
 
-#### 
+#### Vin catches Kelsier at Keep Venture, but is unaware at where he might be going
 Keep Venture rose before her in the night. The limelights had been
 extinguished, and only a few phantom torches burned near guard posts.
 
@@ -336,7 +335,9 @@ supplies, making House Renoux more vital to the local nobility.
 Vin landed on a rooftop and paused, watching Kelsier shoot off into the night.
 He’s moving fast again. I—
 
-#### 
+### Kelsier catches Vin, and teaches her about Atium before agreeing to let her follow
+
+#### Kelsier catches Vin following him
 A hand fell on her shoulder.
 
 Vin yelped, jumping back, flaring pewter.
@@ -362,7 +363,7 @@ there were ever a time to show your powers, it would have been then.”
 
 Vin nodded, still looking down, not meeting Kelsier’s eyes.
 
-#### 
+#### Kelsier lectures Vin about trust
 He sighed, sitting down on the slanted rooftop, one leg hanging over the side.
 “Have a seat.”
 
@@ -383,7 +384,7 @@ told us specifics?”
 
 “Some tasks are even more dangerous than others,” Kelsier said quietly.
 
-#### 
+#### Kelsier's location is revealed as the Kredik Shaw
 Vin paused, then glanced to the side, in the direction Kelsier had been going.
 Toward the center of the city.
 
@@ -421,7 +422,7 @@ everything. He might trust her; he might not. However, he certainly had
 secrets. The Eleventh Metal, and therefore the Lord Ruler, were involved in
 those secrets.
 
-#### 
+#### Vin makes her argument to go with Kelsier
 Kelsier caught her eyes, and he must have seen her intention to follow in them.
 He sighed, leaning back. “I’m serious, Vin! You can’t go with me.”
 
@@ -448,7 +449,7 @@ the team. Well, it’s not going to be much of an advantage unless you actually
 let me be a Mistborn. How long are you going to wait? Until I’m ‘ready’? I
 don’t think that will ever happen.”
 
-#### 
+#### Kelsier begins to teach Vin about Atium
 Kelsier eyed her for a moment, then he smiled. “When we first met, half the
 time I couldn’t get you to say a word. Now you’re lecturing me.”
 
@@ -478,7 +479,7 @@ down and executed. The Lord Ruler is very protective of his atium supply.”
 Vin nodded, then swallowed the metal. Immediately, she felt a new well of power
 appear within her, waiting to be burned.
 
-#### 
+#### Active demonstration of what Atium does
 “All right,” Kelsier said, standing. “Burn it as soon as I start walking.”
 
 Vin nodded. As he began to walk forward, she drew upon her new well of strength
@@ -523,7 +524,7 @@ constantly fading, new ones constantly appearing.
 Kelsier nodded. “The only way to defeat someone who is burning atium is to burn
 it yourself—that way, neither of you has an advantage.”
 
-#### 
+#### About the fast burning nature of Atium
 The images vanished.
 
 “What did you do?” Vin asked with a start.
@@ -551,7 +552,7 @@ have to walk a line between conservation and effectiveness. If it looks like
 your opponent is using atium, then you’d better use yours too—however, make
 sure he doesn’t lure you into using up your reserve before he does.”
 
-#### 
+#### Kelsier agrees to take Vin to the palace
 Vin nodded. “Does this mean you’re taking me tonight?”
 
 “I’ll probably regret it,” Kelsier said, sighing. “But I don’t see any way to
