@@ -3771,7 +3771,7 @@ started taking care of him, and she said it was that very same night, and
 immediately without thinking, I said in jest "So you triggered it" at which I
 immediately realized that my jest probably had quite a lot of truth in it, and
 Linda immediately replied that she probably did, and that seeing her there, him
-being confused at having him there, and etc, were giving him a strong sense
+being confused at having her there, and etc, were giving him a strong sense
 that he was on his death bed. And she wanted just one good night, and so far
 she was 0-3, and she just wants one good night with him while she is there.
 
@@ -3791,9 +3791,9 @@ were able to get some was a good thing.
 
 Shortly after this, my mom made her goodbyes, making sure that it was okay with
 my dad before she did, and both mom and Linda made sure that he was okay with
-that before he left. I had a moment where I thought about seeing her out, but I
-decided it best to stay there with my father for the time, and to go and see my
-mom on the way out of the hospital entirely.
+that before she left. I had a moment where I thought about seeing her out, but
+I decided it best to stay there with my father for the time, and to go and see
+my mom on my way out of the hospital entirely.
 
 So my mom made her leave, as I said, and at this point it is just me and dad
 and Linda in the room. And pretty soon after my mom left, my dad said something
@@ -3809,8 +3809,8 @@ wonder what he means by I'm done right now" since words, espically words like
 curious what he train of thought might have gone to, but Linda immediately
 started to go off on "no your not done, you still have quite a lot and we all
 love you" and etc etc, and all of those sorts of things which I won't try and
-begin to detail out here since I could not do the ramblings of a woman,
-ramblings of women that they have such an uncanny ability to overwhelm you with
+begin to detail out here since I could not do the ramblings of a woman justice.
+Ramblings of women that they have such an uncanny ability to overwhelm you with
 and take you with and make you so overcome with almost awe as you lose your
 sense of presence and their words and sounds almost become like noise, noise
 that you can hear and comprehend but at the same time come into the ears as a
@@ -3833,20 +3833,20 @@ And at this Linda somewhat began to continue her speech, but mostly concluded
 with "well I'm glad, that's good" in her most womenly way.
 
 I then said something which was great in that moment. I said, "women have a
-tendancy to worry." At first this was heard as "I do?" as a question to my
-father, and I said, "No, not you, wo-men" and I articulated out the word like
-that to be sure I was understood correctly. At this, something miraculous
-happened. My father laughed. He laughed the sort of laugh that I know him for,
-the laugh that I have heard all through my childhood, through my youth and my
-teenage years and even the years I hated him. He laughed that genuine laugh
-that I inherited from him. And I laugh with him, that inherited laugh, him and
-I together, and he said "my brother, my brother" and he held out his fist to
-give me a fist bump and I sat up and returned the bump, and he said "Thank you"
-"Thank you" as if I had lifted from him something that he only wished he could
-articulate but needed me to do it for him. And at this Linda said, "Well, I
-will try not to be offended" and she took her place in the seat. And I added
-on, "well, we love you for it anyway." and my father agreed with an "amen to
-that".
+tendancy to worry." At first this was heard as "You have a tendance to worry."
+and my father asked "I do?", and I said, "No, not you, wo-men" and I
+articulated out the word like that to be sure I was understood correctly. At
+this, something miraculous happened. My father laughed. He laughed the sort of
+laugh that I know him for, the laugh that I have heard all through my
+childhood, through my youth and my teenage years and even the years I hated
+him. He laughed that genuine laugh that I inherited from him. And I laughed
+with him, that inherited laugh, him and I together, and he said "my brother, my
+brother" and he held out his fist to give me a fist bump and I sat up and
+returned the bump, and he said "Thank you" "Thank you" as if I had lifted from
+him something that he only wished he could articulate but needed me to do it
+for him. And at this Linda said, "Well, I will try not to be offended" and she
+took her place in the seat. And I added on, "well, we love you for it anyway."
+and my father agreed with an "amen to that".
 
 That was a sort of turning point to the whole visit. I think it was at this
 moment, that we had a few fleeting conversations. One was about golf, that had
@@ -3913,7 +3913,7 @@ going to leave now" or something equally as cumbersome. I stepped up to my
 fathers bedside, and he raised his hand out to me, a gesture which even in his
 weakest state he continues to make for me, and I took his hand and held it. And
 at this, I began to bow my head to him, at first to his shoulder, but then I
-felt how strange that gesture was, so I began to move lips, covered by the
+felt how strange that gesture was, so I began to move my lips, covered by the
 mask, towards his forehead to kiss him, but hesitated as I realized he was
 pursing his lips to kiss me, and we met somewhat in the middle, and breifly,
 between the safety of the mask, we kissed eachother on the lips. For the first
@@ -3950,7 +3950,7 @@ them on mushrooms, but without the out of body experience of psychodelics.
 
 And, as I was on the interchange from 635 to 75, I thought about Payton, the
 nurse. I thought about her soul, what I great soul it was, and I thought about
-the conversation I would have with her about my father, about what she saw in
+a hypothetical conversation that I could have with her about my father, about what she saw in
 my father, and what it was that made her so attached to him and my mother. And
 as I was thinking about that conversation, in my humanness, in my baseness, I
 played out very quickly the fantasy that maybe her and I would connect and we
@@ -3958,38 +3958,46 @@ could date and that would be how I would meet "her" the "her" of my life. And
 all of this was quite innocent, but then I thought, in comparison to my father,
 why would she be interested in someone like me, someone so wretched and
 contempable as myself. And at that, it let loose. The tears flew as I came down
-that interchange. I had to manage the emotions of my tears with my duties as a
+that interchange. That word "contempable" stuck in my mind, as the word that
+triggered it. I had to manage the emotions of my tears with my duties as a
 driver. I did not seek to stop the tears as I only knew that would make it
 worse, and so I drove and merged and breathed and let the tears flow. I let it
 all flow through me, in the silence of my own car, I let the tears flow on
 their own, and I only thought about not rear-ending the car in front of me or
-making sure to check my blind spot as I merged. I knew I was in a severely
-compromised driving state, so I focused on the safety of the road above all
-else. And there was a moment, when I wanted to get infront of a car before
-turning right, but I thought, why should I get in front of him? He is already
-in front. Who am I to get in front of this car only to slow him down as I turn?
-So I slowed myself to his speed, and got behind him, and made my turn towards
-the street that leads to my parents house from the highway. And in that two
-mile stretch of surface road, I gathered myself back together, let the last of
-the tears flow out, and turned to my neighborhood road, and parked where I do
-outside my parents.
+making sure to check my blind spot as I merged. And on the highway, I saw a
+man with a broken down car on the side of the road, and thought maybe I should
+seek to be a good samaritan and stop, but then I thought "what could a wretched
+unhandy fool like me do to help this man, he would be better off if I didn't
+stop and he probably had AAA or a friend or someone already on the way, and I
+can't help him," and that only made the tears flow more. And I knew I was in a
+severely compromised driving state, so I focused on the safety of the road
+above all else. And there was a moment, when I wanted to get infront of a car
+before turning right, but I thought, "why should I get in front of him?" He is
+already in front. Who am I to get in front of this car only to slow him down as
+I turn? So I slowed myself to his speed, and got behind him, and made my turn
+towards the street that leads to my parents house from the highway. And in that
+two mile stretch of surface road, I gathered myself back together, let the last
+of the tears flow out, and turned to my neighborhood road, and parked where I
+do outside my parents.
 
 Upon arriving at my parents, I heard my mom talking to what I correctly
 assumed was Granny and Papa on the phone, so I made my way into the kitchen,
 opened the fridge, and found some pulled BBQ that I took out, showed to her to
 ask if I could eat some, to which she said yes, and I put some in a bowl and
-ate it. I saw some mashed potato mix on the counter as well. After eating that,
-I waited for my mom to get off the phone, and said that after we ate, I wanted
-to take her on a walk. I then went into Evan's room, and just made my
+ate it. I saw some mashed potato mix on the counter as well. After eating the
+beef I waited for my mom to get off the phone, and said that after we ate, I
+wanted to take her on a walk. I then went into Evan's room, and just made my
 appearance. He was watching a speed run from SGDQ, but he paused it and came
 out when I showed up. We ate some food, and the only really notable thing that
-happened at this entire thing, besides having cordial conversation as one might
+happened at this dinner, besides having cordial conversation as one might
 in such a situation, was that, when I went to clean all of the dishes, I
 started cleaning them all out, and the disposal wasn't draining properly. That
 is something that I know has happened before, and could be cleared out with a
 snake if it doesn't clear properly, but I don't know how to use a snake, and
-mom brought out a business card of a plumber that she knew that she might call
-to fix it.
+was always one of those things that dad would handle, but of course he wasn't
+there, and I dare not say anything of the sort, and mom brought out a business
+card of a plumber that she knew that she might call to fix it, and I felt that
+somehow that that was wrong but didn't know how to feel about the whole thing.
 
 After we had finished, we then returned to the topic of the walk, and my mom
 asked if this is the sort of walk that Evan would be invited to. I then said
@@ -4081,3 +4089,117 @@ I wasn't so sure, but she got a little defensive at that, and I receded,
 calling myself a righteous fool again, before we shared our final hugs for that
 day and I drove back to my place.
 
+--
+
+Caring Bridge Post
+
+So lately I have felt inspired to write here about my father, partly to give
+some relief to my mom, who has been amazingly supportive of my father in this
+journey, and has been the sole informant as to his well being towards the
+world, but also because I feel driven by something inside me to speak to
+everyone who might be so compelled to listen. Call it the Holy Spirit if you
+like, or choose to leave it unnamed as I do, whatever it is compells me to
+speak about my father.
+
+It's easy to read these posts, and to get updates on Jerry's health, and to
+read it as "we did such-and-such treatment on so-and-so day and Jerry's
+condition is X, Y and Z" when really there is so much more underlying what is
+going on. We can talk about his physical condition, and label it it however we
+like, (and it is true, that from a pragmatic stance his current state is not
+well) but when it comes the actual condition of my father, I have visited him,
+and I can see that he is not defined by his physical state. He is much more
+than that, and he always has been, and I've known that to be true. It's
+easy to disregard that, and put it behind the shield of good health, but when
+that good health leaves us, we are left with our barest being, or naked soul,
+to be judged before god, what is left of my Father I see to be an unshakable
+faith.
+
+In all of this, in all of the transfusions, chemotherapy, and a bunch of other
+things, when a man is striped down to his basic he is left to face the rapture
+and gates of Hell, and in that, I what is left of my father is his faith, and
+his love of his family. Both of those things are what is left of him of him at this
+compromised physical state, and I know it in my heart that if he can make it
+through this, it will be his faith that pulls him through.
+
+I am one that is can so easily get caught up in the facts of things to
+disregard the truth, the truth that deep down in all of us there is this
+undeniable thing we all share, and that thing gets lost in the turmoils of life
+and the stresses of the world, but when faced with the greatest stress, when we
+are all brought to the mortality that we all share, I see in my father a faith
+which is strong, and if anything will bring him through to the other side of
+this a reborn man, it is his faith.
+
+I don't know how this ends, but no matter what I know that he is able to find
+peace in his faith and in the love of everyone that cares for him.
+
+None of us know what will the end result of this thing we call life, and it's
+never about the destinations that we reach, but the steps that we make on the
+journey. The thing is, most of us have the luxury of being able to  However,
+most of us have the luxury of 
+truth in it that we all share.
+
+This entire
+journey, this past eight months since the first diagnosis, is reaching a sort
+of climax, and in that, none can say what will be the end result, but currently
+I am compelled, perhaps by the Holy Spirit if those words mean anything to you,
+to give a sort of fresh perspective. It's easy to see these posts, and see that
+"such and such" treatment happen at "so and so" time and Jerry is responding in
+xyz way to it, and in those details get lost in the moment and forget that this
+entire thing is one big journey, and in this journey, how are we?  And that's
+the whole thing for all of us, the journey of life that we all step through.
+It should never be about the end destination, as much as we want to be able to
+say words like "remission" and "cured", similar to words like "promoted" and
+"happily retired" as a lot of us strive for, it's important to remember that
+the end destination is never the goal.
+
+I have visited my father, and, pragmatically speaking, if narrowing in on this
+moment he is not well, but I can also say, with complete certainty, that these
+steps that my father is on at this stage in his journey, he is taking with a
+strength, with a faith, and a surrender to the will of God that, while I knew
+it to exist to him, I have been so fortunate to witness. And in witnessing
+that, I see that know matter what the end result of this entire journey is for
+him, his steps, and his strength along this journey 
+
+So I don't know how many people read this, or how many that do even know who I
+am, but lately I have been inspired to write here about my father, and I asked
+my mom who said she would post it if I did, so here it goes
+
+I have felt inspired to write here about my dad, because I know a lot of these
+posts can be about "a certain treatment happened today and this is how it went"
+or about medical conditions, or other such things about the physical condition
+of the state of my father, and I don't want to talk about that. Being informed
+there is important, but among all of the numbers and the treatments, you can
+still get lost in the details and still be left wondering "so how is he?"
+
+I have recently visited my father, on what was day +12 of the bone marrow
+transfusion, and you can say from a purely pragmatic standpoint he is not
+well, but I can say I have seen something in him that I didn't know was there
+and that I do truely firmly believe. When you strip him of his physical body,
+take away his capabilities, beat him down with the potent and destructive drug
+that is chemo, on top of all the other drugs they put in him to regulate
+all of things we need in this thing we call life, and when take all of that
+from him so that his physical body, strong though it is, is reduced to an
+entire ecosystem of chemicals at war with itself, when you do all of that, what
+remains in him is a strength, a strength that I have always known is there, but
+did not truely appreciate until I was able to take witness to it, and see it in
+his eyes. His strength, his faith in God, his love for those that love him,
+those things are what's left, in their most bare and raw form, and seeing that,
+I can say without doubt that his faith, if it's allowed to stay alive within
+him, will bring him through this. I know that to be true. I never knew how
+strong it was. I knew, but I had not truely seen witness to it. It's a
+powerful force, and it will bring him through this, if it's allowed to flourish
+like it needs. I truly believe that.
+
+
+when he has been reduced to immeasurable rapture and suffering due to the
+horrible (but unfortantely still our best known method) drug His faith is
+there, and it is perhaps the strongest thing in him, his faith and his love for
+those who love him, when all his bodily capabilities are taken away, and he's
+taken down and reduced to 
+
+--
+
+Wow, what a mess of thoughts, I came into this post with the best of
+intentions, but now I see that I must come back to it with a clearer mind. I
+will return to this later, and from there see what it is I should do, to find
+my inner spirit and let it write through me.
