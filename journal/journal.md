@@ -3279,3 +3279,153 @@ talk about, but now is not the time. I pray for a dream tonight, whatever that
 dream may be. If the dream does not come, at the very least I will have
 something to write about, that is entirely certain. But not now. Not now. Now
 is the time for meditation and rest.
+
+# 20180709
+So tonight I had a dream. I had two dreams, actually, in spite (or perhaps
+because of) my poor sleep. The first dream is the more important, or at least I
+think it is. This dream happened in a location that I am not entirely conviced
+is new to me, but suffice it to say that it is the location of a prison. In
+fact, now that I think on it, last time I was in this dream I was on the
+outside coming in, but now this time the dream began (as far back as I can
+remember) on the inside. But this prison is not like a prison how you might
+think of it. Rather, it is a large, multistory building, very tall, and in the
+other dream I remember going into a room with a lot of hanging catwalks that
+came out into a large fan area. In another part of the room entirely (in fact,
+the area that the fan area is supposed to be doing fan things for I suppose) I
+was at the base of a large stairwell. And at this point, at the point that the
+dream begins, I will tell a bit about the nature of this jail. So the cells in
+the jail, which I know are the places that the cellmates are meant to sleep,
+that area is at the top, and there is nothing really to mention about that area
+except that I saw it at the end of the dream. However, at the beginning of the
+dream, we were meant to do work, to provide power, and this work, I don't
+remember the nature of it, and in fact I don't believe I dreamed of this work
+at all, I just knew that in the basement, down the long spire of stairs (stairs
+that fold like a regular staircase, back and forth across multiple levels) at
+the base floor, I found myself in the cell, with other cell mates doing work.
+And at the start of the dream, we were done with the work, and we knew that it
+was time to carry our things and arrive back at the top of the staircase where
+we would be evaluated and judged and sent back to our cells. There was another
+cell mate with me there, who had the exact image of one of the cell mates I had
+in male holding while I was in jail less than three months ago now. I remember
+he and I had a conversation about the nature of the work, and I know that he
+was complaining in some sense about it, and my nature was simply resolved in
+continuing to do what needed to be done, seeing no reason to complain.
+Regardless, we took up all of our things, our tools, (which reminded me of pool
+noodles of all things, but that was just one of the things we carried in our
+arms as we climbed) and we took all of these things, and we began to climb the
+stairs, back up to our cells. And I also remember having more conversations
+with other jail members (I intentionally avoided the word cell mate, as that
+word seems wrong in this context) as they joined us on their climb with their
+handful of supplies, and we ended up forming a sort of line as we returned to
+the top floor of this cell. Now, I do feel it is important to say, the both the
+bottom and the top floor of this jail were large, but I remember this
+staircase being very much like a spire, and from the stairs, and even from the
+top floor, there were areas you could look down and see all the way to the
+bottom, and in the bottom floor I know there were sorts of generators, and
+motors, and other such things that one could imagine provide power, and that
+this entire building served the purpose of suppling not only power, but
+something more than power, something intangible, I can't put a word to it right
+now, but that it was our doom, our condemnation, to maintain this generator,
+and we were driven by the wardens of this jail to do so, and that it was our
+sentance, not for anything we did neccesarily, although we all had certainly
+sinned in some way, but it was our sentence. So back to the climbing, as we
+were climbing, we eventually made it to the top, and at the top was the head
+warden of the jail, the person who I woke up with similar joy to discover,
+similarly to my discovery of the Adjudicator, and this person is the Tyrant,
+and it will become plain to see why as I continue. So we make it to the top,
+and we are told to put our supplies in the bin, so I place all of my supplies
+in the bin under the watchful, ever watchful and attentive eyes of the tyrant,
+and I continue on to my cell. And as I start to make my way to the cell, I see
+that my fellow cell mate has dropped his pool noodle (and the humor of the fact
+that this particular supply takes the form of a pool noodle was lost on my
+dream self, it seemed like a perfectly normal thing to be carrying here and I
+never second guessed it's reason for being in our supplies) and after he
+dropped, I reached down to pick it up. As I did so, the Tyrant, the warden
+there, said to me, "Do not help those that can help themselves" or something to
+that effect (those words are mine now, I know he said something in the dream
+but particular words that happen in dreams escape me) and after he said this
+directly to me, perhaps even with a "you there" or something similar, I
+remember continuing to aid the jail mate with his pool noodle, and in a sort of
+act of defiance, placed it into the recepticle where the pool noodle was meant
+to go. I do not recall if I said any words to the Tyrant as I was doing this,
+but I know my thoughts were a combination of "I know it is right to help my
+fellow man" and "Why not?" (and the "Why not?" was a combination of
+respectfulness and genuine curiosity combined with defiance), but I remember
+the jail mate who dropped the noodle looked at me, not really with thankfulness
+(although not with disdain either), but as I made this action, the Tyrant
+announced something to the effect of, "Look, this man wishes to take on the
+burden of all. Well, let him." and as the Tyrant annouced this, the
+jailers began to reach the top of the stairs, and instead of unloading their
+burdens and supplies in the recepticle, they began dropping them on the floor,
+not just the pool noodles but the entire pack of supplies. And at this point, I
+remember thinking that, if it is true that I will help my fellow man, than I
+must continue to do so, even when that help is being taken advantage of, and
+without missing a beat, I began to pick up the packs off the floor, which
+contianed not only pool noodles, but some slipery tarps and some springy things
+and some tubes which were slimy and a little gross and all sorts of absurd
+things which are not heavy but simply obnoxious to deal with, (and again, the
+humor of these "supplies" only comes to me now in my waking state, my dream
+self did not consider this strange in the slightest) and I took them up one by
+one, and I placed them in the recepticle. And I remember the Tyrant saying
+something to me, something like, "Now do you see the dangers of giving your
+help so freely," and I remember still being somewhat defiant, but more being
+bent towards my new task of picking up these supplies and placing them in the
+recepticle, not out of defiance, but just because I knew that was my new task
+that had been assigned to me and I knew that I had to carry it out, not because
+of any consequences (which the concept of consequences for not carrying the
+burdens did not enter my head at all in the dream) but because I just knew that
+was my role in that moment, and I was filling out that role.
+
+There is a lot to unpack in what is going on in that dream, but I think the
+interpretation speaks pretty well for itself in the dream itself, so I won't go
+over the obvious bits here in the interest of time.
+
+After I woke from this dream, I continued to sleep some more before my alarm
+went off. I texted Paco to let him know that I had hurt my back and that it was
+still in pain, and proceeded to go back to sleep in ten or twenty minute
+increments. In one of those twenty minute increments, I had another dream.
+
+So this dream was more straightforward. This dream took place at the dream
+location of the Roughnecks practice field. I have been to this practice field
+in my dreams before. The way it is structured, you drive up to it from the
+north, and you go into a parking lot which is under the field. Then, from the
+parking lot, you go up the stairs, and from there you are at the center
+southern area of the field. Indeed, the entire field is built raised above the
+ground, and the parking area is below. I do not remember very many details of
+this dream except this. I sat there, watching the Roughnecks do their drills,
+and as I watched them, I remember having a sort of desire to join in on their
+drills, just for one rotation, but I knew it was not my place to do so. So I
+sat there, and I watched from the center, where there were a few other
+onlookers, and I got a good view from the center of their drill formation, as
+they performed their drills. They were doing a sort of cutting and catching
+drill, one of those drills where the throwers have a bunch of discs in a stack,
+and they are throwing repeated to those in a line who each make a cut in their
+turn, and the purpose of the drill is to practice running through the disc as
+you catch it. And as I sat there, a small girl (it could have been Kinley, and
+the fact that I think it might have been Kinley indicates to me that it was,
+although the woman watching her there certainly was not Lacey) had a disc in
+her hand, and was encouraged by the people throwing the discs to try her hand
+at it, so she threw the disc, and it was actually on target, but very low, and
+as the man (with a build very much like C.W. but not him) went for it, I
+remember thinking that while the throw was certainly catchable, it's the sort
+of throw that requires a lot of effort to bend down while running to catch, but
+as I thought to myself "He is a Roughnecks player so surely he will catch it"
+he caught it in stride (as much in stide as you can when a pass is so low) and
+with a sort of grace that would be characteristic of a high level player. As
+soon as he did this, many on the team cheered for her, and the girl was glowing
+with the sort of glow that only a proud child could have. And then they
+continued on with their drill. I then remember taking my leave at that point,
+going to the staircase at the south end of the field (the field went from east
+to west, so the south end would be the "away side" sideline, and the necks were
+doing their drill running from east to west), and as I did, I remember running
+across Jack, who told me I should join in. I then said something like, "no,
+that's not my place," and moved on, but I also thought something to the effect
+of, "and I don't want to steal that little girl's pround moment." as my joining
+in in the same way she did would belittle her moment. So I walked down the
+stairs, got in my car, started the engine, and began to drive off. That is when
+I woke for real.
+
+Now, I have talked about both of my dreams, and my prayers were answered.
+Indeed, I would have honestly been very surprised had I not had any dreams last
+night, as my mind was in such a state that I was sure I would have dreams, and
+so it was the case. So far I have met the Adjudicator and the Tyrant.
