@@ -270,3 +270,5 @@ What I don't remember, that I want to remeber today from that lesson, is
 8. Иван едёт на автобусе, а Мэри едёт на троллейбусе
 9. Они едут домой.
 
+#20180712
+
