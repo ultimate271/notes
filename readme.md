@@ -35,3 +35,8 @@ In order for this to work, the reference.md file and the tags file will have to
 be written simultaneously, that is in the same function, and any change to the
 reference file will have to be made to the tags file.
 
+#
+So I have decided to (ab)use the reference tag functionality of markdown to
+create a way of annotating my files. I have in my head something like this.
+
+[Actor]: {Aloysha}
