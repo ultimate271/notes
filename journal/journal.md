@@ -5216,3 +5216,110 @@ benefit from doing that than by imposing an artificial (and in my opinion some
 times questionable) structure on the whole thing. So I will certainly pass on
 that today, but I might go over the weekend or next week if I am feeling so
 inspired.
+
+# 20180714
+So last night I had a dream, a dream that had some interesting points but as a
+whole was mostly absurd. Granted, most of my dreams are absurd. This one is one
+that takes place in that same world as dream Seattle, and the dream version of
+the place where I met my dad and Chuck fishing, although definitely in a
+different part of it. I know I had to go through the dream version of highway
+635 to get to this place, and the end of the dream has my dream version of what
+would analgolously be the whole mess of interchange that is 114 and 121 and 183
+and all of those sorts of roads there (although in the dream version there is
+no airport, it's just a lot of roads that have really elaborate interchanges.
+Anyway, I guess, to get to the bulk of the dream, (and I honestly really like
+this dream more because it reminds me of the map, which I might draw later, of
+a sort of fictional city, my dream city, that I know what it looks like) this
+dream mostly revolves around me, Nick Lacosi, and Kyle, all playing this sort
+of weird 3v3v3 game that has video game like qualities, but is played in the
+real world (the real world of the dream). It had to do with this area of the
+world, which in this dream world there are people, but the concept of "living
+somewhere" isn't one that we find burdensome I guess, but there is a whole open
+space which we basically use to play this game. We then choose our characters,
+similar to a blind pick draft in LOL, and we spend turns fortifying and
+otherwise arranging ourselves on this area. Well, in this first phase of the
+game, when it is our turn, we all know that we are not taking this game as
+seriously, as in, we are taking it seriously, but this game is not a serious
+part of our lives, and we have not dedicated ourselves to this game in the same
+way the other two teams had, and so after our first phase, we know that we are
+not going to win, and that we should probably just withdraw, not out of safety
+or honor or anything, but because we all know that the other team will easily
+win and that there isn't much point in continuing. Now, I don't want to dwell
+on the rules of this game, because, quite honestly, I don't really understand
+them myself, and clearly the rules of it were not important to my dream self
+understanding what was going on, so they are not important to try and write
+down, at least, I don't feel that they are, so I don't really feel like making
+much sense out of it. The only other thing I remember is that Evan was there
+and he showed us, "hey, check out this character, he's so broken" and he
+actually was the character, which was most similar to Vladimir from LOL, and he
+showed us how he could dash, and attack, and use his three moves with very
+little cooldown almost indefinitely, and he was dashing around basically saying
+how fun it was, and how broken it was, and how is this balanced, and things
+like that, and I remember thinking something like, "well, he is very weak when
+he is not leveled and you haven't gotten to that strength yet" because he had
+leveled up the character to max, and was abusing the powers of the character to
+its fullest.
+
+So after we had more or less decided to resign, I decide to make my way through
+this area. Like I said, I had driven through the 635 dream version to get here,
+and by the way 635 actually does go north south like I imagine everything
+around my parents place to be, and so after arriving at this place from the
+south, and exploring it a bit with Nick and Kyle, I get back in my car and go
+through it further north, and I was on some objective for them (we hadn't
+entirely given up, but we had resigned ourselves to our fate) but I remember
+when I drove north I got to a sort of intersection that went down and curved
+way up and to the left, and around that point I got lost, because I knew I was
+not going to reach the destination this way, or something like that, and I
+called Kyle and Nick, and they gave me shit for not even being able to drive to
+where I wanted (I think they were waiting for me for something, I forget what)
+and I returned their shit, but I knew that my shit didn't have the sort of ammo
+that theirs did, as I was basically giving them shit for giving me shit, and
+around then was the end of that dream.
+
+I also remember another area, and this area is interesting because I remember
+having dream Gym meets that were done here (long long after I should even be
+dreaming about Gym meets), but this time it was repurposed in to what was I
+think a sort of soliloquy show for children Kinley's age. Kinley was in this
+performance, and the stir and bustle of everyone in the area was like that of
+that dance recital of Kinley's that I went to that one time, with mom and dad
+and Kyle and Evan and everyone there, but I don't remember much of any details
+besides the dream. I do remember two details. One was the location. This entire
+thing was shaped like a box, and towards the stage area was the lowest area,
+then it came up along like the stands to the area, and at the top of that area
+was there was a walking area, so not at all unlike what you would imagine that
+should be like. The only really peculiar thing was that the stage area was
+divided into two sections by a wall, and this wall came up only about halfway
+between the two stage areas, so the left side was a practice area and the right
+side was the actual stage, and there was a gap in this dividing wall and the
+back wall for the little actors and actresses to walk between, and if you were
+on the top area in the middle along the same line as the dividing wall, you
+could see both stages. The practice stage didn't have as many seats, and didn't
+raise up as high, and I seem to remember it was lit way better as the actual
+stage area had more "dramatic stage lighting". So that was that.
+
+The other thing I remember about this whole thing, which isn't really worth
+taking note of in the dream, but I remember a person, female, who was exactly
+like the person I remember from Kinley's irl stage production. The memory I
+have of her is that she empathized with her child, who was making a fuss when
+she tried to put her hair all tight into a bun and put her in these absurd
+clothes and etc, and she put words into her fussing child like "I am actually
+three, I'm three and you're making me do this." She said this to us as she was
+explaining her difficulty, and her empathy, with the situation, which is an
+interesting sort of psychological thing going on.
+
+So yeah, I wanted to get these dreams out, because they are both wholly
+forgettable, and I already just in the thirty minutes after waking forgot a lot
+of details, as I know if I remembered these dreams better I could have filled
+an entire article as I have in the past, but right now I don't want to speak of
+dreams anymore but I want to read some Shakespeare, so I am going to do that,
+and I am certain I will come back to write some more. I just got the idea that
+my two Christians will be similar in their faith as my Grandfather and
+Grandmother, in that they are together, and they both are Christian, but they
+have very different views of Christianity, but they share their love in spite
+of that. I have also thought of the two athiests to be lovers like that as
+well. I want to interview all of them later, but right now I don't feel like I
+have quite the inspiration or interest to do that, it would feel more like a
+chore than discovery, so I will take a break, have a bit of my day, and come
+back to that later.
+
+
