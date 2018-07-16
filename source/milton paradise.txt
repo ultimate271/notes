@@ -85,7 +85,7 @@ Gutenberg.  The first was released as our October, 1991 etext.
 
 
 
-Paradise Lost
+# Paradise Lost
 
 
 
@@ -915,7 +915,7 @@ And summons read, the great consult began.
 
 
 
-Book II
+# Book II
 
 
 High on a throne of royal state, which far
@@ -2006,7 +2006,7 @@ Accursed, and in a cursed hour, he hies.
 
 
 
-Book III
+# Book III
 
 
 Hail, holy Light, offspring of Heaven firstborn,
@@ -2756,7 +2756,7 @@ Nor staid, till on Niphates' top he lights.
 
 
 
-Book IV
+# Book IV
 
 
 O, for that warning voice, which he, who saw
@@ -3776,7 +3776,7 @@ Murmuring, and with him fled the shades of night.
 
 
 
-Book V
+# Book V
 
 
 Now Morn, her rosy steps in the eastern clime
@@ -4689,7 +4689,7 @@ On those proud towers to swift destruction doomed.
 
 
 
-Book VI
+# Book VI
 
 
 All night the dreadless Angel, unpursued,
@@ -5607,7 +5607,7 @@ Yet fell; remember, and fear to transgress.
 
 
 
-Book VII
+# Book VII
 
 
 Descend from Heaven, Urania, by that name
@@ -6253,7 +6253,7 @@ Aught, not surpassing human measure, say.
 
 
 
-Book VIII
+# Book VIII
 
 
 The Angel ended, and in Adam's ear
@@ -6912,7 +6912,7 @@ From the thick shade, and Adam to his bower.
 
 
 
-Book IX
+# Book IX
 
 
 No more of talk where God or Angel guest
@@ -8107,7 +8107,7 @@ And of their vain contest appeared no end.
 
 
 
-Book X
+# Book X
 
 
 Mean while the heinous and despiteful act
@@ -9217,7 +9217,7 @@ Of sorrow unfeigned, and humiliation meek.
 
 
 
-Book XI
+# Book XI
 
 
 Thus they, in lowliest plight, repentant stood
@@ -10124,7 +10124,7 @@ Both Heaven and Earth, wherein the just shall dwell.
 
 
 
-Book XII
+# Book XII
 
 
 As one who in his journey bates at noon,
@@ -10777,6 +10777,7 @@ Their place of rest, and Providence their guide:
 They, hand in hand, with wandering steps and slow,
 Through Eden took their solitary way.
 
+# Fine
 
 
 
