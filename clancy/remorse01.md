@@ -1,6 +1,6 @@
-# PROLOGUE
+#{remorse011} PROLOGUE
 
-
+##{remorse011.1} Some text that I don't want deleted {Some other tag} {Another Tag}
 
 
 
@@ -13,6 +13,7 @@ Meeting Places
 November
 
 
+{remorse01.1.1}
 Camille had either been the world's most powerful hurricane or the largest
 tornado in history. Certainly it had done the job to this oil rig, Kelly
 thought, donning his tanks for his last dive into the Gulf. The super-structure
