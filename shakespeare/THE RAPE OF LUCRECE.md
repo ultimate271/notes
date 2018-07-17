@@ -60,7 +60,6 @@ moved, that with one consent and a general acclamation the Tarquins
 were all exiled, and the state government changed from kings to
 consuls.
 
-_______________________________________________________________
 
 From the besieged Ardea all in post,
 Borne by the trustless wings of false desire,
