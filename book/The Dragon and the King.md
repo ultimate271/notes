@@ -664,7 +664,8 @@ houses, even the castle made of stone burned and collapsed in flame.
 
 The dragon flew up to observe the view. "And what of the king?" the dragon
 thought, as he saw the fruits of his destruction. The dragon pondered a bit.
-"No matter, his life has no meaning anyway."
+"No matter, whether he lives in peace in the forest, or dies in distress at his
+woes, his life has no meaning to me anyway."
 
 At this the dragon circled back to his ritual area, coiled up in his spiral,
 sunk his head into his bosum, and prepared himself for his next eternal
