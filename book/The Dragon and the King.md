@@ -481,13 +481,192 @@ In awe of their recent flight, the people could do nothing but agree. They went
 at once to their king, almost giddy from their recent flight, and told him of
 the dragon and his plan.
 
-"Great king, we have wonderful news. 
+"Great king, we have wonderful news. We, the townspeople, have gone over the
+mountains to the ritual grounds. We pilgramaged to that place, and performed a
+ritual. We have summoned the great dragon of old, and he has told us what we
+are to do. You are to take a break from your kingship, and the dragon will rule
+in your place. At any point, you may return and resume your rule, but now you
+can take the time off of your weary work like you wanted."
 
---At this point, the people will talk to the king and tell them of the plan,
-and the dragon will begin to rule. I will then fastforward some number of
-years, to a point where the people, though they have made well for themselves,
-have maybe had a bad crop, and they grow tired of paying tribute to the dragon,
-and though the dragon tries to reason with them, they begin to rebel as the
-king has not yet returned, and the dragon kills them and etc.
+The king looked back at his people, and stared for a moment.
 
+"Well, what do you say?" The people waited in apprehensive patience.
+
+The king looked out a little longer, and began to speak. "Why, that sounds like
+a great idea!" -- the people let out a brief sigh -- "Why, you have gone and
+made a pilgramge without my knowledge and summoned a dragon to rule in my
+place. Why, if I cared more, I would be upset at your usurping me, but if that
+is what this dragon says I should do, then I do proclaim that I will make it my
+intent." The king's face glowed at his words.  "Well, where is this dragon,
+bring him in, and let him sit on this chair."
+
+The king hopped up out of his chair and began scurrying around. "Why, I feel I
+must gather my things, my possessions, but even that I do not need. I will find
+new possessions in a new land, I will go into the forest, and I will live from
+the forest. This kingly ritual is surely not natural, I will live naturally, as
+the fathers of my father did. Oh, how much I thank you all for allowing this
+dragon to rule in my place, surely that is only more natural than having one
+man rule another."
+
+His speech became faster and faster as the king grew more excited about this
+plan, and after he had discarded his robes and tossed his crown to the floor,
+he proclaimed at last, "I am off, will I be back, will I not, I don't know! I
+will go where my spirit may take me! So long, you wretched townsfolk, you are
+free from my word, but not as much as I am free from expectation! Adieu!"
+
+And with that he ran off.
+
+The townspeople were much overjoyed by this reaction, and started making
+arrangements at once for the dragon to begin rule at once. They went back to
+the dragon, and told him of everything that went on, how the king was very
+excited of the plan, and of how they would introduce him at once to his duties
+as king.
+
+To this, the dragon said, "Pah, I care not for your training. Look to whom you
+speak! I have ruled many other nations before, and yours will be no different.
+It will be in my way that I will lead you to greatness. I will acquaint myself
+with your ways myself, and lead you how best I see fit."
+
+And the townspeople, in this moment, simply looked at eachother and shrugged.
+After all, who were they to question the intent of the dragon? So they each
+went to themselves, and went to their wives and families, and that evening they
+gathered together in great feasting and merryment, and they were glad.
+
+Many years went by. At first, the people were excited by the role the dragon
+took in their leadership, but quickly they began to realize the tyranical
+nature of the dragon. The dragon ruled by force and coercion of fear. The
+dragon would make commands of the townspeople, and would treat any that did not
+mean those demands with harsh punishment. The dragon would make displays of
+might in front of the townspeople to provoke them to fear.
+
+The dragon would also demand great tribute. He would always request a portion
+of the crop, and when they began to realize that the dragon would simply take
+their tribute and burn it himself at his ritual grounds, they became more
+infurited at this. But again, they feared the dragon, and continued to be led
+by his rule.
+
+Through that fear, though, the people did become a much greater nation. The
+tyranacy of the dragon was in fact what these people needed to arrange their
+affairs in order, and come to prosper. And, though the people grew exhausted of
+the fear and tyrannicy of the dragon, they would continue to say amongst
+themselves, "Well, we used to have an apathetic king, and surely this tyranical
+king is better than what we had before. And besides, our king will surely
+return, and he will resume his throne, this time refreshed and renewed, and we
+wall have a middle ground, the best of both world, the efficiency of the tyrant
+mixed with the carefreeness of the apatchic. We will have acheived balance, for
+if the pendulum swings one way, and then the other, at some point we will see
+the middle, and in that middle, we will have true societal growth and
+prosperity." So they would say this to themselves, and use the vision of a
+future king, a better king, to withstand their current distaste of the dragon.
+
+And the people prospered for many years in this way. They obeyed the law of the
+dragon, and continued to hope for the return of their begotten king.
+
+But years continued to go by, and with each one the king did not return.
+
+"Where has our king gone?" The people would say. "He left for the forest in
+such haste, perhaps he went there and was killed! Maybe he wasn't as safe as we
+may have thought, and he died there. Or maybe he lives there no, and wishes to
+stay there, and in the forest he truly has found himself, and he has decided
+that he is free from his rule! Oh, and if that is the case then he will never
+come back, and we will have to obey the rule of this Dragon for eternity! Our
+king is not coming back!"
+
+And so the clamour of the people continued, and after many years, the one that
+originally came up, the one that summoned the dragon, the spearhead of their
+orriginal rebellion, made a speech to his people.
+
+"People, our king is gone! Whether he be dead, or alive, he will not come back
+to this town! He has left it forever! And so this dragon has made fools of us
+all! This dragon continues to make his tyranical rule, and we can do nothing
+but sit here and obey, and look forward to a future king which will not come!
+Should we continue to obey this dragon? Or should we stand up, and fight again
+for our freedom! I know not what is in your heart, but I tell you, in my heart,
+we should fight for our freedom!"
+
+And at this, a great rallying cry was heard in that meeting place.
+
+The dragon, who was always acutely aware of the general doings of the
+townspeople, heard that cry from afar, and made his way there. The people were
+beginning to rally out, with torches and swords, rallying to confront the
+dragon, but as they came out, it was the dragon that confronted them.
+
+"To what do I owe this upbringing of arms? Do you plan to conquer the grains?
+Silly townspeople, you cannot conquer the grains with torches and swords, you
+conquer the grains with patience and diligent work. Return to your homes and
+continue to cultivate your fields."
+
+And the leader of the townspeople replied. "Oh, great Dragon, ten years ago we
+summoned you to give us a now hope, a new light, and in that fear we revered
+you. But you have overstayed your welcome, be gone with you, so that we may
+discover our own method of rule and be free of your tyranacy! Leave this place,
+we no longer want your rule! Let the people decide our decisions, we want
+freedom!"
+
+The dragon let out a great snort, the kind of snort that brings involutary fire
+out of his nostrils. He was so ammused that he almost burned them all right
+there, but he calmed himself before it amounted to anything. "You silly
+townsfolk. You know not how to govern yourselves, that is why you called upon
+me to overtake your king and rule in his place. Do you not remember your
+desperation in summoning me? Think back to your past days. Do you not remember
+the helplessness with which you came to me? Your crops were dying, you harvest
+was dry, and your people were beginning to starve. Look at you now. Have I not
+brought you to a greatness in my rule? Have I not taken you from the pits of
+despair and brought you to a town equal and greater than that of its peers? How
+impudent and foolish you must be to rebel against that which has given you
+greatness."
+
+The townspeople would not be qualmmed. The leader rose up, "Indeed, you have
+brought us to greatness, but we never asked for greatness, we asked for a
+solution. You gave us greatness when all we wanted was a better king. And now
+you have done away with our king, whether he is dead or whether he has
+forgotten us forever, he is gone, and we are left with something which we did
+not ask. You killed our king, and assumed his role, and brought us more than we
+asked. So now, leave us so that we can maybe try and discover our new way of
+rule. Let us take back the town that is ours!"
+
+The people let out another great cheer, this time greater than the last. The
+dragon looked at them again. "Oh foolish townspeople, to leave you now would be
+a great disservice, to leave you in this state of half greatness. You see, the
+greatness I have brought you is still young, and to remove your leader at this
+moment would cause nothing but unrest. Surely you know that to be true. I must
+lead you for a time longer, if your greatness is to bear it's fullest fruit,
+and I will have you know that I will not abandon my leadership until that
+greatness is acheived."
+
+But the people would not here it. Shouts from all the different peoples rose
+up. "He tells lies, don't let his words decieve you." "Take back what is ours!"
+"Down with the tyrant!" "We never wanted this from you!" and so on. And at this
+unrest, they began to attack the dragon.
+
+Now, at this point, the dragon recoiled. He was coiled at first in a vulnerable
+position, in a position of power to the people, positioned in such a way to
+make his point. But when he saw the people revolting, and taking arms against
+him, he flew back, admittidly a little injured, although not in any mortal way,
+and took to the skys. He flew up just above the people, who began firing arrows
+at the dragon, and throwing whatever rocks and other objects they could at the
+dragon, in attempts take him down.
+
+As the dragon looked down on them, he felt a slight sadness come over him.
+"Some are not meant for greatness, it seems." And as the people continued to
+throw things and fire things at the dragon, he looked down.
+
+Out of the dragons mouth came the words "So be it." And at those words he took
+a great inhale, and began to blow in-ordinant ammounts of fire on the people.
+He started around the edge of the mass that had gathered there, and
+circumnavigated the mob there, ensuring to cover the whole mob with flames.
+Some continued to take cover and fight, but most began to run, screaming for
+mercy. The time for mercy had passed, and the dragon flew in a great circle
+around everyone, burning each and every townsperson there.
+
+When the slaughter was done, the whole town was set in flame. The fields, the
+houses, even the castle made of stone burned and collapsed in flame.
+
+The dragon flew up to observe the view. "And what of the king?" the dragon
+thought, as he saw the fruits of his destruction. The dragon pondered a bit.
+"No matter, his life has no meaning anyway."
+
+At this the dragon circled back to his ritual area, coiled up in his spiral,
+sunk his head into his bosum, and prepared himself for his next eternal
+slumber.
 
