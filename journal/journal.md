@@ -7040,5 +7040,113 @@ But for now I have to go. Getting out of myself will be good, I am going to BJJ
 now to trian. I will be back, but probably not to write more about this. This
 is probably the end of the journal for today, so I will leave it at that.
 
+# 20180719
+So today I have something of a funny story to tell, something that could be
+seen as a prophecy of one of my dreams from earlier, but really is just a funny
+story. But before that I want to talk breifly about the dreams I had last
+night.
 
+So last night, I had a pretty continuous dream, from what I remember, but I
+don't remember much of the actual dream. I remember really two moments, two
+lines, and then I remember what most of the rest of the dream was about. Well,
+I will say that most of the dream was about the concept of living with my
+parents, but living in a different room, in my own space where I had my own
+control over things, and I was wrestling with the idea, in the dream, that, if
+it's my own room in my own space, how is it any different living with my
+parents than it is living in an apartment entirely on my own? And I believe it
+was Kyle who was talking about this at first, and he was making the argument to
+me very logically, and I was conceding the fact that he was making logical
+sense, but I knew that somehow there was a fundamental difference, and a lot of
+the dream was spent in angst in that room, reflecting on this sort of thing.
+That was the bulk of the dream, and one of the moments, the second and less
+significant one, had to do with this. Now, there surely is something quite
+enlightening to be had there, but I don't remember what else much happens in
+the dream. Something I will say is that "my parents place" was really very much
+like my apartment in college, but my parents were living in a "master bedroom"
+of that apartment. It was a lot more like my dream version of my apartment, and
+the whole landscape was very much like the dream version of school, with
+waterview drive having this whole scenic overlook and everything. So that was
+something to note, but beyond that I honestly don't remember much from the
+dream except the first notable thing, which happened at the beginning of the
+dream.
+
+The notable thing was this. I know the scene was, my mom was at the stove of
+my childhood home, and this version of my childhood home was a bit different
+thematically than my childhood home, but structurally it was about the same. So
+I was in this home, and I was standing near the pantry, which I'm not sure was
+a pantry, but is where the pantry would be, and my mom was cooking something at
+the stove, and Kyle and Evan I know were there, although they didn't have any
+lines or anything, they were more just a reflection of me there, where as my
+mom was not and she was more doing her own thing. So I am having a conversation
+with my mom, about what topic I don't know, and as we were having that
+conversation, my dad walks in through the front door. And this dream was very
+striking to me, because it is the first dream with my dad in it, of late, which
+was actually truely a premonition of him post hospital. He walked in, and he
+was wearing the knee braces, but beyond that he had nothing for support, so he
+was wobbly, but not so wobbly that he had to hold on to things, and he started
+walking to us. And I remember thinking at that moment, "wow, he is walking very
+well." and such, and I just sort of looked at him in a bit of amazement,
+thinking that it's amazing how quickly he has been able to regain his health
+and his walking capability. And he walked up to the room there, and he made
+some comment, something like, "Well, what, did you think I wasn't going to get
+better?" or something equally rough like that, and I said, "No, I just didn't
+expect you to get better so quickly, it's amazing" and he sort of scoffed at
+me, and we went back to our conversation. It wasn't long after that that left
+my mom and dad, and went to my room in the house there, and it was then that my
+mom and dad became not features of the dream but instead more like the
+landlords of my apartment, and also it was then that the place transformed more
+into my apartment like in college. And when I say transformed, I mean more
+transformed in a dream like way that makes sense in the context of the dream,
+and something more of a natural expression of the state of the dream, if that
+makes any sense.
+
+So yeah, enough of that dream. I do want to talk about my little incident this
+morning, which I find quite amusing. So I woke up today in the sort of usual
+way that I wake. I woke first at 7 (which is really 6) and I remember thinking
+that I wanted to get up a little early so that I could get ready for work a
+little early and be a touch more relaxed. So eventually, I got up at my usual
+time of around 7:35, and I took my shower, brushed my teeth, and etc, and as I
+went to evaluate the gi situation, I remembered that I had incidentally left my
+gym bag in the car last evening when I got home from work, so I decided to put
+my underwear and undershirt on, and some pants, and go outside and retrieve the
+bag, come back up, and then resume with my morning routine. So I did that, I
+put underwear and undershirt and pants on, and I went outside, and I got my gi
+bag, and I came back up and I went on with my morning routine. So I rotated
+some laundry, grabbed a gi, put it all in my bag, and I grabbed everything and
+went on my way to work. It was not until I got out of my car at work, and
+started walking towards my office from the lot, that I realized that I had no
+shirt on. I literally made it all the way here wearing just an undershirt,
+without a shirt on over it. Of course, I felt quite silly, and I immediately
+evaluated my options. First option was, "Do I have a shirt in my car?" and I
+immediately scanned my car in my minds eye and determined that no, I did not.
+Next option was, "Should I go back to my apartment and put on a shirt?" and I
+debated doing this, but I very much didn't feel like driving another thirty
+minutes just to get a shirt. It seemed like such a trivial thing. So then the
+next option I thought was "Just own it and go to work wearing just an
+undershirt" and I immediately thought of my dream a couple nights ago. And I
+determined, "This is not the dream, in the dream I was naked, and this is just
+a shirt." but really it is quite the same as the dream. It is something that is
+not at all a big deal to me, but would be a big deal to others if they knew
+about it. It's the exact scenario of the dream, but the only difference is that
+in the dream I was naked because it was more comfortable, and in real life, I
+was not wearing a shirt because my morning routine was disrupted just enough
+that I forgot to put a shirt on. So as I was there sitting in my car,
+evaluating my options, I decided to put on my hoodie, and go up to work wearing
+that, as I know hoodies are appropiate wear, and I remember a moment when I
+first started working where David was wearing a hoodie, and in training, he
+said that he was only wearing a shirt underneath, but he was wearing the hoodie
+to hide the fact that he was wearing a shirt. So this was the best solution, so
+I put the hoodie on, and I am currently sitting at my desk wearing just my
+undershirt and hoodie. The whole thing is quite comical to me. To add to the
+comedy of it, we had catered lunch last night (which by the way has me wholly
+against bread, and is probably the last time I will eat bread) and from this
+lunch we have a bunch of left over lemons, and the note had an allusion to the
+"when life gives you lemons" mantra, but I just thought the whole thing was
+amusing and fit this scenario quite well as well, so I took one of the lemon
+slices, and squeezed it into my water (that's something that I have taken a
+liking to lately when I drink water at home) and that's the state of things
+now.
+
+I do want to do some discovery writing later, so I will cut this article short
+so that I have time later to do some discovery writing.
 
