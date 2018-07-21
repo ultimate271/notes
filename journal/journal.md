@@ -7439,4 +7439,180 @@ So yeah, the only notable thing about this dream is that Kyle had bought a
 house and that he was living alone in it. The layout of the house was
 interesting, and that was about it.
 
+And now I'm just really sad. I was planning on working on my revisions of the
+dragon and the king, but now I realize that my analysis and other aspects of
+that work are also sitting commited locally and unpushed on my work
+machine, which is at work, and god knows that I don't want to go up there and
+get it. I don't even have a key to the place, so it's lost forever to me now
+until I can get up there again on Monday it will be and actually push the
+commit. This has me dissapointed.
 
+So right now, I have a sort of inclination towards a few things. Part of me
+wants to work on that analysis anyway, I can figure out the trivialities of the
+merge later, and another part of me wants to work on my lit analyzer tool,
+which changes I believe I do have the latest of, which is good. Then another
+part of me wants to just free write about anything and everything, which is
+sort of what I have been doing, but I have no particular aim in mind, nor do I
+feel particularly inspired to discover say, more about Damien, or Kimberly, or
+Racheal, or Lyse, or anyone else.
+
+Actually, I have thought about that whole story, and I had an idea that I find
+somewhat amusing, and that idea is to put the whole thing in sonata form. So
+the exposition, and then the repeat of the exposition, would be the two stories
+by the hermit, then the development would be the characters reading it I think,
+and then the recapitualiton would be something else. That is a wholly contrived
+and silly way to put the whole thing, putting it into words like that, but the
+idea is that I want to create a work which does fit into sonata form. So there
+would be "the first movement" which would have the exposition, and that
+exposition would be repeated, but from a different angle, and then the
+development, and then a final recapitulation. So the expositon would be like
+someone learning something, then failing, then trying again, then failing, then
+the development would be the formation of a plan, and the recap would be doing
+that thing for real, and succeeding. Something like that. Then the second
+movement would be the doings of the bad guy, and the bad guy has a main theme,
+something like the destruction of a village, or something, interspersed with
+moments of planning with his minions, or something of that nature, so there
+would be three villages that get destroyed, and in-between that, we would have
+interludes, in the ABACA format. Then, I don't know what a menuet would look
+like, and in this particular story, of "Good guy bad guy" sort of paradigm,
+there probably wouldn't be a menuet, and we would go straight into the rondo,
+of the good guy and the bad guy clashing, and there would "the battle at the
+final grounds" or something, and they would fight, and that would be the main
+theme of the rondo, and in the first fight the bad guy gets the upper hand,
+and the good guys go on about the bad guy, then they fight again, but this time
+there isn't really a fight, as maybe a natural phenomenon stops them before
+they can clash, which would be the center of the rondo, and then they fight
+again, and the bad guy gets the upper hand again, but this time the good guys
+have an ace up their sleeve, maybe something they gleened during the time they
+almost fought, so in the last encounter, the ace up their sleeve is taken out,
+and that's the finale, and they defeat the bad guy, and everyone is victorious.
+Something like that. It's interesting to me how Sonata form does give way to a
+sort of outline for a story like that. However, I think this association does
+one good to see it as the outline for an original story, and trying to impose
+sonata form on any arbitrary work of art, that would be silly. Indeed, there
+are many stories that are written which don't have this sort of form. Surely
+there are a lot that do, but it's one of those things that with any sufficient
+literary force, you can bend the plot of any work to whatever structure you
+want to impose on it. Maybe, maybe not, I don't know.
+
+I do want to give my opinion, somewhat raw, after reading the end of A
+Brother's Karamazov. Now, I will be entirely honest and say that I did not read
+the entirety of the end of the story. I got up to the point where the
+Prosecuter made his speech, and I was part way through that when I decided to
+skip through the prosecuter speech, and read the end of the defendents speech,
+and at that, I skipped to the end of the epilouge, and read the end, that being
+Ilusha's funeral. Something I will say is I love the ending. The speech Aloysha
+gives to the children was perfect, tying up the experience of youth, and how
+such experince can transform you into adulthood, and how even just one such
+experience can be clung on to with success. I found that to be such a fitting
+speech, even though I don't fully understand all of the implications of the
+different threads at this point. So I liked that a lot, and I like a lot too
+how at the end of it, he said something like, "And lets go eat pancakes, even
+though its a silly tradition, silly traditions are sometimes the best" or
+something like that. I could go read the quote, but it was something like that.
+I love that. And then the last paragraph, cheers for Karamazov, was just, the
+entire thing was such a fitting ending to the novel.
+
+What I will say, and this is something that I have encountered with novels like
+this, is that it felt like there were so many loose ends. Like I said, I
+skipped over some bits, so I will have to go over and read the parts I skipped
+(really just the ending, although I skipped over the life of Zossima as well),
+but I remember thinking that there were a ton of loose ends. Like, what happens
+with Lise? I am sure her story would be a central subject of the sequal which
+will tragically never be written. And what is the fate of Katya? And the fate
+of Mitya and Grusha? Do they go to america? Does he escape his conviction. That
+last point is less relevent to me, and I like that it was left sort of hanging
+like that. And I hate when people say "well, it's up to the reader to decide"
+because it's not. It's up to the reader to read what was presented, and the
+readers reaction to it is simply what the reaction is, and that reaction should
+be pure. And I think, to ask questions about "what happens to such and such
+character" are really silly questions most of the time. You see, the fates of
+these characters are not really important. I think it's important to make the
+work "fluid" in the sense that it is not a strict X happened then Y happened
+and Z happened and all of the loose ends are tied. Of course, the reader has to
+have some resolution, and we got quite a bit of resolution now that I think of
+it.
+
+I think, the biggest question I have is "So what was the actual story about the
+3000 roubles" and "What happened to the inheretance of Fyodor?" And both of
+those things might have been addreessed in the parts I missed, so I will hold
+off on those questions until I study the work further.
+
+But back to my original point. I think it is important to have loose ends in a
+sense. That creates a more powerful message. And I don't mean message as in,
+"what is the message the author is trying to protray here" because such an
+interpretation of literature is immature at best, (although maybe not quite as
+immature as a literal interpretation as literature as a story, so maybe the
+word "misguided" is better) but I think that the work as a work of art has much
+more impact when the story under the story is allowed to take the fore front,
+and the story that's in the front has these loose ends, because without these
+loose ends, the story under the story doesn't have a chance to shine through.
+Indeed, the story is one of psychology. Of all these different characters, all
+of which have their own motivations and personalities, what happens to them all
+in this circumstance.
+
+Something I will say, that is quite funny to me, is the nature of the trial. It
+was very fictional, almost fantastically so, to put "the trial" like it was,
+with all of its events and speechs. It was very glorified, and the notion that
+so many hearts could be moved by the events of the trial is very literary in
+its telling. Indeed, I have not been to an actual trial like this one, and I
+don't know how things are done in Russia, but I don't think that he would be
+convicted so quickly (indeed, as I was looking into death row inmates in my
+curiosity one time, it turns out people stay on death row, and undergo multiple
+kinds of trials on the path there, so yeah), and I don't think that so many
+liberties would be given to the people there to give these broad and all
+encompassing speechs.
+
+One comment I will also make about the story is, that it seemed EVERYONE became
+ill after the conviction. For instance, Smyrgadov have a massive epileptic fit
+after the murder makes sense to me, and Grusha coming down with illness makes
+some sense, and Ivan's illness makes sense as well, it was all used to great
+effect, and honestly, now that I write about it, I don't know if I would change
+any of it, but regardless, it was something that struck me as almost comical.
+Like the old man is killed and everyone comes down with some sort of mental or
+physical illness. I remember thinking something at one point like "Is there
+anyone who isn't becoming ill after this whole event?" and the answer is that
+only Alysha and the school children are not, which is also partly why I liked
+the ending so much.
+
+So I think my final impression of the novel is this. I think it is one of the
+most well written and well told novels of our time. Even the translation, which
+I have read a couple, shows the sort of clarity with which Dostoeyevsky can
+write. His descriptions, while long at times, never feel superflous, and they
+all contribute to the characters and the scene that is being set. I also very
+much like his use of the narrator. Something that the narrator said a lot was,
+or at least in a few occasions was, "but that event will be told in it's proper
+place" and I like that method a lot, because it goes to show that a good work
+of art can't be spoiled, because even the author, the narrator himself, is
+"spoiling" the work by telling you what is going to happen, and giving you a
+promise of more details later. So I like that a lot. Also, I like that we are
+given insight into the reactions of the characters. It never feels like the
+characters go against their nature, and we are given a very clear picture of
+what all the characters are, and what they do, as they do the things, and their
+motiviations are always known, even if they are surprising to us, we are never
+surprised in a way that says "well okay, I can suspend my disbelief about that
+character to accept that this contrived event is happenening."
+
+And the last thing I want to say is, the way in which it was revealed that
+Smergadov hanged himself literally took my breath away. It was at the end of
+the chapter, and as soon as that chapter ended, I put down the tablet and just
+reflected on the whole chapter. Indeed, I know people talk about the Grand
+Inquizitor as "the chapter of the work" but indeed I think it was this chapter
+which takes it all for me. It was so beautifully written, the anguish of Ivan
+is so wall captured, the fact that he is convinced that the entire thing is
+real. Just perfect, absolutely perfect. I love it, and to me that marks the
+best moment of the novel. That, and I loved the narration of Mitya as he goes
+through the town, goes to his fathers, beats Grigory on the head, and then goes
+and spends all sorts of money entertaining the characters, that entire section
+was very well written as well, and I breezed over that without concept of time
+or chapters, and I genuinely wanted to read more. The way that Mitya was caught
+as well, the way Grusha and he were coming together, and that was their moment,
+the moment he was going to go away and carry her off and be free with her, that
+was the moment that he was arrested, I like that juxtopositon, if that is the
+right word, and I think that was used to great effect as well.
+
+In conclusion, very well written novel, and one that I am so blessed to have
+been exposed to and read in my life. Indeed, it is the sort of novel that makes
+me glad to be alive, because if there had been nothing in the world, this novel
+would not have been in the world either, and I could not have read it. It makes
+me glad that there is something, rather then nothing.
