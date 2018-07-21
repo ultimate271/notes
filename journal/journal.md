@@ -7359,3 +7359,84 @@ off, although that was the end of the dream if that happened. But this whole
 event with these two "druggies" was the most profound aspect of the dream, and
 the part that stuck with me the most and what I wanted to get out.
 
+# 20180721
+So I feel very strange right now. I am writing a journal article "on top of
+another" so to speak. You see, I was at work yesterday, and as I was leaving
+work, I remembered to commit my article, but when it came to pushing it, I
+entirely forgot, so I have a commited journal article on my work laptop that
+has not made it yet to this machine, and it makes me feel very strange that I
+am contributing a commit that "skips a day" but which will be resolved later in
+a merge that will happen when I get back to work on monday. Part of my
+uneasiness here is my lack of experience with git, and I have enough experience
+with git to know that the merge will happen reletively seemlessly, and that
+when I go back and read this it will be in order, and I might even chuckle at
+the fact that I am talking about how it is not in order right now, and how I
+am fixating on that even foolishly. But enough of that.
+
+I had a dream last night, that I don't think was a very eventful dream, but I
+say that about all the dreams I have and I always end up writing an entire
+fucking article about it, so what do I know about dreams. Regardless, I know
+this dream took place in a sort of two part way. The frist part, I believe, I
+was at a Five-K, and I was running this with my family, although I don't
+remember any of the specifics about the race at all. In fact, I don't think
+I even ran the race in the dream, as in, we ran the race, but that all happened
+before the dream began, and so I don't have any memory of running the race, and
+instead the dream started, and I was in the car with Kyle and my Mom, who also
+ran the race, and we were on our way back home. And as we were coming back home
+I remember saying we should go to Kyle's place, because he had just bought a
+house, and he had been in it long enough for him to be "properly moved in" but
+it was still a relatively new house, and we needed to "break it in" so to
+speak. I also remember, I had an ice pack on me, I think on my leg or somewhere
+like that, which is strange, because I don't have anything going on with my leg
+right now, but I had an ice pack, so I said I would come to the house, and put
+that pack in the freezer there. So we go to his house, and it was just me and
+Kyle there, and this house is most similar to my memory of the house of the
+Wrights, with the notable difference that the place where I'm pretty sure the
+master bedroom was was really the kitchen, and the place where the kitchen was
+was just more living area, and in the backyard, there was a pool. I want to
+give a quick layout of Kyle's house. So at the front door, you walk in to a
+living area, and to your immediate left, there is a staircase that goes to the
+upper floor. This upper floor is open, and there is a common living area in the
+upper area like there is in the lower area, and they are very much open to
+eachother. So on the lower floor, there is a door to the backyard in the back,
+which is a rather skinny backyard, but goes all the way around and had a pool
+to the side which is in a sort of kidney shape, and has a shallow end at the
+closest end to the backdoor, and a deep end on the other end. As you walk to
+the back door from the front, to the left is a kitchen, and on the other side
+of that is another sort of entrance, a more "grand" entrance, where visiters
+would come, and in that area beyond the kitchen, it goes up all the way to the
+ceiling (the second floor ends at the end of the kitchen) and that would be
+where you would have guests come over for dinner. So if you were to go up the
+stairs, you would go up to the common area, and this area is very much like the
+house of the Wrights, and to the left there is a hallway with bedrooms. So now
+that we have said that, I enter by the front way, rather than the "guest" way,
+because we are not guests but instead we are just going there to hang out, so
+that's the appropiate way in, and I go into the kitchen to put the ice pack
+thing in the freezer. I explore the house a little, I remember that, although
+all of the details I have of the house right now are from me conjuring up my
+memeory in this waking moment of my "conscious" memory of what the house should
+be, rather than recollection of the exploring. Mostly, I explored the upstairs
+area, as that's the point I remember most. Anyway, I remember asking Kyle about
+the state of the pool, and he said that it was possible to swim in it, so I
+decided to go out and do so. So we go out, and I evaluate the water, and
+determine that it is indeed appropiate to swim in, so I get in, and wade around
+a bit, and I swim over to the deep end. And I remember, while we were there,
+Kyle was trying to experiment with lotus position, while wading in the pool,
+and I was able to do it quite a bit better than him, and then I swam to the
+deep end (it was after this that I swam over) and I said to check this out, and
+I started doing some wim hof breathing, but only three or four breaths, before
+letting go and holding it, and sinking to the bottom, and establishing lotus
+psotion in the bottom of the pool, and I held it there for only a couple of
+seconds, because it's hard to hold your breath like that underwater, so I came
+back up, and I did that maybe two or three times. The last thing I remember
+about the dream is that Mom came out to the backyard with a very young and
+dorky version of Evan, and he was wrapped in a sort of shawl, and she was to
+cut his hair. The sort of shawl I mean is the kind of shawl you wear when
+someone is cutting it to keep the falling hair off of you. I'm sure it probably
+has a proper name, but that was the end of the dream.
+
+So yeah, the only notable thing about this dream is that Kyle had bought a
+house and that he was living alone in it. The layout of the house was
+interesting, and that was about it.
+
+
