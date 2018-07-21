@@ -1,4 +1,4 @@
-# Unknown date that I will probably delete at some point
+# Unknown date that I will probably delete at some point (I was really high)
 So this  is a story all about how my life got twist turned upside down and I'd
 like to take a minute just sit right there I'll tell youa all about how I
 became the fresh prince of bel air.
@@ -41,7 +41,7 @@ how that window lies in with reality.
 
 
 
-# 20180627
+# 20180627 Intro to the journal - Brothers Karamazov leading to a visit with my father
 
 So I am getting to a point in my life where I feel like my life is becoming a
 really interesting story, a story that will be worth telling in perhaps
@@ -275,7 +275,7 @@ I will continue to visit, without expectation, because that is what I feel I
 need to do, not to gain anything for myself or for my father, or for anyone
 else, but because I simply feel that my place is with my father.
 
-# 20180628
+# 20180628 Dreams: Arguing with Kyle about Russian letters - Blessing of the Cells
 
 So this is the beginning of my second dedicated journal article. There are a
 few things that I want to go over, and I'm not sure which to start with. The
@@ -537,8 +537,7 @@ be aligned, and it makes me want to vomit. That is all.
 
 Until next time.
 
-# 20180629
-
+# 20180629 Dreams: Psilocibin, Colorado trip ski lift, Kim in Seattle - Convesation with my mom
 Okay, so I had another dream today that I want to share briefly. I did not
 intend for this to become a dream journal, but as long as I am having vivid and
 memorable dreams that can be interpreted easily, I will continue to write about
@@ -990,7 +989,7 @@ where socializing and eating is going to be a thing that is even on his mind.
 This time I will be more keen on the signals I get from my mom and see what to
 do from there.
 
-# 20180630
+# 20180630 Dream, trapdoor and father, event of Papa and us at Bavarian Grill
 So today was the day that I was planning on doing the speed dating event, but
 that was canceled so instead I am going to plan on going to the Roughnecks game
 in about an hour. I will arrive late, but fuck it, I don't want to watch the
@@ -1208,7 +1207,7 @@ conversation and I made my way back to my apartment.
 Indeed, I have to stop now (I am quite done anyway) and make my way to the
 Roughnecks game. That's it for today.
 
-# 20180701
+# 20180701 Ramblings of a man in the haze of waking - Ramblings of the lit analyzer
 So today it is now in the morning, where as yesterday it was the evening time,
 like I said I would do in my article yesterday. In fact, I literally just woke
 up, and I am still gathering myself as far as waking up and gathering my
@@ -1246,8 +1245,6 @@ this is starting to flow a little better. Actually, I think I will decide to
 take a shower, go outside for a bit, collect myself, and think about what I
 might want to write about, and come back and continue writing. Yes, let's do
 that. I will return.
-
--
 
 So I am back now from my walk, which took me about 30 minutes in total to
 complete, and I am back and I have a few things I want to talk about.
@@ -1396,8 +1393,6 @@ mark, but needs to be re-imagined in a different way, similar to how clever
 mathmeticians just simply have to think about a problem very hard in order to
 solve it.
 
---
-
 So I think at this point I have three concepts which encapsulate everything I
 want to capture in my system. The first, and most specific, is that of the
 speaker, which would be the lowest most base form of an excerpt. The second is
@@ -1463,7 +1458,7 @@ to read Mistborn and break down that story in this way. That story is
 complicated enough to warrent this sort of analysis but not so complicated that
 I will get confused as to what I am doing and why.
 
-# 20180702
+# 20180702 Temptation of Marijuana, visit to my father, Commentary about the dragon and the king
 So today I don't have much to say. I did have a dream last night, but it was
 mostly uninteresting, since when I tried to go to sleep in one location, I had
 my watch with the alarm for BJJ on it, but I could not go to sleep in that
@@ -1596,7 +1591,7 @@ guidance from, if you are not to listen and obey when that has spoken?" I want
 to liken this to some myth right now, but maybe I have been reading to much
 epic poetry and should leave the references out of it.
 
-# 20180703
+# 20180703 Of my night, Dream of Crossfit, sleep paralysis, Dream of Marijuana and drug testing, discovery of my four characters for the hermit story
 So I want to get this down before I forget it. This dream I had last night was
 not too spectacular, but it is definitely worth writing down and setting off my
 thoughts for this journal article with, as I feel there is definitely something
@@ -1766,8 +1761,6 @@ attempt to move your limbs (which I remind you are paralyzed), but once I was
 able to accept it and realized that it was the feeling that I wanted to
 embrace, I was able to embrace it, and then I returned to sleep.
 
---
-
 I feel very compelled now to write about the dream I had. This dream was very
 vivid and involved the consumption of Marijuana and the subsequent drug testing
 that would happen, along with alot of other symbolism involving my mom, the
@@ -1935,8 +1928,6 @@ it or assign it anything, I can only think that I dislike that aspect of my
 subconscious, and it gives me curiosity as to when that aspect might go away. I
 don't know.
 
---
-
 At this moment, now, I have a compulsion to write. Indeed, there is this story
 that I have thought of, that I haven't had the time to discover yet, but I
 think it is time to discover it.
@@ -2028,7 +2019,7 @@ recent events of my life, the events being my dad's diagnosis of Lukemia as
 well as my being charged with a felony. The adjudicator is a member of this
 mythology.
 
-# 20180704
+# 20180704 Dream of Kim in Seattle - Discovery of the hermit
 So I woke up today thinking only about how much I didn't want to go to yoga. I
 would so much rather sit here and describe my dream. So that's what I'm doing.
 
@@ -2190,8 +2181,6 @@ strange that the main characters of the dream, and the ones I'm most embarresed
 to make contact with, are my family and extended family, so I think it might be
 a little deeper than this one case that I am failing to work on at work. But I
 don't know.
-
---
 
 Of the Father of Man
 
@@ -2423,7 +2412,7 @@ eachother, as I truely believe that the only way to got the most complete sense
 of this world is through communication and attempted understanding of all that
 there is in this world.
 
-# 20180705
+# 20180705 Reflections of yestday, Peterson, then Michelle
 So at this point, I want to cut off my ever haughty and pompous talk of "the
 otherworld" to return to the disscussion of things more appropiate for a
 journal entry. In fact, to say I am cutting it off is maybe inappropiate, that
@@ -2626,7 +2615,7 @@ of both getting more involved with outdoors things and also to increase my
 friend circle. As Yash told me, I should meet 10% more people every month, so
 this I feel is my best effort to do that.
 
-# 20180706
+# 20180706 Injury at open mat, decision to not go to Houston, condemnatiion of Bikram
 Okay, so as of this moment in time, it is in the afternoon, I am conflicted. So
 today is Friday, and like any good Friday I decided to go to open mat. Well,
 while I was at open mat, I rolled with a lot of people, as I do, and I tapped
@@ -2795,7 +2784,7 @@ that I can strike by not dedicating myself to Bikram and instead treating it as
 another tool (which I have been doing, but it's very difficult to see it that
 way when you do it every fucking day). Enough on that.
 
-# 20180707
+# 20180707 Recap of the day - Codemnation of PBJ - Discovery of the hermit
 Okay, so today has been a weird day for me so far. I can honestly say that I
 haven't done much of anything since the day started, but I feel as though I
 somehow have done a lot of things. To recap what I have done today.
@@ -2838,7 +2827,7 @@ that.
 
 So all of that to say, I don't know what to make of myself this morning and
 day. I think I have decided to give up PBJ all-together, especially in the
-mornings. I hate I don't know how much steak last night, but I was still hungry
+mornings. I ate I don't know how much steak last night, but I was still hungry
 when I woke up today, and I have eaten two PBJ's and I think I have finally
 made the association of PBJ and this sort of apthetic, easily distracted, brain
 weary state that I am in right now. I can't seem to concentrate on any one
@@ -3108,7 +3097,7 @@ water (I'll have to figure out more veggies). I like it.
 
 Now to Hearthstone.
 
-# 20180708
+# 20180708 Dream: Pregnancy and the adjudcator - Preamble to my father
 So today I had a most vivid and most unsettling dream, that surely indicates
 the guilt I am feeling at neglecting my work duties. The dream took place in a
 hotel. I have had other dreams in this hotel before, but the description of the
@@ -3280,7 +3269,7 @@ dream may be. If the dream does not come, at the very least I will have
 something to write about, that is entirely certain. But not now. Not now. Now
 is the time for meditation and rest.
 
-# 20180709
+# 20180709 Dreams: Tyrant in prison, Roughnecks practice, Visit with my father, CaringBridge post drafts (that turn into nothing)
 So tonight I had a dream. I had two dreams, actually, in spite (or perhaps
 because of) my poor sleep. The first dream is the more important, or at least I
 think it is. This dream happened in a location that I am not entirely conviced
@@ -3429,8 +3418,6 @@ Now, I have talked about both of my dreams, and my prayers were answered.
 Indeed, I would have honestly been very surprised had I not had any dreams last
 night, as my mind was in such a state that I was sure I would have dreams, and
 so it was the case. So far I have met the Adjudicator and the Tyrant.
-
---
 
 So at this juncture, I feel it quite neccesary, quite neccesary indeed, to put
 together my thoughts and feelings from the events of yesterday evening. Indeed,
@@ -4089,7 +4076,6 @@ I wasn't so sure, but she got a little defensive at that, and I receded,
 calling myself a righteous fool again, before we shared our final hugs for that
 day and I drove back to my place.
 
---
 
 Caring Bridge Post
 
@@ -4195,16 +4181,14 @@ when he has been reduced to immeasurable rapture and suffering due to the
 horrible (but unfortantely still our best known method) drug His faith is
 there, and it is perhaps the strongest thing in him, his faith and his love for
 those who love him, when all his bodily capabilities are taken away, and he's
-taken down and reduced to 
-
---
+taken down and reduced to.
 
 Wow, what a mess of thoughts, I came into this post with the best of
 intentions, but now I see that I must come back to it with a clearer mind. I
 will return to this later, and from there see what it is I should do, to find
 my inner spirit and let it write through me.
 
-# 20180710
+# 20180710 Chiropractic care - Discovery of the Hermit
 So today I don't have nearly as much to talk about as I did yesterday.
 Obviously yesterday I had a lot to talk about about two days ago, and I think
 the biggest thing I can say is that I don't think that the Caring Bridge post
@@ -4448,7 +4432,7 @@ actual meat of the story anyway, so I will probably discover those before I
 discover the actual nature of the murder. So I will begin to write those bits,
 and get to the murder in its time.
 
-# 20180711
+# 20180711 Dream: Evan takes acid - Musings of my father - Discovery of the Hermit
 So today I had a dream that I remember thinking about how much I wanted to talk
 about it, and I don't remember some of the details now that I have neglected to
 get to it for so long today. And that fault is my own. I will just begin to
@@ -4718,7 +4702,7 @@ point to be. So perhaps the murder is not something that I want, maybe that is
 too much. I'm not sure. I'll have to think on it. I might have to discover more
 about these characters before I come up with more plot points.
 
-# 20180712
+# 20180712 Time Management - Visit of my father, who talks of Bowties
 Okay, so I think I have decided on a system that will optimize my time spent
 doing these things while at the same time ensuring that I get work done. That
 system will be to have certain set times where I only allow myself to do things
@@ -4923,7 +4907,7 @@ of hanging, and I don't like that, and I want to leave it not hanging. But I
 think I will be a good person, and get to work, to at least start to get back
 to the whole thing again, so I will end this entry here.
 
-# 20180713
+# 20180713 Diet - Visions then Dreams: Walking with Janet, BJJ in Garage, Takashi and a video game, Diarehha in the tub
 So yesterday night I had a lot of dreams. Like, a lot of dreams, and they were
 all I think somewhat connected but mostly not. I want to at first just get the
 dreams out on paper before I actually go into any details, just so I'm able to
@@ -5217,7 +5201,7 @@ times questionable) structure on the whole thing. So I will certainly pass on
 that today, but I might go over the weekend or next week if I am feeling so
 inspired.
 
-# 20180714
+# 20180714 Dream of a real life video game, of a childly recital theater - Discovery Writing Damien
 So last night I had a dream, a dream that had some interesting points but as a
 whole was mostly absurd. Granted, most of my dreams are absurd. This one is one
 that takes place in that same world as dream Seattle, and the dream version of
@@ -5321,8 +5305,6 @@ well. I want to interview all of them later, but right now I don't feel like I
 have quite the inspiration or interest to do that, it would feel more like a
 chore than discovery, so I will take a break, have a bit of my day, and come
 back to that later.
-
---
 
 So I'm back, now with coffee, so we will so how this writing thing turns out
 now that I have some stimulant to fuel me. So let's start with something of an
@@ -5792,7 +5774,7 @@ does have a great effect on my mind right now, and I can see how, if
 over-indulged, one can grow quite a depenance on it, and I certainly don't want
 that. I shall see, and take the utmost care in with this substance.
 
-# 20180715
+# 20180715 Effects of the coffee - Musings on Government
 So yesterday was an interesting day for me. The whole, let's drink a bunch of
 coffee thing allowed me to focus in on and create the above article like I did,
 which I have not as yet read back to myself yet, but after that it left me in
@@ -6025,7 +6007,7 @@ disagree on something is one way to resolve some of the most trivial of
 policies, I feel that it fails on many levels and that there will always be a
 better way of doing things.
 
-# 20180716
+# 20180716 Recovery from coffee - Hamlet - Diet - Visit with dad and Jason - Rape of the maiden of Truth
 So it's quite facsinating, I still feel like I am recovering from my
 consumption of 2 liters of coffee that happened over 48 hours ago. Yesterday,
 before I went to bed, I was still hopelessly trying to figure out why I felt so
@@ -6058,6 +6040,8 @@ I'm exhausted in a way that doesn't make me tired, I'm exhausted in the way
 that makes me hungry for meaning, for purpose, and I can't find it.
 
 So yeah, enough with that piece of shit run on sentance.
+
+--
 
 Yesterday, I experimented with something, and I talked about it I think in my
 entry yesterday, and that was going for a one mile jog a few times throughout
@@ -6139,6 +6123,8 @@ grieving incorrectly, we would get instead an image of the proper role of grief
 in our own lives. That's my two cents on that, and I'll stop there before
 anyone who might be a legitimate literary critic comes across this and
 lacerates it through and through.
+
+--
 
 So now, let it be known, I was (am) quite exhausted, to the point of
 practically collapsing at my desk today. Indeed, the sort of feeling I feel of
@@ -6240,6 +6226,8 @@ thing I don't like about that is that eggs have to be prepared, and that takes
 effort, but so be it for now. I might transition to peanut butter and milk like
 I have in the past, and see how that does me. We will see.
 
+--
+
 Enough on food. Not much else has happened to me as of late. Something I have
 thought about, that I haven't talked about, is my trip on Friday to see my dad
 when Jason was here. Jason was here, and I visited my dad, and he was so very
@@ -6307,6 +6295,8 @@ church is, and in that structure the truth is taken and warped, perverted, to
 fact. The image of the virgin maiden, raped by those that insist to impregnate
 her. That maiden is truth, and that rapist is the church, and the child that is
 born are these unguided and lost fools who have only their father to cling to.
+
+--
 
 Indeed, what of the eternal mother? Why is God the Father the image? Why not
 the eternal mother? I tell you why, it is because that mother has been raped,
@@ -6539,7 +6529,7 @@ written here would have been much different. Let this be a tale of caution to
 the future Brett who will be known to over-indulge in the wonder of Marijuana.
 Let this be known to him.
 
-# 20180717
+# 20180717 Dream of Metamorpheses - Visit my father with Papa
 So today I am writing particularly early, as I had a dream that has had a sort
 of interesting effect on me. So in this dream, I was at my parents house, in
 the study (and this was the version of my parents house that is very much like
@@ -6730,7 +6720,7 @@ more comfortable through the conversation (I hate when I feel like I am walking
 on eggshells in any conversation) and eventually during pause, I stood up and
 announced my intention to leave, so I shared some goodbyes and made my leave.
 
-# 20180718
+# 20180718 Dreams Naked at work, Rogan fights, Bath tub fuzzy animals, Dinner at vacation - Girl that giggles outside my apartment
 So yesterday I had some dreams, but I don't want to dwell too long on them.
 Everytime I say that, I end up writing the entire article about the dreams, but
 this time I think I might mean it. I honestly am not feeling particularly
@@ -7040,7 +7030,7 @@ But for now I have to go. Getting out of myself will be good, I am going to BJJ
 now to trian. I will be back, but probably not to write more about this. This
 is probably the end of the journal for today, so I will leave it at that.
 
-# 20180719
+# 20180719 Dream My dad walks - I forget my shirt at work - Dream of the drug addicts in the elevator
 So today I have something of a funny story to tell, something that could be
 seen as a prophecy of one of my dreams from earlier, but really is just a funny
 story. But before that I want to talk breifly about the dreams I had last
@@ -7359,7 +7349,7 @@ off, although that was the end of the dream if that happened. But this whole
 event with these two "druggies" was the most profound aspect of the dream, and
 the part that stuck with me the most and what I wanted to get out.
 
-# 20180721
+# 20180721 Dream in Kyle's house - Finished Reading the Brothers Karamazov
 So I feel very strange right now. I am writing a journal article "on top of
 another" so to speak. You see, I was at work yesterday, and as I was leaving
 work, I remembered to commit my article, but when it came to pushing it, I
