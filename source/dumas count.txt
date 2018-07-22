@@ -51,271 +51,17 @@ by Alexandre Dumas [père]
 
 
 
-Contents
 
-VOLUME ONE
 
-Chapter 1. Marseilles—The Arrival
 
-Chapter 2. Father and Son
 
-Chapter 3. The Catalans
 
-Chapter 4. Conspiracy
 
-Chapter 5. The Marriage Feast
+# VOLUME ONE
 
-Chapter 6. The Deputy Procureur du Roi
 
-Chapter 7. The Examination
 
-Chapter 8. The Château d’If
-
-Chapter 9. The Evening of the Betrothal
-
-Chapter 10. The King’s Closet at the Tuileries
-
-Chapter 11. The Corsican Ogre
-
-Chapter 12. Father and Son
-
-Chapter 13. The Hundred Days
-
-Chapter 14. The Two Prisoners
-
-Chapter 15. Number 34 and Number 27
-
-Chapter 16. A Learned Italian
-
-Chapter 17. The Abbé’s Chamber
-
-Chapter 18. The Treasure
-
-Chapter 19. The Third Attack
-
-Chapter 20. The Cemetery of the Château d’If
-
-Chapter 21. The Island of Tiboulen
-
-Chapter 22. The Smugglers
-
-Chapter 23. The Island of Monte Cristo
-
-Chapter 24. The Secret Cave
-
-Chapter 25. The Unknown
-
-Chapter 26. The Pont du Gard Inn
-
-Chapter 27. The Story
-
-
-
-VOLUME TWO
-
-Chapter 28. The Prison Register
-
-Chapter 29. The House of Morrel & Son
-
-Chapter 30. The Fifth of September
-
-Chapter 31. Italy: Sinbad the Sailor
-
-Chapter 32. The Waking
-
-Chapter 33. Roman Bandits
-
-Chapter 34. The Colosseum
-
-Chapter 35. La Mazzolata
-
-Chapter 36. The Carnival at Rome.
-
-Chapter 37. The Catacombs of Saint Sebastian
-
-Chapter 38. The Rendezvous
-
-Chapter 39. The Guests
-
-Chapter 40. The Breakfast
-
-Chapter 41. The Presentation
-
-Chapter 42. Monsieur Bertuccio
-
-Chapter 43. The House at Auteuil
-
-Chapter 44. The Vendetta
-
-Chapter 45. The Rain of Blood
-
-Chapter 46. Unlimited Credit
-
-Chapter 47. The Dappled Grays
-
-
-
-VOLUME THREE
-
-Chapter 48. Ideology
-
-Chapter 49. Haydée
-
-Chapter 50. The Morrel Family
-
-Chapter 51. Pyramus and Thisbe
-
-Chapter 52. Toxicology
-
-Chapter 53. Robert le Diable
-
-Chapter 54. A Flurry in Stocks
-
-Chapter 55. Major Cavalcanti
-
-Chapter 56. Andrea Cavalcanti
-
-Chapter 57. In the Lucern Patch
-
-Chapter 58. M. Noirtier de Villefort
-
-Chapter 59. The Will
-
-Chapter 60. The Telegraph
-
-Chapter 61. How a Gardener May Get Rid of the Dormice
-
-Chapter 62. Ghosts
-
-Chapter 63. The Dinner
-
-Chapter 64. The Beggar
-
-Chapter 65. A Conjugal Scene
-
-Chapter 66. Matrimonial Projects
-
-Chapter 67. The Office of the King’s Attorney
-
-Chapter 68. A Summer Ball
-
-Chapter 69. The Inquiry
-
-Chapter 70. The Ball
-
-Chapter 71. Bread and Salt
-
-Chapter 72. Madame de Saint-Méran
-
-Chapter 73. The Promise
-
-
-
-VOLUME FOUR
-
-Chapter 74. The Villefort Family Vault
-
-Chapter 75. A Signed Statement
-
-Chapter 76. Progress of Cavalcanti the Younger
-
-Chapter 77. Haydée
-
-Chapter 78. We hear From Yanina
-
-Chapter 79. The Lemonade
-
-Chapter 80. The Accusation
-
-Chapter 81. The Room of the Retired Baker
-
-Chapter 82. The Burglary
-
-Chapter 83. The Hand of God
-
-Chapter 84. Beauchamp
-
-Chapter 85. The Journey
-
-Chapter 86. The Trial
-
-Chapter 87. The Challenge
-
-Chapter 88. The Insult
-
-Chapter 89. The Night
-
-Chapter 90. The Meeting
-
-Chapter 91. Mother and Son
-
-Chapter 92. The Suicide
-
-Chapter 93. Valentine
-
-Chapter 94. Maximilian’s Avowal
-
-Chapter 95. Father and Daughter
-
-
-VOLUME FIVE
-
-Chapter 96. The Contract
-
-Chapter 97. The Departure for Belgium
-
-Chapter 98. The Bell and Bottle Tavern
-
-Chapter 99. The Law
-
-Chapter 100. The Apparition
-
-Chapter 101. Locusta
-
-Chapter 102. Valentine
-
-Chapter 103. Maximilian
-
-Chapter 104. Danglars’ Signature
-
-Chapter 105. The Cemetery of Père-Lachaise
-
-Chapter 106. Dividing the Proceeds
-
-Chapter 107. The Lions’ Den
-
-Chapter 108. The Judge
-
-Chapter 109. The Assizes
-
-Chapter 110. The Indictment
-
-Chapter 111. Expiation
-
-Chapter 112. The Departure
-
-Chapter 113. The Past
-
-Chapter 114. Peppino
-
-Chapter 115. Luigi Vampa’s Bill of Fare
-
-Chapter 116. The Pardon
-
-Chapter 117. The Fifth of October
-
-
-
-
-
-
-
-
-VOLUME ONE
-
-
-
-Chapter 1. Marseilles—The Arrival
+## Chapter 1. Marseilles—The Arrival
 
 On the 24th of February, 1815, the look-out at Notre-Dame de la Garde
 signalled the three-master, the Pharaon from Smyrna, Trieste, and
@@ -765,7 +511,7 @@ Edmond Dantès.
 
 
 
-Chapter 2. Father and Son
+## Chapter 2. Father and Son
 
 We will leave Danglars struggling with the demon of hatred, and
 endeavoring to insinuate in the ear of the shipowner some evil
@@ -1136,7 +882,7 @@ singing their welcome to one of the first days of spring.
 
 
 
-Chapter 3. The Catalans
+## Chapter 3. The Catalans
 
 Beyond a bare, weather-worn wall, about a hundred paces from the spot
 where the two friends sat looking and listening as they drank their
@@ -1593,7 +1339,7 @@ elect of heaven.
 
 
 
-Chapter 4. Conspiracy
+## Chapter 4. Conspiracy
 
 Danglars followed Edmond and Mercédès with his eyes until the two lovers
 disappeared behind one of the angles of Fort Saint Nicolas; then,
@@ -1913,7 +1659,7 @@ will effect its purpose unassisted.”
 
 
 
-Chapter 5. The Marriage Feast
+## Chapter 5. The Marriage Feast
 
 The morning’s sun rose clear and resplendent, touching the foamy waves
 into a network of ruby-tinted light.
@@ -2597,7 +2343,7 @@ be rowed on board the Pharaon, where M. Morrel had agreed to meet him.
 
 
 
-Chapter 6. The Deputy Procureur du Roi
+## Chapter 6. The Deputy Procureur du Roi
 
 In one of the aristocratic mansions built by Puget in the Rue du Grand
 Cours opposite the Medusa fountain, a second marriage feast was being
@@ -3096,7 +2842,7 @@ with paradise in his heart.
 
 
 
-Chapter 7. The Examination
+## Chapter 7. The Examination
 
 No sooner had Villefort left the salon, than he assumed the grave air of
 a man who holds the balance of life and death in his hands. Now, in
@@ -3542,7 +3288,7 @@ hastened to the house of his betrothed.
 0107m
 
 
-Chapter 8. The Château d’If
+## Chapter 8. The Château d’If
 
 The commissary of police, as he traversed the antechamber, made a sign
 to two gendarmes, who placed themselves one on Dantès’ right and the
@@ -3977,7 +3723,7 @@ wanted but little of being utterly mad.
 
 
 
-Chapter 9. The Evening of the Betrothal
+## Chapter 9. The Evening of the Betrothal
 
 Villefort had, as we have said, hastened back to Madame de Saint-Méran’s
 in the Place du Grand Cours, and on entering the house found that the
@@ -4226,7 +3972,7 @@ we know very well what had become of Edmond.
 
 
 
-Chapter 10. The King’s Closet at the Tuileries
+## Chapter 10. The King’s Closet at the Tuileries
 
 We will leave Villefort on the road to Paris, travelling—thanks to
 trebled fees—with all speed, and passing through two or three
@@ -4631,7 +4377,7 @@ restrained him.
 
 
 
-Chapter 11. The Corsican Ogre
+## Chapter 11. The Corsican Ogre
 
 At the sight of this agitation Louis XVIII. pushed from him violently
 the table at which he was sitting.
@@ -5029,7 +4775,7 @@ with evident signs of astonishment.
 
 
 
-Chapter 12. Father and Son
+## Chapter 12. Father and Son
 
 M. Noirtier—for it was, indeed, he who entered—looked after the servant
 until the door was closed, and then, fearing, no doubt, that he might be
@@ -5366,7 +5112,7 @@ of man with ambition and its first successes.
 
 
 
-Chapter 13. The Hundred Days
+## Chapter 13. The Hundred Days
 
 M. Noirtier was a true prophet, and things progressed rapidly, as he had
 predicted. Everyone knows the history of the famous return from Elba, a
@@ -5694,7 +5440,7 @@ dangerous a Bonapartist as Dantès, was stigmatized as a crime.
 
 
 
-Chapter 14. The Two Prisoners
+## Chapter 14. The Two Prisoners
 
 A year after Louis XVIII.’s restoration, a visit was made by the
 inspector-general of prisons. Dantès in his cell heard the noise of
@@ -6141,7 +5887,7 @@ number 34.
 
 
 
-Chapter 15. Number 34 and Number 27
+## Chapter 15. Number 34 and Number 27
 
 Dantès passed through all the stages of torture natural to prisoners in
 suspense. He was sustained at first by that pride of conscious innocence
@@ -6785,7 +6531,7 @@ the body of a man, who sprang lightly into his cell.
 
 
 
-Chapter 16. A Learned Italian
+## Chapter 16. A Learned Italian
 
 Seizing in his arms the friend so long and ardently desired, Dantès
 almost carried him towards the window, in order to obtain a better view
@@ -7279,7 +7025,7 @@ passage, in which he soon disappeared, followed by Dantès.
 
 
 
-Chapter 17. The Abbé’s Chamber
+## Chapter 17. The Abbé’s Chamber
 
 After having passed with tolerable ease through the subterranean
 passage, which, however, did not admit of their holding themselves
@@ -8312,7 +8058,7 @@ towards his aged friend.
 
 
 
-Chapter 18. The Treasure
+## Chapter 18. The Treasure
 
 When Dantès returned next morning to the chamber of his companion in
 captivity, he found Faria seated and looking composed. In the ray of
@@ -8804,7 +8550,7 @@ young man, who threw himself upon his neck and wept.
 
 
 
-Chapter 19. The Third Attack
+## Chapter 19. The Third Attack
 
 Now that this treasure, which had so long been the object of the abbé’s
 meditations, could insure the future happiness of him whom Faria really
@@ -9250,7 +8996,7 @@ tunnel.
 
 
 
-Chapter 20. The Cemetery of the Château d’If
+## Chapter 20. The Cemetery of the Château d’If
 
 On the bed, at full length, and faintly illuminated by the pale light
 that came from the window, lay a sack of canvas, and under its rude
@@ -9484,7 +9230,7 @@ The sea is the cemetery of the Château d’If.
 
 
 
-Chapter 21. The Island of Tiboulen
+## Chapter 21. The Island of Tiboulen
 
 Dantès, although stunned and almost suffocated, had sufficient presence
 of mind to hold his breath, and as his right hand (prepared as he was
@@ -9926,7 +9672,7 @@ with every stitch of canvas set was flying before the wind to Leghorn.
 
 
 
-Chapter 22. The Smugglers
+## Chapter 22. The Smugglers
 
 Dantès had not been a day on board before he had a very clear idea of
 the men with whom his lot had been cast. Without having been in the
@@ -10219,7 +9965,7 @@ island by the following day.
 0289m
 
 
-Chapter 23. The Island of Monte Cristo
+## Chapter 23. The Island of Monte Cristo
 
 Thus, at length, by one of the unexpected strokes of fortune which
 sometimes befall those who have for a long time been the victims of an
@@ -10550,7 +10296,7 @@ which Faria had related to him, “now, Open Sesame!”
 
 
 
-Chapter 24. The Secret Cave
+## Chapter 24. The Secret Cave
 
 The sun had nearly reached the meridian, and his scorching rays fell
 full on the rocks, which seemed themselves sensible of the heat.
@@ -10912,7 +10658,7 @@ emotions had already experienced twice or thrice in his lifetime.
 
 
 
-Chapter 25. The Unknown
+## Chapter 25. The Unknown
 
 Day, for which Dantès had so eagerly and impatiently waited with open
 eyes, again dawned. With the first light Dantès resumed his search.
@@ -11252,7 +10998,7 @@ d’Aix.
 
 
 
-Chapter 26. The Pont du Gard Inn
+## Chapter 26. The Pont du Gard Inn
 
 Such of my readers as have made a pedestrian excursion to the south of
 France may perchance have noticed, about midway between the town of
@@ -11953,7 +11699,7 @@ And he began his story.
 
 
 
-Chapter 27. The Story
+## Chapter 27. The Story
 
 First, sir,” said Caderousse, “you must make me a promise.”
 
@@ -12593,7 +12339,7 @@ large sum of money, but it is not a fortune.”
 
 
 
-VOLUME TWO
+# VOLUME TWO
 
 20009m
 
@@ -12609,7 +12355,7 @@ VOLUME TWO
 
 
 
-Chapter 28. The Prison Register
+## Chapter 28. The Prison Register
 
 The day after that in which the scene we have just described had taken
 place on the road between Bellegarde and Beaucaire, a man of about
@@ -12953,7 +12699,7 @@ counted out the bank-notes on the other side of the desk.
 
 
 
-Chapter 29. The House of Morrel & Son
+## Chapter 29. The House of Morrel & Son
 
 Anyone who had quitted Marseilles a few years previously, well
 acquainted with the interior of Morrel’s warehouse, and had returned at
@@ -13510,7 +13256,7 @@ with me, my friend,” said the Englishman; “I wish to speak to you.”
 
 
 
-Chapter 30. The Fifth of September
+## Chapter 30. The Fifth of September
 
 The extension provided for by the agent of Thomson & French, at the
 moment when Morrel expected it least, was to the poor shipowner so
@@ -14199,7 +13945,7 @@ the yacht instantly put out to sea.
 
 
 
-Chapter 31. Italy: Sinbad the Sailor
+## Chapter 31. Italy: Sinbad the Sailor
 
 Towards the beginning of the year 1838, two young men belonging to the
 first society of Paris, the Viscount Albert de Morcerf and the Baron
@@ -15254,7 +15000,7 @@ marvellous dream.
 
 
 
-Chapter 32. The Waking
+## Chapter 32. The Waking
 
 When Franz returned to himself, he seemed still to be in a dream. He
 thought himself in a sepulchre, into which a ray of sunlight in pity
@@ -15515,7 +15261,7 @@ horses.
 
 
 
-Chapter 33. Roman Bandits
+## Chapter 33. Roman Bandits
 
 The next morning Franz woke first, and instantly rang the bell. The
 sound had not yet died away when Signor Pastrini himself entered.
@@ -16847,7 +16593,7 @@ carriage.
 
 
 
-Chapter 34. The Colosseum
+## Chapter 34. The Colosseum
 
 Franz had so managed his route, that during the ride to the Colosseum
 they passed not a single ancient ruin, so that no preliminary impression
@@ -18160,7 +17906,7 @@ host of Monte Cristo.
 
 
 
-Chapter 35. La Mazzolata
+## Chapter 35. La Mazzolata
 
 Gentlemen,” said the Count of Monte Cristo as he entered, “I pray you
 excuse me for suffering my visit to be anticipated; but I feared to
@@ -18795,7 +18541,7 @@ The count was erect and triumphant, like the Avenging Angel!
 
 
 
-Chapter 36. The Carnival at Rome
+## Chapter 36. The Carnival at Rome
 
 When Franz recovered his senses, he saw Albert drinking a glass of
 water, of which, to judge from his pallor, he stood in great need; and
@@ -19586,7 +19332,7 @@ The Carnival was over.
 
 
 
-Chapter 37. The Catacombs of Saint Sebastian
+## Chapter 37. The Catacombs of Saint Sebastian
 
 In his whole life, perhaps, Franz had never before experienced so sudden
 an impression, so rapid a transition from gayety to sadness, as in this
@@ -20443,7 +20189,7 @@ some sort, forced to give his hand to Albert.
 
 
 
-Chapter 38. The Rendezvous
+## Chapter 38. The Rendezvous
 
 The first words that Albert uttered to his friend, on the following
 morning, contained a request that Franz would accompany him on a visit
@@ -20823,7 +20569,7 @@ Morcerf, he had written in pencil:
 
 
 
-Chapter 39. The Guests
+## Chapter 39. The Guests
 
 In the house in the Rue du Helder, where Albert had invited the Count of
 Monte Cristo, everything was being prepared on the morning of the 21st
@@ -21176,7 +20922,7 @@ shall sit down to table.”
 
 
 
-Chapter 40. The Breakfast
+## Chapter 40. The Breakfast
 
 And what sort of persons do you expect to breakfast?” said Beauchamp.
 
@@ -22280,7 +22026,7 @@ leaving Monte Cristo alone with Morcerf.
 
 
 
-Chapter 41. The Presentation
+## Chapter 41. The Presentation
 
 When Albert found himself alone with Monte Cristo, “My dear count,” said
 he, “allow me to commence my services as cicerone by showing you a
@@ -22856,7 +22602,7 @@ to develop this theorem in the Chamber of Peers.”
 
 
 
-Chapter 42. Monsieur Bertuccio
+## Chapter 42. Monsieur Bertuccio
 
 Meanwhile the count had arrived at his house; it had taken him six
 minutes to perform the distance, but these six minutes were sufficient
@@ -23099,7 +22845,7 @@ did, taking his place respectfully on the front seat.
 
 
 
-Chapter 43. The House at Auteuil
+## Chapter 43. The House at Auteuil
 
 Monte Cristo noticed, as they descended the staircase, that Bertuccio
 signed himself in the Corsican manner; that is, had formed the sign of
@@ -23429,7 +23175,7 @@ remained standing before him.
 
 
 
-Chapter 44. The Vendetta
+## Chapter 44. The Vendetta
 
 At what point shall I begin my story, your excellency?” asked Bertuccio.
 
@@ -24417,7 +24163,7 @@ jeweller.”
 
 
 
-Chapter 45. The Rain of Blood
+## Chapter 45. The Rain of Blood
 
 As the jeweller returned to the apartment, he cast around him a
 scrutinizing glance—but there was nothing to excite suspicion, if it did
@@ -24997,7 +24743,7 @@ thought that all its inmates slept.
 
 
 
-Chapter 46. Unlimited Credit
+## Chapter 46. Unlimited Credit
 
 About two o’clock the following day a calash, drawn by a pair of
 magnificent English horses, stopped at the door of Monte Cristo and a
@@ -25651,7 +25397,7 @@ show you the way.”
 
 
 
-Chapter 47. The Dappled Grays
+## Chapter 47. The Dappled Grays
 
 The baron, followed by the count, traversed a long series of apartments,
 in which the prevailing characteristics were heavy magnificence and the
@@ -26253,7 +25999,7 @@ drove that same night to No. 30 in the Avenue des Champs-Élysées.
 
 
 
-VOLUME THREE
+# VOLUME THREE
 
 30009m
 
@@ -26266,7 +26012,7 @@ VOLUME THREE
 
 
 
-Chapter 48. Ideology
+## Chapter 48. Ideology
 
 If the Count of Monte Cristo had been for a long time familiar with the
 ways of Parisian society, he would have appreciated better the
@@ -26758,7 +26504,7 @@ Then sounding his bell, he said to Ali, who entered:
 
 
 
-Chapter 49. Haydée
+## Chapter 49. Haydée
 
 It will be recollected that the new, or rather old, acquaintances of the
 Count of Monte Cristo, residing in the Rue Meslay, were no other than
@@ -26997,7 +26743,7 @@ lightly into it, the count drove off at his usual rapid pace.
 
 
 
-Chapter 50. The Morrel Family
+## Chapter 50. The Morrel Family
 
 In a very few minutes the count reached No. 7 in the Rue Meslay. The
 house was of white stone, and in a small court before it were two small
@@ -27423,7 +27169,7 @@ fancied that I had heard it before.”
 
 
 
-Chapter 51. Pyramus and Thisbe
+## Chapter 51. Pyramus and Thisbe
 
 About two-thirds of the way along the Faubourg Saint-Honoré, and in the
 rear of one of the most imposing mansions in this rich neighborhood,
@@ -27927,7 +27673,7 @@ Monte Cristo is acquainted with M. de Villefort.”
 
 
 
-Chapter 52. Toxicology
+## Chapter 52. Toxicology
 
 It was really the Count of Monte Cristo who had just arrived at Madame
 de Villefort’s for the purpose of returning the procureur’s visit, and
@@ -28679,7 +28425,7 @@ requested.
 
 
 
-Chapter 53. Robert le Diable
+## Chapter 53. Robert le Diable
 
 The pretext of an opera engagement was so much the more feasible, as
 there chanced to be on that very night a more than ordinary attraction
@@ -29545,7 +29291,7 @@ begins, takes his departure.”
 
 
 
-Chapter 54. A Flurry in Stocks
+## Chapter 54. A Flurry in Stocks
 
 Some days after this meeting, Albert de Morcerf visited the Count of
 Monte Cristo at his house in the Champs-Élysées, which had already
@@ -30088,7 +29834,7 @@ Bertuccio bowed, and left the room.
 
 
 
-Chapter 55. Major Cavalcanti
+## Chapter 55. Major Cavalcanti
 
 Both the count and Baptistin had told the truth when they announced to
 Morcerf the proposed visit of the major, which had served Monte Cristo
@@ -30725,7 +30471,7 @@ reception which he had received at the hands of the count.
 
 
 
-Chapter 56. Andrea Cavalcanti
+## Chapter 56. Andrea Cavalcanti
 
 The Count of Monte Cristo entered the adjoining room, which Baptistin
 had designated as the drawing-room, and found there a young man, of
@@ -31358,7 +31104,7 @@ sickening than hatred.”
 
 
 
-Chapter 57. In the Lucern Patch
+## Chapter 57. In the Lucern Patch
 
 Our readers must now allow us to transport them again to the enclosure
 surrounding M. de Villefort’s house, and, behind the gate, half screened
@@ -31893,7 +31639,7 @@ the house, as though she were almost terrified at her own sensations.
 
 
 
-Chapter 58. M. Noirtier de Villefort
+## Chapter 58. M. Noirtier de Villefort
 
 We will now relate what was passing in the house of the king’s attorney
 after the departure of Madame Danglars and her daughter, and during the
@@ -32325,7 +32071,7 @@ nevertheless.” And the old servant departed triumphantly on his mission.
 
 
 
-Chapter 59. The Will
+## Chapter 59. The Will
 
 As soon as Barrois had left the room, Noirtier looked at Valentine with
 a malicious expression that said many things. The young girl perfectly
@@ -32779,7 +32525,7 @@ notary.
 
 
 
-Chapter 60. The Telegraph
+## Chapter 60. The Telegraph
 
 M. and Madame de Villefort found on their return that the Count of Monte
 Cristo, who had come to visit them in their absence, had been ushered
@@ -33272,7 +33018,7 @@ of redounding considerably to their credit.
 
 
 
-Chapter 61. How a Gardener May Get Rid of the Dormice that Eat His
+## Chapter 61. How a Gardener May Get Rid of the Dormice that Eat His
 Peaches
 
 Not on the same night as he had stated, but the next morning, the Count
@@ -33784,7 +33530,7 @@ eat his peaches.”
 
 
 
-Chapter 62. Ghosts
+## Chapter 62. Ghosts
 
 At first sight, the exterior of the house at Auteuil gave no indications
 of splendor, nothing one would expect from the destined residence of the
@@ -34202,7 +33948,7 @@ Villefort complied, and they passed on to the dining-room.
 
 
 
-Chapter 63. The Dinner
+## Chapter 63. The Dinner
 
 It was evident that one sentiment affected all the guests on entering
 the dining-room. Each one asked what strange influence had brought them
@@ -34673,7 +34419,7 @@ over now, and I am much better.”
 
 
 
-Chapter 64. The Beggar
+## Chapter 64. The Beggar
 
 The evening passed on; Madame de Villefort expressed a desire to return
 to Paris, which Madame Danglars had not dared to do, notwithstanding the
@@ -35105,7 +34851,7 @@ world!”
 
 
 
-Chapter 65. A Conjugal Scene
+## Chapter 65. A Conjugal Scene
 
 At the Place Louis XV. the three young people separated—that is to say,
 Morrel went to the Boulevards, Château-Renaud to the Pont de la
@@ -35547,7 +35293,7 @@ disagreeable dream.
 
 
 
-Chapter 66. Matrimonial Projects
+## Chapter 66. Matrimonial Projects
 
 The day following this scene, at the hour Debray usually chose to pay a
 visit to Madame Danglars on his way to his office, his coupé did not
@@ -36053,7 +35799,7 @@ Danglars rushed out of the room, and made but one leap into his coupé.
 
 
 
-Chapter 67. The Office of the King’s Attorney
+## Chapter 67. The Office of the King’s Attorney
 
 Let us leave the banker driving his horses at their fullest speed, and
 follow Madame Danglars in her morning excursion. We have said that at
@@ -36552,7 +36298,7 @@ peacefully on his box while waiting for her.
 
 
 
-Chapter 68. A Summer Ball
+## Chapter 68. A Summer Ball
 
 The same day during the interview between Madame Danglars and the
 procureur, a travelling-carriage entered the Rue du Helder, passed
@@ -36947,7 +36693,7 @@ order he had received, he started the same evening.
 
 
 
-Chapter 69. The Inquiry
+## Chapter 69. The Inquiry
 
 M. de Villefort kept the promise he had made to Madame Danglars, to
 endeavor to find out how the Count of Monte Cristo had discovered the
@@ -37425,7 +37171,7 @@ dinner-party at Auteuil, he slept soundly.
 
 
 
-Chapter 70. The Ball
+## Chapter 70. The Ball
 
 It was in the warmest days of July, when in due course of time the
 Saturday arrived upon which the ball was to take place at M. de
@@ -37910,7 +37656,7 @@ exclamations of delight.
 
 
 
-Chapter 71. Bread and Salt
+## Chapter 71. Bread and Salt
 
 Madame de Morcerf entered an archway of trees with her companion. It led
 through a grove of lindens to a conservatory.
@@ -38130,7 +37876,7 @@ departed almost at the same time.
 
 
 
-Chapter 72. Madame de Saint-Méran
+## Chapter 72. Madame de Saint-Méran
 
 A gloomy scene had indeed just passed at the house of M. de Villefort.
 After the ladies had departed for the ball, whither all the entreaties
@@ -38700,7 +38446,7 @@ Maximilian.
 
 
 
-Chapter 73. The Promise
+## Chapter 73. The Promise
 
 It was indeed Maximilian Morrel, who had passed a wretched existence
 since the previous day. With the instinct peculiar to lovers he had
@@ -39909,7 +39655,7 @@ wearied by so many emotions, arrived about midnight in the Rue Meslay,
 threw himself on his bed and slept soundly.
 
 
-VOLUME FOUR
+# VOLUME FOUR
 
 40010m
 
@@ -39925,7 +39671,7 @@ VOLUME FOUR
 
 
 
-Chapter 74. The Villefort Family Vault
+## Chapter 74. The Villefort Family Vault
 
 Two days after, a considerable crowd was assembled, towards ten o’clock
 in the morning, around the door of M. de Villefort’s house, and a long
@@ -40327,7 +40073,7 @@ Morcerf exchanged a third look of still increasing wonder.
 
 
 
-Chapter 75. A Signed Statement
+## Chapter 75. A Signed Statement
 
 Noirtier was prepared to receive them, dressed in black, and installed
 in his armchair. When the three persons he expected had entered, he
@@ -40813,7 +40559,7 @@ heart of this terrible old man.
 
 
 
-Chapter 76. Progress of Cavalcanti the Younger
+## Chapter 76. Progress of Cavalcanti the Younger
 
 Meanwhile M. Cavalcanti the elder had returned to his service, not in
 the army of his majesty the Emperor of Austria, but at the gaming-table
@@ -41315,7 +41061,7 @@ M. Cavalcanti remained master of the field.
 
 
 
-Chapter 77. Haydée
+## Chapter 77. Haydée
 
 Scarcely had the count’s horses cleared the angle of the boulevard, when
 Albert, turning towards the count, burst into a loud fit of
@@ -42307,7 +42053,7 @@ ended.”
 
 
 
-Chapter 78. We hear From Yanina
+## Chapter 78. We hear From Yanina
 
 If Valentine could have seen the trembling step and agitated countenance
 of Franz when he quitted the chamber of M. Noirtier, even she would have
@@ -43346,7 +43092,7 @@ was not mistaken in his opinion.
 
 
 
-Chapter 79. The Lemonade
+## Chapter 79. The Lemonade
 
 Morrel was, in fact, very happy. M. Noirtier had just sent for him, and
 he was in such haste to know the reason of his doing so that he had not
@@ -43975,7 +43721,7 @@ eyes, and, overcome with his emotion, sank into a chair.
 
 
 
-Chapter 80. The Accusation
+## Chapter 80. The Accusation
 
 M. d’Avrigny soon restored the magistrate to consciousness, who had
 looked like a second corpse in that chamber of death.
@@ -44230,7 +43976,7 @@ meteor seen passing inauspiciously between two clouds in a stormy sky.
 
 
 
-Chapter 81. The Room of the Retired Baker
+## Chapter 81. The Room of the Retired Baker
 
 The evening of the day on which the Count of Morcerf had left Danglars’
 house with feelings of shame and anger at the rejection of the projected
@@ -45195,7 +44941,7 @@ thousand will not be his worst friend.”
 
 
 
-Chapter 82. The Burglary
+## Chapter 82. The Burglary
 
 The day following that on which the conversation we have related took
 place, the Count of Monte Cristo set out for Auteuil, accompanied by Ali
@@ -45868,7 +45614,7 @@ master were on the spot with lights.
 
 
 
-Chapter 83. The Hand of God
+## Chapter 83. The Hand of God
 
 Caderousse continued to call piteously, “Help, reverend sir, help!”
 
@@ -46152,7 +45898,7 @@ Abbé Busoni, who was praying by the side of the corpse.
 
 
 
-Chapter 84. Beauchamp
+## Chapter 84. Beauchamp
 
 The daring attempt to rob the count was the topic of conversation
 throughout Paris for the next fortnight. The dying man had signed a
@@ -46457,7 +46203,7 @@ comforters.”
 
 
 
-Chapter 85. The Journey
+## Chapter 85. The Journey
 
 Monte Cristo uttered a joyful exclamation on seeing the young men
 together. “Ah, ha!” said he, “I hope all is over, explained and
@@ -46963,7 +46709,7 @@ unfortunate young man almost crazy.
 
 
 
-Chapter 86. The Trial
+## Chapter 86. The Trial
 
 At eight o’clock in the morning Albert had arrived at Beauchamp’s door.
 The valet de chambre had received orders to usher him in at once.
@@ -47478,7 +47224,7 @@ to his goddesses.”
 
 
 
-Chapter 87. The Challenge
+## Chapter 87. The Challenge
 
 Then,” continued Beauchamp, “I took advantage of the silence and the
 darkness to leave the house without being seen. The usher who had
@@ -47779,7 +47525,7 @@ him against the Count of Morcerf.
 
 
 
-Chapter 88. The Insult
+## Chapter 88. The Insult
 
 At the banker’s door Beauchamp stopped Morcerf.
 
@@ -48231,7 +47977,7 @@ if I can avoid it; the music of William Tell is so sweet.”
 
 
 
-Chapter 89. The Night
+## Chapter 89. The Night
 
 Monte Cristo waited, according to his usual custom, until Duprez had
 sung his famous “Suivez-moi!” then he rose and went out. Morrel took
@@ -48580,7 +48326,7 @@ I resolved to avenge myself!”
 
 
 
-Chapter 90. The Meeting
+## Chapter 90. The Meeting
 
 After Mercédès had left Monte Cristo, he fell into profound gloom.
 Around him and within him the flight of thought seemed to have stopped;
@@ -49151,7 +48897,7 @@ the emissary of God!”
 
 
 
-Chapter 91. Mother and Son
+## Chapter 91. Mother and Son
 
 The Count of Monte Cristo bowed to the five young men with a melancholy
 and dignified smile, and got into his carriage with Maximilian and
@@ -49416,7 +49162,7 @@ firmer step than she even herself expected she went downstairs.
 
 
 
-Chapter 92. The Suicide
+## Chapter 92. The Suicide
 
 Meanwhile Monte Cristo had also returned to town with Emmanuel and
 Maximilian. Their return was cheerful. Emmanuel did not conceal his joy
@@ -49827,7 +49573,7 @@ of the window, which was broken by the explosion.
 
 
 
-Chapter 93. Valentine
+## Chapter 93. Valentine
 
 We may easily conceive where Morrel’s appointment was. On leaving Monte
 Cristo he walked slowly towards Villefort’s; we say slowly, for Morrel
@@ -50164,7 +49910,7 @@ moment; they heard the cause of the disturbance.
 
 
 
-Chapter 94. Maximilian’s Avowal
+## Chapter 94. Maximilian’s Avowal
 
 At the same moment M. de Villefort’s voice was heard calling from his
 study, “What is the matter?”
@@ -50721,7 +50467,7 @@ tottering house.
 
 
 
-Chapter 95. Father and Daughter
+## Chapter 95. Father and Daughter
 
 We saw in a preceding chapter how Madame Danglars went formally to
 announce to Madame de Villefort the approaching marriage of Eugénie
@@ -51102,7 +50848,7 @@ they proceeded then on their course.
 
 
 
-VOLUME FIVE
+# VOLUME FIVE
 
 
 
@@ -51122,7 +50868,7 @@ VOLUME FIVE
 
 
 
-Chapter 96. The Contract
+## Chapter 96. The Contract
 
 Three days after the scene we have just described, namely towards five
 o’clock in the afternoon of the day fixed for the signature of the
@@ -51646,7 +51392,7 @@ Monte Cristo cast a rapid glance around him. Andrea was gone.
 
 
 
-Chapter 97. The Departure for Belgium
+## Chapter 97. The Departure for Belgium
 
 A few minutes after the scene of confusion produced in the salons of M.
 Danglars by the unexpected appearance of the brigade of soldiers, and by
@@ -51961,7 +51707,7 @@ over the pavement of La Villette. M. Danglars no longer had a daughter.
 
 
 
-Chapter 98. The Bell and Bottle Tavern
+## Chapter 98. The Bell and Bottle Tavern
 
 And now let us leave Mademoiselle Danglars and her friend pursuing their
 way to Brussels, and return to poor Andrea Cavalcanti, so inopportunely
@@ -52485,7 +52231,7 @@ evening Andrea was incarcerated in the Conciergerie.
 
 
 
-Chapter 99. The Law
+## Chapter 99. The Law
 
 We have seen how quietly Mademoiselle Danglars and Mademoiselle
 d’Armilly accomplished their transformation and flight; the fact being
@@ -52935,7 +52681,7 @@ wanted a murder, and here it is. It will be a splendid session!”
 
 
 
-Chapter 100. The Apparition
+## Chapter 100. The Apparition
 
 As the procureur had told Madame Danglars, Valentine was not yet
 recovered. Bowed down with fatigue, she was indeed confined to her bed;
@@ -53238,7 +52984,7 @@ which noiselessly closed after him.
 
 
 
-Chapter 101. Locusta
+## Chapter 101. Locusta
 
 Valentine was alone; two other clocks, slower than that of Saint-
 Philippe-du-Roule, struck the hour of midnight from different
@@ -53498,7 +53244,7 @@ innocence of an angel at the feet of the Lord.
 
 
 
-Chapter 102. Valentine
+## Chapter 102. Valentine
 
 The night-light continued to burn on the chimney-piece, exhausting the
 last drops of oil which floated on the surface of the water. The globe
@@ -53753,7 +53499,7 @@ dead!” and another voice which, like an echo repeated:
 
 
 
-Chapter 103. Maximilian
+## Chapter 103. Maximilian
 
 Villefort rose, half-ashamed of being surprised in such a paroxysm of
 grief. The terrible office he had held for twenty-five years had
@@ -54154,7 +53900,7 @@ that leading to Madame de Villefort’s room.
 
 
 
-Chapter 104. Danglars’ Signature
+## Chapter 104. Danglars’ Signature
 
 The next morning dawned dull and cloudy. During the night the
 undertakers had executed their melancholy office, and wrapped the corpse
@@ -54711,7 +54457,7 @@ months longer.”
 
 
 
-Chapter 105. The Cemetery of Père-Lachaise
+## Chapter 105. The Cemetery of Père-Lachaise
 
 M. de Boville had indeed met the funeral procession which was taking
 Valentine to her last home on earth. The weather was dull and stormy, a
@@ -55308,7 +55054,7 @@ Maximilian hung his head, and obeyed with childlike reverence.
 
 
 
-Chapter 106. Dividing the Proceeds
+## Chapter 106. Dividing the Proceeds
 
 The apartment on the first floor of the house in the Rue Saint-Germain-
 des-Prés, where Albert de Morcerf had selected a home for his mother,
@@ -55958,7 +55704,7 @@ from these poor innocent creatures? God help me!”
 
 
 
-Chapter 107. The Lions’ Den
+## Chapter 107. The Lions’ Den
 
 One division of La Force, in which the most dangerous and desperate
 prisoners are confined, is called the court of Saint-Bernard. The
@@ -56314,7 +56060,7 @@ Bertuccio.
 
 
 
-Chapter 108. The Judge
+## Chapter 108. The Judge
 
 We remember that the Abbé Busoni remained alone with Noirtier in the
 chamber of death, and that the old man and the priest were the sole
@@ -56768,7 +56514,7 @@ door.
 
 
 
-Chapter 109. The Assizes
+## Chapter 109. The Assizes
 
 The Benedetto affair, as it was called at the Palais, and by people in
 general, had produced a tremendous sensation. Frequenting the Café de
@@ -57073,7 +56819,7 @@ shrill voice peculiar to his order, ever since the days of Beaumarchais:
 
 
 
-Chapter 110. The Indictment
+## Chapter 110. The Indictment
 
 The judges took their places in the midst of the most profound silence;
 the jury took their seats; M. de Villefort, the object of unusual
@@ -57404,7 +57150,7 @@ sergeant-at-arms, slipping a louis into his hand.
 
 
 
-Chapter 111. Expiation
+## Chapter 111. Expiation
 
 Notwithstanding the density of the crowd, M. de Villefort saw it open
 before him. There is something so awe-inspiring in great afflictions
@@ -57790,7 +57536,7 @@ taken away Ali, and Bertuccio remained with Noirtier.
 
 
 
-Chapter 112. The Departure
+## Chapter 112. The Departure
 
 The recent events formed the theme of conversation throughout all Paris.
 Emmanuel and his wife conversed with natural astonishment in their
@@ -58402,7 +58148,7 @@ voice involuntarily murmured softly:
 
 
 
-Chapter 113. The Past
+## Chapter 113. The Past
 
 The count departed with a sad heart from the house in which he had left
 Mercédès, probably never to behold her again. Since the death of little
@@ -58974,7 +58720,7 @@ scarcely distinguishable in the horizon amidst the fogs of the night.
 
 
 
-Chapter 114. Peppino
+## Chapter 114. Peppino
 
 At the same time that the steamer disappeared behind Cape Morgiou, a man
 travelling post on the road from Florence to Rome had just passed the
@@ -59443,7 +59189,7 @@ the tranquillity of the hero whose life Luigi Vampa was studying.
 
 
 
-Chapter 115. Luigi Vampa’s Bill of Fare
+## Chapter 115. Luigi Vampa’s Bill of Fare
 
 We awake from every sleep except the one dreaded by Danglars. He awoke.
 To a Parisian accustomed to silken curtains, walls hung with velvet
@@ -59757,7 +59503,7 @@ put it into his pocket, and continued eating his peas.
 
 
 
-Chapter 116. The Pardon
+## Chapter 116. The Pardon
 
 The next day Danglars was again hungry; certainly the air of that
 dungeon was very provocative of appetite. The prisoner expected that he
@@ -60023,7 +59769,7 @@ saw that his hair had become entirely white.
 
 
 
-Chapter 117. The Fifth of October
+## Chapter 117. The Fifth of October
 
 It was about six o’clock in the evening; an opal-colored light, through
 which an autumnal sun shed its golden rays, descended on the blue ocean.
