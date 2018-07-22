@@ -7606,3 +7606,288 @@ been exposed to and read in my life. Indeed, it is the sort of novel that makes
 me glad to be alive, because if there had been nothing in the world, this novel
 would not have been in the world either, and I could not have read it. It makes
 me glad that there is something, rather then nothing.
+
+# 20180722
+So today I have made some coffee again, and I have not taken my first sip yet,
+and I am wary to, but I will limit myself this time to simply a liter of coffee
+and see how that makes me feel.
+
+So last night I did not have many dreams. Indeed, last night was strange for
+me, so let me just go over a bit what happened.
+
+So everything was going well in the day yesterday. The day before, I went
+pretty intense at open mat, started standing with a lot of guy, practiced
+takedowns and throws, and I think the bottom line is that there are a bunch of
+killers at my gym, and they are very good at doing what they do, so I became a
+little beat up as a result. Well, yesterday when I woke up, which was around
+8:30, I felt entirely beat up, way more than I anticipated, and I spent most of
+the day reading, listening to Peterson's lectures on the biblical stories, and
+in general just doing regular lazy saturday things, and it got to be around 5,
+and after I had my shake, I pretty promptly collapsed onto the floor and went
+to sleep. After I woke up, I had this inclination to go straight to target and
+get a meat pounder, among some other things, so I went over, it was I think
+safe to say two full sleep cycles later, and I was still in a daze when I was
+going, I came to a stop at one of the stop signs, and I distinctly remember
+saying to myself, "fuck it there is no one here" and as soon as I took a pretty
+egregious rolling stop, I realized that coming up behind was a car that seemed
+to me to be a police officer. Well, in my state I just woke up, I was like
+"fuck it, let him stop me" but I behaved much more like a good civilian at the
+next stop sign, and he went on his way. Now as this happened, I remember
+thinking two things. One, my registration is still out of date, so even though
+I have the inspection papers in my car, I'm not sure if that would have made
+any difference at all. Second, the address on my license is still wrong,
+although I did not even think about that. What I really thought is, "What is
+that?" Did he look into my window and see that I was white and let me off? Was
+this cop actually sympathetic to the fact that I was being safe at the stop and
+knew that letter of the law is not the law? Or was he maybe at the end of his
+shift, and driving home, when that happened? I don't know. Is that mercy? And
+then I thought, well, it would only be mercy because he has given himself
+authourity of others in the first place, and it's in that elevated position
+that he does what he does. For instance, is it mercy if I see a rolling stop
+and "let the guy off?" No of course not, I just don't give a shit. I'm sure I
+could probably take note of the guys license or something, but without proof or
+anything that would be a rather silly police call. "Hey, I was driving by Royal
+Lane, and I noticed at the intesection of that street and Kinwest, going
+southbound along Royal, a car with the license plate of 123 ABCD made a rolling
+stop, and I wanted to report this incident to the police, because of my sense
+of justice." It's absurd. Now imagine this, suppose it were an actual crime,
+something like, "So I was at XYZ location, and I saw someone standing on the
+roof of a car with license plate FGH 4567 making grafiti on the stop sign,
+covering completely and writing "GO" over the letters." Now, there is no proof
+of that crime either. There is proof of the crime, but it's simply my word that
+that person did it. In fact, I think the fact that I called in makes me a
+suspect in the crime. And that crime, do I give a shit? I give more of a shit,
+but if I saw something like that, I would be more inclined to say to myself,
+"Wow, okay, be careful at that sign now, because I know it should be a stop
+sign, but other people might not, and until it gets fixed, it will be slightly
+more dangerous to go by that intersection, as people might not know to stop,
+and run right through it." So instead my reaction is not "Condemn that man" but
+instead, "Okay, I should be more careful now." I suppose it would be my duty as
+a tax paying citizen to at least report that to the police, but I don't want to
+call the police, and honestly, instead of calling the police, I would want to
+call the "National assembly of road signs" or whoever is responsible for the
+signs and lights of the roads to let them know that a sign has been grafitti'd.
+And then, I would even have an inclination to want to volunteer to help get the
+sign replaced, but that is something like, I would be more of a hindrance to
+try and volunteer for a thing like that than I would be a help, so I don't know
+if that makes any sense at all.
+
+So yeah. I don't know, I just find it amusing that I thought "That officer
+showed me mercy just there." but instead of being grateful to him, instead I
+just think, "maybe there are good police officers in this world," which I know
+to be true, but still, it's hard to recognize that sort of thing, especially
+since I am bitter at my experience in jail still. I am grateful for it, but I
+suppose you could say I am gratefully bitter about it. I am grateful for the
+cross I bear, would be something Jesus might say, although this isn't really a
+cross, as I am not to be hung on it. Essentially, what this is, the justice
+system gave me a cross to bear, and I said, "No, wait a minute, it's not my
+time to bear this cross, can I haul my cross to the First Offender program and
+return it?" and for the price of a lawyer and 180 days of sobriety and
+probation, I can return the cross that I bear.
+
+Indeed, that is an interesting question. Does it mean anything to willfully
+bear your cross if you know you are not going to be hung on it? The question
+becomes, what would Jesus do in that situation? Jesus surely would not have
+turned the marijuana into orregano. That would be the comedians answer to that
+question. Maybe this story is not akin to the crucifixion more than it is
+similar to the forty days in the desert, but instead of forty days, for me it's
+more like a year, and instead of the desert, for me it's just sobriety and
+community service. That is a better picture.
+
+I want to read the house of the dead, for sure, that is a book that I very much
+want to read. In fact, I do want to get to a point where I feel satisfied with
+my lit analyzer. That was what I dreamt about mostly last night. Last night,
+after I came back from the store and ate some food, I spent most of the rest of
+the day downloading and parsing a bunch of novels from Gutenberg into the
+appropiate short story/novel/chapter layouts. I spent about three hours doing
+that, much to my amazement, and I am very glad I did. Now, what I want to do is
+get my "reading and note taking" workflow down to a science, and I mostly
+dreamt about organizing that, and having my lit analyzer actually do that. All
+I need it to do is take my notes, and create a reference and a tags file, and
+once I do that I will feel so much better about my notes. It's just, I haven't
+gotten there yet, and I will feel uncomfortable about reading until I do. You
+see, I have parsed out Mommsen and Gibbon, both are now in a readable chapter
+sort of format, but until I get note-taking down, I don't want to invest myself
+into those people, because those are the sorts of works I only want to read
+once, and I don't want to "read" and then "read again with the intention of
+taking notes" or at least, if I do read it that way, I want to do it in one
+sitting. Like, at night I read a chapter of one of them, and then during the
+next day, I make all of the notes I could want for those people. I want to go
+from start to finish only once. Because at this point, I have read all of the
+Karamazov Brothers, and I will gladly go through and read it again, this time
+taking detailed notes, but I need to have my note taking scheme written in
+order to do that, so I'm at a bit of a loss here. All of that to say, I plan to
+spend most of this afternoon working on my lit analyzer, and getting to the
+point where I can parse my notes into an object, and have that object write a
+reference and tags file out. And that's what I dreamed about, I dreamed about
+having that whole thing organized out.
+
+So enough about that. I have had an idea about my hermit story, that I think
+will make it work. I have run into this problem with the story, where I at
+first thought I liked the idea of having a murder be the central conflict of
+the story, but the more I discovered aspects of that, the more it didn't work,
+so instead I started thinking to myself, "why does there have to be a
+conflict, maybe the people just exist, and the whole thing is there
+conversations about the thing," but then I don't know how to end it. So I have
+had this idea that, this is how it works. In the first writing of the Hermit,
+he tells about his experience, and in the second writing, he commands the
+reader to kill someone, and when they don't do it, it turns out that that
+someone turns out to be a suicide bomber, and he blows up a community center,
+or something, and that creates the central conflict.
+
+But that whole thing seems somewhat silly, but I like it anyway. I have just
+been thinking about my other character, the one that I called Lyse, but whose
+name is not Lyse. I will discover his name later, but this is the character who
+is the "voice of the most obvious".
+
+So Lyse, he had a rough upbringing. His parents were abusive, and I could
+discover something about his parents, maybe they were drug addicts, they were
+addicted to some substance, and they were always poor, he was always moving
+from school to school, never fitting in. So that is his background. He got into
+marijuana when he was thirteen, and harder drugs later in life, he would
+shoplift and steal from the cops. At this point, I am very much out of my
+element, as I don't have any of these sorts of experinces, but I have heard
+about them in TED talks and things like that, so I can pretend like I can write
+about it.
+
+When he was a teenager, maybe sixteen, let's say, he had a moment, I think one
+of his best friends dies in some sort of altercation. I don't think he was
+responsible in any way, his friend was doing something, but maybe he couldn't
+participate for some reason, and he is killed in gang related violence.
+Something like that. And this is an eye-opener for him. He goes to the funeral,
+and he is hurting, and that's when he meet's someone that invites him to a
+church, something like that, and not knowing where to turn, he goes to the
+church. And at his first visit to the church, the sermon speaks to him.
+Something like that, and he feels the presence of god enter into him. I'm not
+so sure about that. I don't like that. I think instead, he goes, and he finds
+that whole thing sort of ridiculous. I think that is a sort of one off
+experince. But then later, pretty soon after his friend was killed, he gets
+busted by the cops. Maybe someone in their friend group, someone that blames
+him for that friends death, narks on him, and busts him, and he goes to juvi,
+and spends some time there. And in order to lessen his sentence, he is required
+to do some community service hours. And in seeking an avenue for community
+service, he turns back to the church that he went to that one day. And as he
+joins, he might say something like, "The notion of an invisible man that talks
+to someone is absurd, but these people have community service work that doesn't
+suck, and it looks good to the prosecutor that I am attending church now, so I
+will go this route." I like that. And as he does more community service work,
+he gets clean, but like any human, he slips occasionally back into drugs, but
+the system is forgiving of him, and eventually he gets his life together.
+
+Now, I want this man to be pretty intelligent. He might say something like,
+"The whole notion of an invisible man in the sky that puffed into existence the
+world in six days is rather absurd, but my time with the community of the
+church really saved me from a dark and dangerous path, so it can't be all bad."
+And in his time there he comes to have a sort of appreciation for the people
+there.
+
+And that's where he meets Susan. Susan and he don't date, in fact there is no
+romantic interest between this man, whose name is not Lyse, but whose name will
+come to me later, and Susan, but they become friends. And Susan is very
+concerned for the salvation of this man. Susan and he have discussion as they
+do community service together, and she is always concerned about his belief in
+God. She might say something like "I'm worried about you," (and his mother is
+white and his father is black, so I know this guy is half black, and mostly
+associates with the black race more than the white) "I see that you're a good
+person, but I don't want you to go to hell just because you don't believe" and
+he would reply something like, "Well, if there is a god, maybe he will see that
+I am a good person and pardon me for not accepting the absurd notion that
+someone 2000 years ago literally came back from the dead. That's a pretty
+absurd claim. I think it's more important to remember to love thy neighbor than
+to have faith in a physical impossiblity that happened so many years ago. I
+would hope that an all knowing and benevolent god would recognize that." and
+they would get back to their volunteer work.
+
+Now Susan, she is the typical "over-Christian" bitch that is so hateable. She
+was born into a well to do family, was fed her baby food with a silver spoon in
+her mouth (which is an anachroism, and something I don't want to say again),
+but she means well by her actions, and most of all clings to "her church
+friends and church community more than anything". She is the kind that would
+post her latest sunday morning outfit on instagram, with a bible verse talking
+about how you have to "give got your sunday best" (I should find a verse where
+it says something like that on the sabbath), and it would get hundreds of
+likes, because she was that sort of girl. She is very self-righteous. In fact,
+I very much like the idea of finding a girl like this on instagram to model her
+after. I should follow people on instagram just to get character ideas.
+
+That's actually a really cool idea. I like that a lot. There are so many
+"Instagram characters" and they can give me ideas for actual good characters.
+It would even give me ideas for names as well. Oh, I like that idea a lot. I
+might do that after I finish with this.
+
+So yeah, that's a pretty good idea for Susan and my half-black friend. I want
+my half-black friend to be the first to accept the notions of the hermit, after
+being presents irrefutable proof. Kimberly is my reasonable skeptic, but this
+half-black friend is the first to accept the notions as "un-denialy true" and
+Susan is the one dismiss them on the notion of "that's unbiblical and it can't
+be true if it doesn't fit with the stories in the bible" and Damien is the one
+to say, "There must be something we are missing, these notions can't be true."
+
+So yeah. I need to discover more about Kimberly and Susan, although I have a
+pretty good idea about what Susan is like, and Kimberly, well, she is the most
+like me I think, except that she is a female, but we'll get there.
+
+I like where this is going. The thing is, I still don't know where to end it,
+and I still don't know the best way to tie it in with Flat-Earth. Also, I have
+an issue of tone. I want this to be partly satire, which is why I like the
+command by god to murder someone before he does something horrible, and I like
+the fact that he will bomb a school to be the "proof that this whole thing is
+true". But I don't know how to end this story. I want a very comical tragedy.
+Maybe, my half-black character dies in the bombing. I like that. I still don't
+know his name, but I know about his death. I like that quite a bit I think.
+That can be the conflict, and at his funeral, Kimberly could place the writings
+of the hermit. Susan needs to die as well. And Damien. How do they die? Susan
+could die of sudden illness. Damien dies trying to experiment about the flat
+earth, he goes to a remote location, somewhere far north, and as he discovers
+the flat earth, he is killed by people from NASA. I like that. Like, he goes to
+antarctica, to see this, and as he looks into it more and more and starts to
+discover that maybe there is something to it, so eventually he gets on a
+flight, and takes a boat to Antarctaca from the southern tip of South America,
+and he witnesses the great ice wall, and maybe there is even a doorway,
+something that was mentioned in the works of the hermit, but some agency, the
+agency that "controls NASA" kills him there, and covers their tracks
+completely. And they poison Susan. Actually, I like Susan just coming down with
+fever and dying. As if her lack of faith in flat earth causes her illness. I
+don't like that completely, but it's pretty good. I'll have to work on that.
+And I like Damien dying in Antarctica. And I like the whole thing ending with
+Kimberly taking the works of the hermit and burying them with my half-black
+character at his funeral, with the implication that those were the instructions
+in the second writing of the hermit.
+
+This is coming together. Satirical tragedy. I like it. I will need to discover
+at some point, first the writings of the hermit, then some more interactions of
+the characters.
+
+I like the idea of Kimberly actually visiting the god of the Flat Earth, and
+getting the message that she is not the one to spread the message, and that
+clearly the people are not in a state to know the truth. She will recieve
+instructions to place the works of the hermit in some place, I'm not sure
+where, but with instructions that "our time is limited, I will give you sign,
+and when you see it you will know. You will do great things, Kimberly, just
+know that your reasonableness, and your patience will be rewarded in the
+afterlife." and at that she wakes up in the hospital, she recovers quickly, and
+when she gets out, she has a shoebox or something where she has the works of
+the hermit, and her neice tells her about a time capsule that they are making
+as a school project, and aunt Kimberly says she wants to add her shoebox to the
+mix. She writes a letter, adds it to the shoe box, buries the time capsule with
+her neice, and then dies in a car accident literally as they are leaving from
+burying the time capsule.
+
+I like how this is developing a lot. Like, a lot a lot. Everyone dying in their
+own way is cool. I love it. Holy shit, I think I've actually discovered it.
+
+I just need to discover the relationships. I think I want a Brett character to
+be a flat earth fanatic, and he dies before the entire thing, and all of these
+four characters are connected through this Brett, and it's Susan and my
+half-black character who first find the writings of the hermit. I need someone
+other than my half-black character to die pretty early on. Actually, Brett
+could be the one to discover the writings of the Hermit. Brett is actually
+something of a hermit himself, and he discovers the writings, and he is on a
+hermitage retreat, and finds the writings, and he is so excited that he writes
+a letter to his friend Damien. But he actually dies of natural causes at the
+retreat, maybe a bear or something comes in and infiltrates the retreat, and
+it's not until they don't hear from him that Damien realizes that Brett has
+been killed. So Damien, who knew Brett from school but hadn't kept in touch,
+gets the letter from the hermatage people, so he and Kimberly go and visit the
+scene, and it's there that Brett's half-black friend and Susan, it's there that
+they all meet for the first time. 
