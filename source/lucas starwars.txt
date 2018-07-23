@@ -180,11 +180,25 @@ A Novel by George Lucas
 INTRODUCTION
 
 
-IN DECEMBER 1976, BALLANTINE Books published a paperback novel called Star Wars: From the Adventures of Luke Skywalker. The book was ghostwritten by Alan Dean Foster from my screenplay for the film. The cover painting was a piece of early conceptual art by Ralph McQuarrie. In small type on the back cover were the words Soon to be a spectacular motion picture from Twentieth Century Fox.
+IN DECEMBER 1976, BALLANTINE Books published a paperback novel called Star
+Wars: From the Adventures of Luke Skywalker. The book was ghostwritten by Alan
+Dean Foster from my screenplay for the film. The cover painting was a piece of
+early conceptual art by Ralph McQuarrie. In small type on the back cover were
+the words Soon to be a spectacular motion picture from Twentieth Century Fox.
 
-The world’s first glimpse of Star Wars happened with little fanfare, and this first edition of the novel sold modestly. It wasn’t until the official “tie-in” version of the book that it sold millions of copies and broke records, much like the film was doing in theaters. In a way, the original book performed as I had expected the film to do—a respectable showing, certainly nothing to set the world on fire, but hopefully enough to allow me to follow up with the further stories in the saga. Happily, Star Wars exceeded my expectations.
+The world’s first glimpse of Star Wars happened with little fanfare, and this
+first edition of the novel sold modestly. It wasn’t until the official “tie-in”
+version of the book that it sold millions of copies and broke records, much
+like the film was doing in theaters. In a way, the original book performed as I
+had expected the film to do—a respectable showing, certainly nothing to set the
+world on fire, but hopefully enough to allow me to follow up with the further
+stories in the saga. Happily, Star Wars exceeded my expectations.
 
-As this special hardcover edition of the original Star Wars novel goes to press, I am once again immersed in writing new episodes of the saga. It fills me with a sense of déjà vu, because the outline for the new trilogy of prequels is actually contained in the first two pages of this book, the prologue. I suppose I have come full circle as I return to the beginning and start again.
+As this special hardcover edition of the original Star Wars novel goes to
+press, I am once again immersed in writing new episodes of the saga. It fills
+me with a sense of déjà vu, because the outline for the new trilogy of prequels
+is actually contained in the first two pages of this book, the prologue. I
+suppose I have come full circle as I return to the beginning and start again.
 
 
 
@@ -195,13 +209,24 @@ PROLOGUE
 
 ANOTHER GALAXY, ANOTHER TIME.
 
-The Old Republic was the Republic of legend, greater than distance or time. No need to note where it was or whence it came, only to know that … it was the Republic.
+The Old Republic was the Republic of legend, greater than distance or time. No
+need to note where it was or whence it came, only to know that … it was the
+Republic.
 
-Once, under the wise rule of the Senate and the protection of the Jedi Knights, the Republic throve and grew. But as often happens when wealth and power pass beyond the admirable and attain the awesome, then appear those evil ones who have greed to match.
+Once, under the wise rule of the Senate and the protection of the Jedi Knights,
+the Republic throve and grew. But as often happens when wealth and power pass
+beyond the admirable and attain the awesome, then appear those evil ones who
+have greed to match.
 
-So it was with the Republic at its height. Like the greatest of trees, able to withstand any external attack, the Republic rotted from within though the danger was not visible from outside.
+So it was with the Republic at its height. Like the greatest of trees, able to
+withstand any external attack, the Republic rotted from within though the
+danger was not visible from outside.
 
-Aided and abetted by restless, power-hungry individuals within the government, and the massive organs of commerce, the ambitious Senator Palpatine caused himself to be elected President of the Republic. He promised to reunite the disaffected among the people and to restore the remembered glory of the Republic.
+Aided and abetted by restless, power-hungry individuals within the government,
+and the massive organs of commerce, the ambitious Senator Palpatine caused
+himself to be elected President of the Republic. He promised to reunite the
+disaffected among the people and to restore the remembered glory of the
+Republic.
 
 Once secure in office he declared himself Emperor, shutting himself away from the populace. Soon he was controlled by the very assistants and boot-lickers he had appointed to high office, and the cries of the people for justice did not reach his ears.
 
@@ -227,25 +252,60 @@ Leia Organa of Alderaan, Senator
 I
 
 
-IT WAS A VAST, SHINING GLOBE AND IT cast a light of lambent topaz into space—but it was not a sun. Thus, the planet had fooled men for a long time. Not until entering close orbit around it did its discoverers realize that this was a world in a binary system and not a third sun itself.
+IT WAS A VAST, SHINING GLOBE AND IT cast a light of lambent topaz into
+space—but it was not a sun. Thus, the planet had fooled men for a long time.
+Not until entering close orbit around it did its discoverers realize that this
+was a world in a binary system and not a third sun itself.
 
-At first it seemed certain nothing could exist on such a planet, least of all humans. Yet both massive Gl and G2 stars orbited a common center with peculiar regularity, and Tatooine circled them far enough out to permit the development of a rather stable, if exquisitely hot, climate. Mostly this was a dry desert of a world, whose unusual starlike yellow glow was the result of double sunlight striking sodium-rich sands and flats. That same sunlight suddenly shone on the thin skin of a metallic shape falling crazily toward the atmosphere.
+At first it seemed certain nothing could exist on such a planet, least of all
+humans. Yet both massive Gl and G2 stars orbited a common center with peculiar
+regularity, and Tatooine circled them far enough out to permit the development
+of a rather stable, if exquisitely hot, climate. Mostly this was a dry desert
+of a world, whose unusual starlike yellow glow was the result of double
+sunlight striking sodium-rich sands and flats. That same sunlight suddenly
+shone on the thin skin of a metallic shape falling crazily toward the
+atmosphere.
 
 * * *
 
-The erratic course the galactic cruiser was traveling was intentional, not the product of injury but of a desperate desire to avoid it. Long streaks of intense energy slid close past its hull, a multihued storm of destruction like a school of rainbow remoras fighting to attach themselves to a larger, unwilling host.
+The erratic course the galactic cruiser was traveling was intentional, not the
+product of injury but of a desperate desire to avoid it. Long streaks of
+intense energy slid close past its hull, a multihued storm of destruction like
+a school of rainbow remoras fighting to attach themselves to a larger,
+unwilling host.
 
-One of those probing, questing beams succeeded in touching the fleeing ship, striking its principal solar fin. Gemlike fragments of metal and plastic erupted into space as the end of the fin disintegrated. The vessel seemed to shudder.
+One of those probing, questing beams succeeded in touching the fleeing ship,
+striking its principal solar fin. Gemlike fragments of metal and plastic
+erupted into space as the end of the fin disintegrated. The vessel seemed to
+shudder.
 
-The source of those multiple energy beams suddenly hove into view—a lumbering Imperial cruiser, its massive outline bristling cactuslike with dozens of heavy weapons emplacements. Light ceased arching from those spines now as the cruiser moved in close. Intermittent explosions and flashes of light could be seen in those portions of the smaller ship which had taken hits. In the absolute cold of space, the cruiser snuggled up alongside its wounded prey.
+The source of those multiple energy beams suddenly hove into view—a lumbering
+Imperial cruiser, its massive outline bristling cactuslike with dozens of heavy
+weapons emplacements. Light ceased arching from those spines now as the cruiser
+moved in close. Intermittent explosions and flashes of light could be seen in
+those portions of the smaller ship which had taken hits. In the absolute cold
+of space, the cruiser snuggled up alongside its wounded prey.
 
-Another distant explosion shook the ship—but it certainly didn’t feel distant to Artoo Detoo or See Threepio. The concussion bounced them around the narrow corridor like bearings in an old motor.
+Another distant explosion shook the ship—but it certainly didn’t feel distant
+to Artoo Detoo or See Threepio. The concussion bounced them around the narrow
+corridor like bearings in an old motor.
 
-To look at these two, one would have supposed that the tall, humanlike machine, Threepio, was the master and the stubby, tripodal robot, Artoo Detoo, an inferior. But while Threepio might have sniffed disdainfully at the suggestion, they were in fact equal in everything save loquacity. Here Threepio was clearly—and necessarily—the superior.
+To look at these two, one would have supposed that the tall, humanlike machine,
+Threepio, was the master and the stubby, tripodal robot, Artoo Detoo, an
+inferior. But while Threepio might have sniffed disdainfully at the suggestion,
+they were in fact equal in everything save loquacity. Here Threepio was
+clearly—and necessarily—the superior.
 
-Still another explosion rattled the corridor, throwing Threepio off balance. His shorter companion had the better of it during such moments with his squat, cylindrical body’s low center of gravity well balanced on thick, clawed legs.
+Still another explosion rattled the corridor, throwing Threepio off balance.
+His shorter companion had the better of it during such moments with his squat,
+cylindrical body’s low center of gravity well balanced on thick, clawed legs.
 
-Artoo glanced up at Threepio, who was steadying himself against a corridor wall. Lights blinked enigmatically around a single mechanical eye as the smaller robot studied the battered casing of his friend. A patina of metal and fibrous dust coated the usually gleaming bronze finish, and there were some visible dents—all the result of the pounding the rebel ship they were on had been taking.
+Artoo glanced up at Threepio, who was steadying himself against a corridor
+wall. Lights blinked enigmatically around a single mechanical eye as the
+smaller robot studied the battered casing of his friend. A patina of metal and
+fibrous dust coated the usually gleaming bronze finish, and there were some
+visible dents—all the result of the pounding the rebel ship they were on had
+been taking.
 
 Accompanying the last attack was a persistent deep hum which even the loudest explosion had not been able to drown out. Then for no apparent reason, the basso thrumming abruptly ceased, and the only sounds in the otherwise deserted corridor came from the eerie dry-twig crackle of shorting relays or the pops of dying circuitry. Explosions began to echo through the ship once more, but they were far away from the corridor.
 
