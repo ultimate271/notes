@@ -342,7 +342,7 @@ GRIMM’S FAIRY TALES
 
 
 
-THE FROG-KING; OR, IRON HENRY
+# THE FROG-KING; OR, IRON HENRY
 
 
 In old times, when wishing was having, there lived a King whose
@@ -515,7 +515,7 @@ Henry because his master was set free and was happy.
 
 [Illustration]
 
-THE WOLF AND THE SEVEN LITTLE KIDS
+# THE WOLF AND THE SEVEN LITTLE KIDS
 
 
 There was once on a time, an old Goat who had seven little Kids, and
@@ -646,7 +646,7 @@ about the well with their mother.
 
 [Illustration]
 
-RAPUNZEL
+# RAPUNZEL
 
 
 There was once a man and a woman, who had long in vain wished for a
@@ -818,7 +818,7 @@ lived for a long time, happy and contented.
 
 [Illustration]
 
-LITTLE BROTHER AND LITTLE SISTER
+# LITTLE BROTHER AND LITTLE SISTER
 
 
 Little brother took his little sister by the hand and said, “Since our
@@ -1107,7 +1107,7 @@ happily together all their lives.
 
 [Illustration]
 
-THE STAR-MONEY
+# THE STAR-MONEY
 
 
 There was once on a time, a little girl whose father and mother were
@@ -1154,7 +1154,7 @@ days of her life.
 
 [Illustration]
 
-THE FISHERMAN AND HIS WIFE
+# THE FISHERMAN AND HIS WIFE
 
 
 There was once on a time, a Fisherman who lived with his wife in a
@@ -1537,7 +1537,7 @@ And there they are living at this very time.
 
 [Illustration]
 
-THE WHITE SNAKE
+# THE WHITE SNAKE
 
 
 A long time ago, there lived a King who was famed for his wisdom
@@ -1711,7 +1711,7 @@ undisturbed happiness.
 
 [Illustration]
 
-HAENSEL AND GRETHEL
+# HAENSEL AND GRETHEL
 
 
 Hard by a great forest, dwelt a poor woodcutter with his wife and his
@@ -2021,7 +2021,7 @@ himself a big, big fur cap out of it!
 
 [Illustration]
 
-THE SEVEN RAVENS
+# THE SEVEN RAVENS
 
 
 There was once a man who had seven sons, but never a daughter no matter
@@ -2138,7 +2138,7 @@ joyfully home.
 
 [Illustration]
 
-ASH-MAIDEN
+# ASH-MAIDEN
 
 
 The wife of a rich man fell sick, and as she felt that her end was
@@ -2452,7 +2452,7 @@ they lived.
 
 [Illustration]
 
-THE ELVES AND THE SHOEMAKER
+# THE ELVES AND THE SHOEMAKER
 
 
 A shoemaker, by no fault of his own, had become so poor that at last he
@@ -2532,7 +2532,7 @@ undertakings prospered.
 
 [Illustration]
 
-THE THREE BROTHERS
+# THE THREE BROTHERS
 
 
 There was once a man who had three sons, and nothing else in the world
@@ -2607,7 +2607,7 @@ laid in the same grave.
 
 [Illustration]
 
-LITTLE TABLE SET THYSELF, GOLD-ASS, AND CUDGEL OUT OF THE SACK
+# LITTLE TABLE SET THYSELF, GOLD-ASS, AND CUDGEL OUT OF THE SACK
 
 
 There was once upon a time, a tailor, who had three sons and only one
@@ -3152,7 +3152,7 @@ gone.
 
 [Illustration]
 
-IRON JOHN
+# IRON JOHN
 
 
 Once on a time there was a King who had a great forest near his palace,
@@ -3510,7 +3510,7 @@ treasures which I possess, shall be yours.”
 
 [Illustration]
 
-CLEVER ELSIE
+# CLEVER ELSIE
 
 
 There was once a man who had a daughter who was called Clever Elsie.
@@ -3675,7 +3675,7 @@ and no one has seen her since.
 
 [Illustration]
 
-THE BREMEN TOWN-MUSICIANS
+# THE BREMEN TOWN-MUSICIANS
 
 
 A certain man had a Donkey, which had carried the corn-sacks to the
@@ -3836,7 +3836,7 @@ And the mouth of him who last told this story, is still warm.
 
 [Illustration]
 
-THE SIX SWANS
+# THE SIX SWANS
 
 
 Once upon a time, a certain King was hunting in a great forest, and he
@@ -4052,7 +4052,7 @@ in happiness and peace.
 
 [Illustration]
 
-THE POOR MILLER’S BOY AND THE CAT
+# THE POOR MILLER’S BOY AND THE CAT
 
 
 In a certain mill, lived an old miller who had neither wife nor child.
@@ -4233,7 +4233,7 @@ person of importance.
 
 [Illustration]
 
-LITTLE RED-CAP
+# LITTLE RED-CAP
 
 
 Once upon a time, there was a sweet little girl, who was loved by every
@@ -4384,7 +4384,7 @@ so.”
 
 [Illustration]
 
-KING THRUSHBEARD
+# KING THRUSHBEARD
 
 
 A King had a daughter who was beautiful beyond all measure, but so
@@ -4585,7 +4585,7 @@ I wish you and I had been there too!
 
 [Illustration]
 
-THE GOLD-CHILDREN
+# THE GOLD-CHILDREN
 
 
 There was once a poor man and a poor woman who had nothing but a little
@@ -4831,7 +4831,7 @@ Then they lived happily, and all prospered with them until their death.
 
 [Illustration]
 
-LITTLE SNOW-WHITE
+# LITTLE SNOW-WHITE
 
 
 Once upon a time, in the middle of winter, when the flakes of snow were
@@ -5222,7 +5222,7 @@ until she dropped down dead.
 
 [Illustration]
 
-RUMPELSTILTSKIN
+# RUMPELSTILTSKIN
 
 
 Once there was a miller who was poor, but who had a beautiful daughter.
@@ -5365,7 +5365,7 @@ left leg so hard with both hands, that he tore himself in two.
 
 [Illustration]
 
-LITTLE BRIAR-ROSE
+# LITTLE BRIAR-ROSE
 
 
 A long time ago, there were a King and Queen who said every day, “Ah,
@@ -5505,7 +5505,7 @@ with all splendor, and they lived contented to the end of their days.
 
 [Illustration]
 
-THE THREE LITTLE MEN IN THE WOOD
+# THE THREE LITTLE MEN IN THE WOOD
 
 
 There was once a man whose wife died, and a woman whose husband died;
@@ -5694,7 +5694,7 @@ as the Little Men had granted to the maiden.
 
 [Illustration]
 
-THE GOLDEN BIRD
+# THE GOLDEN BIRD
 
 
 In the olden time, there was a King, who had behind his palace a
@@ -6017,7 +6017,7 @@ lived.
 
 [Illustration]
 
-THE QUEEN BEE
+# THE QUEEN BEE
 
 
 Two King’s Sons once went out in search of adventures, and fell into a
@@ -6106,7 +6106,7 @@ other sisters.
 
 [Illustration]
 
-BIRD-FOUND
+# BIRD-FOUND
 
 
 There was once a forester, who went into the forest to hunt. When he
@@ -6224,7 +6224,7 @@ if they are not dead, they are living still.
 
 [Illustration]
 
-THE GOLDEN GOOSE
+# THE GOLDEN GOOSE
 
 
 There was a man who had three sons, the youngest of whom was called
@@ -6350,7 +6350,7 @@ long time contentedly with his wife.
 
 [Illustration]
 
-MOTHER HOLLE
+# MOTHER HOLLE
 
 
 There was once a widow who had two daughters, one of whom was beautiful
@@ -6501,7 +6501,7 @@ she lived.
 
 [Illustration]
 
-THE TWO TRAVELERS
+# THE TWO TRAVELERS
 
 
 Hill and vale do not come together, but the children of men do, good
@@ -6985,7 +6985,7 @@ hunger, for no one has ever either seen him again or heard of him.
 
 [Illustration]
 
-JORINDA AND JORINGEL
+# JORINDA AND JORINGEL
 
 
 There was once an old castle in the midst of a large and thick forest,
@@ -7103,7 +7103,7 @@ there, clasping him round the neck, and she was as beautiful as ever!
 
 [Illustration]
 
-HOW SIX MEN GOT ON IN THE WORLD
+# HOW SIX MEN GOT ON IN THE WORLD
 
 
 There was once a man who understood all kinds of arts. He served
@@ -7336,7 +7336,7 @@ lived in content until their death.
 
 [Illustration]
 
-THE GOOSE-GIRL
+# THE GOOSE-GIRL
 
 
 There was once upon a time, an old Queen, whose husband had been dead
@@ -7620,7 +7620,7 @@ happiness.
 
 [Illustration]
 
-THE SINGING, SOARING LARK
+# THE SINGING, SOARING LARK
 
 
 There was once on a time, a man who was about to set out on a long
@@ -7874,7 +7874,7 @@ And they lived thenceforth happily until their death.
 
 [Illustration]
 
-DOCTOR KNOWALL
+# DOCTOR KNOWALL
 
 
 There was once on a time, a poor peasant called Crab, who drove two
@@ -7956,7 +7956,7 @@ reward and became a famous man.
 
 [Illustration]
 
-THE BLUE LIGHT
+# THE BLUE LIGHT
 
 
 There was once on a time, a soldier who for many years had served the
@@ -8165,7 +8165,7 @@ live. He gave him his kingdom for his own, and the Princess to wife.
 
 [Illustration]
 
-THE SPINDLE, THE SHUTTLE, AND THE NEEDLE
+# THE SPINDLE, THE SHUTTLE, AND THE NEEDLE
 
 
 There was once a girl whose father and mother died while she was still
@@ -8293,7 +8293,7 @@ treasure-chamber, and held in great honor.
 
 [Illustration]
 
-THE THREE LUCK-CHILDREN
+# THE THREE LUCK-CHILDREN
 
 
 A father once called his three sons before him. He gave to the first a
@@ -8408,7 +8408,7 @@ palace was shot down to the ground.
 
 [Illustration]
 
-THE DONKEY CABBAGES
+# THE DONKEY CABBAGES
 
 
 There was once a young huntsman, who went into the forest to lie in
@@ -8688,7 +8688,7 @@ their death.
 
 [Illustration]
 
-CLEVER HANS
+# CLEVER HANS
 
 
 I
@@ -8997,7 +8997,7 @@ herself lose and ran away, and became the Bride of Hans.
 
 [Illustration]
 
-THE IRON STOVE
+# THE IRON STOVE
 
 
 In the days when wishing was having, a King’s Son was enchanted by an
@@ -9250,7 +9250,7 @@ and lived together happily ever afterward.
 
 [Illustration]
 
-SWEET PORRIDGE
+# SWEET PORRIDGE
 
 
 There was a poor, good little girl, who lived alone with her mother,
@@ -9296,7 +9296,7 @@ And whosoever wished to return to the town, had to eat his way back.
 
 [Illustration]
 
-SNOW-WHITE AND ROSE-RED
+# SNOW-WHITE AND ROSE-RED
 
 
 There was once a poor widow who lived in a lonely cottage. In front of
@@ -9564,7 +9564,7 @@ roses, white and red.
 
 [Illustration]
 
-THE HEDGE-KING
+# THE HEDGE-KING
 
 
 In former days, every sound had its meaning, the birds also had their
@@ -9688,7 +9688,7 @@ beautiful! ah, how beautiful that is!”
 
 [Illustration]
 
-ONE-EYE, TWO-EYES, AND THREE-EYES
+# ONE-EYE, TWO-EYES, AND THREE-EYES
 
 
 There was once a woman who had three daughters, the eldest of whom
@@ -10029,7 +10029,7 @@ of the evil that they had done in their youth to their sister.
 
 [Illustration]
 
-THE GOOSE-GIRL AT THE WELL
+# THE GOOSE-GIRL AT THE WELL
 
 
 _The Old Witch_
@@ -10434,7 +10434,7 @@ spread, and the servants were running hither and thither.
 
 [Illustration]
 
-THE SHOES THAT WERE DANCED TO PIECES
+# THE SHOES THAT WERE DANCED TO PIECES
 
 
 There was once upon a time, a King who had twelve daughters, each one
@@ -10602,7 +10602,7 @@ for as many days more as they had danced nights with the Twelve.
 
 [Illustration]
 
-THE NIX OF THE MILL-POND
+# THE NIX OF THE MILL-POND
 
 
 There was once upon a time, a miller who lived with his wife in great
@@ -10829,7 +10829,7 @@ other, and no one need ask if they were happy.
 
 [Illustration]
 
-THE LITTLE HOUSE IN THE WOOD
+# THE LITTLE HOUSE IN THE WOOD
 
 
 A poor woodcutter lived with his wife and three daughters in a little
@@ -11059,7 +11059,7 @@ have grown kinder, and do not leave poor animals to suffer hunger.”
 
 [Illustration]
 
-MAID MALEEN
+# MAID MALEEN
 
 
 There was once a King who had a son who asked in marriage the daughter
@@ -11332,8 +11332,7 @@ for a long time, and when the children passed by it, they sang:
       Follow me, follow me, fast as you may._”
 
 
-
-
+# Fine
 Transcriber’s Notes
 
 

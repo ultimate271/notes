@@ -1,4 +1,4 @@
-# Unknown date that I will probably delete at some point
+# Unknown date that I will probably delete at some point (I was really high)
 So this  is a story all about how my life got twist turned upside down and I'd
 like to take a minute just sit right there I'll tell youa all about how I
 became the fresh prince of bel air.
@@ -41,7 +41,7 @@ how that window lies in with reality.
 
 
 
-# 20180627
+# 20180627 Intro to the journal - Brothers Karamazov leading to a visit with my father
 
 So I am getting to a point in my life where I feel like my life is becoming a
 really interesting story, a story that will be worth telling in perhaps
@@ -275,7 +275,7 @@ I will continue to visit, without expectation, because that is what I feel I
 need to do, not to gain anything for myself or for my father, or for anyone
 else, but because I simply feel that my place is with my father.
 
-# 20180628
+# 20180628 Dreams: Arguing with Kyle about Russian letters - Blessing of the Cells
 
 So this is the beginning of my second dedicated journal article. There are a
 few things that I want to go over, and I'm not sure which to start with. The
@@ -537,8 +537,7 @@ be aligned, and it makes me want to vomit. That is all.
 
 Until next time.
 
-# 20180629
-
+# 20180629 Dreams: Psilocibin, Colorado trip ski lift, Kim in Seattle - Convesation with my mom
 Okay, so I had another dream today that I want to share briefly. I did not
 intend for this to become a dream journal, but as long as I am having vivid and
 memorable dreams that can be interpreted easily, I will continue to write about
@@ -990,7 +989,7 @@ where socializing and eating is going to be a thing that is even on his mind.
 This time I will be more keen on the signals I get from my mom and see what to
 do from there.
 
-# 20180630
+# 20180630 Dream, trapdoor and father, event of Papa and us at Bavarian Grill
 So today was the day that I was planning on doing the speed dating event, but
 that was canceled so instead I am going to plan on going to the Roughnecks game
 in about an hour. I will arrive late, but fuck it, I don't want to watch the
@@ -1208,7 +1207,7 @@ conversation and I made my way back to my apartment.
 Indeed, I have to stop now (I am quite done anyway) and make my way to the
 Roughnecks game. That's it for today.
 
-# 20180701
+# 20180701 Ramblings of a man in the haze of waking - Ramblings of the lit analyzer
 So today it is now in the morning, where as yesterday it was the evening time,
 like I said I would do in my article yesterday. In fact, I literally just woke
 up, and I am still gathering myself as far as waking up and gathering my
@@ -1246,8 +1245,6 @@ this is starting to flow a little better. Actually, I think I will decide to
 take a shower, go outside for a bit, collect myself, and think about what I
 might want to write about, and come back and continue writing. Yes, let's do
 that. I will return.
-
--
 
 So I am back now from my walk, which took me about 30 minutes in total to
 complete, and I am back and I have a few things I want to talk about.
@@ -1396,8 +1393,6 @@ mark, but needs to be re-imagined in a different way, similar to how clever
 mathmeticians just simply have to think about a problem very hard in order to
 solve it.
 
---
-
 So I think at this point I have three concepts which encapsulate everything I
 want to capture in my system. The first, and most specific, is that of the
 speaker, which would be the lowest most base form of an excerpt. The second is
@@ -1463,7 +1458,7 @@ to read Mistborn and break down that story in this way. That story is
 complicated enough to warrent this sort of analysis but not so complicated that
 I will get confused as to what I am doing and why.
 
-# 20180702
+# 20180702 Temptation of Marijuana, visit to my father, Commentary about the dragon and the king
 So today I don't have much to say. I did have a dream last night, but it was
 mostly uninteresting, since when I tried to go to sleep in one location, I had
 my watch with the alarm for BJJ on it, but I could not go to sleep in that
@@ -1596,7 +1591,7 @@ guidance from, if you are not to listen and obey when that has spoken?" I want
 to liken this to some myth right now, but maybe I have been reading to much
 epic poetry and should leave the references out of it.
 
-# 20180703
+# 20180703 Of my night, Dream of Crossfit, sleep paralysis, Dream of Marijuana and drug testing, discovery of my four characters for the hermit story
 So I want to get this down before I forget it. This dream I had last night was
 not too spectacular, but it is definitely worth writing down and setting off my
 thoughts for this journal article with, as I feel there is definitely something
@@ -1766,8 +1761,6 @@ attempt to move your limbs (which I remind you are paralyzed), but once I was
 able to accept it and realized that it was the feeling that I wanted to
 embrace, I was able to embrace it, and then I returned to sleep.
 
---
-
 I feel very compelled now to write about the dream I had. This dream was very
 vivid and involved the consumption of Marijuana and the subsequent drug testing
 that would happen, along with alot of other symbolism involving my mom, the
@@ -1935,8 +1928,6 @@ it or assign it anything, I can only think that I dislike that aspect of my
 subconscious, and it gives me curiosity as to when that aspect might go away. I
 don't know.
 
---
-
 At this moment, now, I have a compulsion to write. Indeed, there is this story
 that I have thought of, that I haven't had the time to discover yet, but I
 think it is time to discover it.
@@ -2028,7 +2019,7 @@ recent events of my life, the events being my dad's diagnosis of Lukemia as
 well as my being charged with a felony. The adjudicator is a member of this
 mythology.
 
-# 20180704
+# 20180704 Dream of Kim in Seattle - Discovery of the hermit
 So I woke up today thinking only about how much I didn't want to go to yoga. I
 would so much rather sit here and describe my dream. So that's what I'm doing.
 
@@ -2190,8 +2181,6 @@ strange that the main characters of the dream, and the ones I'm most embarresed
 to make contact with, are my family and extended family, so I think it might be
 a little deeper than this one case that I am failing to work on at work. But I
 don't know.
-
---
 
 Of the Father of Man
 
@@ -2423,7 +2412,7 @@ eachother, as I truely believe that the only way to got the most complete sense
 of this world is through communication and attempted understanding of all that
 there is in this world.
 
-# 20180705
+# 20180705 Reflections of yestday, Peterson, then Michelle
 So at this point, I want to cut off my ever haughty and pompous talk of "the
 otherworld" to return to the disscussion of things more appropiate for a
 journal entry. In fact, to say I am cutting it off is maybe inappropiate, that
@@ -2626,7 +2615,7 @@ of both getting more involved with outdoors things and also to increase my
 friend circle. As Yash told me, I should meet 10% more people every month, so
 this I feel is my best effort to do that.
 
-# 20180706
+# 20180706 Injury at open mat, decision to not go to Houston, condemnatiion of Bikram
 Okay, so as of this moment in time, it is in the afternoon, I am conflicted. So
 today is Friday, and like any good Friday I decided to go to open mat. Well,
 while I was at open mat, I rolled with a lot of people, as I do, and I tapped
@@ -2795,7 +2784,7 @@ that I can strike by not dedicating myself to Bikram and instead treating it as
 another tool (which I have been doing, but it's very difficult to see it that
 way when you do it every fucking day). Enough on that.
 
-# 20180707
+# 20180707 Recap of the day - Codemnation of PBJ - Discovery of the hermit
 Okay, so today has been a weird day for me so far. I can honestly say that I
 haven't done much of anything since the day started, but I feel as though I
 somehow have done a lot of things. To recap what I have done today.
@@ -2838,7 +2827,7 @@ that.
 
 So all of that to say, I don't know what to make of myself this morning and
 day. I think I have decided to give up PBJ all-together, especially in the
-mornings. I hate I don't know how much steak last night, but I was still hungry
+mornings. I ate I don't know how much steak last night, but I was still hungry
 when I woke up today, and I have eaten two PBJ's and I think I have finally
 made the association of PBJ and this sort of apthetic, easily distracted, brain
 weary state that I am in right now. I can't seem to concentrate on any one
@@ -3108,7 +3097,7 @@ water (I'll have to figure out more veggies). I like it.
 
 Now to Hearthstone.
 
-# 20180708
+# 20180708 Dream: Pregnancy and the adjudcator - Preamble to my father
 So today I had a most vivid and most unsettling dream, that surely indicates
 the guilt I am feeling at neglecting my work duties. The dream took place in a
 hotel. I have had other dreams in this hotel before, but the description of the
@@ -3280,7 +3269,7 @@ dream may be. If the dream does not come, at the very least I will have
 something to write about, that is entirely certain. But not now. Not now. Now
 is the time for meditation and rest.
 
-# 20180709
+# 20180709 Dreams: Tyrant in prison, Roughnecks practice, Visit with my father, CaringBridge post drafts (that turn into nothing)
 So tonight I had a dream. I had two dreams, actually, in spite (or perhaps
 because of) my poor sleep. The first dream is the more important, or at least I
 think it is. This dream happened in a location that I am not entirely conviced
@@ -3429,8 +3418,6 @@ Now, I have talked about both of my dreams, and my prayers were answered.
 Indeed, I would have honestly been very surprised had I not had any dreams last
 night, as my mind was in such a state that I was sure I would have dreams, and
 so it was the case. So far I have met the Adjudicator and the Tyrant.
-
---
 
 So at this juncture, I feel it quite neccesary, quite neccesary indeed, to put
 together my thoughts and feelings from the events of yesterday evening. Indeed,
@@ -4089,7 +4076,6 @@ I wasn't so sure, but she got a little defensive at that, and I receded,
 calling myself a righteous fool again, before we shared our final hugs for that
 day and I drove back to my place.
 
---
 
 Caring Bridge Post
 
@@ -4195,16 +4181,14 @@ when he has been reduced to immeasurable rapture and suffering due to the
 horrible (but unfortantely still our best known method) drug His faith is
 there, and it is perhaps the strongest thing in him, his faith and his love for
 those who love him, when all his bodily capabilities are taken away, and he's
-taken down and reduced to 
-
---
+taken down and reduced to.
 
 Wow, what a mess of thoughts, I came into this post with the best of
 intentions, but now I see that I must come back to it with a clearer mind. I
 will return to this later, and from there see what it is I should do, to find
 my inner spirit and let it write through me.
 
-# 20180710
+# 20180710 Chiropractic care - Discovery of the Hermit
 So today I don't have nearly as much to talk about as I did yesterday.
 Obviously yesterday I had a lot to talk about about two days ago, and I think
 the biggest thing I can say is that I don't think that the Caring Bridge post
@@ -4448,7 +4432,7 @@ actual meat of the story anyway, so I will probably discover those before I
 discover the actual nature of the murder. So I will begin to write those bits,
 and get to the murder in its time.
 
-# 20180711
+# 20180711 Dream: Evan takes acid - Musings of my father - Discovery of the Hermit
 So today I had a dream that I remember thinking about how much I wanted to talk
 about it, and I don't remember some of the details now that I have neglected to
 get to it for so long today. And that fault is my own. I will just begin to
@@ -4718,7 +4702,7 @@ point to be. So perhaps the murder is not something that I want, maybe that is
 too much. I'm not sure. I'll have to think on it. I might have to discover more
 about these characters before I come up with more plot points.
 
-# 20180712
+# 20180712 Time Management - Visit of my father, who talks of Bowties
 Okay, so I think I have decided on a system that will optimize my time spent
 doing these things while at the same time ensuring that I get work done. That
 system will be to have certain set times where I only allow myself to do things
@@ -4923,7 +4907,7 @@ of hanging, and I don't like that, and I want to leave it not hanging. But I
 think I will be a good person, and get to work, to at least start to get back
 to the whole thing again, so I will end this entry here.
 
-# 20180713
+# 20180713 Diet - Visions then Dreams: Walking with Janet, BJJ in Garage, Takashi and a video game, Diarehha in the tub
 So yesterday night I had a lot of dreams. Like, a lot of dreams, and they were
 all I think somewhat connected but mostly not. I want to at first just get the
 dreams out on paper before I actually go into any details, just so I'm able to
@@ -5217,7 +5201,7 @@ times questionable) structure on the whole thing. So I will certainly pass on
 that today, but I might go over the weekend or next week if I am feeling so
 inspired.
 
-# 20180714
+# 20180714 Dream of a real life video game, of a childly recital theater - Discovery Writing Damien
 So last night I had a dream, a dream that had some interesting points but as a
 whole was mostly absurd. Granted, most of my dreams are absurd. This one is one
 that takes place in that same world as dream Seattle, and the dream version of
@@ -5321,8 +5305,6 @@ well. I want to interview all of them later, but right now I don't feel like I
 have quite the inspiration or interest to do that, it would feel more like a
 chore than discovery, so I will take a break, have a bit of my day, and come
 back to that later.
-
---
 
 So I'm back, now with coffee, so we will so how this writing thing turns out
 now that I have some stimulant to fuel me. So let's start with something of an
@@ -5792,7 +5774,7 @@ does have a great effect on my mind right now, and I can see how, if
 over-indulged, one can grow quite a depenance on it, and I certainly don't want
 that. I shall see, and take the utmost care in with this substance.
 
-# 20180715
+# 20180715 Effects of the coffee - Musings on Government
 So yesterday was an interesting day for me. The whole, let's drink a bunch of
 coffee thing allowed me to focus in on and create the above article like I did,
 which I have not as yet read back to myself yet, but after that it left me in
@@ -6025,7 +6007,7 @@ disagree on something is one way to resolve some of the most trivial of
 policies, I feel that it fails on many levels and that there will always be a
 better way of doing things.
 
-# 20180716
+# 20180716 Recovery from coffee - Hamlet - Diet - Visit with dad and Jason - Rape of the maiden of Truth
 So it's quite facsinating, I still feel like I am recovering from my
 consumption of 2 liters of coffee that happened over 48 hours ago. Yesterday,
 before I went to bed, I was still hopelessly trying to figure out why I felt so
@@ -6058,6 +6040,8 @@ I'm exhausted in a way that doesn't make me tired, I'm exhausted in the way
 that makes me hungry for meaning, for purpose, and I can't find it.
 
 So yeah, enough with that piece of shit run on sentance.
+
+--
 
 Yesterday, I experimented with something, and I talked about it I think in my
 entry yesterday, and that was going for a one mile jog a few times throughout
@@ -6139,6 +6123,8 @@ grieving incorrectly, we would get instead an image of the proper role of grief
 in our own lives. That's my two cents on that, and I'll stop there before
 anyone who might be a legitimate literary critic comes across this and
 lacerates it through and through.
+
+--
 
 So now, let it be known, I was (am) quite exhausted, to the point of
 practically collapsing at my desk today. Indeed, the sort of feeling I feel of
@@ -6240,6 +6226,8 @@ thing I don't like about that is that eggs have to be prepared, and that takes
 effort, but so be it for now. I might transition to peanut butter and milk like
 I have in the past, and see how that does me. We will see.
 
+--
+
 Enough on food. Not much else has happened to me as of late. Something I have
 thought about, that I haven't talked about, is my trip on Friday to see my dad
 when Jason was here. Jason was here, and I visited my dad, and he was so very
@@ -6307,6 +6295,8 @@ church is, and in that structure the truth is taken and warped, perverted, to
 fact. The image of the virgin maiden, raped by those that insist to impregnate
 her. That maiden is truth, and that rapist is the church, and the child that is
 born are these unguided and lost fools who have only their father to cling to.
+
+--
 
 Indeed, what of the eternal mother? Why is God the Father the image? Why not
 the eternal mother? I tell you why, it is because that mother has been raped,
@@ -6539,7 +6529,7 @@ written here would have been much different. Let this be a tale of caution to
 the future Brett who will be known to over-indulge in the wonder of Marijuana.
 Let this be known to him.
 
-# 20180717
+# 20180717 Dream of Metamorpheses - Visit my father with Papa
 So today I am writing particularly early, as I had a dream that has had a sort
 of interesting effect on me. So in this dream, I was at my parents house, in
 the study (and this was the version of my parents house that is very much like
@@ -6730,7 +6720,7 @@ more comfortable through the conversation (I hate when I feel like I am walking
 on eggshells in any conversation) and eventually during pause, I stood up and
 announced my intention to leave, so I shared some goodbyes and made my leave.
 
-# 20180718
+# 20180718 Dreams Naked at work, Rogan fights, Bath tub fuzzy animals, Dinner at vacation - Girl that giggles outside my apartment
 So yesterday I had some dreams, but I don't want to dwell too long on them.
 Everytime I say that, I end up writing the entire article about the dreams, but
 this time I think I might mean it. I honestly am not feeling particularly
@@ -7040,7 +7030,7 @@ But for now I have to go. Getting out of myself will be good, I am going to BJJ
 now to trian. I will be back, but probably not to write more about this. This
 is probably the end of the journal for today, so I will leave it at that.
 
-# 20180719
+# 20180719 Dream My dad walks - I forget my shirt at work - Dream of the drug addicts in the elevator
 So today I have something of a funny story to tell, something that could be
 seen as a prophecy of one of my dreams from earlier, but really is just a funny
 story. But before that I want to talk breifly about the dreams I had last
@@ -7359,7 +7349,7 @@ off, although that was the end of the dream if that happened. But this whole
 event with these two "druggies" was the most profound aspect of the dream, and
 the part that stuck with me the most and what I wanted to get out.
 
-#20180720
+#20180720 Dream: Coffee disaster - Dragon and the King
 So last night I did have a dream, it was a sort of short dream, but it was
 there non-the-less. This dream was pretty brief and I don't want to dwell on
 it. Basically, I was at work, and I was demonstrating to my co-worker the
@@ -7405,3 +7395,546 @@ on the syntax and tone of essentially every paragraph in there. I think I will
 do that now. I might come back to this journal entry and extend it out a bit,
 as I surely have more to say, but for now I really want to get to work on that,
 and also get to work on my lit analyzer.
+
+# 20180721 Dream in Kyle's house - Finished Reading the Brothers Karamazov
+So I feel very strange right now. I am writing a journal article "on top of
+another" so to speak. You see, I was at work yesterday, and as I was leaving
+work, I remembered to commit my article, but when it came to pushing it, I
+entirely forgot, so I have a commited journal article on my work laptop that
+has not made it yet to this machine, and it makes me feel very strange that I
+am contributing a commit that "skips a day" but which will be resolved later in
+a merge that will happen when I get back to work on monday. Part of my
+uneasiness here is my lack of experience with git, and I have enough experience
+with git to know that the merge will happen reletively seemlessly, and that
+when I go back and read this it will be in order, and I might even chuckle at
+the fact that I am talking about how it is not in order right now, and how I
+am fixating on that even foolishly. But enough of that.
+
+I had a dream last night, that I don't think was a very eventful dream, but I
+say that about all the dreams I have and I always end up writing an entire
+fucking article about it, so what do I know about dreams. Regardless, I know
+this dream took place in a sort of two part way. The frist part, I believe, I
+was at a Five-K, and I was running this with my family, although I don't
+remember any of the specifics about the race at all. In fact, I don't think
+I even ran the race in the dream, as in, we ran the race, but that all happened
+before the dream began, and so I don't have any memory of running the race, and
+instead the dream started, and I was in the car with Kyle and my Mom, who also
+ran the race, and we were on our way back home. And as we were coming back home
+I remember saying we should go to Kyle's place, because he had just bought a
+house, and he had been in it long enough for him to be "properly moved in" but
+it was still a relatively new house, and we needed to "break it in" so to
+speak. I also remember, I had an ice pack on me, I think on my leg or somewhere
+like that, which is strange, because I don't have anything going on with my leg
+right now, but I had an ice pack, so I said I would come to the house, and put
+that pack in the freezer there. So we go to his house, and it was just me and
+Kyle there, and this house is most similar to my memory of the house of the
+Wrights, with the notable difference that the place where I'm pretty sure the
+master bedroom was was really the kitchen, and the place where the kitchen was
+was just more living area, and in the backyard, there was a pool. I want to
+give a quick layout of Kyle's house. So at the front door, you walk in to a
+living area, and to your immediate left, there is a staircase that goes to the
+upper floor. This upper floor is open, and there is a common living area in the
+upper area like there is in the lower area, and they are very much open to
+eachother. So on the lower floor, there is a door to the backyard in the back,
+which is a rather skinny backyard, but goes all the way around and had a pool
+to the side which is in a sort of kidney shape, and has a shallow end at the
+closest end to the backdoor, and a deep end on the other end. As you walk to
+the back door from the front, to the left is a kitchen, and on the other side
+of that is another sort of entrance, a more "grand" entrance, where visiters
+would come, and in that area beyond the kitchen, it goes up all the way to the
+ceiling (the second floor ends at the end of the kitchen) and that would be
+where you would have guests come over for dinner. So if you were to go up the
+stairs, you would go up to the common area, and this area is very much like the
+house of the Wrights, and to the left there is a hallway with bedrooms. So now
+that we have said that, I enter by the front way, rather than the "guest" way,
+because we are not guests but instead we are just going there to hang out, so
+that's the appropiate way in, and I go into the kitchen to put the ice pack
+thing in the freezer. I explore the house a little, I remember that, although
+all of the details I have of the house right now are from me conjuring up my
+memeory in this waking moment of my "conscious" memory of what the house should
+be, rather than recollection of the exploring. Mostly, I explored the upstairs
+area, as that's the point I remember most. Anyway, I remember asking Kyle about
+the state of the pool, and he said that it was possible to swim in it, so I
+decided to go out and do so. So we go out, and I evaluate the water, and
+determine that it is indeed appropiate to swim in, so I get in, and wade around
+a bit, and I swim over to the deep end. And I remember, while we were there,
+Kyle was trying to experiment with lotus position, while wading in the pool,
+and I was able to do it quite a bit better than him, and then I swam to the
+deep end (it was after this that I swam over) and I said to check this out, and
+I started doing some wim hof breathing, but only three or four breaths, before
+letting go and holding it, and sinking to the bottom, and establishing lotus
+psotion in the bottom of the pool, and I held it there for only a couple of
+seconds, because it's hard to hold your breath like that underwater, so I came
+back up, and I did that maybe two or three times. The last thing I remember
+about the dream is that Mom came out to the backyard with a very young and
+dorky version of Evan, and he was wrapped in a sort of shawl, and she was to
+cut his hair. The sort of shawl I mean is the kind of shawl you wear when
+someone is cutting it to keep the falling hair off of you. I'm sure it probably
+has a proper name, but that was the end of the dream.
+
+So yeah, the only notable thing about this dream is that Kyle had bought a
+house and that he was living alone in it. The layout of the house was
+interesting, and that was about it.
+
+And now I'm just really sad. I was planning on working on my revisions of the
+dragon and the king, but now I realize that my analysis and other aspects of
+that work are also sitting commited locally and unpushed on my work
+machine, which is at work, and god knows that I don't want to go up there and
+get it. I don't even have a key to the place, so it's lost forever to me now
+until I can get up there again on Monday it will be and actually push the
+commit. This has me dissapointed.
+
+So right now, I have a sort of inclination towards a few things. Part of me
+wants to work on that analysis anyway, I can figure out the trivialities of the
+merge later, and another part of me wants to work on my lit analyzer tool,
+which changes I believe I do have the latest of, which is good. Then another
+part of me wants to just free write about anything and everything, which is
+sort of what I have been doing, but I have no particular aim in mind, nor do I
+feel particularly inspired to discover say, more about Damien, or Kimberly, or
+Racheal, or Lyse, or anyone else.
+
+Actually, I have thought about that whole story, and I had an idea that I find
+somewhat amusing, and that idea is to put the whole thing in sonata form. So
+the exposition, and then the repeat of the exposition, would be the two stories
+by the hermit, then the development would be the characters reading it I think,
+and then the recapitualiton would be something else. That is a wholly contrived
+and silly way to put the whole thing, putting it into words like that, but the
+idea is that I want to create a work which does fit into sonata form. So there
+would be "the first movement" which would have the exposition, and that
+exposition would be repeated, but from a different angle, and then the
+development, and then a final recapitulation. So the expositon would be like
+someone learning something, then failing, then trying again, then failing, then
+the development would be the formation of a plan, and the recap would be doing
+that thing for real, and succeeding. Something like that. Then the second
+movement would be the doings of the bad guy, and the bad guy has a main theme,
+something like the destruction of a village, or something, interspersed with
+moments of planning with his minions, or something of that nature, so there
+would be three villages that get destroyed, and in-between that, we would have
+interludes, in the ABACA format. Then, I don't know what a menuet would look
+like, and in this particular story, of "Good guy bad guy" sort of paradigm,
+there probably wouldn't be a menuet, and we would go straight into the rondo,
+of the good guy and the bad guy clashing, and there would "the battle at the
+final grounds" or something, and they would fight, and that would be the main
+theme of the rondo, and in the first fight the bad guy gets the upper hand,
+and the good guys go on about the bad guy, then they fight again, but this time
+there isn't really a fight, as maybe a natural phenomenon stops them before
+they can clash, which would be the center of the rondo, and then they fight
+again, and the bad guy gets the upper hand again, but this time the good guys
+have an ace up their sleeve, maybe something they gleened during the time they
+almost fought, so in the last encounter, the ace up their sleeve is taken out,
+and that's the finale, and they defeat the bad guy, and everyone is victorious.
+Something like that. It's interesting to me how Sonata form does give way to a
+sort of outline for a story like that. However, I think this association does
+one good to see it as the outline for an original story, and trying to impose
+sonata form on any arbitrary work of art, that would be silly. Indeed, there
+are many stories that are written which don't have this sort of form. Surely
+there are a lot that do, but it's one of those things that with any sufficient
+literary force, you can bend the plot of any work to whatever structure you
+want to impose on it. Maybe, maybe not, I don't know.
+
+I do want to give my opinion, somewhat raw, after reading the end of A
+Brother's Karamazov. Now, I will be entirely honest and say that I did not read
+the entirety of the end of the story. I got up to the point where the
+Prosecuter made his speech, and I was part way through that when I decided to
+skip through the prosecuter speech, and read the end of the defendents speech,
+and at that, I skipped to the end of the epilouge, and read the end, that being
+Ilusha's funeral. Something I will say is I love the ending. The speech Aloysha
+gives to the children was perfect, tying up the experience of youth, and how
+such experince can transform you into adulthood, and how even just one such
+experience can be clung on to with success. I found that to be such a fitting
+speech, even though I don't fully understand all of the implications of the
+different threads at this point. So I liked that a lot, and I like a lot too
+how at the end of it, he said something like, "And lets go eat pancakes, even
+though its a silly tradition, silly traditions are sometimes the best" or
+something like that. I could go read the quote, but it was something like that.
+I love that. And then the last paragraph, cheers for Karamazov, was just, the
+entire thing was such a fitting ending to the novel.
+
+What I will say, and this is something that I have encountered with novels like
+this, is that it felt like there were so many loose ends. Like I said, I
+skipped over some bits, so I will have to go over and read the parts I skipped
+(really just the ending, although I skipped over the life of Zossima as well),
+but I remember thinking that there were a ton of loose ends. Like, what happens
+with Lise? I am sure her story would be a central subject of the sequal which
+will tragically never be written. And what is the fate of Katya? And the fate
+of Mitya and Grusha? Do they go to america? Does he escape his conviction. That
+last point is less relevent to me, and I like that it was left sort of hanging
+like that. And I hate when people say "well, it's up to the reader to decide"
+because it's not. It's up to the reader to read what was presented, and the
+readers reaction to it is simply what the reaction is, and that reaction should
+be pure. And I think, to ask questions about "what happens to such and such
+character" are really silly questions most of the time. You see, the fates of
+these characters are not really important. I think it's important to make the
+work "fluid" in the sense that it is not a strict X happened then Y happened
+and Z happened and all of the loose ends are tied. Of course, the reader has to
+have some resolution, and we got quite a bit of resolution now that I think of
+it.
+
+I think, the biggest question I have is "So what was the actual story about the
+3000 roubles" and "What happened to the inheretance of Fyodor?" And both of
+those things might have been addreessed in the parts I missed, so I will hold
+off on those questions until I study the work further.
+
+But back to my original point. I think it is important to have loose ends in a
+sense. That creates a more powerful message. And I don't mean message as in,
+"what is the message the author is trying to protray here" because such an
+interpretation of literature is immature at best, (although maybe not quite as
+immature as a literal interpretation as literature as a story, so maybe the
+word "misguided" is better) but I think that the work as a work of art has much
+more impact when the story under the story is allowed to take the fore front,
+and the story that's in the front has these loose ends, because without these
+loose ends, the story under the story doesn't have a chance to shine through.
+Indeed, the story is one of psychology. Of all these different characters, all
+of which have their own motivations and personalities, what happens to them all
+in this circumstance.
+
+Something I will say, that is quite funny to me, is the nature of the trial. It
+was very fictional, almost fantastically so, to put "the trial" like it was,
+with all of its events and speechs. It was very glorified, and the notion that
+so many hearts could be moved by the events of the trial is very literary in
+its telling. Indeed, I have not been to an actual trial like this one, and I
+don't know how things are done in Russia, but I don't think that he would be
+convicted so quickly (indeed, as I was looking into death row inmates in my
+curiosity one time, it turns out people stay on death row, and undergo multiple
+kinds of trials on the path there, so yeah), and I don't think that so many
+liberties would be given to the people there to give these broad and all
+encompassing speechs.
+
+One comment I will also make about the story is, that it seemed EVERYONE became
+ill after the conviction. For instance, Smyrgadov have a massive epileptic fit
+after the murder makes sense to me, and Grusha coming down with illness makes
+some sense, and Ivan's illness makes sense as well, it was all used to great
+effect, and honestly, now that I write about it, I don't know if I would change
+any of it, but regardless, it was something that struck me as almost comical.
+Like the old man is killed and everyone comes down with some sort of mental or
+physical illness. I remember thinking something at one point like "Is there
+anyone who isn't becoming ill after this whole event?" and the answer is that
+only Alysha and the school children are not, which is also partly why I liked
+the ending so much.
+
+So I think my final impression of the novel is this. I think it is one of the
+most well written and well told novels of our time. Even the translation, which
+I have read a couple, shows the sort of clarity with which Dostoeyevsky can
+write. His descriptions, while long at times, never feel superflous, and they
+all contribute to the characters and the scene that is being set. I also very
+much like his use of the narrator. Something that the narrator said a lot was,
+or at least in a few occasions was, "but that event will be told in it's proper
+place" and I like that method a lot, because it goes to show that a good work
+of art can't be spoiled, because even the author, the narrator himself, is
+"spoiling" the work by telling you what is going to happen, and giving you a
+promise of more details later. So I like that a lot. Also, I like that we are
+given insight into the reactions of the characters. It never feels like the
+characters go against their nature, and we are given a very clear picture of
+what all the characters are, and what they do, as they do the things, and their
+motiviations are always known, even if they are surprising to us, we are never
+surprised in a way that says "well okay, I can suspend my disbelief about that
+character to accept that this contrived event is happenening."
+
+And the last thing I want to say is, the way in which it was revealed that
+Smergadov hanged himself literally took my breath away. It was at the end of
+the chapter, and as soon as that chapter ended, I put down the tablet and just
+reflected on the whole chapter. Indeed, I know people talk about the Grand
+Inquizitor as "the chapter of the work" but indeed I think it was this chapter
+which takes it all for me. It was so beautifully written, the anguish of Ivan
+is so wall captured, the fact that he is convinced that the entire thing is
+real. Just perfect, absolutely perfect. I love it, and to me that marks the
+best moment of the novel. That, and I loved the narration of Mitya as he goes
+through the town, goes to his fathers, beats Grigory on the head, and then goes
+and spends all sorts of money entertaining the characters, that entire section
+was very well written as well, and I breezed over that without concept of time
+or chapters, and I genuinely wanted to read more. The way that Mitya was caught
+as well, the way Grusha and he were coming together, and that was their moment,
+the moment he was going to go away and carry her off and be free with her, that
+was the moment that he was arrested, I like that juxtopositon, if that is the
+right word, and I think that was used to great effect as well.
+
+In conclusion, very well written novel, and one that I am so blessed to have
+been exposed to and read in my life. Indeed, it is the sort of novel that makes
+me glad to be alive, because if there had been nothing in the world, this novel
+would not have been in the world either, and I could not have read it. It makes
+me glad that there is something, rather then nothing.
+
+# 20180722
+So today I have made some coffee again, and I have not taken my first sip yet,
+and I am wary to, but I will limit myself this time to simply a liter of coffee
+and see how that makes me feel.
+
+So last night I did not have many dreams. Indeed, last night was strange for
+me, so let me just go over a bit what happened.
+
+So everything was going well in the day yesterday. The day before, I went
+pretty intense at open mat, started standing with a lot of guy, practiced
+takedowns and throws, and I think the bottom line is that there are a bunch of
+killers at my gym, and they are very good at doing what they do, so I became a
+little beat up as a result. Well, yesterday when I woke up, which was around
+8:30, I felt entirely beat up, way more than I anticipated, and I spent most of
+the day reading, listening to Peterson's lectures on the biblical stories, and
+in general just doing regular lazy saturday things, and it got to be around 5,
+and after I had my shake, I pretty promptly collapsed onto the floor and went
+to sleep. After I woke up, I had this inclination to go straight to target and
+get a meat pounder, among some other things, so I went over, it was I think
+safe to say two full sleep cycles later, and I was still in a daze when I was
+going, I came to a stop at one of the stop signs, and I distinctly remember
+saying to myself, "fuck it there is no one here" and as soon as I took a pretty
+egregious rolling stop, I realized that coming up behind was a car that seemed
+to me to be a police officer. Well, in my state I just woke up, I was like
+"fuck it, let him stop me" but I behaved much more like a good civilian at the
+next stop sign, and he went on his way. Now as this happened, I remember
+thinking two things. One, my registration is still out of date, so even though
+I have the inspection papers in my car, I'm not sure if that would have made
+any difference at all. Second, the address on my license is still wrong,
+although I did not even think about that. What I really thought is, "What is
+that?" Did he look into my window and see that I was white and let me off? Was
+this cop actually sympathetic to the fact that I was being safe at the stop and
+knew that letter of the law is not the law? Or was he maybe at the end of his
+shift, and driving home, when that happened? I don't know. Is that mercy? And
+then I thought, well, it would only be mercy because he has given himself
+authourity of others in the first place, and it's in that elevated position
+that he does what he does. For instance, is it mercy if I see a rolling stop
+and "let the guy off?" No of course not, I just don't give a shit. I'm sure I
+could probably take note of the guys license or something, but without proof or
+anything that would be a rather silly police call. "Hey, I was driving by Royal
+Lane, and I noticed at the intesection of that street and Kinwest, going
+southbound along Royal, a car with the license plate of 123 ABCD made a rolling
+stop, and I wanted to report this incident to the police, because of my sense
+of justice." It's absurd. Now imagine this, suppose it were an actual crime,
+something like, "So I was at XYZ location, and I saw someone standing on the
+roof of a car with license plate FGH 4567 making grafiti on the stop sign,
+covering completely and writing "GO" over the letters." Now, there is no proof
+of that crime either. There is proof of the crime, but it's simply my word that
+that person did it. In fact, I think the fact that I called in makes me a
+suspect in the crime. And that crime, do I give a shit? I give more of a shit,
+but if I saw something like that, I would be more inclined to say to myself,
+"Wow, okay, be careful at that sign now, because I know it should be a stop
+sign, but other people might not, and until it gets fixed, it will be slightly
+more dangerous to go by that intersection, as people might not know to stop,
+and run right through it." So instead my reaction is not "Condemn that man" but
+instead, "Okay, I should be more careful now." I suppose it would be my duty as
+a tax paying citizen to at least report that to the police, but I don't want to
+call the police, and honestly, instead of calling the police, I would want to
+call the "National assembly of road signs" or whoever is responsible for the
+signs and lights of the roads to let them know that a sign has been grafitti'd.
+And then, I would even have an inclination to want to volunteer to help get the
+sign replaced, but that is something like, I would be more of a hindrance to
+try and volunteer for a thing like that than I would be a help, so I don't know
+if that makes any sense at all.
+
+So yeah. I don't know, I just find it amusing that I thought "That officer
+showed me mercy just there." but instead of being grateful to him, instead I
+just think, "maybe there are good police officers in this world," which I know
+to be true, but still, it's hard to recognize that sort of thing, especially
+since I am bitter at my experience in jail still. I am grateful for it, but I
+suppose you could say I am gratefully bitter about it. I am grateful for the
+cross I bear, would be something Jesus might say, although this isn't really a
+cross, as I am not to be hung on it. Essentially, what this is, the justice
+system gave me a cross to bear, and I said, "No, wait a minute, it's not my
+time to bear this cross, can I haul my cross to the First Offender program and
+return it?" and for the price of a lawyer and 180 days of sobriety and
+probation, I can return the cross that I bear.
+
+Indeed, that is an interesting question. Does it mean anything to willfully
+bear your cross if you know you are not going to be hung on it? The question
+becomes, what would Jesus do in that situation? Jesus surely would not have
+turned the marijuana into orregano. That would be the comedians answer to that
+question. Maybe this story is not akin to the crucifixion more than it is
+similar to the forty days in the desert, but instead of forty days, for me it's
+more like a year, and instead of the desert, for me it's just sobriety and
+community service. That is a better picture.
+
+I want to read the house of the dead, for sure, that is a book that I very much
+want to read. In fact, I do want to get to a point where I feel satisfied with
+my lit analyzer. That was what I dreamt about mostly last night. Last night,
+after I came back from the store and ate some food, I spent most of the rest of
+the day downloading and parsing a bunch of novels from Gutenberg into the
+appropiate short story/novel/chapter layouts. I spent about three hours doing
+that, much to my amazement, and I am very glad I did. Now, what I want to do is
+get my "reading and note taking" workflow down to a science, and I mostly
+dreamt about organizing that, and having my lit analyzer actually do that. All
+I need it to do is take my notes, and create a reference and a tags file, and
+once I do that I will feel so much better about my notes. It's just, I haven't
+gotten there yet, and I will feel uncomfortable about reading until I do. You
+see, I have parsed out Mommsen and Gibbon, both are now in a readable chapter
+sort of format, but until I get note-taking down, I don't want to invest myself
+into those people, because those are the sorts of works I only want to read
+once, and I don't want to "read" and then "read again with the intention of
+taking notes" or at least, if I do read it that way, I want to do it in one
+sitting. Like, at night I read a chapter of one of them, and then during the
+next day, I make all of the notes I could want for those people. I want to go
+from start to finish only once. Because at this point, I have read all of the
+Karamazov Brothers, and I will gladly go through and read it again, this time
+taking detailed notes, but I need to have my note taking scheme written in
+order to do that, so I'm at a bit of a loss here. All of that to say, I plan to
+spend most of this afternoon working on my lit analyzer, and getting to the
+point where I can parse my notes into an object, and have that object write a
+reference and tags file out. And that's what I dreamed about, I dreamed about
+having that whole thing organized out.
+
+So enough about that. I have had an idea about my hermit story, that I think
+will make it work. I have run into this problem with the story, where I at
+first thought I liked the idea of having a murder be the central conflict of
+the story, but the more I discovered aspects of that, the more it didn't work,
+so instead I started thinking to myself, "why does there have to be a
+conflict, maybe the people just exist, and the whole thing is there
+conversations about the thing," but then I don't know how to end it. So I have
+had this idea that, this is how it works. In the first writing of the Hermit,
+he tells about his experience, and in the second writing, he commands the
+reader to kill someone, and when they don't do it, it turns out that that
+someone turns out to be a suicide bomber, and he blows up a community center,
+or something, and that creates the central conflict.
+
+But that whole thing seems somewhat silly, but I like it anyway. I have just
+been thinking about my other character, the one that I called Lyse, but whose
+name is not Lyse. I will discover his name later, but this is the character who
+is the "voice of the most obvious".
+
+So Lyse, he had a rough upbringing. His parents were abusive, and I could
+discover something about his parents, maybe they were drug addicts, they were
+addicted to some substance, and they were always poor, he was always moving
+from school to school, never fitting in. So that is his background. He got into
+marijuana when he was thirteen, and harder drugs later in life, he would
+shoplift and steal from the cops. At this point, I am very much out of my
+element, as I don't have any of these sorts of experinces, but I have heard
+about them in TED talks and things like that, so I can pretend like I can write
+about it.
+
+When he was a teenager, maybe sixteen, let's say, he had a moment, I think one
+of his best friends dies in some sort of altercation. I don't think he was
+responsible in any way, his friend was doing something, but maybe he couldn't
+participate for some reason, and he is killed in gang related violence.
+Something like that. And this is an eye-opener for him. He goes to the funeral,
+and he is hurting, and that's when he meet's someone that invites him to a
+church, something like that, and not knowing where to turn, he goes to the
+church. And at his first visit to the church, the sermon speaks to him.
+Something like that, and he feels the presence of god enter into him. I'm not
+so sure about that. I don't like that. I think instead, he goes, and he finds
+that whole thing sort of ridiculous. I think that is a sort of one off
+experince. But then later, pretty soon after his friend was killed, he gets
+busted by the cops. Maybe someone in their friend group, someone that blames
+him for that friends death, narks on him, and busts him, and he goes to juvi,
+and spends some time there. And in order to lessen his sentence, he is required
+to do some community service hours. And in seeking an avenue for community
+service, he turns back to the church that he went to that one day. And as he
+joins, he might say something like, "The notion of an invisible man that talks
+to someone is absurd, but these people have community service work that doesn't
+suck, and it looks good to the prosecutor that I am attending church now, so I
+will go this route." I like that. And as he does more community service work,
+he gets clean, but like any human, he slips occasionally back into drugs, but
+the system is forgiving of him, and eventually he gets his life together.
+
+Now, I want this man to be pretty intelligent. He might say something like,
+"The whole notion of an invisible man in the sky that puffed into existence the
+world in six days is rather absurd, but my time with the community of the
+church really saved me from a dark and dangerous path, so it can't be all bad."
+And in his time there he comes to have a sort of appreciation for the people
+there.
+
+And that's where he meets Susan. Susan and he don't date, in fact there is no
+romantic interest between this man, whose name is not Lyse, but whose name will
+come to me later, and Susan, but they become friends. And Susan is very
+concerned for the salvation of this man. Susan and he have discussion as they
+do community service together, and she is always concerned about his belief in
+God. She might say something like "I'm worried about you," (and his mother is
+white and his father is black, so I know this guy is half black, and mostly
+associates with the black race more than the white) "I see that you're a good
+person, but I don't want you to go to hell just because you don't believe" and
+he would reply something like, "Well, if there is a god, maybe he will see that
+I am a good person and pardon me for not accepting the absurd notion that
+someone 2000 years ago literally came back from the dead. That's a pretty
+absurd claim. I think it's more important to remember to love thy neighbor than
+to have faith in a physical impossiblity that happened so many years ago. I
+would hope that an all knowing and benevolent god would recognize that." and
+they would get back to their volunteer work.
+
+Now Susan, she is the typical "over-Christian" bitch that is so hateable. She
+was born into a well to do family, was fed her baby food with a silver spoon in
+her mouth (which is an anachroism, and something I don't want to say again),
+but she means well by her actions, and most of all clings to "her church
+friends and church community more than anything". She is the kind that would
+post her latest sunday morning outfit on instagram, with a bible verse talking
+about how you have to "give got your sunday best" (I should find a verse where
+it says something like that on the sabbath), and it would get hundreds of
+likes, because she was that sort of girl. She is very self-righteous. In fact,
+I very much like the idea of finding a girl like this on instagram to model her
+after. I should follow people on instagram just to get character ideas.
+
+That's actually a really cool idea. I like that a lot. There are so many
+"Instagram characters" and they can give me ideas for actual good characters.
+It would even give me ideas for names as well. Oh, I like that idea a lot. I
+might do that after I finish with this.
+
+So yeah, that's a pretty good idea for Susan and my half-black friend. I want
+my half-black friend to be the first to accept the notions of the hermit, after
+being presents irrefutable proof. Kimberly is my reasonable skeptic, but this
+half-black friend is the first to accept the notions as "un-denialy true" and
+Susan is the one dismiss them on the notion of "that's unbiblical and it can't
+be true if it doesn't fit with the stories in the bible" and Damien is the one
+to say, "There must be something we are missing, these notions can't be true."
+
+So yeah. I need to discover more about Kimberly and Susan, although I have a
+pretty good idea about what Susan is like, and Kimberly, well, she is the most
+like me I think, except that she is a female, but we'll get there.
+
+I like where this is going. The thing is, I still don't know where to end it,
+and I still don't know the best way to tie it in with Flat-Earth. Also, I have
+an issue of tone. I want this to be partly satire, which is why I like the
+command by god to murder someone before he does something horrible, and I like
+the fact that he will bomb a school to be the "proof that this whole thing is
+true". But I don't know how to end this story. I want a very comical tragedy.
+Maybe, my half-black character dies in the bombing. I like that. I still don't
+know his name, but I know about his death. I like that quite a bit I think.
+That can be the conflict, and at his funeral, Kimberly could place the writings
+of the hermit. Susan needs to die as well. And Damien. How do they die? Susan
+could die of sudden illness. Damien dies trying to experiment about the flat
+earth, he goes to a remote location, somewhere far north, and as he discovers
+the flat earth, he is killed by people from NASA. I like that. Like, he goes to
+antarctica, to see this, and as he looks into it more and more and starts to
+discover that maybe there is something to it, so eventually he gets on a
+flight, and takes a boat to Antarctaca from the southern tip of South America,
+and he witnesses the great ice wall, and maybe there is even a doorway,
+something that was mentioned in the works of the hermit, but some agency, the
+agency that "controls NASA" kills him there, and covers their tracks
+completely. And they poison Susan. Actually, I like Susan just coming down with
+fever and dying. As if her lack of faith in flat earth causes her illness. I
+don't like that completely, but it's pretty good. I'll have to work on that.
+And I like Damien dying in Antarctica. And I like the whole thing ending with
+Kimberly taking the works of the hermit and burying them with my half-black
+character at his funeral, with the implication that those were the instructions
+in the second writing of the hermit.
+
+This is coming together. Satirical tragedy. I like it. I will need to discover
+at some point, first the writings of the hermit, then some more interactions of
+the characters.
+
+I like the idea of Kimberly actually visiting the god of the Flat Earth, and
+getting the message that she is not the one to spread the message, and that
+clearly the people are not in a state to know the truth. She will recieve
+instructions to place the works of the hermit in some place, I'm not sure
+where, but with instructions that "our time is limited, I will give you sign,
+and when you see it you will know. You will do great things, Kimberly, just
+know that your reasonableness, and your patience will be rewarded in the
+afterlife." and at that she wakes up in the hospital, she recovers quickly, and
+when she gets out, she has a shoebox or something where she has the works of
+the hermit, and her neice tells her about a time capsule that they are making
+as a school project, and aunt Kimberly says she wants to add her shoebox to the
+mix. She writes a letter, adds it to the shoe box, buries the time capsule with
+her neice, and then dies in a car accident literally as they are leaving from
+burying the time capsule.
+
+I like how this is developing a lot. Like, a lot a lot. Everyone dying in their
+own way is cool. I love it. Holy shit, I think I've actually discovered it.
+
+I just need to discover the relationships. I think I want a Brett character to
+be a flat earth fanatic, and he dies before the entire thing, and all of these
+four characters are connected through this Brett, and it's Susan and my
+half-black character who first find the writings of the hermit. I need someone
+other than my half-black character to die pretty early on. Actually, Brett
+could be the one to discover the writings of the Hermit. Brett is actually
+something of a hermit himself, and he discovers the writings, and he is on a
+hermitage retreat, and finds the writings, and he is so excited that he writes
+a letter to his friend Damien. But he actually dies of natural causes at the
+retreat, maybe a bear or something comes in and infiltrates the retreat, and
+it's not until they don't hear from him that Damien realizes that Brett has
+been killed. So Damien, who knew Brett from school but hadn't kept in touch,
+gets the letter from the hermatage people, so he and Kimberly go and visit the
+scene, and it's there that Brett's half-black friend and Susan, it's there that
+they all meet for the first time.

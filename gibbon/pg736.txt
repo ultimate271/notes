@@ -37,7 +37,7 @@ Edward Gibbon, Esq.
 
 With notes by the Rev. H. H. Milman
 
-Vol. 6
+# Vol. 6
 
 1782 (Written), 1845 (Revised)
 
@@ -60,7 +60,7 @@ Vol. 6
 
 
 
-Chapter LIX: The Crusades.--Part I.
+## Chapter LIX: The Crusades.--Part I.
 
      Preservation Of The Greek Empire.--Numbers, Passage, And
      Event, Of The Second And Third Crusades.--St. Bernard.--
@@ -747,7 +747,7 @@ kings is after their death, and from the mouth of their enemies.]
 
 
 
-Chapter LIX: The Crusades.--Part II.
+## Chapter LIX: The Crusades.--Part II.
 
 By the arms of the Turks and Franks, the Fatimites had been deprived
 of Syria. In Egypt the decay of their character and influence was still
@@ -1343,7 +1343,7 @@ Scrope, Bigot, Talbot, &c.]
 
 
 
-Chapter LIX: The Crusades.--Part III.
+## Chapter LIX: The Crusades.--Part III.
 
 Philip Augustus, and Richard the First, are the only kings of France and
 England who have fought under the same banners; but the holy service
@@ -2023,7 +2023,7 @@ Heeren's "Vermischte Schriften," may be read with great advantage.--M.]
 
 
 
-Chapter LX: The Fourth Crusade.--Part I.
+## Chapter LX: The Fourth Crusade.--Part I.
 
      Schism Of The Greeks And Latins.--State Of Constantinople.--
      Revolt Of The Bulgarians.--Isaac Angelus Dethroned By His
@@ -2732,7 +2732,7 @@ seen this work.--M.]
 
 
 
-Chapter LX: The Fourth Crusade.--Part II.
+## Chapter LX: The Fourth Crusade.--Part II.
 
 When the six ambassadors of the French pilgrims arrived at Venice, they
 were hospitably entertained in the palace of St. Mark, by the reigning
@@ -3355,7 +3355,7 @@ had died of the plague.]
 
 
 
-Chapter LX: The Fourth Crusade.--Part III.
+## Chapter LX: The Fourth Crusade.--Part III.
 
 But these generous deliverers were unwilling to release their hostage,
 till they had obtained from his father the payment, or at least the
@@ -4033,7 +4033,7 @@ of the doge for emperor.]
 
 
 
-Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.
+## Chapter LXI: Partition Of The Empire By The French And Venetians.--Part I.
 
      Partition Of The Empire By The French And Venetians,--Five
      Latin Emperors Of The Houses Of Flanders And Courtenay.--
@@ -4563,7 +4563,7 @@ always ascribes the capture of Constantinople.--M.]
 
 
 
-Chapter LXI: Partition Of The Empire By The French And Venetians.--Part II.
+## Chapter LXI: Partition Of The Empire By The French And Venetians.--Part II.
 
 Proud of his victory and his royal prize, the Bulgarian advanced to
 relieve Adrianople and achieve the destruction of the Latins. They
@@ -5057,7 +5057,7 @@ live retinue of slaves and horses.]
 
 
 
-Chapter LXI: Partition Of The Empire By The French And Venetians.--Part III.
+## Chapter LXI: Partition Of The Empire By The French And Venetians.--Part III.
 
 But in this abject distress, the emperor and empire were still
 possessed of an ideal treasure, which drew its fantastic value from the
@@ -5414,7 +5414,7 @@ the house of Loretto, which were both derived from Palestine.]
 
 
 
-Chapter LXI: Partition Of The Empire By The French And Venetians.--Part IV.
+## Chapter LXI: Partition Of The Empire By The French And Venetians.--Part IV.
 
 In the profession of Christianity, in the cultivation of a fertile land,
 the northern conquerors of the Roman empire insensibly mingled with the
@@ -5836,7 +5836,7 @@ Bouillon, and the ancient counts of Boulogne.]
 
 
 
-Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.
+## Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part I.
 
      The Greek Emperors Of Nice And Constantinople.--Elevation
      And Reign Of Michael Palæologus.--His False Union With The
@@ -6373,7 +6373,7 @@ His confession and penance restored their freedom.]
 
 
 
-Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part II.
+## Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part II.
 
 The danger and scandal of this excommunication subsisted above three
 years, till the popular clamor was assuaged by time and repentance; till
@@ -6858,7 +6858,7 @@ Civile of Giannone.]
 
 
 
-Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part III.
+## Chapter LXII: Greek Emperors Of Nice And Constantinople.--Part III.
 
 I shall not, I trust, be accused of superstition; but I must remark
 that, even in this world, the natural order of events will sometimes
@@ -7199,7 +7199,7 @@ Greece, with Athens as his capital.--M.]
 
 
 
-Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.
+## Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part I.
 
      Civil Wars, And Ruin Of The Greek Empire.--Reigns Of
      Andronicus, The Elder And Younger, And John Palæologus.--
@@ -7739,7 +7739,7 @@ persecutors of Nicephorus.--M.]
 
 
 
-Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part II.
+## Chapter LXIII: Civil Wars And The Ruin Of The Greek Empire.--Part II.
 
 In the strong city of Demotica, his peculiar domain, the emperor John
 Cantacuzenus was invested with the purple buskins: his right leg was
@@ -8379,7 +8379,7 @@ despair of the Genoese in the following year, (p. 323--332.)]
 
 
 
-Chapter LXIV: Moguls, Ottoman Turks.--Part I.
+## Chapter LXIV: Moguls, Ottoman Turks.--Part I.
 
      Conquests Of Zingis Khan And The Moguls From China To
      Poland.--Escape Of Constantinople And The Greeks.--Origin Of
@@ -8678,7 +8678,7 @@ of the Mongols.--M.]
 
 
 
-Chapter LXIV: Moguls, Ottoman Turks.--Part II.
+## Chapter LXIV: Moguls, Ottoman Turks.--Part II.
 
 The arms of Zingis and his lieutenants successively reduced the hordes
 of the desert, who pitched their tents between the wall of China and the
@@ -9246,7 +9246,7 @@ gradually dispel.]
 
 
 
-Chapter LXIV: Moguls, Ottoman Turks.--Part III.
+## Chapter LXIV: Moguls, Ottoman Turks.--Part III.
 
 In this shipwreck of nations, some surprise may be excited by the escape
 of the Roman empire, whose relics, at the time of the Mogul invasion,
@@ -9706,7 +9706,7 @@ Hammer. M.]
 
 
 
-Chapter LXIV: Moguls, Ottoman Turks.--Part IV.
+## Chapter LXIV: Moguls, Ottoman Turks.--Part IV.
 
 But the Greeks had not time to rejoice in the death of their enemies;
 and the Turkish cimeter was wielded with the same spirit by Amurath the
@@ -10159,7 +10159,7 @@ Maréchal de France, partie ire c. 30, 35.]
 
 
 
-Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.
+## Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part I.
 
      Elevation Of Timour Or Tamerlane To The Throne Of
      Samarcand.--His Conquests In Persia, Georgia, Tartary
@@ -10804,7 +10804,7 @@ Arabians, or assumed by the Ottomans themselves.]
 
 
 
-Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part II.
+## Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part II.
 
 The military republic of the Mamalukes still reigned in Egypt and Syria:
 but the dynasty of the Turks was overthrown by that of the Circassians;
@@ -11353,7 +11353,7 @@ Guignes, Hist. des Huns, (tom. i. p. 71, 72.)]
 
 
 
-Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part III.
+## Chapter LXV: Elevation Of Timour Or Tamerlane, And His Death.--Part III.
 
 On the throne of Samarcand, [63] he displayed, in a short repose, his
 magnificence and power; listened to the complaints of the people;
@@ -12031,7 +12031,7 @@ before Belgrade, (A.D. 1436,) is mentioned by Chalcondyles (l. v. p.
 
 
 
-Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.
+## Chapter LXVI: Union Of The Greek And Latin Churches.--Part I.
 
      Applications Of The Eastern Emperors To The Popes.--Visits
      To The West, Of John The First, Manuel, And John The Second,
@@ -12483,7 +12483,7 @@ probably a work of sculpture.]
 
 
 
-Chapter LXVI: Union Of The Greek And Latin Churches.--Part II.
+## Chapter LXVI: Union Of The Greek And Latin Churches.--Part II.
 
 During the period of the crusades, the Greeks beheld with astonishment
 and terror the perpetual stream of emigration that flowed, and continued
@@ -13037,7 +13037,7 @@ the reader's eye.]
 
 
 
-Chapter LXVI: Union Of The Greek And Latin Churches.--Part III.
+## Chapter LXVI: Union Of The Greek And Latin Churches.--Part III.
 
 After a tedious and troublesome navigation of seventy-seven days,
 this religious squadron cast anchor before Venice; and their reception
@@ -13574,7 +13574,7 @@ university.]
 
 
 
-Chapter LXVI: Union Of The Greek And Latin Churches.--Part IV.
+## Chapter LXVI: Union Of The Greek And Latin Churches.--Part IV.
 
 The most learned Italians of the fifteenth century have confessed and
 applauded the restoration of Greek literature, after a long oblivion of
@@ -14186,7 +14186,7 @@ and the Orlando Innamorato of Boyardo, (Tiraboschi, tom. vi. P. ii. p.
 
 
 
-Chapter LXVII: Schism Of The Greeks And Latins.--Part I.
+## Chapter LXVII: Schism Of The Greeks And Latins.--Part I.
 
      Schism Of The Greeks And Latins.--Reign And Character Of
      Amurath The Second.--Crusade Of Ladislaus, King Of Hungary.--
@@ -14751,7 +14751,7 @@ promontory of Mount Hæmus, which advances into the sea.]
 
 
 
-Chapter LXVII: Schism Of The Greeks And Latins.--Part II.
+## Chapter LXVII: Schism Of The Greeks And Latins.--Part II.
 
 It was on this fatal spot, that, instead of finding a confederate fleet
 to second their operations, they were alarmed by the approach of Amurath
@@ -15307,7 +15307,7 @@ of ambassador, (Syropulus, p. 37, 38, 45.)]
 
 
 
-Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern
+## Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern
 Empire.--Part I.
 
      Reign And Character Of Mahomet The Second.--Siege, Assault,
@@ -15766,7 +15766,7 @@ Brosses, Méchanisme des Langues, tom. i. p. 231--247.)]
 
 
 
-Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part II.
+## Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part II.
 
 Among the implements of destruction, he studied with peculiar care
 the recent and tremendous discovery of the Latins; and his artillery
@@ -16225,7 +16225,7 @@ not used.--M.]
 
 
 
-Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part III.
+## Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part III.
 
 The generosity of the Christian princes was cold and tardy; but in the
 first apprehension of a siege, Constantine had negotiated, in the
@@ -16783,7 +16783,7 @@ their misery.]
 
 
 
-Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part IV.
+## Chapter LXVIII: Reign Of Mahomet The Second, Extinction Of Eastern Empire.--Part IV.
 
 While they expected the descent of the tardy angel, the doors were
 broken with axes; and as the Turks encountered no resistance, their
@@ -17418,7 +17418,7 @@ incorrect versions have been retained.--M.]
 
 
 
-Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.
+## Chapter LXIX: State Of Rome From The Twelfth Century.--Part I.
 
      State Of Rome From The Twelfth Century.--Temporal Dominion
      Of The Popes.--Seditions Of The City.--Political Heresy Of
@@ -17937,7 +17937,7 @@ valuable acquisition for the church.]
 
 
 
-Chapter LXIX: State Of Rome From The Twelfth Century.--Part II.
+## Chapter LXIX: State Of Rome From The Twelfth Century.--Part II.
 
 Yet the courage of Arnold was not devoid of discretion: he was
 protected, and had perhaps been invited, by the nobles and people; and
@@ -18304,7 +18304,7 @@ title of _Potestas_ was transferred from the office to the magistrate:--
 
 
 
-Chapter LXIX: State Of Rome From The Twelfth Century.--Part III.
+## Chapter LXIX: State Of Rome From The Twelfth Century.--Part III.
 
 It was thus, about the middle of the thirteenth century, that the Romans
 called from Bologna the senator Brancaleone, [48] whose fame and merit
@@ -18884,7 +18884,7 @@ the popes.]
 
 
 
-Chapter LXIX: State Of Rome From The Twelfth Century.--Part IV.
+## Chapter LXIX: State Of Rome From The Twelfth Century.--Part IV.
 
 After his decease, the tedious and equal suspense of the conclave was
 fixed by the dexterity of the French faction. A specious offer was made
@@ -19366,7 +19366,7 @@ the younger:
 
 
 
-Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.
+## Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part I.
 
      Character And Coronation Of Petrarch.--Restoration Of The
      Freedom And Government Of Rome By The Tribune Rienzi.--His
@@ -19869,7 +19869,7 @@ with the decay of Rome and her territory.]
 
 
 
-Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part II.
+## Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part II.
 
 Never perhaps has the energy and effect of a single mind been more
 remarkably felt than in the sudden, though transient, reformation
@@ -20376,7 +20376,7 @@ imprisonment, and the efforts of Petrarch, (tom. ii. p. 149--151.)]
 
 
 
-Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part III.
+## Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part III.
 
 Without drawing his sword, count Pepin restored the aristocracy and the
 church; three senators were chosen, and the legate, assuming the first
@@ -20996,7 +20996,7 @@ Collection.]
 
 
 
-Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part IV.
+## Chapter LXX: Final Settlement Of The Ecclesiastical State.--Part IV.
 
 The royal prerogative of coining money, which had been exercised near
 three hundred years by the senate, was _first_ resumed by Martin the
@@ -21510,7 +21510,7 @@ Soli Muratori Venezia, 1756 m 4to.)]
 
 
 
-Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth
+## Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth
 Century.--Part I.
 
      Prospect Of The Ruins Of Rome In The Fifteenth Century.--
@@ -22241,7 +22241,7 @@ city Vol. i. p. 247.--M.]
 
 
 
-Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part II
+## Chapter LXXI: Prospect Of The Ruins Of Rome In The Fifteenth Century.--Part II
 
 These general observations may be separately applied to the amphitheatre
 of Titus, which has obtained the name of the Coliseum, [49] either from
@@ -22675,7 +22675,7 @@ finally delivere to the curiosity and candor of the public.
 Lausanne, June 27 1787
 
 
-
+# Fine
 
 
 End of the Project Gutenberg EBook of The History of The Decline and Fall of

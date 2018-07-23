@@ -38,12 +38,12 @@ Edward Gibbon, Esq.
 
 With notes by the Rev. H. H. Milman
 
-Vol. 5
+# Vol. 5
 
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part I.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part I.
 
      Introduction, Worship, And Persecution Of Images.--Revolt Of
      Italy And Rome.--Temporal Dominion Of The Popes.--Conquest
@@ -676,7 +676,7 @@ epistles of the popes are dispersed in the volumes of Councils.]
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part II.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part II.
 
 Two original epistles, from Gregory the Second to the emperor Leo, are
 still extant; [33] and if they cannot be praised as the most perfect
@@ -1157,7 +1157,7 @@ i.]
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part III.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part III.
 
 The mutual obligations of the popes and the Carlovingian family form
 the important link of ancient and modern, of civil and ecclesiastical,
@@ -1691,7 +1691,7 @@ to elude this unlucky sentence.]
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part IV.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part IV.
 
 It was after the Nycene synod, and under the reign of the pious Irene,
 that the popes consummated the separation of Rome and Italy, by the
@@ -2222,7 +2222,7 @@ the term "expended" were substituted for "wasted."--M.]
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part V.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part V.
 
 If we retrace the outlines of this geographical picture, it will be seen
 that the empire of the Franks extended, between east and west, from the
@@ -2780,7 +2780,7 @@ Barbari, e bestials Tedeschi. Annal. tom. viii. p. 368.]
 
 
 
-Chapter XLIX: Conquest Of Italy By The Franks.--Part VI.
+## Chapter XLIX: Conquest Of Italy By The Franks.--Part VI.
 
 There is nothing perhaps more adverse to nature and reason than to hold
 in obedience remote countries and foreign nations, in opposition to
@@ -3152,7 +3152,7 @@ the city.]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part I.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part I.
 
      Description Of Arabia And Its Inhabitants.--Birth,
      Character, And Doctrine Of Mahomet.--He Preaches At Mecca.--
@@ -3654,7 +3654,7 @@ or Sharkun, Eastern, vol. xi. p. 55.)--M.]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part II.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part II.
 
 The slaves of domestic tyranny may vainly exult in their national
 independence: but the Arab is personally free; and he enjoys, in some
@@ -4115,7 +4115,7 @@ Mahomet was miraculously born without a foreskin, (Pocock, Specimen, p.
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part III.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part III.
 
 Arabia was free: the adjacent kingdoms were shaken by the storms of
 conquest and tyranny, and the persecuted sects fled to the happy land
@@ -4699,7 +4699,7 @@ part i. p. 15-28.)]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part IV.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part IV.
 
 The communication of ideas requires a similitude of thought and
 language: the discourse of a philosopher would vibrate without effect
@@ -5277,7 +5277,7 @@ of the primitive world, (Michaelis, ad Lowth de Poesi Hebraeor. p.
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part V.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part V.
 
 The people of Mecca were hardened in their unbelief by superstition and
 envy. The elders of the city, the uncles of the prophet, affected to
@@ -5724,7 +5724,7 @@ and Abulpharagius, (Dynast. p. 102.)]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part VI.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part VI.
 
 The choice of Jerusalem for the first kebla of prayer discovers the
 early propensity of Mahomet in favor of the Jews; and happy would it
@@ -6336,7 +6336,7 @@ prompted and approved, (Vie de Mahomet, tom. ii. p. 69, 97, 208.)]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part VII.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part VII.
 
 The good sense of Mahomet [158] despised the pomp of royalty: the
 apostle of God submitted to the menial offices of the family: he kindled
@@ -6728,7 +6728,7 @@ Chardin, tom. iv. p. 46.)]
 
 
 
-Chapter L: Description Of Arabia And Its Inhabitants.--Part VIII.
+## Chapter L: Description Of Arabia And Its Inhabitants.--Part VIII.
 
 A life of prayer and contemplation had not chilled the martial activity
 of Ali; but in a mature age, after a long experience of mankind, he
@@ -7234,7 +7234,7 @@ favor, or even justice.]
 
 
 
-Chapter LI: Conquests By The Arabs.--Part I.
+## Chapter LI: Conquests By The Arabs.--Part I.
 
      The Conquest Of Persia, Syria, Egypt, Africa, And Spain, By
      The Arabs Or Saracens.--Empire Of The Caliphs, Or Successors
@@ -7697,7 +7697,7 @@ p. 545-584. D Otter, tom. ii. p. 45-78. De Niebuhr, tom. ii. p.
 
 
 
-Chapter LI: Conquests By The Arabs.--Part II.
+## Chapter LI: Conquests By The Arabs.--Part II.
 
 After the defeat of Cadesia, a country intersected by rivers and canals
 might have opposed an insuperable barrier to the victorious cavalry; and
@@ -8141,7 +8141,7 @@ l'Eglise, tom. i. p. 721-758, especially p. 737, 738.)]
 
 
 
-Chapter LI: Conquests By The Arabs.--Part III.
+## Chapter LI: Conquests By The Arabs.--Part III.
 
 
 One of the fifteen provinces of Syria, the cultivated lands to the
@@ -8552,7 +8552,7 @@ which signifies saying Alla Acbar, God is most mighty!]
 
 
 
-Chapter LI: Conquests By The Arabs.--Part IV.
+## Chapter LI: Conquests By The Arabs.--Part IV.
 
 Syria, [67] one of the countries that have been improved by the most
 early cultivation, is not unworthy of the preference. [68] The heat of
@@ -9068,7 +9068,7 @@ of their patrimony (see the original texts collected by Usher, Annal. p.
 
 
 
-Chapter LI: Conquests By The Arabs.--Part V.
+## Chapter LI: Conquests By The Arabs.--Part V.
 
 The sieges and battles of six campaigns had consumed many thousands
 of the Moslems. They died with the reputation and the cheerfulness of
@@ -9575,7 +9575,7 @@ intelligence.]
 
 
 
-Chapter LI: Conquests By The Arabs.--Part VI.
+## Chapter LI: Conquests By The Arabs.--Part VI.
 
 I should deceive the expectation of the reader, if I passed in silence
 the fate of the Alexandrian library, as it is described by the learned
@@ -10787,7 +10787,7 @@ distinctly though concisely noticed by d'Anville (Etats de l'Europe, p.
 
 
 
-Chapter LI: Conquests By The Arabs.--Part VII.
+## Chapter LI: Conquests By The Arabs.--Part VII.
 
 On the intelligence of this rapid success, the applause of Musa
 degenerated into envy; and he began, not to complain, but to fear, that
@@ -11495,7 +11495,7 @@ p. 74, &c.)]
 
 
 
-Chapter LII: More Conquests By The Arabs.--Part I.
+## Chapter LII: More Conquests By The Arabs.--Part I.
 
      The Two Sieges Of Constantinople By The Arabs.--Their
      Invasion Of France, And Defeat By Charles Martel.--Civil War
@@ -12035,7 +12035,7 @@ discovery, (Biog. Brit. vol. i. p. 430, new edition.)]
 
 
 
-Chapter LII: More Conquests By The Arabs.--Part II.
+## Chapter LII: More Conquests By The Arabs.--Part II.
 
 Constantinople and the Greek fire might exclude the Arabs from the
 eastern entrance of Europe; but in the West, on the side of the
@@ -12610,7 +12610,7 @@ Alhambra of Grenada, (Swinburne's Travels, p. 171-188.)]
 
 
 
-Chapter LII: More Conquests By The Arabs.--Part III.
+## Chapter LII: More Conquests By The Arabs.--Part III.
 
 In a private condition, our desires are perpetually repressed by poverty
 and subordination; but the lives and labors of millions are devoted to
@@ -13114,7 +13114,7 @@ Abulpharagius, (Dynast. p. 147, 151,) and Abulfeda, (p. 156, 166-168.)]
 
 
 
-Chapter LII: More Conquests By The Arabs.--Part IV.
+## Chapter LII: More Conquests By The Arabs.--Part IV.
 
 Under the reign of Almamon at Bagdad, of Michael the Stammerer at
 Constantinople, the islands of Crete [79] and Sicily were subdued by the
@@ -13687,7 +13687,7 @@ Geschichte der Assassinen, p. 44, &c.--M.]
 
 
 
-Chapter LII: More Conquests By The Arabs.--Part V.
+## Chapter LII: More Conquests By The Arabs.--Part V.
 
 The third and most obvious cause was the weight and magnitude of the
 empire itself. The caliph Almamon might proudly assert, that it
@@ -14114,7 +14114,7 @@ Kemaleddin's account of the treaty for the surrender of Aleppo.--M.]
 
 
 
-Chapter LIII: Fate Of The Eastern Empire.--Part I.
+## Chapter LIII: Fate Of The Eastern Empire.--Part I.
 
      Fate Of The Eastern Empire In The Tenth Century.--Extent And
      Division.--Wealth And Revenue.--Palace Of Constantinople.--
@@ -14629,7 +14629,7 @@ Spitalfields colony.]
 
 
 
-Chapter LIII: Fate Of The Eastern Empire.--Part II.
+## Chapter LIII: Fate Of The Eastern Empire.--Part II.
 
 I must repeat the complaint that the vague and scanty memorials of the
 times will not afford any just estimate of the taxes, the revenue, and
@@ -14977,7 +14977,7 @@ books of Gretser, a learned Jesuit.]
 
 
 
-Chapter LIII: Fate Of The Eastern Empire.--Part III.
+## Chapter LIII: Fate Of The Eastern Empire.--Part III.
 
 The most lofty titles, and the most humble postures, which devotion has
 applied to the Supreme Being, have been prostituted by flattery and fear
@@ -15613,7 +15613,7 @@ passage in which it is conveyed by this lively apothegm.]
 
 
 
-Chapter LIII: Fate Of The Eastern Empire.--Part IV.
+## Chapter LIII: Fate Of The Eastern Empire.--Part IV.
 
 A name of some German tribes between the Rhine and the Weser had spread
 its victorious influence over the greatest part of Gaul, Germany, and
@@ -16130,7 +16130,7 @@ Essays, vol. i. p. 125]
 
 
 
-Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.
+## Chapter LIV: Origin And Doctrine Of The Paulicians.--Part I.
 
      Origin And Doctrine Of The Paulicians.--Their Persecution By
      The Greek Emperors.--Revolt In Armenia &c.--Transplantation
@@ -16555,7 +16555,7 @@ Cedrenus!]
 
 
 
-Chapter LIV: Origin And Doctrine Of The Paulicians.--Part II.
+## Chapter LIV: Origin And Doctrine Of The Paulicians.--Part II.
 
 About the middle of the eight century, Constantine, surnamed Copronymus
 by the worshippers of images, had made an expedition into Armenia, and
@@ -16935,7 +16935,7 @@ has elapsed since Gibbon wrote.--M.]
 
 
 
-Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.
+## Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part I.
 
      The Bulgarians.--Origin, Migrations, And Settlement Of The
      Hungarians.--Their Inroads In The East And West.--The
@@ -17377,7 +17377,7 @@ of Tacitus, to varnish with philosophy their brutal ignorance.]
 
 
 
-Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part II.
+## Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part II.
 
 It is the observation of the Imperial author of the Tactics, [29] that
 all the Scythian hordes resembled each other in their pastoral and
@@ -17947,7 +17947,7 @@ perfectly suitable; and the name was still used in the xith century,
 
 
 
-Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part III.
+## Chapter LV: The Bulgarians, The Hungarians And The Russians.--Part III.
 
 But the same communication which had been opened for the benefit, was
 soon abused for the injury, of mankind. In a period of one hundred and
@@ -18428,7 +18428,7 @@ crown, (Katona, Hist. Critica, tom. i. p. 20-25, tom. ii. p. 304, 346,
 
 
 
-Chapter LVI: The Saracens, The Franks And The Normans.--Part I.
+## Chapter LVI: The Saracens, The Franks And The Normans.--Part I.
 
      The Saracens, Franks, And Greeks, In Italy.--First
      Adventures And Settlement Of The Normans.--Character And
@@ -19000,7 +19000,7 @@ Normans. England was assuredly a gainer by the conquest.]
 
 
 
-Chapter LVI: The Saracens, The Franks And The Normans.--Part II.
+## Chapter LVI: The Saracens, The Franks And The Normans.--Part II.
 
 The Normans of Apulia were seated on the verge of the two empires; and,
 according to the policy of the hour, they accepted the investiture of
@@ -19489,7 +19489,7 @@ eight thousand Hist. des Rep. tom. i. p. 304.--G.]
 
 
 
-Chapter LVI: The Saracens, The Franks And The Normans.--Part III.
+## Chapter LVI: The Saracens, The Franks And The Normans.--Part III.
 
 Roger, the twelfth and last of the sons of Tancred, had been long
 detained in Normandy by his own and his father' age. He accepted the
@@ -20024,7 +20024,7 @@ with a silver chain.]
 
 
 
-Chapter LVI: The Saracens, The Franks And The Normans.--Part IV.
+## Chapter LVI: The Saracens, The Franks And The Normans.--Part IV.
 
 Of the Latin princes, the allies of Alexius and enemies of Robert, the
 most prompt and powerful was Henry the Third or Fourth, king of Germany
@@ -20550,7 +20550,7 @@ de Beauvais, are again transmuted into gold.]
 
 
 
-Chapter LVI: The Saracens, The Franks And The Normans.--Part V.
+## Chapter LVI: The Saracens, The Franks And The Normans.--Part V.
 
 A prince of such a temper could not be satisfied with having repelled
 the insolence of a Barbarian. It was the right and duty, it might be
@@ -20966,7 +20966,7 @@ manque."]
 
 
 
-Chapter LVII: The Turks.--Part I.
+## Chapter LVII: The Turks.--Part I.
 
      The Turks Of The House Of Seljuk.--Their Revolt Against
      Mahmud Conqueror Of Hindostan.--Togrul Subdues Persia, And
@@ -21493,7 +21493,7 @@ years old. V. Hammer.--M.]
 
 
 
-Chapter LVII: The Turks.--Part II.
+## Chapter LVII: The Turks.--Part II.
 
 Since the fall of the caliphs, the discord and degeneracy of the
 Saracens respected the Asiatic provinces of Rome; which, by the
@@ -21980,7 +21980,7 @@ vizier, (Alexias, l. vi. p. 177, 178.)]
 
 
 
-Chapter LVII: The Turks.--Part III.
+## Chapter LVII: The Turks.--Part III.
 
 The greatness and unity of the Turkish empire expired in the person of
 Malek Shah. His vacant throne was disputed by his brother and his
@@ -22526,7 +22526,7 @@ does not complain of this voluntary tax.]
 
 
 
-Chapter LVIII: The First Crusade.--Part I.
+## Chapter LVIII: The First Crusade.--Part I.
 
 Origin And Numbers Of The First Crusade.--Characters Of The Latin
 Princes.--Their March To Constantinople.--Policy Of The Greek
@@ -23101,7 +23101,7 @@ orthodox theology with the merits of martyrdom.]
 
 
 
-Chapter LVIII: The First Crusade.--Part II.
+## Chapter LVIII: The First Crusade.--Part II.
 
 Of the chiefs and soldiers who marched to the holy sepulchre, I will
 dare to affirm, that all were prompted by the spirit of enthusiasm; the
@@ -23578,7 +23578,7 @@ Antichita Estense, tom. i. p. 350.)]
 
 
 
-Chapter LVIII: The First Crusade.--Part III.
+## Chapter LVIII: The First Crusade.--Part III.
 
 Between the age of Charlemagne and that of the crusades, a revolution
 had taken place among the Spaniards, the Normans, and the French,
@@ -24141,7 +24141,7 @@ and Raymond des Agiles, in the siege and famine of Antioch.]
 
 
 
-Chapter LVIII: The First Crusade.--Part IV.
+## Chapter LVIII: The First Crusade.--Part IV.
 
 I have expiated with pleasure on the first steps of the crusaders, as
 they paint the manners and character of Europe: but I shall abridge the
@@ -24784,7 +24784,7 @@ ait dans ce genre, (D'Anville, Memoire sur Jerusalem, p. 27.)]
 
 
 
-Chapter LVIII: The First Crusade.--Part V.
+## Chapter LVIII: The First Crusade.--Part V.
 
 Jerusalem has derived some reputation from the number and importance of
 her memorable sieges. It was not till after a long and obstinate contest

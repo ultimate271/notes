@@ -37,14 +37,14 @@ Edward Gibbon, Esq.
 
 With notes by the Rev. H. H. Milman
 
-Vol. 4
+# Vol. 4
 
 1782 (Written), 1845 (Revised)
 
 
 
 
-Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.
+## Chapter XXXIX: Gothic Kingdom Of Italy.--Part I.
 
      Zeno And Anastasius, Emperors Of The East.--Birth,
      Education, And First Exploits Of Theodoric The Ostrogoth.--
@@ -642,7 +642,7 @@ Reiches, p. 114.--M.]
 
 
 
-Chapter XXXIX: Gothic Kingdom Of Italy.--Part II.
+## Chapter XXXIX: Gothic Kingdom Of Italy.--Part II.
 
 Among the Barbarians of the West, the victory of Theodoric had spread
 a general alarm. But as soon as it appeared that he was satisfied with
@@ -1129,7 +1129,7 @@ Epigram. xiii.--lxviii.)]
 
 
 
-Chapter XXXIX: Gothic Kingdom Of Italy.--Part III.
+## Chapter XXXIX: Gothic Kingdom Of Italy.--Part III.
 
 After the example of the last emperors, Theodoric preferred the
 residence of Ravenna, where he cultivated an orchard with his own hands.
@@ -1764,7 +1764,7 @@ and Vesuvius, (v 50.)]
 
 
 
-Chapter XL: Reign Of Justinian.--Part I.
+## Chapter XL: Reign Of Justinian.--Part I.
 
      Elevation Of Justin The Elder.--Reign Of Justinian.--I. The
      Empress Theodora.--II.  Factions Of The Circus, And Sedition
@@ -2296,7 +2296,7 @@ Theodora.]
 
 
 
-Chapter XL: Reign Of Justinian.--Part II.
+## Chapter XL: Reign Of Justinian.--Part II.
 
 Those who believe that the female mind is totally depraved by the loss
 of chastity, will eagerly listen to all the invectives of private envy,
@@ -2847,7 +2847,7 @@ was applied to the mince, the female dancers, (Cod. Theodos. l. xv. tit.
 
 
 
-Chapter XL: Reign Of Justinian.--Part III.
+## Chapter XL: Reign Of Justinian.--Part III.
 
 I need not explain that silk [61] is originally spun from the bowels of
 a caterpillar, and that it composes the golden tomb, from whence a worm
@@ -3459,7 +3459,7 @@ Fontenelle.]
 
 
 
-Chapter XL: Reign Of Justinian.--Part IV.
+## Chapter XL: Reign Of Justinian.--Part IV.
 
 Dishonor might be ultimately reflected on the character of Justinian;
 but much of the guilt, and still more of the profit, was intercepted
@@ -4160,7 +4160,7 @@ Aeenas,) gave a name and people to Lycaoni, (Novell. 24, 25, 27, 30.)]
 
 
 
-Chapter XL: Reign Of Justinian.--Part V.
+## Chapter XL: Reign Of Justinian.--Part V.
 
 If we extend our view from the tropic to the mouth of the Tanais, we may
 observe, on one hand, the precautions of Justinian to curb the
@@ -4857,7 +4857,7 @@ monks.]
 
 
 
-Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part I.
+## Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part I.
 
      Conquests Of Justinian In The West.--Character And First
      Campaigns Of Belisarius--He Invades And Subdues The Vandal
@@ -5441,7 +5441,7 @@ translation. See Lord ov. p. 99.--M.]
 
 
 
-Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part II.
+## Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part II.
 
 As soon as the tumult had subsided, the several parts of the army
 informed each other of the accidents of the day; and Belisarius pitched
@@ -5929,7 +5929,7 @@ the Great Schol. in Vet. Test. ix. Proemium ad Eccles. p. 19.--M.]
 
 
 
-Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part III.
+## Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part III.
 
 Although Theodatus descended from a race of heroes, he was ignorant of
 the art, and averse to the dangers, of war. Although he had studied the
@@ -6510,7 +6510,7 @@ wood, was recommended by Procopius, and adopted by Belisarius.]
 
 
 
-Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part IV.
+## Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part IV.
 
 From the moment that Belisarius had determined to sustain a siege, his
 assiduous care provided Rome against the danger of famine, more dreadful
@@ -6972,7 +6972,7 @@ Ardennes, (Greg. Turon. tom. ii. l. x. c. 10, p. 369.)]
 
 
 
-Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part V.
+## Chapter XLI: Conquests Of Justinian, Charact Of Balisarius.--Part V.
 
 As soon as Belisarius was delivered from his foreign and domestic
 enemies, he seriously applied his forces to the final reduction of
@@ -7413,7 +7413,7 @@ subeacens rursus remittitur in Italiam, (p. 54.)]
 
 
 
-Chapter XLII: State Of The Barbaric World.--Part I.
+## Chapter XLII: State Of The Barbaric World.--Part I.
 
      State Of The Barbaric World.--Establishment Of The Lombards
      On the Danube.--Tribes And Inroads Of The Sclavonians.--
@@ -8019,7 +8019,7 @@ vii. c. 7, 8.)]
 
 
 
-Chapter XLII: State Of The Barbaric World.--Part II.
+## Chapter XLII: State Of The Barbaric World.--Part II.
 
 In the rapid career of conquest, the Turks attacked and subdued the
 nation of the Ogors or Varchonites [3011] on the banks of the River
@@ -8602,7 +8602,7 @@ Dissertat. tom. ii. p. 61--69.)]
 
 
 
-Chapter XLII: State Of The Barbaric World.--Part III.
+## Chapter XLII: State Of The Barbaric World.--Part III.
 
 The son of Kobad found his kingdom involved in a war with the successor
 of Constantine; and the anxiety of his domestic situation inclined
@@ -9083,7 +9083,7 @@ slaves; an absurdity unworthy of that judicious traveller.]
 
 
 
-Chapter XLII: State Of The Barbaric World.--Part IV.
+## Chapter XLII: State Of The Barbaric World.--Part IV.
 
 It was the boast of the Colchians, that their ancestors had checked
 the victories of Sesostris; and the defeat of the Egyptian is less
@@ -9671,7 +9671,7 @@ Arabian authorities to the Abyssinian kingdoms in Homeritis.--M.]
 
 
 
-Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.
+## Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part I.
 
      Rebellions Of Africa.--Restoration Of The Gothic Kingdom By
      Totila.--Loss And Recovery Of Rome.--Final Conquest Of Italy
@@ -10184,7 +10184,7 @@ Rome is more agreeable to justice than to history.]
 
 
 
-Chapter XLIII: Last Victory And Death Of Belisarius, Death OF Justinian.--Part II.
+## Chapter XLIII: Last Victory And Death Of Belisarius, Death OF Justinian.--Part II.
 
 The foresight of Totila had raised obstacles worthy of such an
 antagonist. Ninety furlongs below the city, in the narrowest part of the
@@ -10730,7 +10730,7 @@ knowledge.]
 
 
 
-Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part III.
+## Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part III.
 
 The prudence of Narses impelled him to speedy and decisive action.
 His powers were the last effort of the state; the cost of each day
@@ -11348,7 +11348,7 @@ imperfectly represented in the prolix declamation of Agathias. (l. 5, p.
 
 
 
-Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part IV.
+## Chapter XLIII: Last Victory And Death Of Belisarius, Death Of Justinian.--Part IV.
 
 About two years after the last victory of Belisarius, the emperor
 returned from a Thracian journey of health, or business, or devotion.
@@ -11903,7 +11903,7 @@ furnish one hundred millions, a number not wholly inadmissible.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part I.
 
      Idea Of The Roman Jurisprudence.--The Laws Of The Kings--The
      Twelve Of The Decemvirs.--The Laws Of The People.--The
@@ -12288,7 +12288,7 @@ infancy of their civilization?--W.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part II.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part II.
 
 Whatever might be the origin or the merit of the twelve tables, [20]
 they obtained among the Romans that blind and partial reverence which
@@ -12839,7 +12839,7 @@ may be just, but they often trespassed on each other's ground]
 
 ===
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part III.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part III.
 
 Among savage nations, the want of letters is imperfectly supplied by
 the use of visible signs, which awaken attention, and perpetuate the
@@ -13357,7 +13357,7 @@ Coust. et Max. Coss. (327.)--W]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part IV.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part IV.
 
 When Justinian ascended the throne, the reformation of the Roman
 jurisprudence was an arduous but indispensable task. In the space of ten
@@ -13829,7 +13829,7 @@ part.--W.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part V.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part V.
 
 The distinction of ranks and persons is the firmest basis of a mixed and
 limited government. In France, the remains of liberty are kept alive
@@ -14477,7 +14477,7 @@ Theodor ab. A. Person, 87--90.--M.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VI.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VI.
 
 The relation of guardian and ward, or in Roman words of tutor and pupil,
 which covers so many titles of the Institutes and Pandects, [136] is of
@@ -15014,7 +15014,7 @@ the Roman system of contracts, even if I were allowed to be good.--M.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VII.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VII.
 
 1. The goddess of faith (of human and social faith) was worshipped, not
 only in her temples, but in the lives of the Romans; and if that
@@ -15609,7 +15609,7 @@ was acted with impunity.]
 
 
 
-Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VIII.
+## Chapter XLIV: Idea Of The Roman Jurisprudence.--Part VIII.
 
 A new spirit of legislation, respectable even in its error, arose in the
 empire with the religion of Constantine. [197] The laws of Moses were
@@ -15879,7 +15879,7 @@ multiplicity of their laws and the arbitrary will of their master.
 
 
 
-Chapter XLV: State Of Italy Under The Lombards.--Part I.
+## Chapter XLV: State Of Italy Under The Lombards.--Part I.
 
      Reign Of The Younger Justin.--Embassy Of The Avars.--Their
      Settlement On The Danube.--Conquest Of Italy By The
@@ -16400,7 +16400,7 @@ of an odious idea has been imitated by the best writers of antiquity,
 
 
 
-Chapter XLV: State Of Italy Under The Lombards.--Part II.
+## Chapter XLV: State Of Italy Under The Lombards.--Part II.
 
 The ambitious Rosamond aspired to reign in the name of her lover; the
 city and palace of Verona were awed by her power; and a faithful band
@@ -16980,7 +16980,7 @@ Beckman, Hist. of Inventions, vol. i. p. 319--M.]
 
 
 
-Chapter XLV: State Of Italy Under The Lombards.--Part III.
+## Chapter XLV: State Of Italy Under The Lombards.--Part III.
 
 So rapid was the influence of climate and example, that the Lombards of
 the fourth generation surveyed with curiosity and affright the portraits
@@ -17498,7 +17498,7 @@ Sigonius in the first book, de Regno Italiae. See his works, tom. ii. p.
 
 
 
-Chapter XLVI: Troubles In Persia.--Part I.
+## Chapter XLVI: Troubles In Persia.--Part I.
 
      Revolutions On Persia After The Death Of Chosroes On
      Nushirvan.--His Son Hormouz, A Tyrant, Is Deposed.--
@@ -18171,7 +18171,7 @@ been more copious.]
 
 
 
-Chapter XLVI: Troubles In Persia.--Part II.
+## Chapter XLVI: Troubles In Persia.--Part II.
 
 While the majesty of the Roman name was revived in the East, the
 prospect of Europe is less pleasing and less glorious. By the departure
@@ -18725,7 +18725,7 @@ the corrupter of life was easily vanquished.]
 
 
 
-Chapter XLVI: Troubles In Persia.--Part III.
+## Chapter XLVI: Troubles In Persia.--Part III.
 
 A daughter of Phocas, his only child, was given in marriage to the
 patrician Crispus, [52] and the royal images of the bride and bridegroom
@@ -19465,7 +19465,7 @@ part of Aderbidjan.--M.]
 
 
 
-Chapter XLVI: Troubles In Persia.--Part IV.
+## Chapter XLVI: Troubles In Persia.--Part IV.
 
 Amidst the glories of the succeeding campaign, Heraclius is almost lost
 to our eyes, and to those of the Byzantine historians. [91] From the
@@ -20022,7 +20022,7 @@ this passage does not belong to the emperor Heraclius.]
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part I.
+## Chapter XLVII: Ecclesiastical Discord.--Part I.
 
      Theological History Of The Doctrine Of The Incarnation.--The
      Human And Divine Nature Of Christ.--Enmity Of The Patriarchs
@@ -20603,7 +20603,7 @@ of facts.]
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part II.
+## Chapter XLVII: Ecclesiastical Discord.--Part II.
 
 The prize was not unworthy of his ambition. At a distance from the
 court, and at the head of an immense capital, the patriarch, as he was
@@ -21210,7 +21210,7 @@ is treated with insult by the hard and stupid fanatic.]
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part III.
+## Chapter XLVII: Ecclesiastical Discord.--Part III.
 
 The death of the Alexandrian primate, after a reign of thirty-two years,
 abandoned the Catholics to the intemperance of zeal and the abuse
@@ -21697,7 +21697,7 @@ and empire.]
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part IV.
+## Chapter XLVII: Ecclesiastical Discord.--Part IV.
 
 Justinian has been already seen in the various lights of a prince, a
 conqueror, and a lawgiver: the theologian [80] still remains, and it
@@ -22286,7 +22286,7 @@ moderate and candid.]
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part V.
+## Chapter XLVII: Ecclesiastical Discord.--Part V.
 
 I. Both in his native and his episcopal province, the heresy of the
 unfortunate Nestorius was speedily obliterated. The Oriental bishops,
@@ -23060,7 +23060,7 @@ A.D. 620, No. 8.) Pagi (Critica, tom. ii. p. 763) and Fabricius (l. v c.
 
 
 
-Chapter XLVII: Ecclesiastical Discord.--Part VI.
+## Chapter XLVII: Ecclesiastical Discord.--Part VI.
 
 A more important conquest still remained, of the patriarch, the oracle
 and leader of the Egyptian church. Theodosius had resisted the
@@ -23386,7 +23386,7 @@ ascendency over the practice of Christianity.--M.]
 
 
 
-Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.
+## Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part I.
 
      Plan Of The Two Last Volumes.--Succession And Characters Of
      The Greek Emperors Of Constantinople, From The Time Of
@@ -23857,7 +23857,7 @@ palace of Constantine.
 
 
 
-Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part II.
+## Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part II.
 
 In rewarding his allies, and recalling his wife, Justinian displayed
 some sense of honor and gratitude; [1114] and Terbelis retired, after
@@ -24436,7 +24436,7 @@ more Theophilus!"
 
 
 
-Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part III.
+## Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part III.
 
 The Russians, who have borrowed from the Greeks the greatest part of
 their civil and ecclesiastical policy, preserved, till the last century,
@@ -24931,7 +24931,7 @@ sword of "the most unholy and impious Mahomet." Leo Diac. p. 76.--M.]
 
 
 
-Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part IV.
+## Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part IV.
 
 Among the warriors who promoted his elevation, and served under his
 standard, a noble and valiant Armenian had deserved and obtained
@@ -25500,7 +25500,7 @@ princes.
 
 
 
-Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part V.
+## Chapter XLVIII: Succession And Characters Of The Greek Emperors.--Part V.
 
 A premature death had swept away the two eldest sons of John the
 Handsome; of the two survivors, Isaac and Manuel, his judgment or

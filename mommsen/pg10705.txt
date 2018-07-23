@@ -24893,7 +24893,7 @@ and which owed, as they still owe, to him their national individuality.
 
 
 
-Notes for Chapter I
+## Notes for Chapter I
 
 1.  IV. VII. Bestowal of Latin Rights on the Italian Celts, 527
 
@@ -25082,7 +25082,7 @@ intercluderetur].
 
 
 
-Notes for Chapter II
+## Notes for Chapter II
 
 1.  IV. VIII. New Difficulties
 
@@ -25207,7 +25207,7 @@ the Bruttian wall, follows from the "snowy night" (Plut. l. c).
 
 
 
-Notes for Chapter III
+## Notes for Chapter III
 
 1.  IV. X. Assignations to the Soldiers
 
@@ -25277,7 +25277,7 @@ by the senators.
 
 
 
-Notes for Chapter IV
+## Notes for Chapter IV
 
 1.  V. III. Senate, Equites, and Populares
 
@@ -25400,7 +25400,7 @@ liable to taxation.
 
 
 
-Notes for Chapter V
+## Notes for Chapter V
 
 1.  V. III. Renewal of the Censorship
 
@@ -25496,7 +25496,7 @@ treatises, but that they are good ones.
 
 
 
-Notes for Chapter VI
+## Notes for Chapter VI
 
 1.  V. IV. Aggregate Results
 
@@ -25530,7 +25530,7 @@ on Particular Communities
 
 
 
-Notes for Chapter VII
+## Notes for Chapter VII
 
 1.  IV. I. The Callaeci Conquered
 
@@ -25876,7 +25876,7 @@ their stammering Latin.
 
 
 
-Notes for Chapter VIII
+## Notes for Chapter VIII
 
 1.  This is the meaning of -cantorum convitio contiones celebrare-
 (Cic. pro Sest. 55, 118).
@@ -26004,7 +26004,7 @@ a consul's substitute.
 
 
 
-Notes for Chapter IX
+## Notes for Chapter IX
 
 1.  iv. 434
 
@@ -26068,7 +26068,7 @@ the Marcus Marcellus who was consul in 703.
 
 
 
-Notes for Chapter X
+## Notes for Chapter X
 
 1.  V. V. Transpadanes
 
@@ -26318,7 +26318,7 @@ the Nucerian river-god Sarnus (Sueton. Rhet. 4).
 
 
 
-Notes for Chapter XI
+## Notes for Chapter XI
 
 1.  V. X. Insurrection in Alexandria
 
@@ -26850,7 +26850,7 @@ of the year of fifteen months 708, and from Oct. 709 to March 710.
 
 
 
-Notes for Chapter XII
+## Notes for Chapter XII
 
 1.  V. VIII. Clodius
 

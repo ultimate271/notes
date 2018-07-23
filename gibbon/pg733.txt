@@ -41,12 +41,12 @@ By Edward Gibbon
 
 With notes by the Rev. H. H. Milman
 
-Volume 3
+# Volume 3
 
 
 
 
-Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part I.
+## Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part I.
 
      Death Of Gratian.--Ruin Of Arianism.--St. Ambrose.--First
      Civil War, Against Maximus.--Character, Administration, And
@@ -475,7 +475,7 @@ in the Roman empire.]
 
 
 
-Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part II.
+## Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part II.
 
 Constantinople was the principal seat and fortress of Arianism; and,
 in a long interval of forty years, [24] the faith of the princes and
@@ -1054,7 +1054,7 @@ indignation, the character and conduct of Ithacius.]
 
 
 
-Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part III.
+## Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part III.
 
 Among the ecclesiastics, who illustrated the reign of Theodosius,
 Gregory Nazianzen was distinguished by the talents of an eloquent
@@ -1443,7 +1443,7 @@ contraires a la piete de Theodose.]
 
 
 
-Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part IV.
+## Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part IV.
 
 The veterans, who still remembered the long resistance, and successive
 resources, of the tyrant Magnentius, might prepare themselves for the
@@ -1978,7 +1978,7 @@ Esprit des Loix, l. xxiv. c. 2.]
 
 
 
-Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part V.
+## Chapter XXVII: Civil Wars, Reign Of Theodosius.--Part V.
 
 After the defeat and death of the tyrant of Gaul, the Roman world was in
 the possession of Theodosius. He derived from the choice of Gratian his
@@ -2475,7 +2475,7 @@ Valentinians.]
 
 
 
-Chapter XXVIII: Destruction Of Paganism.--Part I.
+## Chapter XXVIII: Destruction Of Paganism.--Part I.
 
      Final Destruction Of Paganism.--Introduction Of The Worship
      Of Saints, And Relics, Among The Christians.
@@ -2859,7 +2859,7 @@ Theodosius. See Beugnot, p. 491.--M.]
 
 
 
-Chapter XXVIII: Destruction Of Paganism.--Part II.
+## Chapter XXVIII: Destruction Of Paganism.--Part II.
 
 The filial piety of the emperors themselves engaged them to proceed,
 with some caution and tenderness, in the reformation of the eternal
@@ -3366,7 +3366,7 @@ violent means of propagating Christianity.--M.]
 
 
 
-Chapter XXVIII: Destruction Of Paganism.--Part III.
+## Chapter XXVIII: Destruction Of Paganism.--Part III.
 
 In the cruel reigns of Decius and Dioclesian, Christianity had been
 proscribed, as a revolt from the ancient and hereditary religion of the
@@ -3928,7 +3928,7 @@ and feelings, sometimes on the actions.--M.]
 
 
 
-Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part
+## Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part
 I.
 
      Final Division Of The Roman Empire Between The Sons Of
@@ -4451,7 +4451,7 @@ and Leyden.]
 
 
 
-Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part
+## Chapter XXIX: Division Of Roman Empire Between Sons Of Theodosius.--Part
 II.
 
 The impartiality which Stilicho affected, as the common guardian of the
@@ -5009,7 +5009,7 @@ degenerate subjects.]
 
 
 
-Chapter XXX: Revolt Of The Goths.--Part I.
+## Chapter XXX: Revolt Of The Goths.--Part I.
 
      Revolt Of The Goths.--They Plunder Greece.--Two Great
      Invasions Of Italy By Alaric And Radagaisus.--They Are
@@ -5516,7 +5516,7 @@ that famous penitent had fixed his abode.]
 
 
 
-Chapter XXX: Revolt Of The Goths.--Part II.
+## Chapter XXX: Revolt Of The Goths.--Part II.
 
 The emperor Honorius was distinguished, above his subjects, by the
 preeminence of fear, as well as of rank. The pride and luxury in which
@@ -5582,7 +5582,7 @@ allow for the duration of the Gothic war.]
 
 
 
-Chapter XXX: Revolt Of The Goths.--Part III.
+## Chapter XXX: Revolt Of The Goths.--Part III.
 
 When Stilicho seemed to abandon his sovereign in the unguarded palace of
 Milan, he had probably calculated the term of his absence, the distance
@@ -6147,7 +6147,7 @@ afterwards.]
 
 
 
-Chapter XXX: Revolt Of The Goths.--Part IV.
+## Chapter XXX: Revolt Of The Goths.--Part IV.
 
 The correspondence of nations was, in that age, so imperfect and
 precarious, that the revolutions of the North might escape the knowledge
@@ -6650,7 +6650,7 @@ hear of them again.]
 
 
 
-Chapter XXX: Revolt Of The Goths.--Part V.
+## Chapter XXX: Revolt Of The Goths.--Part V.
 
 On the side of the Pyrenees, the ambition of Constantine might
 be justified by the proximity of danger; but his throne was soon
@@ -7207,7 +7207,7 @@ weeds, or flowers, which spring too luxuriantly in his Latian soil]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part I.
 
      Invasion Of Italy By Alaric.--Manners Of The Roman Senate
@@ -7566,7 +7566,7 @@ youths.]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part II.
 
 "The marbles of the Anician palace," were used as a proverbial
@@ -8048,7 +8048,7 @@ Somn. Scipion l. i. c 19. p. 68.)]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part II.
 
 In populous cities, which are the seat of commerce and manufactures,
@@ -8643,7 +8643,7 @@ circumstances are too few and trifling to require any other quotation.]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part III.
 
 At the distance of fourteen centuries, we may be satisfied with relating
@@ -9246,7 +9246,7 @@ latter for the actual topography.]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part IV.
 
 Whatever might be the numbers of equestrian or plebeian rank, who
@@ -9591,7 +9591,7 @@ and surveyed with a curious eye the actual face of the country.]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part V.
 
 The personal animosities and hereditary feuds of the Barbarians were
@@ -10136,7 +10136,7 @@ Photius, Bekker, p. 58.--M]
 
 
 
-Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
+## Chapter XXXI: Invasion Of Italy, Occupation Of Territories By
 Barbarians.--Part VI.
 
 The situation of Spain, separated, on all sides, from the enemies of
@@ -10738,7 +10738,7 @@ introduce the first Lugdunensis, or Lyonnese.]
 
 
 
-Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part I.
+## Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part I.
 
      Arcadius Emperor Of The East.--Administration And Disgrace
      Of Eutropius.--Revolt Of Gainas.--Persecution Of St. John
@@ -11259,7 +11259,7 @@ the advice of his wife.]
 
 
 
-Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part II.
+## Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part II.
 
 The bold satirist, who has indulged his discontent by the partial and
 passionate censure of the Christian emperors, violates the dignity,
@@ -11840,7 +11840,7 @@ from Comana.]
 
 
 
-Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part III.
+## Chapter XXXII: Emperors Arcadius, Eutropius, Theodosius II.--Part III.
 
 Yet a reasonable doubt may be entertained, whether any stain of
 hereditary guilt could be derived from Arcadius to his successor.
@@ -12450,7 +12450,7 @@ Martin, was 580 years.--M]
 
 
 
-Chapter XXXIII: Conquest Of Africa By The Vandals.--Part I.
+## Chapter XXXIII: Conquest Of Africa By The Vandals.--Part I.
 
      Death Of Honorius.--Valentinian III.--Emperor Of The East.
      --Administration Of His Mother Placidia--Aetius And
@@ -13075,7 +13075,7 @@ Romans.]
 
 
 
-Chapter XXXIII: Conquest Of Africa By The Vandals.--Part II.
+## Chapter XXXIII: Conquest Of Africa By The Vandals.--Part II.
 
 By the skill of Boniface, and perhaps by the ignorance of the Vandals,
 the siege of Hippo was protracted above fourteen months: the sea was
@@ -13422,7 +13422,7 @@ apostles of those unbelieving countries.]
 
 
 
-Chapter XXXIV: Attila.--Part I.
+## Chapter XXXIV: Attila.--Part I.
 
      The Character, Conquests, And Court Of Attila, King Of The
      Huns.--Death Of Theodosius The Younger.--Elevation Of
@@ -13981,7 +13981,7 @@ Empereurs, tom. vi. p. 143.]
 
 
 
-Chapter XXXIV: Attila.--Part II.
+## Chapter XXXIV: Attila.--Part II.
 
 It may be affirmed, with bolder assurance, that the Huns depopulated the
 provinces of the empire, by the number of Roman subjects whom they
@@ -14658,7 +14658,7 @@ Berlin, 1836, p. 336.)
 
 
 
-Chapter XXXIV: Attila.--Part III.
+## Chapter XXXIV: Attila.--Part III.
 
 I must acknowledge myself unable to form any satisfactory theory as
 to the connection of these poems with the history of the time, or the
@@ -14850,7 +14850,7 @@ princes.]
 
 
 
-Chapter XXXV: Invasion By Attila.--Part I.
+## Chapter XXXV: Invasion By Attila.--Part I.
 
      Invasion Of Gaul By Attila.--He Is Repulsed By Aetius And
      The Visigoths.--Attila Invades And Evacuates Italy.--The
@@ -15374,7 +15374,7 @@ l'Academie.]
 
 
 
-Chapter XXXV: Invasion By Attila.--Part II.
+## Chapter XXXV: Invasion By Attila.--Part II.
 
 When Attila declared his resolution of supporting the cause of his
 allies, the Vandals and the Franks, at the same time, and almost in the
@@ -15882,7 +15882,7 @@ Thuringia, and derives its name from the Gothic tribe of the Therungi]
 
 
 
-Chapter XXXV: Invasion By Attila.--Part III.
+## Chapter XXXV: Invasion By Attila.--Part III.
 
 Neither the spirit, nor the forces, nor the reputation, of Attila, were
 impaired by the failure of the Gallic expedition In the ensuing spring
@@ -16564,7 +16564,7 @@ Dei, l. v. p. 158, 159.]
 
 
 
-Chapter XXXVI: Total Extinction Of The Western Empire.--Part I.
+## Chapter XXXVI: Total Extinction Of The Western Empire.--Part I.
 
      Sack Of Rome By Genseric, King Of The Vandals.--His Naval
      Depredations.--Succession Of The Last Emperors Of The West,
@@ -17089,7 +17089,7 @@ expatiated, with pleasure, on the Gothic victory.]
 
 
 
-Chapter XXXVI: Total Extinction Of The Western Empire.--Part II.
+## Chapter XXXVI: Total Extinction Of The Western Empire.--Part II.
 
 The pressing solicitations of the senate and people persuaded the
 emperor Avitus to fix his residence at Rome, and to accept the
@@ -17554,7 +17554,7 @@ with a black color.]
 
 
 
-Chapter XXXVI: Total Extinction Of The Western Empire.--Part III.
+## Chapter XXXVI: Total Extinction Of The Western Empire.--Part III.
 
 Without the help of a personal interview, Genseric was sufficiently
 acquainted with the genius and designs of his adversary. He practiced
@@ -18078,7 +18078,7 @@ the calamities of the age.]
 
 
 
-Chapter XXXVI: Total Extinction Of The Western Empire.--Part IV.
+## Chapter XXXVI: Total Extinction Of The Western Empire.--Part IV.
 
 In all his public declarations, the emperor Leo assumes the authority,
 and professes the affection, of a father, for his son Anthemius,
@@ -18625,7 +18625,7 @@ eighth descendant of the elder Theodosius.]
 
 
 
-Chapter XXXVI: Total Extinction Of The Western Empire.--Part V.
+## Chapter XXXVI: Total Extinction Of The Western Empire.--Part V.
 
 Whilst the vacant throne of Italy was abandoned to lawless Barbarians,
 [112] the election of a new colleague was seriously agitated in the
@@ -19159,7 +19159,7 @@ Italy, Manno des Ost-Gothischen Reiches, Part ii. p. 73, et seq.--M.]
 
 
 
-Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part I.
+## Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part I.
 
      Origin Progress, And Effects Of The Monastic Life.--
      Conversion Of The Barbarians To Christianity And Arianism.--
@@ -19685,7 +19685,7 @@ under dire necessity--M.]
 
 
 
-Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part II.
+## Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part II.
 
 Pleasure and guilt are synonymous terms in the language of the monks,
 and they discovered, by experience, that rigid fasts, and abstemious
@@ -20230,7 +20230,7 @@ history]
 
 
 
-Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part III.
+## Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part III.
 
 The different motives which influenced the reason, or the passions, of
 the Barbarian converts, cannot easily be ascertained. They were often
@@ -20715,7 +20715,7 @@ who swore were distributed through the provinces of Africa.]
 
 
 
-Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part V.
+## Chapter XXXVII: Conversion Of The Barbarians To Christianity.--Part V.
 
 The Catholics, oppressed by royal and military force, were far superior
 to their adversaries in numbers and learning. With the same weapons
@@ -21162,7 +21162,7 @@ of Mahomet.
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part I.
+## Chapter XXXVIII: Reign Of Clovis.--Part I.
 
      Reign And Conversion Of Clovis.--His Victories Over The
      Alemanni, Burgundians, And Visigoths.--Establishment Of The
@@ -21743,7 +21743,7 @@ fouud in Dupin, (Bibliotheque Ecclesiastique, tom. v. p. 5-10.)]
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part II.
+## Chapter XXXVIII: Reign Of Clovis.--Part II.
 
 The allegiance of his brother was already seduced; and the obedience of
 Godegesil, who joined the royal standard with the troops of Geneva, more
@@ -22358,7 +22358,7 @@ Lombard code. Savigny. p. 138.--M.]
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part III.
+## Chapter XXXVIII: Reign Of Clovis.--Part III.
 
 When justice inexorably requires the death of a murderer, each private
 citizen is fortified by the assurance, that the laws, the magistrate,
@@ -22949,7 +22949,7 @@ frequently betrays his extraordinary attention to his native country.]
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part IV.
+## Chapter XXXVIII: Reign Of Clovis.--Part IV.
 
 Before the Austrasian army retreated from Auvergne, Theodoric exacted
 some pledges of the future loyalty of a people, whose just hatred could
@@ -23628,7 +23628,7 @@ Gibbon here rejects the authority which he follows elsewhere.--M.]
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part V.
+## Chapter XXXVIII: Reign Of Clovis.--Part V.
 
 In a century of perpetual, or at least implacable, war, much courage,
 and some skill, must have been exerted for the defence of Britain. Yet
@@ -24060,7 +24060,7 @@ interesting revolutions.
 
 
 
-Chapter XXXVIII: Reign Of Clovis.--Part VI.
+## Chapter XXXVIII: Reign Of Clovis.--Part VI.
 
 General Observations On The Fall Of The Roman Empire In The West.
 

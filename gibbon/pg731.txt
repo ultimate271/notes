@@ -572,8 +572,9 @@ signature M. 1845.
 
 
 
-Preface Of The Author.
+# Preface Of The Author.
 
+## Preface
 It is not my intention to detain the reader by expatiating on the
 variety or the importance of the subject, which I have undertaken to
 treat; since the merit of the choice would serve to render the weakness
@@ -824,7 +825,7 @@ the motives of my choice.
 
 
 
-Chapter I: The Extent Of The Empire In The Age Of The Antonines--Part I.
+## Chapter I: The Extent Of The Empire In The Age Of The Antonines--Part I.
 
 
 
@@ -1135,7 +1136,7 @@ Academie des Inscriptions, tom. xxi. p. 55.]
 
 
 
-Chapter I: The Extent Of The Empire In The Age Of The Antonines.--Part II.
+## Chapter I: The Extent Of The Empire In The Age Of The Antonines.--Part II.
 
 It was an ancient tradition, that when the Capitol was founded by one of
 the Roman kings, the god Terminus (who presided over boundaries, and
@@ -1617,7 +1618,7 @@ their place was supplied by machines. See Vegetius, ii. 25. Arrian.]
 
 
 
-Chapter I: The Extent Of The Empire In The Age Of The Antonines.--Part III.
+## Chapter I: The Extent Of The Empire In The Age Of The Antonines.--Part III.
 
 The camp of a Roman legion presented the appearance of a fortified city.
 [60] As soon as the space was marked out, the pioneers carefully levelled
@@ -2276,7 +2277,7 @@ the Doctor's learning and his maps.]
 
 
 
-Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.
+## Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part I.
 
      Of The Union And Internal Prosperity Of The Roman Empire, In
      The Age Of The Antonines.
@@ -2653,7 +2654,7 @@ and so little to that of Augustus.]
 
 
 
-Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part II.
+## Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part II.
 
 Till the privileges of Romans had been progressively extended to all
 the inhabitants of the empire, an important distinction was preserved
@@ -3338,7 +3339,7 @@ deserving respectful consideration.--M 1815.]
 
 
 
-Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part III.
+## Chapter II: The Internal Prosperity In The Age Of The Antonines.--Part III.
 
 Domestic peace and union were the natural consequences of the moderate
 and comprehensive policy embraced by the Romans. If we turn our eyes
@@ -3701,7 +3702,7 @@ contain sixty thousand villages, (Histoire de Timur Bec, l. v. c. 20.)]
 
 
 
-Chapter II: The Internal Prosperity In The Age Of The Antonines. Part IV.
+## Chapter II: The Internal Prosperity In The Age Of The Antonines. Part IV.
 
 All these cities were connected with each other, and with the capital,
 by the public highways, which, issuing from the Forum of Rome, traversed
@@ -4150,7 +4151,7 @@ of refuting them himself.]
 
 
 
-Chapter III: The Constitution In The Age Of The Antonines.--Part I.
+## Chapter III: The Constitution In The Age Of The Antonines.--Part I.
 
      Of The Constitution Of The Roman Empire, In The Age Of The
      Antonines.
@@ -4757,7 +4758,7 @@ adopted by Hadrian. Spart. in Aelio Vero, 102.--W.]
 
 
 
-Chapter III: The Constitution In The Age Of The Antonines.--Part II.
+## Chapter III: The Constitution In The Age Of The Antonines.--Part II.
 
 The tender respect of Augustus for a free constitution which he had
 destroyed, can only be explained by an attentive consideration of the
@@ -5362,7 +5363,7 @@ disdained to punish it. Tacit. Annal. vi. 14.]
 
 
 
-Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.
+## Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part I.
 
      The Cruelty, Follies, And Murder Of Commodus--Election Of
      Pertinax--His Attempts To Reform The State--His
@@ -5742,7 +5743,7 @@ Nardini Roma Antica, p. 79.]
 
 
 
-Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part II.
+## Chapter IV: The Cruelty, Follies And Murder Of Commodus.--Part II.
 
 Pestilence and famine contributed to fill up the measure of the
 calamities of Rome. [25] The first could be only imputed to the just
@@ -6325,7 +6326,7 @@ August. p. 58. Victor in Epitom. et in Caesarib. Eutropius, viii. 16.]
 
 
 
-Chapter V: Sale Of The Empire To Didius Julianus.--Part I.
+## Chapter V: Sale Of The Empire To Didius Julianus.--Part I.
 
      Public Sale Of The Empire To Didius Julianus By The
      Praetorian Guards--Clodius Albinus In Britain, Pescennius
@@ -6839,7 +6840,7 @@ circumstances. See also Apulius, Orat. de Magia.--M.]
 
 
 
-Chapter V: Sale Of The Empire To Didius Julianus.--Part II.
+## Chapter V: Sale Of The Empire To Didius Julianus.--Part II.
 
 Severus, who dreaded neither his arms nor his enchantments, guarded
 himself from the only danger of secret conspiracy, by the faithful
@@ -7474,7 +7475,7 @@ Roman empire.
 
 
 
-Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.
+## Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part I.
 
      The Death Of Severus.--Tyranny Of Caracalla.--Usurpation
      Of Macrinus.--Follies Of Elagabalus.--Virtues Of Alexander
@@ -7896,7 +7897,7 @@ Fragm. Vatican p.--M.]
 
 
 
-Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part II.
+## Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part II.
 
 The execution of so many innocent citizens was bewailed by the secret
 tears of their friends and families. The death of Papinian, the
@@ -8433,7 +8434,7 @@ two.--M]
 
 
 
-Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part III.
+## Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part III.
 
 To this temple, as to the common centre of religious worship, the
 Imperial fanatic attempted to remove the Ancilia, the Palladium, [54] and
@@ -8943,7 +8944,7 @@ which closes with his second consulship.--W.]
 
 
 
-Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part IV.
+## Chapter VI: Death Of Severus, Tyranny Of Caracalla, Usurpation Of Marcinus.--Part IV.
 
 The lenity of the emperor confirmed the insolence of the troops;
 the legions imitated the example of the guards, and defended their
@@ -9532,7 +9533,7 @@ throne of the emperors.]
 
 
 
-Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.
+## Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part I.
 
      The Elevation And Tyranny Of Maximin.--Rebellion In Africa
      And Italy, Under The Authority Of The Senate.--Civil Wars
@@ -10107,7 +10108,7 @@ Apollinatian games enables us to correct it.]
 
 
 
-Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part II.
+## Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part II.
 
 The virtues and the reputation of the new emperors justified the most
 sanguine hopes of the Romans. The various nature of their talents seemed
@@ -10710,7 +10711,7 @@ divus, dummodo non sit vivus.--M.]
 
 
 
-Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part III.
+## Chapter VII: Tyranny Of Maximin, Rebellion, Civil Wars, Death Of Maximin.--Part III.
 
 On his return from the East to Rome, Philip, desirous of obliterating
 the memory of his crimes, and of captivating the affections of
@@ -10794,7 +10795,7 @@ barbarians, who soon discovered the decline of the Roman empire.
 
 
 
-Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part I.
+## Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part I.
 
      Of The State Of Persia After The Restoration Of The Monarchy
      By Artaxerxes.
@@ -11136,7 +11137,7 @@ contest between Good and Evil.--G.]
 
 
 
-Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part II.
+## Chapter VIII: State Of Persia And Restoration Of The Monarchy.--Part II.
 
 The theology of Zoroaster was darkly comprehended by foreigners, and
 even by the far greater number of his disciples; but the most careless
@@ -11828,7 +11829,7 @@ Sassanides.]
 
 
 
-Chapter IX: State Of Germany Until The Barbarians.--Part I.
+## Chapter IX: State Of Germany Until The Barbarians.--Part I.
 
      The State Of Germany Till The Invasion Of The Barbarians In
      The Time Of The Emperor Decius.
@@ -12124,7 +12125,7 @@ seems to approach the nearest to our species in that privilege.]
 
 
 
-Chapter IX: State Of Germany Until The Barbarians.--Part II.
+## Chapter IX: State Of Germany Until The Barbarians.--Part II.
 
 There is not any where upon the globe a large tract of country, which we
 have discovered destitute of inhabitants, or whose first population can
@@ -12638,7 +12639,7 @@ independence.
 
 
 
-Chapter IX: State Of Germany Until The Barbarians.--Part III.
+## Chapter IX: State Of Germany Until The Barbarians.--Part III.
 
 The Germans respected only those duties which they imposed on
 themselves. The most obscure soldier resisted with disdain the authority
@@ -13162,7 +13163,7 @@ estimates the citizens of Sparta at 33,000--M.]
 
 
 
-Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus--Part I.
+## Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus--Part I.
 
      The Emperors Decius, Gallus, Aemilianus, Valerian, And
      Gallienus.--The General Irruption Of The Barbari Ans.--The
@@ -13624,7 +13625,7 @@ Hist. de l'Asie, p. 180.--M.]
 
 
 
-Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part II.
+## Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part II.
 
 The Goths were now in possession of the Ukraine, a country of
 considerable extent and uncommon fertility, intersected with navigable
@@ -14148,7 +14149,7 @@ Antiq. l. iii.]
 
 
 
-Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part III.
+## Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part III.
 
 The Romans had long experienced the daring valor of the people of
 Lower Germany. The union of their strength threatened Gaul with a more
@@ -14721,7 +14722,7 @@ writers, constantly represent as Goths.]
 
 
 
-Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part IV.
+## Chapter X: Emperors Decius, Gallus, Aemilianus, Valerian And Gallienus.--Part IV.
 
 In the general calamities of mankind, the death of an individual,
 however exalted, the ruin of an edifice, however famous, are passed over
@@ -15448,7 +15449,7 @@ Histoire Naturelle, tom. ii. p. 590.]
 
 
 
-Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.
+## Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part I.
 
      Reign Of Claudius.--Defeat Of The Goths.--Victories,
      Triumph, And Death Of Aurelian.
@@ -15897,7 +15898,7 @@ signifies keen and well sharpened.]
 
 
 
-Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part II.
+## Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part II.
 
 The death of Claudius had revived the fainting spirit of the Goths. The
 troops which guarded the passes of Mount Haemus, and the banks of the
@@ -16369,7 +16370,7 @@ inhabit the ranks of the Euphrates. Echhel. Doct. Num. vii. 489.--G.]
 
 
 
-Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part III.
+## Chapter XI: Reign Of Claudius, Defeat Of The Goths.--Part III.
 
 After a successful expedition against the Gothic plunderers of Asia, the
 Palmyrenian prince returned to the city of Emesa in Syria. Invincible
@@ -16971,7 +16972,7 @@ Eutrop ix. 15. The two Victors.]
 
 
 
-Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.
+## Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part I.
 
      Conduct Of The Army And Senate After The Death Of Aurelian.
      --Reigns Of Tacitus, Probus, Carus, And His Sons.
@@ -17468,7 +17469,7 @@ German victories. Hist. August. p. 239.]
 
 
 
-Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part II.
+## Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part II.
 
 The strength of Aurelian had crushed on every side the enemies of Rome.
 After his death they seemed to revive with an increase of fury and of
@@ -18128,7 +18129,7 @@ ascribe the death of Carus to lightning.]
 
 
 
-Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part III.
+## Chapter XII: Reigns Of Tacitus, Probus, Carus And His Sons.--Part III.
 
 The vacancy of the throne was not productive of any disturbance. The
 ambition of the aspiring generals was checked by their natural fears,
@@ -18537,7 +18538,7 @@ et Epitome]
 
 
 
-Chapter XIII: Reign Of Diocletian And His Three Associates.--Part I.
+## Chapter XIII: Reign Of Diocletian And His Three Associates.--Part I.
 
      The Reign Of Diocletian And His Three Associates, Maximian,
      Galerius, And Constantius.--General Reestablishment Of
@@ -19015,7 +19016,7 @@ hints from Aurelius Victor and Eutropius.]
 
 
 
-Chapter XIII: Reign Of Diocletian And His Three Associates.--Part II.
+## Chapter XIII: Reign Of Diocletian And His Three Associates.--Part II.
 
 Britain had none but domestic enemies to dread; and as long as the
 governors preserved their fidelity, and the troops their discipline,
@@ -19589,7 +19590,7 @@ enemies is very seldom to be found in their own accounts.]
 
 
 
-Chapter XIII: Reign Of Diocletian And His Three Associates.--Part III.
+## Chapter XIII: Reign Of Diocletian And His Three Associates.--Part III.
 
 While the East anxiously expected the decision of this great contest,
 the emperor Diocletian, having assembled in Syria a strong army of
@@ -20001,7 +20002,7 @@ commentary.]
 
 
 
-Chapter XIII: Reign Of Diocletian And His Three Associates.--Part IV.
+## Chapter XIII: Reign Of Diocletian And His Three Associates.--Part IV.
 
 When the Roman princes had lost sight of the senate and of their ancient
 capital, they easily forgot the origin and nature of their legal power.
@@ -20614,7 +20615,7 @@ Graeca tom. iv. p. 88--148.]
 
 
 
-Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.
+## Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part I.
 
      Troubles After The Abdication Of Diocletian.--Death Of
      Constantius.--Elevation Of Constantine And Maxen Tius.--
@@ -21138,7 +21139,7 @@ be formed, almost upon equal authority. Beylage, iv.--M.]
 
 
 
-Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part II.
+## Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part II.
 
 Though the characters of Constantine and Maxentius had very little
 affinity with each other, their situation and interest were the same;
@@ -21691,7 +21692,7 @@ esteem the tyrant's army at no more than 100,000 men.]
 
 
 
-Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part III.
+## Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part III.
 
 When Hannibal marched from Gaul into Italy, he was obliged, first to
 discover, and then to open, a way over mountains, and through savage
@@ -22354,7 +22355,7 @@ than military]
 
 
 
-Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part IV.
+## Chapter XIV: Six Emperors At The Same Time, Reunion Of The Empire.--Part IV.
 
 The plain of Mardia in Thrace was the theatre of a second battle no less
 obstinate and bloody than the former. The troops on both sides displayed
@@ -22855,7 +22856,7 @@ the immediate and memorable consequences of this revolution.
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part I.
+## Chapter XV: Progress Of The Christian Religion.--Part I.
 
      The Progress Of The Christian Religion, And The Sentiments,
      Manners, Numbers, And Condition Of The Primitive Christians.
@@ -23320,7 +23321,7 @@ all-powerful Deity.
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part II.
+## Chapter XV: Progress Of The Christian Religion.--Part II.
 
 The enfranchisement of the church from the bonds of the synagogue was a
 work, however, of some time and of some difficulty. The Jewish converts,
@@ -23784,7 +23785,7 @@ exorcists]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part III.
+## Chapter XV: Progress Of The Christian Religion.--Part III.
 
 In consequence of this opinion, it was the first but arduous duty of
 a Christian to preserve himself pure and undefiled by the practice
@@ -24226,7 +24227,7 @@ the Jewish city and polity.--M.]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part IV.
+## Chapter XV: Progress Of The Christian Religion.--Part IV.
 
 The ancient and popular doctrine of the Millennium was intimately
 connected with the second coming of Christ. As the works of the creation
@@ -24714,7 +24715,7 @@ the work of our justification.
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part V.
+## Chapter XV: Progress Of The Christian Religion.--Part V.
 
 IV. But the primitive Christian demonstrated his faith by his virtues;
 and it was very justly supposed that the divine persuasion, which
@@ -25119,7 +25120,7 @@ objection with great force and candor.]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part VI.
+## Chapter XV: Progress Of The Christian Religion.--Part VI.
 
 V. But the human character, however it may be exalted or depressed by a
 temporary enthusiasm, will return by degrees to its proper and natural
@@ -25561,7 +25562,7 @@ was established before the time of Tertullian.]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part VII
+## Chapter XV: Progress Of The Christian Religion.--Part VII
 
 I. The community of goods, which had so agreeably amused the imagination
 of Plato, [128] and which subsisted in some degree among the austere sect
@@ -26078,7 +26079,7 @@ the various theories.--M.]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part VIII.
+## Chapter XV: Progress Of The Christian Religion.--Part VIII.
 
 The rich provinces that extend from the Euphrates to the Ionian
 Sea, were the principal theatre on which the apostle of the Gentiles
@@ -26450,7 +26451,7 @@ of Assemani.]
 
 
 
-Chapter XV: Progress Of The Christian Religion.--Part IX.
+## Chapter XV: Progress Of The Christian Religion.--Part IX.
 
 From this impartial though imperfect survey of the progress of
 Christianity, it may perhaps seem probable, that the number of its

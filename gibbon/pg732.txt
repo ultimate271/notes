@@ -44,12 +44,12 @@ With notes by the Rev. H. H. Milman
 
 
 
-VOLUME TWO
+# VOLUME TWO
 
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part I.
 
      The Conduct Of The Roman Government Towards The Christians,
@@ -574,7 +574,7 @@ honorable testimony of Pliny, with much reason and some declamation.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part II.
 
 History, which undertakes to record the transactions of the past, for
@@ -1186,7 +1186,7 @@ uncle lost his life.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part III.
 
 The answer of Trajan, to which the Christians of the succeeding age have
@@ -1583,7 +1583,7 @@ circumstances.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part IV.
 
 When Valerian was consul for the third, and Gallienus for the fourth
@@ -2059,7 +2059,7 @@ tenth and greatest persecution for the coming of the Antichrist.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part V.
 
 The apology of Tertullian contains two very ancient, very singular, but
@@ -2687,7 +2687,7 @@ Justinian. l. i. i. l. s.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part VI.
 
 Although the policy of Diocletian and the humanity of Constantius
@@ -3159,7 +3159,7 @@ part i. 90.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part VII.
 
 Diocletian had no sooner published his edicts against the Christians,
@@ -3663,7 +3663,7 @@ partial, light on the history of the African church.]
 
 
 
-Chapter XVI: Conduct Towards The Christians, From Nero To
+## Chapter XVI: Conduct Towards The Christians, From Nero To
 Constantine.--Part VIII.
 
 The vague descriptions of exile and imprisonment, of pain and torture,
@@ -3839,7 +3839,7 @@ eventually the least departure from truth!--M.]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part I.
+## Chapter XVII: Foundation Of Constantinople.--Part I.
 
 Foundation Of Constantinople.--Political System Constantine, And His
 Successors.--Military Discipline.--The Palace.--The Finances.
@@ -4369,7 +4369,7 @@ those divisions.]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part II.
+## Chapter XVII: Foundation Of Constantinople.--Part II.
 
 The master of the Roman world, who aspired to erect an eternal monument
 of the glories of his reign could employ in the prosecution of that
@@ -4857,7 +4857,7 @@ tom. vii. p. 40.]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part III.
+## Chapter XVII: Foundation Of Constantinople.--Part III.
 
 The manly pride of the Romans, content with substantial power, had
 left to the vanity of the East the forms and ceremonies of ostentatious
@@ -5376,7 +5376,7 @@ Code.]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part IV.
+## Chapter XVII: Foundation Of Constantinople.--Part IV.
 
 Those who, in the imperial hierarchy, were distinguished by the title
 of Respectable, formed an intermediate class between the illustrious
@@ -5893,7 +5893,7 @@ Linder brogius and Valesius ad Ammian. Marcellin, l. xv. c. 12]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part V.
+## Chapter XVII: Foundation Of Constantinople.--Part V.
 
 The introduction of Barbarians into the Roman armies became every day
 more universal, more necessary, and more fatal. The most daring of the
@@ -6352,7 +6352,7 @@ importance with some degree of perplexity.]
 
 
 
-Chapter XVII: Foundation Of Constantinople.--Part VI.
+## Chapter XVII: Foundation Of Constantinople.--Part VI.
 
 The name and use of the indictions, [170] which serve to ascertain the
 chronology of the middle ages, were derived from the regular practice of
@@ -6866,7 +6866,7 @@ for the one; birth might suffice for the other.]
 
 
 
-Chapter XVIII: Character Of Constantine And His Sons.--Part I.
+## Chapter XVIII: Character Of Constantine And His Sons.--Part I.
 
 Character Of Constantine.--Gothic War.--Death Of Constantine.--Division
 Of The Empire Among His Three Sons.--Persian War.--Tragic Deaths Of
@@ -7340,7 +7340,7 @@ ii. p. 105.]
 
 
 
-Chapter XVIII: Character Of Constantine And His Sons.--Part II.
+## Chapter XVIII: Character Of Constantine And His Sons.--Part II.
 
 By the death of Crispus, the inheritance of the empire seemed to devolve
 on the three sons of Fausta, who have been already mentioned under
@@ -7832,7 +7832,7 @@ continued above four months.]
 
 
 
-Chapter XVIII: Character Of Constantine And His Sons.--Part III.
+## Chapter XVIII: Character Of Constantine And His Sons.--Part III.
 
 The voice of the dying emperor had recommended the care of his funeral
 to the piety of Constantius; and that prince, by the vicinity of his
@@ -8369,7 +8369,7 @@ himself in vague declamation.]
 
 
 
-Chapter XVIII: Character Of Constantine And His Sons.--Part IV.
+## Chapter XVIII: Character Of Constantine And His Sons.--Part IV.
 
 The fate of Constans himself was delayed about ten years longer, and the
 revenge of his brother's death was reserved for the more ignoble hand of
@@ -8937,7 +8937,7 @@ Mar. loc. cit.--M.]
 
 
 
-Chapter XIX: Constantius Sole Emperor.--Part I.
+## Chapter XIX: Constantius Sole Emperor.--Part I.
 
      Constantius Sole Emperor.--Elevation And Death Of Gallus.--
      Danger And Elevation Of Julian.--Sarmatian And Persian
@@ -9279,7 +9279,7 @@ road at a little place in Bithynia, called Coenum Gallicanum.]
 
 
 
-Chapter XIX: Constantius Sole Emperor.--Part II.
+## Chapter XIX: Constantius Sole Emperor.--Part II.
 
 After a long delay, the reluctant Caesar set forwards on his journey to
 the Imperial court. From Antioch to Hadrianople, he traversed the wide
@@ -9874,7 +9874,7 @@ truth]
 
 
 
-Chapter XIX: Constantius Sole Emperor.--Part III.
+## Chapter XIX: Constantius Sole Emperor.--Part III.
 
 While the Roman emperor and the Persian monarch, at the distance
 of three thousand miles, defended their extreme limits against the
@@ -10319,7 +10319,7 @@ whose name was happily expressive of his talents.]
 
 
 
-Chapter XIX: Constantius Sole Emperor.--Part IV.
+## Chapter XIX: Constantius Sole Emperor.--Part IV.
 
 Under these melancholy circumstances, an unexperienced youth was
 appointed to save and to govern the provinces of Gaul, or rather, as he
@@ -10920,7 +10920,7 @@ fourth century, assumed the territorial appellation of Parisii.]
 
 
 
-Chapter XX: Conversion Of Constantine.--Part I.
+## Chapter XX: Conversion Of Constantine.--Part I.
 
     The Motives, Progress, And Effects Of The Conversion Of
 Constantine.--Legal Establishment And Constitution Of The Christian Or
@@ -11345,7 +11345,7 @@ terms.]
 
 
 
-Chapter XX: Conversion Of Constantine.--Part II.
+## Chapter XX: Conversion Of Constantine.--Part II.
 
 The assurance that the elevation of Constantine was intimately connected
 with the designs of Providence, instilled into the minds of the
@@ -11916,7 +11916,7 @@ enthusiasm, which exalts his fancy without degrading his judgment.]
 
 
 
-Chapter XX: Conversion Of Constantine.--Part III.
+## Chapter XX: Conversion Of Constantine.--Part III.
 
 The awful mysteries of the Christian faith and worship were concealed
 from the eyes of strangers, and even of catechu mens, with an affected
@@ -12574,7 +12574,7 @@ peace of that turbulent capital.]
 
 
 
-Chapter XX: Conversion Of Constantine.--Part IV.
+## Chapter XX: Conversion Of Constantine.--Part IV.
 
 III. The edict of Milan secured the revenue as well as the peace of the
 church. [101] The Christians not only recovered the lands and houses of
@@ -13029,7 +13029,7 @@ immense compilation, seldom depart so well satisfied.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part I.
 
 Persecution Of Heresy.--The Schism Of The Donatists.--The Arian
 Controversy.--Athanasius.--Distracted State Of The Church And Empire
@@ -13485,7 +13485,7 @@ Virgin, died and was buried.--M.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part II.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part II.
 
 The eloquence of Plato, the name of Solomon, the authority of the school
 of Alexandria, and the consent of the Jews and Greeks, were insufficient
@@ -13867,7 +13867,7 @@ subject.--M.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part III.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part III.
 
 II. The devotion of individuals was the first circumstance which
 distinguished the Christians from the Platonists: the second was the
@@ -14407,7 +14407,7 @@ were deceived, and who repented.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part IV.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part IV.
 
 Such was the rise and progress, and such were the natural revolutions
 of those theological disputes, which disturbed the peace of Christianity
@@ -14924,7 +14924,7 @@ less absurd.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part V.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part V.
 
 But the injustice of these ecclesiastical judges had not been
 countenanced by the submission, or even by the presence, of Athanasius.
@@ -15459,7 +15459,7 @@ esteem of Athanasius.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part VI.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part VI.
 
 Athanasius had indeed escaped from the most imminent dangers; and the
 adventures of that extraordinary man deserve and fix our attention. On
@@ -15870,7 +15870,7 @@ fables and miracles, is entitled to some commendation.]
 
 
 
-Chapter XXI: Persecution Of Heresy, State Of The Church.--Part VII.
+## Chapter XXI: Persecution Of Heresy, State Of The Church.--Part VII.
 
 The cruel and arbitrary disposition of Constantius, which did not always
 require the provocations of guilt and resistance, was justly exasperated
@@ -16321,7 +16321,7 @@ Greece and Rome.]
 
 
 
-Chapter XXII: Julian Declared Emperor.--Part I
+## Chapter XXII: Julian Declared Emperor.--Part I
 
 Julian Is Declared Emperor By The Legions Of Gaul.--His March And
 Success.--The Death Of Constantius.--Civil Administration Of Julian.
@@ -16797,7 +16797,7 @@ the reign of Valens, he signalized his valor in the Armenian war, (xxix.
 
 
 
-Chapter XXII: Julian Declared Emperor.--Part II.
+## Chapter XXII: Julian Declared Emperor.--Part II.
 
 The ambassadors of Julian had been instructed to execute, with the
 utmost diligence, their important commission. But, in their passage
@@ -17291,7 +17291,7 @@ must be either 331 or 332. Tillemont, Hist. des Empereurs, tom. iv. p.
 
 
 
-Chapter XXII: Julian Declared Emperor.--Part III.
+## Chapter XXII: Julian Declared Emperor.--Part III.
 
 Philosophy had instructed Julian to compare the advantages of action
 and retirement; but the elevation of his birth, and the accidents of
@@ -17654,7 +17654,7 @@ tom. i. p. 218, ad locum.]
 
 
 
-Chapter XXII: Julian Declared Emperor.--Part IV.
+## Chapter XXII: Julian Declared Emperor.--Part IV.
 
 The numerous army of spies, of agents, and informers enlisted by
 Constantius to secure the repose of one man, and to interrupt that of
@@ -17953,7 +17953,7 @@ Christian post above his usual mediocrity.]
 
 
 
-Chapter XXIII: Reign Of Julian.--Part I.
+## Chapter XXIII: Reign Of Julian.--Part I.
 
 The Religion Of Julian.--Universal Toleration.--He Attempts To Restore
 And Reform The Pagan Worship--To Rebuild The Temple Of Jerusalem--His
@@ -18464,7 +18464,7 @@ lettre.]
 
 
 
-Chapter XXIII: Reign Of Julian.--Part II.
+## Chapter XXIII: Reign Of Julian.--Part II.
 
 The inclination of Julian might prefer the gods of Homer, and of the
 Scipios, to the new faith, which his uncle had established in the Roman
@@ -18969,7 +18969,7 @@ Constantine and his successors, (tom. viii. c. iv. p. 111-153.)]
 
 
 
-Chapter XXIII: Reign Of Julian.--Part III.
+## Chapter XXIII: Reign Of Julian.--Part III.
 
 In the midst of a rocky and barren country, the walls of Jerusalem [59]
 enclosed the two mountains of Sion and Acra, within an oval figure of
@@ -19372,7 +19372,7 @@ Gibbon has forgotten Basnage, to whom Warburton replied.--M.
 
 
 
-Chapter XXIII: Reign Of Julian.--Part IV.
+## Chapter XXIII: Reign Of Julian.--Part IV.
 
 The restoration of the Jewish temple was secretly connected with the
 ruin of the Christian church. Julian still continued to maintain the
@@ -19801,7 +19801,7 @@ original and authentic air.]
 
 
 
-Chapter XXIII: Reign Of Julian.--Part V.
+## Chapter XXIII: Reign Of Julian.--Part V.
 
 The zeal of the ministers of Julian was instantly checked by the frown
 of their sovereign; but when the father of his country declares himself
@@ -20218,7 +20218,7 @@ Eccles. tom. vii. p. 575.)]
 
 
 
-Chapter XXIV: The Retreat And Death Of Julian.--Part I.
+## Chapter XXIV: The Retreat And Death Of Julian.--Part I.
 
 Residence Of Julian At Antioch.--His Successful Expedition Against
 The Persians.--Passage Of The Tigris--The Retreat And Death Of
@@ -20640,7 +20640,7 @@ writings of this famous sophist.]
 
 
 
-Chapter XXIV: The Retreat And Death Of Julian.--Part II.
+## Chapter XXIV: The Retreat And Death Of Julian.--Part II.
 
 The martial impatience of Julian urged him to take the field in the
 beginning of the spring; and he dismissed, with contempt and reproach,
@@ -21132,7 +21132,7 @@ millions raised upon the people.]
 
 
 
-Chapter XXIV: The Retreat And Death Of Julian.--Part III.
+## Chapter XXIV: The Retreat And Death Of Julian.--Part III.
 
 The fields of Assyria were devoted by Julian to the calamities of war;
 and the philosopher retaliated on a guiltless people the acts of rapine
@@ -21634,7 +21634,7 @@ the hopes and passions of his master.]
 
 
 
-Chapter XXIV: The Retreat And Death Of Julian.--Part IV.
+## Chapter XXIV: The Retreat And Death Of Julian.--Part IV.
 
 The honor, as well as interest, of Julian, forbade him to consume his
 time under the impregnable walls of Ctesiphon and as often as he defied
@@ -22149,7 +22149,7 @@ and religious prejudice.]
 
 
 
-Chapter XXIV: The Retreat And Death Of Julian.--Part V.
+## Chapter XXIV: The Retreat And Death Of Julian.--Part V.
 
 The esteem of an enemy is most sincerely expressed by his fears; and
 the degree of fear may be accurately measured by the joy with which he
@@ -22716,7 +22716,7 @@ urbem aeternam, divorumque veterum monumenta praestringens Ammian. xxv.
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part I.
 
 The Government And Death Of Jovian.--Election Of Valentinian, Who
@@ -23156,7 +23156,7 @@ apparitoris morigerum, ut progrediens aperiet textus. Ammian. xxvi. 4.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part II.
 
 Before Valentinian divided the provinces, he reformed the administration
@@ -23698,7 +23698,7 @@ xxix. and Valesius ad locum.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part III.
 
 But in the calmer moments of reflection, when the mind of Valens was not
@@ -24194,7 +24194,7 @@ Damasus would not have purchased his conversion at such a price.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part IV.
 
 When the suffrage of the generals and of the army committed the sceptre
@@ -24768,7 +24768,7 @@ Gibbon was.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part V.
 
 Six years after the death of Constantine, the destructive inroads of the
@@ -25214,7 +25214,7 @@ humanity.--M.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part VI.
 
 IV. The ignominious treaty, which saved the army of Jovian, had been
@@ -25754,7 +25754,7 @@ carefully mark the origin and progress of the Quadic and Sarmatian war.]
 
 
 
-Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
+## Chapter XXV: Reigns Of Jovian And Valentinian, Division Of The
 Empire.--Part VII.
 
 The mind of Valentinian, who then resided at Treves, was deeply affected
@@ -25917,7 +25917,7 @@ ambiguous style.]
 
 
 
-Chapter XXVI: Progress of The Huns.--Part I.
+## Chapter XXVI: Progress of The Huns.--Part I.
 
 Manners Of The Pastoral Nations.--Progress Of The Huns, From China
 To Europe.--Flight Of The Goths.--They Pass The Danube.--Gothic
@@ -26516,7 +26516,7 @@ the Genealogical History, vol. ii. p. 620--664.]
 
 
 
-Chapter XXVI: Progress of The Huns.--Part II.
+## Chapter XXVI: Progress of The Huns.--Part II.
 
 The Huns, who under the reign of Valens threatened the empire of Rome,
 had been formidable, in a much earlier period, to the empire of China.
@@ -27141,7 +27141,7 @@ these different names. St. Martin, iv 103.--M.]
 
 
 
-Chapter XXVI: Progress of The Huns.--Part III.
+## Chapter XXVI: Progress of The Huns.--Part III.
 
 After Valens had terminated the Gothic war with some appearance of glory
 and success, he made a progress through his dominions of Asia, and at
@@ -27744,7 +27744,7 @@ xii. p. 645.)]
 
 
 
-Chapter XXVI: Progress of The Huns.--Part IV.
+## Chapter XXVI: Progress of The Huns.--Part IV.
 
 One of the most dangerous inconveniences of the introduction of the
 Barbarians into the army and the palace, was sensibly felt in their
@@ -28199,7 +28199,7 @@ Sophonias and tom. i. p. 26.]
 
 
 
-Chapter XXVI: Progress of The Huns.--Part V.
+## Chapter XXVI: Progress of The Huns.--Part V.
 
 Whatever may have been the just measure of the calamities of Europe,
 there was reason to fear that the same calamities would soon extend
