@@ -8172,4 +8172,178 @@ I also want to say that I plan to go to the writers meeting on Tuesday,
 tomorrow, but I don't have much to say about that, and I need to stop. So this
 is me stopping. Till next time.
 
+# 20180723
+So last night I had one of those dreams where I woke up and I was so excited
+that I had a really good dream, but then I forgot it, and I thought it had
+something to do with bowling, I had, "well sometimes you get to three strikes
+and sometimes you don't" or something like that in my head, thinking that I had
+forgotten the dream, and then it came back all in a flash, and I have no clue,
+no conception of how I could have forgotten it, because it was a really good
+dream. Not in a beautiful or pretty way, not like that at all, but instead
+beautiful in just how involved it is. There is so much symbolism, and motifs,
+and people I know in the dream, it's really fascinating to me. So let's just
+get into it.
 
+So this dream location is in my dream version of a giant skyscraper school
+building. This building, I know at least the parking garage, has been the
+location of many of my dreams in the past, but this building is a little off of
+the parking garage. The parking garage is many levels, but in this dream I am
+only on the floor level. And on the floor level, it opens up to the east, and
+northeast is the building that is relevent to this dream. In this building is
+what you would normally think of when you think of a generic skyscraper. There
+are hallways, none of which are entirely straight, and in each of these
+hallways there are doors, all having offices and classroom meeting places. The
+particular room where this dream starts is on maybe the seventh floor, that
+seems right (although later in the dream I forget the location, and that
+becomes relevent) and the class room is composed of maybe twenty students,
+which is about the capacity of the room, and the teacher is Jay. This dream has
+a lot of work people in it. So Jay is teaching a class, and I don't remember on
+what subject he is teaching, but he is teaching, and he is stumbling through
+it, not teaching very well, and generally somewhat getting through the lecture,
+but not really, and I remember having a moment where I was thinking "this is a
+waste of my time, am I going to learn anything here?" and around that point we
+are dismissed. So I go back down to the parking garage (and I don't remember
+going down any stairs or anything, I'm not sure how I got back to the ground
+level of the garage where my car was) and Eric comes up to me, and starts
+making conversation. I remember saying something about the class, and how I'm
+curious to see what will happen next week, and Eric sort of chuckles and says
+"Let me let you in on something, there isn't going to be a class next week,
+we're going to fire Jay." and he told me in the sort of way someone might tell
+someone that they were planning on throwing their wife a surprise party. He
+told me in a very matter of fact, hush hush, keep the secret sort of way.
+Anyway, I said, is that so, and I wasn't sure how to react, and I might have
+said something about Jay's inadecquecy in teaching, but I remember I got into
+my car and drove back. Now, at this point in the dream, I don't remember
+driving away, but I definitely remember driving back the next day, I'm not sure
+what sort of dream magic happened to make that happen, but it's the next day,
+and I drive back to the same spot in the garage, and as I start getting out of
+my car (the interior of which I will describe in a bit) I start putting my
+shoes on outside the car, and I start to panic a bit because I have forgotten
+the location of the classroom. I remembered what it looked like, but I forgot
+what floor it was on, so I had decided to go to the first floor that seemed
+correct, and then wander from there. But this was all my thought, and I was
+still putting my shoes on when I saw Eric again. Eric came up to me and I said,
+"Oh good, I'm glad I ran into you, I've forgotten the floor to the classroom,
+so I wanted to ask you which room it was in" and he said "That doesn't matter,
+Jay is getting fired, don't you remember" and I said, "Yes I do, but I still
+thought we would go to class." And Eric says, "No, in fact..." and he starts to
+go on about the nature of Jay's firing, but before he can continue, he sees a
+couple other classmates, (and I don't think they were alliant employees, but
+just other dream people) and he goes off to tell them about the fact that Jay
+has been fired. In fact, Eric is busy at work telling people all about the
+news. Well, I get out of my car, and look around this garage. Like I said, the
+garage opens up to the east, to the bushes and the greenways there, but this
+garage is strange in that, on the inside of it, along the north wall, there is
+an elevated area, and this elevated area has some stairways going up to it, and
+it's seprated from the rest by full size glass walls, and the stairways lead up
+to sliding glass doors, and inside this glass area is a sort of foyer almost,
+but it's still in a parking garage so I don't want this to be all too fancy. In
+fact, I remember a previous dream where this elevated glass area became the
+subject of an action movie sequence for me, and I was the "good guy" and I was
+fighting a bunch of bad guys, and this glass area became a point of tactical
+position. Anyway, that dream was so many years ago, and I only bring that up to
+say that, now in my waking moments, I remember this location as one that I have
+had very explicitly in previous dreams. So after Eric goes off and begins
+telling everyone else all the news he needs to tell them (and I want to make
+note that he seems very excited about the whole thing, speaking in hurried
+words and never finishing his sentences) I am left standing there, near my car,
+and I look to my right to see this elevated area with the glass, and there I
+see three people, two of them being Caitlin and Valerie (and the identity of
+those two cannot be a coincidence, as will become evident later) and they are
+standing there, shoulder to shoulder facing away from the wall, and then I look
+up to the elevated area and I see someone else, I forget who, and I forget
+exactly how they play in. But as I look up at the elevated area, a commotion
+starts to play out, and there are some ruffians who are there to make some
+trouble, they are ethnically black and half black, the sort of black people who
+you look at and say "you are not entirely african, but you certainly identify
+as black". Regardless, these ruffians start to make a ruccus at the top, and
+then I realize that they are making a ruffus of the two girls standing at the
+bottom, and I look back over to them, and the state of the ruccus is, they have
+unclothed both of the girls, (Caitlin is closer to the elevated area, and
+Valerie is further east more away from the glass), and they are turned almost
+out of shame and maybe partly out of fear to (although there was not much
+emotion on the girls faces that I remember, besides maybe the emotion of "i
+froze up") but I looked towards the scene, and I remember I saw the ruffians
+were discarding their clothes, and the girls were faced away, entirely naked,
+and I saw there bare asses, both of them, and I looked at them, and I saw them
+naked, and my first thought was, "I should do something" and immediately after
+that thought, which was my instinctual thought, I had a thought that was
+counter to that, which said, "they're naked, that's what you've been
+fantasizing about" and I actually entertained the thought of just watching on,
+because at this point the ruffians had not done any actual physical harm to the
+girls, and my base sexuality just wanted to see them naked, that was the "goal"
+for my sexual self, and I had acheived that goal. Well, I only entertained that
+second thought for long enough to realize how absurd that notion was, and I
+knew that certainly they would continue to rape the two girls there, and I knew
+that I had to intervene, not for my sake, but for the girls. Indeed, I had no
+intention of "winning them over" as is evident, because I intervened, and I
+placed myself between the ruffians and the girls, facing the ruffians with the
+girls at my back, and I made myself imposing, and puffed my chest, and got to
+the point where I was very scared, because I did not know what sort of weapons
+they might have, so I was trying to evaluate the situation as best I could, but
+I was determined not to resort to fighting them unless it became absolutely
+neccesary. That is, I wasn't scared of fighting any more than I was scared of
+anything else, but rather I knew that the situation was unfavorable for me to
+fight, and that by showing my intention to fight them, I could win the fight
+without having to actually do any fighting. To be clear, I was wholly prepared
+to fight, and the entire time was constantly both evaluating my opponents, both
+of whom seemed pretty "street fighting" in their style (meaning they were
+untrained, and were "trained by the streets" meaning they would have little
+technique but a lot of spastic in them), and at the same time on edge to the
+point where any false move by one of them, any move by them to compromise their
+position and give me reason to fight them, I was ready to jump on that
+advantage should I get approached. But they backed off, and at that point, I
+looked back to the girls, who were still frozen there naked, to determine that
+they were okay, and that was that. Well, whatever was going on up top, to my
+right, up the stairs, through the glass sliding door, and on that elevated
+area, there was a similar altercation going on there as well, but that one
+resolved itself a little differently, I don't remember details about it, in
+fact I might not even have details, but I remember out of that scene, Chris
+Konkol came down through the doors, and I saw him, and he beckoned me to follow
+him, as if he wanted to tell me something. So I follow him (and at this point
+the girls have completely left my mind, they were safe and were none of my
+business anymore, they could take care of themselves, and I was not concerned
+for them any more) and he asks me if there is somewhere we can go to talk. I
+mention that we could go to my car, which is just right there, and he says that
+works, and Nick is there too, so we meet Nick, and I usher them in to my car.
+Well, at this point there is something very strange going on that I don't know
+how to describe. The inside of my car is an entire room, almost like the back
+of a van would be. We walk into my car from the rear, and on both sides there
+is a couch, and in the center there is a sort of pedastal, not a pedastal with
+anything on it, but just a pedastal that is required there for the structural
+stability of the car (it makes sense to me in the dream). So we get in, and
+Chirs and Nick sit there in the car on the couch, and I sit across from them.
+And they are sitting there, and they start talking almost between themselves,
+with me there, about the firing of Jay, and it's meanings. And I remember
+looking at Nick, and he was a woman, and I remember thinking, "he reminds me
+very much of what I man would be like, what a strange woman he is" and that
+thought was just that absurd. I even remember thinking, "Even Nick is the name
+of a man, it's almost as if he is a man," but the figure I saw before me was a
+woman, but not a pretty woman or anything, but almost what you would imagine a
+male to female trans would look like, wearing a dress, but having scrawny
+unattatractive legs come out of them, and wearing make up but having it not
+make her appearence any better as a result. Well, I looked at this for a bit,
+and I saw very much the actual Nick in her, but I did not dwell on that too
+much, and I remember him (or her, I honestly don't know what to say) saying
+something like, "I'm honestly not surprised, he was asking me the stupidest
+question about Java the other day, it's a wonder he got so far as he did" or
+something like that. And while we were there in the car, about five other
+people came up to the trunk, and were standing outside (there was not enough
+room for many more in the back of my car) and listening in on the conversation.
+
+Well, this is about the time I woke up, and like I said, I forgot about the
+dream entirely. Actually, I think I rememebered it, and was excited that I had
+such an interesting dream, but I went back to sleep and had a dream about
+bowling, a very mundane uninteresting dream, and when I woke from that dream, I
+thought, "well, I know I had a profound dream, but sometimes you can't get all
+three strikes" and I literally had a moment there where I thought about how I
+could write about this bowling dream, but I knew that that wasn't it, and
+something sparked my memory, "Jay getting fired" was the mantra I had to
+remember this particular dream, and it came rushing back to me all at once,
+like a light bulb had clicked on.
+
+So that was the dream. There is a lot to unpack there. Jay getting fired, me
+forgetting the room, Eric being excited to tell people, the scene with the two
+girls and the ruffians, then the conversation with Konkol and female Nick, in
+the back of my somehow large enough to fit the three of us on couches car. A
+very fascinating dream.
