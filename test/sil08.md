@@ -1,8 +1,8 @@
 # Chapter 8: Of the Darkening of Valinor
 
-## Of Melkor's deceptions in flight, and his meeting of Ungoliant
+# Of Melkor's deceptions in flight, and his meeting of Ungoliant
 
-### Oromë and Tulkas chase Melkor to the North, but in secret he fled to the south
+## Oromë and Tulkas chase Melkor to the North, but in secret he fled to the south
 When Manwë heard of the ways that Melkor had taken, it seemed plain to him that
 he purposed to escape to his old strongholds in the north of Middle-earth; and
 Oromë and Tulkas went with all speed northward, seeking to overtake him if they
@@ -14,7 +14,7 @@ to the south. For he was yet as one of the Valar, and could change his form, or
 walk unclad, as could his brethren; though that power he was soon to lose for
 ever.
 
-### Melkor finds Ungoliant in the south at the borders of Aman in Avathar
+## Melkor finds Ungoliant in the south at the borders of Aman in Avathar
 Thus unseen he came at last to the dark region of Avathar. That narrow land lay
 south of the Bay of Eldamar, beneath the eastern feet of the Pelóri, and its
 long and mournful shores stretched away into the south, lightless and
@@ -31,13 +31,13 @@ of Oromë, for their vigilance had ever been to the north, and the south was
 long unheeded. Thence she had crept towards the light of the Blessed Realm; for
 she hungered for light and hated it.
 
-### Of Ungoliant, her form as a spider, and her ever hunger to consume the light
+## Of Ungoliant, her form as a spider, and her ever hunger to consume the light
 In a ravine she lived, and took shape as a spider of monstrous form, weaving
 her black webs in a cleft of the mountains. There she sucked up all light that
 she could find, and spun it forth again in dark nets of strangling gloom, until
 no light more could come to her abode; and she was famished.
 
-### Melkor promises great reward from both hands if she were to join in his pursuits
+## Melkor promises great reward from both hands if she were to join in his pursuits
 Now Melkor came to Avathar and sought her out; and he put on again the form
 that he had worn as the tyrant of Utumno: a dark Lord, tall and terrible. In
 that form he remained ever after. There in the black shadows, beyond the sight
@@ -50,7 +50,7 @@ will give thee whatsoever thy lust may demand. Yea, with both hands.' Lightly
 he made this vow, as he ever did; and he laughed in his heart.  Thus did the
 great thief set his lure for the lesser.
 
-### Ungoliant weaves her webs and brings the duo up and over Hyarmentir
+## Ungoliant weaves her webs and brings the duo up and over Hyarmentir
 A cloak of darkness she wove about them when Melkor and Ungoliant set forth; an
 Unlight, in which things seemed to be no more, and which eyes could not pierce,
 for it was void. Then slowly she wrought her webs: rope by rope from cleft to
@@ -69,9 +69,9 @@ the silver domes of Valmar gleaming in the mingling of the lights of Telperion
 and Laurelin. Then Melkor laughed aloud, and leapt swiftly down the long
 western slopes; and Ungoliant was at his side, and her darkness covered them.
 
-## Of the festival during that time
+# Of the festival during that time
 
-### Of the festival that was taking place
+## Of the festival that was taking place
 Now it was a time of festival, as Melkor knew well. Though all tides and
 seasons were at the will of the Valar, and in Valinor there was no winter of
 death, nonetheless they dwelt then in the Kingdom of Arda, and that was but a
@@ -81,7 +81,7 @@ Valar (as is told in the Ainulindalë) to clothe themselves as in a vesture in
 the forms of the Children of Ilúvatar, so also did they eat and drink, and
 gather the fruits of Yavanna from the Earth, which under Eru they had made.
 
-### All of Valinor and Tirion were gathered for the feast, leaving the streets empty
+## All of Valinor and Tirion were gathered for the feast, leaving the streets empty
 Therefore Yavanna set times for the flowering and the ripening of all things
 mat grew in Valinor; and at each first gathering of fruits Manwë made a high
 feast for the praising of Eru, when all the peoples of Valinor poured forth
@@ -103,7 +103,7 @@ recked little of seasons or times, and gave no thought to the cares of the
 Rulers of Arda, or the shadow that had fallen on Valinor, for it had not
 touched them, as yet.
 
-### Fëanor Manwë command to join, but Finwë stayed in Formenos with the Silmarils
+## Fëanor Manwë command to join, but Finwë stayed in Formenos with the Silmarils
 One thing only marred the design of Manwë. Fëanor came indeed, for him alone
 Manwë had commanded to come; but Finwë came not, nor any others of the Noldor
 of Formenos. For said Finwë: 'While the ban lasts upon Fëanor my son, that he
@@ -116,18 +116,18 @@ in word; and Fingolfin set at naught the unsheathing of the sword. For
 Fingolfin held forth his hand, saying: 'As I promised, I do now. I release
 thee, and remember no grievance.'
 
-### Fingolfin makes amend to Fëanor
+## Fingolfin makes amend to Fëanor
 Then Fëanor took his hand in silence; but Fingolfin said: 'Half-brother in
 blood, full brother in heart will I be. Thou shalt lead and I will follow. May
 no new grief divide as.'
 
-### Fëanor responds to Fingolfin
+## Fëanor responds to Fingolfin
 'I hear thee,' said Fëanor. 'So be it.' But they did not know the meaning that
 their words would bear.
 
-## Of Ungoliant and Melkor's destruction of the Trees of Valinor and their flight therein
+# Of Ungoliant and Melkor's destruction of the Trees of Valinor and their flight therein
 
-### Ungoliant and Melkor journey to Ezellohar, Melkor smites the trees while Ungoliant sucks their sap dry
+## Ungoliant and Melkor journey to Ezellohar, Melkor smites the trees while Ungoliant sucks their sap dry
 It is told that even as Fëanor and Fingolfin stood before Manwë there came the
 mingling of the lights, when both Trees were shining, and the silent city of
 Valmar was filled with a radiance of silver and gold.  And in that very hour
@@ -144,7 +144,7 @@ And still she thirsted, and going to the Wells of Varda she drank them dry; but
 Ungoliant belched forth black vapours as she drank, and swelled to a shape so
 vast and hideous that Melkor was afraid.
 
-### Of the darkness told in the Aldudénië of Elemmírë of the Vanyar
+## Of the darkness told in the Aldudénië of Elemmírë of the Vanyar
 So the great darkness fell upon Valinor. Of the deeds of that day much is told
 in the Aldudénië, that Elemmírë of the Vanyar made and is known to all the
 Eldar. Yet no song or tale could contain all the grief and terror that then
@@ -154,7 +154,7 @@ being of its own: for it was indeed made by malice out of Light, and it had
 power to pierce the eye, and to enter heart and mind, and strangle the very
 will.
 
-### Varda witnesses the Shadow soaring from Taniquetil
+## Varda witnesses the Shadow soaring from Taniquetil
 Varda looked down from Taniquetil, and beheld the Shadow soaring up in sudden
 towers of gloom; Valmar had foundered in a deep sea of night.  Soon the Holy
 Mountain stood alone, a last island in a world that was drowned. All song
@@ -164,13 +164,13 @@ of the Teleri like the cold cry of gulls. For it blew chill from the East in
 that hour, and the vast shadows of the sea were rolled against the walls of the
 shore.
 
-### Manwë also witness the Shadow, and piercing through it sees a Darkness move northward with Melkor and Ungoliant
+## Manwë also witness the Shadow, and piercing through it sees a Darkness move northward with Melkor and Ungoliant
 But Manwë from his high seat looked out, and his eyes alone pierced through the
 night, until they saw a Darkness beyond dark which they could not penetrate,
 huge but far away, moving now northward with great speed; and he knew that
 Melkor had come and gone.
 
-### Of Oromë's pursuit, the darkness he meets, and Melkor's escape from Valinor
+## Of Oromë's pursuit, the darkness he meets, and Melkor's escape from Valinor
 Then the pursuit was begun; and the earth shook beneath the horses of the host
 of Oromë, and the fire that was stricken from the hooves of Nahar was the first
 light that returned to Valinor. But so soon as any came up with the Cloud of

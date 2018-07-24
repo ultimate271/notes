@@ -1,8 +1,8 @@
 # Chapter 5: Of Eldamar and the Princes of the Eldalië
 
-## Of the first journey of the Eldar to the Land of Aman
+# Of the first journey of the Eldar to the Land of Aman
 
-### Orome brings the Eldar not north but into Beleriand to depart to Aman
+## Orome brings the Eldar not north but into Beleriand to depart to Aman
 In time the hosts of the Vanyar and the Noldor came to the last western shores
 of the Hither Lands. In the north these shores, in the ancient days after the
 Battle of the Powers, bent ever westward, until in the northernmost parts of
@@ -14,7 +14,7 @@ Sirion, that afterwards were named Beleriand; and from those shores whence
 first the Eldar looked in fear and wonder on the Sea there stretched an ocean,
 wide and dark and deep, between them and the Mountains of Aman.
 
-### Ulmo move the Isle of Balar to bring the Eldar accross the waters
+## Ulmo move the Isle of Balar to bring the Eldar accross the waters
 Now Ulmo, by the counsel of the Valar, came to the shores of Middle-earth and
 spoke with the Eldar who waited there, gazing on the dark waves; and because of
 his words and the music which he made for them on his horns of shell their fear
@@ -29,9 +29,9 @@ horn of the island, which was deep-grounded in the shoals off the mouths of
 Sirion, was broken asunder and remained behind and that, it is said, was the
 Isle of Balar, to which afterwards Ossë often came.
 
-## Of the second journey of the Teleri to Aman, and of those that stayed
+# Of the second journey of the Teleri to Aman, and of those that stayed
 
-### Osse and Uinen befriend the Teleri under Olwe who didn't make it in time
+## Osse and Uinen befriend the Teleri under Olwe who didn't make it in time
 But the Teleri remained still in Middle-earth, for they dwelt in East Beleriand
 far from the sea, and they heard not the summons of Ulmo until too late; and
 many searched still for Elwë their lord, and without him they were unwilling to
@@ -47,7 +47,7 @@ lovers of water, and the fairest singers of all the Elves, were after enamoured
 of the seas, and their songs were filled with the sound of waves upon the
 shore.
 
-### Of the Falathrim, led by Cirdan the Shipwright, who stayed in middle earth
+## Of the Falathrim, led by Cirdan the Shipwright, who stayed in middle earth
 When many years had passed, Ulmo hearkened to the prayers of the Noldor and of
 Finwë their king. Who grieved at their long sundering from the Teleri, and
 besought him to bring them to Aman, if they would come. And most of them proved
@@ -60,7 +60,7 @@ in after days had dwellings at the havens of Brithombar and Eglarest, the first
 mariners in Middle-earth and the first makers of ships. Círdan the Shipwright
 was their lord.
 
-### Olwe and his host of Teleri move across the sea
+## Olwe and his host of Teleri move across the sea
 The kinsfolk and friends of Elwë Singollo also remained in the Hither Lands,
 seeking him yet, though they would fain have departed to Valinor and the light
 of the Trees, if Ulmo and Olwë had been willing to tarry longer. But Olwë would
@@ -70,7 +70,7 @@ called themselves Eglath, the Forsaken People. They dwelt in the woods and
 hills of Beleriand, rather than by the sea, which filled them with sorrow; but
 the desire of Aman was ever in their hearts.
 
-### Elwe awakens from his trance with Melian, and is shown to be magnificent and kingly
+## Elwe awakens from his trance with Melian, and is shown to be magnificent and kingly
 But when Elwë awoke from his long trance, he came forth from Nan Elmoth with
 Melian, and they dwelt thereafter in the woods in the midst of the land.
 Greatly though he had desired to see again the light of the Trees, in the face
@@ -80,9 +80,9 @@ amazed; for fair and noble as he had been, now he appeared as it were a lord of
 the Maiar, his hair as grey silver, tallest of all the Children of Ilúvatar;
 and a high doom was before him.
 
-## Of the dwellings and buildings of the Eldar in Aman
+# Of the dwellings and buildings of the Eldar in Aman
 
-### Of Tol Eressea, the Lonely Isle, that was stayed off the coast of Eldamar
+## Of Tol Eressea, the Lonely Isle, that was stayed off the coast of Eldamar
 Now Ossë followed after the host of Olwë, and when they were come to the Bay of
 Eldamar (which is Elvenhome) he called to them; and they knew his voice, and
 begged Ulmo to stay their voyage. And Ulmo granted their request, and at his
@@ -99,7 +99,7 @@ stars of heaven, and yet within right of Aman and the deathless shore; and by
 that long sojourn apart in the Lonely Isle was caused the sundering of their
 speech from that of the Vanyar and the Noldor.
 
-### The building of Tuna about the coast of Eldamar, and Calacirya, the Pass of Light
+## The building of Tuna about the coast of Eldamar, and Calacirya, the Pass of Light
 To these the Valar had given a land and a dwelling-place. Even among the
 radiant flowers of the Tree-lit gardens of Valinor they longed still at times
 to see the stars; and therefore a gap was made in the great walls of the
@@ -112,7 +112,7 @@ kindling the dark waves to silver and gold, and it touched the Lonely Isle, and
 its western shore grew green and fair. There bloomed the first flowers that
 ever were east of the Mountains of Aman.
 
-### Of Tirion upon Tuna, tower of Ingwe, and Galathilion and Celeborn, the white tree made from the light of Telperion
+## Of Tirion upon Tuna, tower of Ingwe, and Galathilion and Celeborn, the white tree made from the light of Telperion
 Upon the crown of Túna the city of the Elves was built, the white walls and
 terraces of Tirion; and the highest of the towers of that city was the Tower of
 Ingwë, Mindon Eldaliéva, whose silver lamp shone far out into the mists of the
@@ -126,7 +126,7 @@ many in Eldamar. Of these one was afterwards planted in Tol Eressëa, and it
 prospered there, and was named Celeborn; thence came in me fullness of time as
 is elsewhere told, Nimloth, the White Tree of Númenor.
 
-### Of Finwe, and the Noldor's love of all things earthly
+## Of Finwe, and the Noldor's love of all things earthly
 Manwë and Varda loved most the Vanyar, the Fair Elves; but the Noldor were
 beloved of Aulë, and he and his people came often among them.  Great became
 their knowledge and their skill; yet even greater was their thirst for more
@@ -140,15 +140,15 @@ for the cutting and shaping of gems, and carved them in many forms. They
 hoarded them not, but gave them freely, and by their labour enriched all
 Valinor.
 
-## The telling of the kinship of the Noldor
+# The telling of the kinship of the Noldor
 
-### Preamble to the telling of the kinship of the Noldor
+## Preamble to the telling of the kinship of the Noldor
 The Noldor afterwards came back to Middle-earth, and this tale tells mostly of
 their deeds; therefore the names and kinship of their princes may here be told,
 in that form which these names later bore in the tongue of the Elves of
 Beleriand.
 
-### Of Fëanor, Fingolfin, and Finarfin, sons of Finwë and Míriel and Indis
+## Of Fëanor, Fingolfin, and Finarfin, sons of Finwë and Míriel and Indis
 Finwë was King of the Noldor. The sons of Finwë were Fëanor, and Fingolfin, and
 Finarfin; but the mother of Fëanor was Míriel Serindë, whereas the mother of
 Fingolfin and Finarfin was Indis of the Vanyar.  Fëanor was the mightiest in
@@ -158,7 +158,7 @@ Finarfin was the fairest, and the most wise of heart; and afterwards he was a
 friend of the sons of Olwë, lord of the Teleri, and had to wife Eärwen, the
 swan-maiden of Alqualondë, Olwë's daughter.
 
-### The seven sons of Fëanor
+## The seven sons of Fëanor
 The seven sons of Fëanor were Maedhros the tall; Maglor the mighty singer,
 whose voice was heard far over land and sea; Celegorm the fair, and Caranthir
 the dark; Curufin the crafty, who inherited most his father's skill of hand;
@@ -167,7 +167,7 @@ face. In later days they were great hunters in the woods of Middle-earth; and a
 hunter also was Celegorm, who in Valinor was a friend of Oromë, and often
 followed the Vala's horn.
 
-### The sons of Fingolfin and his daughter, Aredhel the White
+## The sons of Fingolfin and his daughter, Aredhel the White
 The sons of Fingolfin were Fingon, who was afterwards King of the Noldor in the
 north of the world, and Turgon, lord of Gondolin; their sister was Aredhel the
 White. She was younger in the years of the Eldar than her brothers; and when
@@ -177,7 +177,7 @@ sons of Fëanor, her kin; but to none was her heart's love given. Ar-Feiniel she
 was called, the White Lady of the Noldor, for she was pale though her hair was
 dark, and she was never arrayed but in silver and white.
 
-### The sons of Finarfin, and their sister Galadriel
+## The sons of Finarfin, and their sister Galadriel
 The sons of Finarfin were Finrod the faithful (who was afterwards named
 Felagund, Lord of Caves), Orodreth, Angrod, and Aegnor; these four were as
 close in friendship with the sons of Fingolfin as though they were all
@@ -185,9 +185,9 @@ brothers. A sister they had, Galadriel, most beautiful of all the house of
 Finwë; her hair was lit with gold as though it had caught in a mesh the
 radiance of Laurelin.
 
-## Of the doings of the Eldar in the beginning of their time in Aman
+# Of the doings of the Eldar in the beginning of their time in Aman
 
-### Of the Teleri and how they found the art of ship building
+## Of the Teleri and how they found the art of ship building
 Here must be told how the Teleri came at last to the land of Aman.  Through a
 long age they dwelt in Tol Eressëa; but slowly their hearts were changed, and
 were drawn towards the light that flowed out over the sea to the Lonely Isle.
@@ -200,7 +200,7 @@ were built he brought them as his parting gift many strong-winged swans. Then
 the swans drew the white ships of the Teleri over the windless sea; and thus at
 last and latest they came to Aman and the shores of Eldamar.
 
-### Of the wonderful times the Teleri had in Aman
+## Of the wonderful times the Teleri had in Aman
 There they dwelt, and if they wished they could see the light of the Trees, and
 could tread the golden streets of Valmar and the crystal stairs of Tirion upon
 Túna, the green hill; but most of all they sailed in their swift ships on the
@@ -216,7 +216,7 @@ and eyes of gold and jet. The gate of that harbour was an arch of living rock
 sea-carved; and it lay upon the confines of Eldamar, north of the Calacirya,
 where the light of the stars was bright and clear.
 
-### Of the drifting of the Vanyar from the Noldor
+## Of the drifting of the Vanyar from the Noldor
 As the ages passed the Vanyar grew to love the land of the Valar and the full
 light of the Trees, and they forsook the city of Tirion upon Túna, and dwelt
 thereafter upon the mountain of Manwë, or about the plains and woods of
@@ -229,7 +229,7 @@ peoples of Túna and Alqualondë drew together in those days. Finwë was king in
 Tirion and Olwë in Alqualondë; but Ingwë was ever held the High King of all the
 Elves. He abode thereafter at the feet of Manwë upon Taniquetil.
 
-### Of the wanderings of Fëanor and his sons and all the things they saw in Aman
+## Of the wanderings of Fëanor and his sons and all the things they saw in Aman
 Fëanor and his sons abode seldom in one place for long, but travelled far and
 wide upon the confines of Valinor, going even to the borders of the Dark and
 the cold shores of the Outer Sea, seeking the unknown.  Often they were guests

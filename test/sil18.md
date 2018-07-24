@@ -1,8 +1,8 @@
 # Chapter 18: Of the Ruin of Beleriand and the Fall of Fingolfin
 
-## Calm before the storm
+# Calm before the storm
 
-### Fingolfin ponders an assult on Angband
+## Fingolfin ponders an assult on Angband
 Now Fingolfin, King of the North, and High King of the Noldor, seeing that his
 people were become numerous and strong, and that the Men allied to them were
 many and valiant, pondered once more an assault upon Angband; for he knew that
@@ -21,7 +21,7 @@ King; for they dwelt in regions whence Thangorodrim could be descried, and the
 threat of Morgoth was present to their thought. Thus the designs of Fingolfin
 came to naught, and the land had peace yet for a while.
 
-### Morgoth becomes overhasty in his secret plans
+## Morgoth becomes overhasty in his secret plans
 But when the sixth generation of Men after Bëor and Marach were not yet come to
 full manhood, it being then four hundred years and five and fifty since the
 coming of Fingolfin, the evil befell that he had long dreaded, and yet more
@@ -34,9 +34,9 @@ longer, until his designs were full, then the Noldor would have perished
 utterly. But on his part he esteemed too lightly the valour of the Elves, and
 of Men he took yet no account.
 
-## The beginnings of Dagor Bragollach, the fourth battle
+# The beginnings of Dagor Bragollach, the fourth battle
 
-### The beginning of Dagor Bragollach, the Battle of Sudden Flame
+## The beginning of Dagor Bragollach, the Battle of Sudden Flame
 There came a time of winter, when night was dark and without moon; and the wide
 plain of Ard-galen stretched dim beneath the cold stars, from the hill-forts of
 the Noldor to the feet of Thangorodrim. The watch-fires burned low, and the
@@ -55,7 +55,7 @@ the slopes that looked towards Angband were all kindled, and the smoke wrought
 confusion among the defenders. Thus began the fourth of the great battles,
 Dagor Bragollach, the Battle of Sudden Flame.
 
-### Glaurung leads, and the elves and men are caught off guard
+## Glaurung leads, and the elves and men are caught off guard
 In the front of that fire came Glaurung the golden, father of dragons, in his
 full might; and in his train were Balrogs, and behind them came the black
 armies of the Orcs in multitudes such as the Noldor had never before seen or
@@ -67,7 +67,7 @@ muster their strength.  War ceased not wholly ever again in Beleriand; but the
 Battle of Sudden Flame is held to have ended with the coming of spring, when
 the onslaught of Morgoth grew less.
 
-### The Siege of Angband ends as the elves retreat from their fortifications
+## The Siege of Angband ends as the elves retreat from their fortifications
 Thus ended the Siege of Angband; and the foes of Morgoth were scattered and
 sundered one from another. The most part of the Grey-elves fled south and
 forsook the northern war; many were received into Doriath, and the kingdom and
@@ -78,7 +78,7 @@ and some fled the land and hid themselves in Ossiriand, or passing the
 mountains wandered homeless in the wild. And rumour of the war and the breaking
 of the siege reached the ears of Men in the east of Middle-earth.
 
-### Angrod and Aegnor are slain, Finrod fights by Barahir and gives him his ring
+## Angrod and Aegnor are slain, Finrod fights by Barahir and gives him his ring
 The sons of Finarfin bore most heavily the brunt of the assault, and Angrod and
 Aegnor were slain; beside them fell Bregolas lord of the house of Bëor, and a
 great part of the warriors of that people. But Barahir the brother of Bregolas
@@ -94,7 +94,7 @@ Barahir his ring.  Barahir was now by right lord of the house of Bëor, and he
 returned to Dorthonion; but most of his people fled from their homes and took
 refuge in the fastness of Hithlum.
 
-### Of the sons of Finarfin, and their losses in holding back the armies from Hithlum
+## Of the sons of Finarfin, and their losses in holding back the armies from Hithlum
 So great was the onslaught of Morgoth that Fingolfin and Fingon could not come
 to the aid of the sons of Finarfin; and the hosts of Hithlum were driven back
 with great loss to the fortresses of Ered Wethrin, and these they hardly
@@ -108,7 +108,7 @@ and the Men of the North, which neither Orc nor Balrog could yet overcome,
 Hithlum remained unconquered, a threat upon the flank of Morgoth's attack; but
 Fingolfin was sundered from his kinsmen by a sea of foes.
 
-### Celegorm and Curufin are pushed back from Maglor's Gap by the host
+## Celegorm and Curufin are pushed back from Maglor's Gap by the host
 For the war had gone ill with the sons of Fëanor, and well nigh all the east
 marches were taken by assault The Pass of Aglon was forced, though with great
 cost to the hosts of Morgoth; and Celegorm and Curufin being defeated fled
@@ -134,9 +134,9 @@ passed Ramdal in the south. Upon Amon Ereb they maintained a watch and some
 strength of war, and they had aid of the Green-elves; and the Orcs came not
 into Ossiriand, nor to Taur-im-Duinath and the wilds of the south.
 
-## The battle of Fingolfin and Morgoth
+# The battle of Fingolfin and Morgoth
 
-### Fingolfin, believing all is lost, hail mary's to the gates of Angband
+## Fingolfin, believing all is lost, hail mary's to the gates of Angband
 Now news came to Hithlum that Dorthonion was lost and the sons of Finarfin
 overthrown, and that the sons of Fëanor were driven from their lands. Then
 Fingolfin beheld (as it seemed to him) the utter ruin of the Noldor, and the
@@ -149,7 +149,7 @@ the Valar. Thus he came alone to Angband's gates, and he sounded his horn, and
 smote once more upon the brazen doors, and challenged Morgoth to come forth to
 single combat. And Morgoth came.
 
-### Morgoth unwillingly accepts the challenge of Fingolfin
+## Morgoth unwillingly accepts the challenge of Fingolfin
 That was the last time in those wars that he passed the doors of his
 stronghold, and it is said that he took not the challenge willingly; for though
 his might was greatest of all things in this world, alone of the Valar he knew
@@ -164,7 +164,7 @@ shadow over him like a stormcloud. But Fingolfin gleamed beneath it as a star;
 for his mail was overlaid with silver, and his blue shield was set with
 crystals; and he drew his sword Ringil, that glittered like ice.
 
-### Fingolfin wounds Morgoth seven times
+## Fingolfin wounds Morgoth seven times
 Then Morgoth hurled aloft Grond, the Hammer of the Underworld, and swung it
 down like a bolt of thunder. But Fingolfin sprang aside, and Grond rent a
 mighty pit in the earth, whence smoke and fire darted.  Many times Morgoth
@@ -173,7 +173,7 @@ shoots from under a dark cloud; and he wounded Morgoth with seven wounds, and
 seven times Morgoth gave a cry of anguish, whereat the hosts of Angband fell
 upon their faces in dismay, and the cries echoed in the Northlands.
 
-### Fingolfin slashes Morgoth with Ringil while under his left foot
+## Fingolfin slashes Morgoth with Ringil while under his left foot
 But at the last the King grew weary, and Morgoth bore down his shield upon him.
 Thrice he was crushed to his knees, and thrice arose again and bore up his
 broken shield and stricken helm. But the earth was all rent and pitted about
@@ -182,7 +182,7 @@ set his left foot upon his neck, and the weight of it was like a fallen hill.
 Yet with his last and desperate stroke Fingolfin hewed the foot with Ringil,
 and the blood gashed forth black and smoking and filled the pits of Grond.
 
-### Fingolfin dies, and Thorondor takes the body of Fingolfin and brings him to rest
+## Fingolfin dies, and Thorondor takes the body of Fingolfin and brings him to rest
 Thus died Fingolfin, High King of the Noldor, most proud and valiant of the
 Elven-kings of old. The Orcs made no boast of that duel at the gate; neither do
 the Elves sing of it, for their sorrow is too deep.  Yet the tale of it is
@@ -200,15 +200,15 @@ Gondolin was come and treachery was born among his kin. Morgoth went ever halt
 of one foot after that day, and the pain of his wounds could not be healed; and
 in his face was the scar that Thorondor made.
 
-### Fingon takes lordship of the house, and sends Gil-galad to the havens
+## Fingon takes lordship of the house, and sends Gil-galad to the havens
 Great was the lamentation in Hithlum when the fall of Fingolfin became known,
 and Fingon in sorrow took the lordship of the house of Fingolfin and the
 kingdom of the Noldor; but his young son Ereinion (who was after named
 Gil-galad) he sent to the Havens.
 
-## Summary of conflicts after that time
+# Summary of conflicts after that time
 
-### Barahir and his men fight diligently at Dorthonion
+## Barahir and his men fight diligently at Dorthonion
 Now Morgoth's power overshadowed the Northlands; but Barahir would not flee
 from Dorthonion, and remained contesting the land foot by foot with his
 enemies.  Then Morgoth pursued his people to the death, until few remained; and
@@ -241,7 +241,7 @@ above the forest, and wandered among the tarns and rocky moors of that region,
 furthest from the spies and spells of Morgoth. Their bed was the heather and
 their roof the cloudy sky.
 
-### Sauron's overtaking of Minas Tirith
+## Sauron's overtaking of Minas Tirith
 For nigh on two years after the Dagor Bragollach the Noldor still defended the
 western pass about the sources of Sirion, for the power of Ulmo was in that
 water, and Minas Tirith withstood the Orcs. But at length, after the fall of
@@ -279,7 +279,7 @@ only to come back to him again. Therefore if any of his captives escaped in
 truth, and returned to their own people, they had little welcome, and wandered
 alone outlawed and desperate.
 
-### Morgoth tries to feign pity to win the treachery of men, but few take ear to him
+## Morgoth tries to feign pity to win the treachery of men, but few take ear to him
 To Men Morgoth feigned pity, if any would hearken to his messages, saying that
 their woes came only of their servitude to the rebel Noldor, but at the hands
 of the rightful Lord of Middle-earth they would get honour and a just reward of
@@ -288,7 +288,7 @@ Edain would give ear to him, not even were they brought to the torment of
 Angband. Therefore Morgoth pursued them with hatred; and he sent his messengers
 over the mountains.
 
-### Maedhros takes heed of Bor and Ulfang, whom Morgoth had bent to his will
+## Maedhros takes heed of Bor and Ulfang, whom Morgoth had bent to his will
 It is told that at this time the Swarthy Men came first into Beleriand.  Some
 were already secretly under the dominion of Morgoth, and came at his call; but
 not all, for the rumour of Beleriand, of its lands and waters, of its wars and
@@ -306,7 +306,7 @@ cheated the hope of Morgoth, and were faithful. The sons of Ulfang the Black
 were Ulfast, and Ulwarth, and Uldor the accursed; and they followed Caranthir
 and swore allegiance to him, and proved faithless.
 
-### The victory of Haleth's men at the forest of Brethil
+## The victory of Haleth's men at the forest of Brethil
 There was small love between the Edain and the Easterlings, and they met
 seldom; for the newcomers abode long in East Beleriand, but Hador's folk were
 shut in Hithlum, and Bëor's house was well-nigh destroyed.  The People of
@@ -327,9 +327,9 @@ People of Haleth dwelt yet in watchful peace in the Forest of Brethil, and
 behind their guard the Kingdom of Nargothrond had respite, and mustered its
 strength.
 
-## Of Hurin and Huor, sons of Galdor, and their visit to Gondolin
+# Of Hurin and Huor, sons of Galdor, and their visit to Gondolin
 
-### Hurin and Huor hearken to fight, and are saved from their foolhardiness by Thorondor, who brings them to Gondolin
+## Hurin and Huor hearken to fight, and are saved from their foolhardiness by Thorondor, who brings them to Gondolin
 At this time Húrin and Huor, the sons of Galdor of Dor-lómin, were dwelling
 with the Haladin, for they were akin. In the days before the Dagor Bragollach
 those two houses of the Edam were joined at a great feast, when Galdor and
@@ -349,7 +349,7 @@ aid; and the eagles bore them up and brought them beyond the Encircling
 Mountains to the secret vale of Tumladen and the hidden city of Gondolin, which
 no Man yet had seen.
 
-### Turgon recieves these children of Galdor with open hospitality
+## Turgon recieves these children of Galdor with open hospitality
 There Turgon the King received them well, when he learned of their kin; for
 messages and dreams had come to him up Sirion from the sea, from Ulmo, Lord of
 Waters, warning him of woe to come and counselling him to deal kindly with the
@@ -363,7 +363,7 @@ stranger, be he Elf or Man, who found the way to the secret kingdom and looked
 upon the city should ever depart again, until the King should open the leaguer,
 and the hidden people should come forth.
 
-### Hurin and Huor request to leave Gondolin
+## Hurin and Huor request to leave Gondolin
 But Húrin and Huor desired to return to their own people and share in the wars
 and griefs that now beset them. And Húrin said to Turgon: "Lord, we are but
 mortal Men, and unlike the Eldar. They may endure for long years awaiting
@@ -376,14 +376,14 @@ that you came you have leave to depart, if Thorondor is willing. I grieve at
 this parting; yet in a little while, as the Eldar account it, we may meet
 again.'
 
-### Maeglin tells them off as they leave
+## Maeglin tells them off as they leave
 But Maeglin, the King's sister-son, who was mighty in Gondolin, grieved not at
 all at their going, though he begrudged them the favour of the King, for he had
 no love for any of the kindred of Men; and he said to Húrin: 'The King's grace
 is greater than you know, and the law is become less stem than aforetime; or
 else no choice would be given you but to abide here to your life's end.'
 
-### Hurin and Huor return to Dor-lomin, and they are questioned to the point where they reveal only their oath of silence
+## Hurin and Huor return to Dor-lomin, and they are questioned to the point where they reveal only their oath of silence
 Then Húrin answered him: The King's grace is great indeed; but if our word is
 not enough, then we will swear oaths to you.' And the brothers swore never to
 reveal the counsels of Turgon, and to keep secret an that they had seen in his
@@ -400,9 +400,9 @@ questioned them no more, but he and many others guessed at the truth; and in
 time the strange fortune of Húrin and Huor reached the ears of the servants of
 Morgoth.
 
-## Ending of the Fourth Battle
+# Ending of the Fourth Battle
 
-### Turgon sends messengers in secret to seek aid of the Valar, but none succeed
+## Turgon sends messengers in secret to seek aid of the Valar, but none succeed
 Now when Turgon learned of the breaking of the leaguer of Angband he would not
 suffer any of his own people to issue forth to war; for he deemed that Gondolin
 was strong, and the time not yet ripe for its revealing. But he believed also
@@ -416,7 +416,7 @@ upon them; and Valinor was hidden. Therefore none of the messengers of Turgon
 came into the West, and many were lost and few returned; but the doom of
 Gondolin drew nearer.
 
-### Morgoth retreats and instead places spies to attempt to learn of Nargothorond and Gondolin
+## Morgoth retreats and instead places spies to attempt to learn of Nargothorond and Gondolin
 Rumour came to Morgoth of these things, and he was unquiet amid his victories;
 and he desired greatly to learn tidings of Felagund and Turgon. For they had
 vanished out of knowledge, and yet were not dead; and he feared what they might
@@ -434,9 +434,9 @@ first dismay began now to regain what they had lost. Thus Beleriand in the
 south had a semblance of peace again for a few brief years; but the forges of
 Angband were full of labour.
 
-## Aftershocks as Morgoth attacks Hithlum and Hurin rises as the leader in Dor-lomin
+# Aftershocks as Morgoth attacks Hithlum and Hurin rises as the leader in Dor-lomin
 
-### Seven years after, Morgoth attacks Hithlum, and Galdor is slain there
+## Seven years after, Morgoth attacks Hithlum, and Galdor is slain there
 When seven years had passed since the Fourth Battle, Morgoth renewed his
 assault, and he sent a great force against Hithlum. The attack on the passes of
 the Shadowy Mountains was bitter, and in the siege of Eithel Sirion Galdor the
@@ -447,7 +447,7 @@ was great in strength both of mind and body; and he drove the Orcs with heavy
 slaughter from Ered Wethrin, and pursued them far across the sands of
 Anfauglith.
 
-### Cirdan helps Fingon hold off the army at Hithlum
+## Cirdan helps Fingon hold off the army at Hithlum
 But King Fingon was hard put to it to hold back the army of Angband that came
 down from the north; and battle was Joined upon the very plains of Hithlum.
 There Fingon was outnumbered; but the ships of Círdan sailed in great strength
@@ -456,7 +456,7 @@ upon the host of Morgoth from the west. Then the Orcs broke and fled, and the
 Eldar had the victory, and their horsed archers pursued them even into the Iron
 Mountains.
 
-### Hurin rules in Dor-lomin, serving Fingon, and marries Morwen of Dorthonion
+## Hurin rules in Dor-lomin, serving Fingon, and marries Morwen of Dorthonion
 Thereafter Húrin son of Galdor ruled the house of Hador in Dor-lómin, and
 served Fingon. Húrin was of less stature than his fathers, or his son after
 him; but he was tireless and enduring in body, lithe and swift after the manner
@@ -464,6 +464,6 @@ of his mothers kin, Hareth of the Haladin. His wife was Morwen Eledhwen,
 daughter of Baragund of the house of Bëor, she who fled from Dorthonion with
 Rían daughter of Belegund and Emeldir the mother of Beren.
 
-### The outlaws of Dorthonion were destroyed, save Beren who escaped
+## The outlaws of Dorthonion were destroyed, save Beren who escaped
 In that time also the outlaws of Dorthonion were destroyed, as is told
 hereafter; and Beren son of Barahir alone escaping came hardly into Doriath.

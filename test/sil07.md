@@ -1,8 +1,8 @@
 # Chapter 7: Of the Silmarils and the Unrest of the Noldor
 
-## Of the Silmarils
+# Of the Silmarils
 
-### Fëanor creates the Silmarils of the light of the Trees of Valinor
+## Fëanor creates the Silmarils of the light of the Trees of Valinor
 In that time were made those things that afterwards were most renowned of all
 the works of the Elves. For Fëanor, being come to his full might, was filled
 with a new thought, or it may be that some shadow of foreknowledge came to him
@@ -11,7 +11,7 @@ glory of the Blessed Realm, might be preserved imperishable. Then he began a
 long and secret labour, and he summoned all his lore, and his power, and his
 subtle skill; and at the end of all he made the Silmarils.
 
-### Description of the marvel of the Silmarils
+## Description of the marvel of the Silmarils
 As three great Jewels they were in form. But not until the End, when Fëanor
 shall return who perished ere the Sun was made, and sits now in the Halls of
 Awaiting and comes no more among his kin; not until the Sun passes and the Moon
@@ -27,7 +27,7 @@ Silmarils of their own radiance shone like the stars of Varda; and yet, as were
 they indeed living things, they rejoiced in light and received it and gave it
 back in hues more marvellous than before.
 
-### Of the allure of the Silmarils
+## Of the allure of the Silmarils
 All who dwelt in Aman were filled with wonder and delight at the work of
 Fëanor. And Varda hallowed the Silmarils, so that thereafter no mortal flesh,
 nor hands unclean, nor anything of evil will might touch them, but it was
@@ -35,9 +35,9 @@ scorched and withered; and Mandos foretold that the fates of Arda, earth, sea,
 and air, lay locked within them. The heart of Fëanor was fast bound to these
 things that he himself had made.
 
-## Melkor sows the seeds of deceit through the Noldor
+# Melkor sows the seeds of deceit through the Noldor
 
-### Melkor, in his great lust for the Silmarils, again sows the seeds of deceit among the Noldor
+## Melkor, in his great lust for the Silmarils, again sows the seeds of deceit among the Noldor
 Then Melkor lusted for the Silmarils, and the very memory of their radiance was
 a gnawing fire in his heart. From that time forth, inflamed by this desire, he
 sought ever more eagerly how he should destroy Fëanor and end the friendship of
@@ -51,7 +51,7 @@ passed from friend to friend, as secrets of which the knowledge proves the
 teller wise. Bitterly did the Noldor atone for the folly of their open ears in
 the days that followed after.
 
-### Description of some of the lies Melkor told and spread through the Eldar
+## Description of some of the lies Melkor told and spread through the Eldar
 When he saw that many leaned towards him, Melkor would often walk among them,
 and amid his fair words others were woven, so subtly that many who heard them
 believed in recollection that they arose from their own thought. Visions he
@@ -62,7 +62,7 @@ fearing that the beauty of the Quendi and the makers' power that Ilúvatar had
 bequeathed to them would grow too great for the Valar to govern, as the Elves
 waxed and spread over the wide lands of the world.
 
-### Of Melkor's lies told of Mortal Men
+## Of Melkor's lies told of Mortal Men
 In those days, moreover, though the Valar knew indeed of the coming of Men that
 were to be, the Elves as yet knew naught of it; for Manwë had not revealed it
 to them. Bat Melkor spoke to them in secret of Mortal Men, seeing how the
@@ -76,7 +76,7 @@ Ilúvatar. Small truth was there in this, and little have the Valar ever
 prevailed to sway the wills of Men; but many of the Noldor believed, or half
 believed, the evil words.
 
-### Fëanor's reaction to the lies of Melkor
+## Fëanor's reaction to the lies of Melkor
 Thus ere the Valar were aware, the peace of Valinor was poisoned. The Noldor
 began to murmur against them, and many became filled with pride, forgetting how
 much of what they had and knew came to them in gift from the Valar. Fiercest
@@ -90,7 +90,7 @@ the Silmarils with a greedy love, and grudged the sight of them to all save to
 his father and his seven sons; he seldom remembered now that the light within
 them was not his own.
 
-### Melkor begins to spread turmoil between the half-brothers Fëanor and Fingolfin
+## Melkor begins to spread turmoil between the half-brothers Fëanor and Fingolfin
 High princes were Fëanor and Fingolfin, the elder sons of Finwë, honoured by
 all in Aman; but now they grew proud and jealous each of his rights and his
 possessions. Then Melkor set new lies abroad in Eldamar, and whispers came to
@@ -102,7 +102,7 @@ not committed to their keeping. But to Fingolfin and Finarfin it was said:
 Indis. Now he has become great, and he has his father in his hand. It will not
 be long before he drives you forth from Túna!'
 
-### The Noldor learn of weaponry from Melkor, and begin to forge great metalwork in this way
+## The Noldor learn of weaponry from Melkor, and begin to forge great metalwork in this way
 And when Melkor saw that these lies were smouldering, and that pride and anger
 were awake among the Noldor, he spoke to them concerning weapons; and in that
 time the Noldor began the smithying of swords and axes and spears. Shields also
@@ -114,9 +114,9 @@ fell swords for himself and for his sons, and made tall helms with plumes of
 red.  Bitterly did Mahtan rue the day when he taught to the husband of Nerdanel
 all the lore of metalwork that he had learned of Aulë.
 
-## Of Fëanor's rebellion and his exile from Tirion
+# Of Fëanor's rebellion and his exile from Tirion
 
-### Of Fëanor's rebellion marking the end of the high days of Valinor
+## Of Fëanor's rebellion marking the end of the high days of Valinor
 Thus with lies and evil whisperings and false counsel Melkor kindled the hearts
 of the Noldor to strife; and of their quarrels came at length the end of the
 high days of Valinor and the evening of its ancient glory. For Fëanor now began
@@ -124,7 +124,7 @@ openly to speak words of rebellion against the Valar, crying aloud that he
 would depart from Valinor back to the world without, and would deliver the
 Noldor from thraldom, if they would follow him.
 
-### Fingolfin speaks of his elder brother to Finwë at council in Tirion
+## Fingolfin speaks of his elder brother to Finwë at council in Tirion
 Then there was great unrest in Tirion, and Finwë was troubled; and he summoned
 all his lords to council. But Fingolfin hastened to his halls and stood before
 him, saying: 'King and father, wilt thou not restrain the pride of our brother,
@@ -135,14 +135,14 @@ it was that led the Noldor upon the long road through the perils of
 Middle-earth to the light of Eldamar. If thou dost not now repent of it, two
 sons at least thou hast to honour thy words.'
 
-### Fëanor draws his sword in the chamber of his father
+## Fëanor draws his sword in the chamber of his father
 But even as Fingolfin spoke, Fëanor strode into the chamber, and he was fully
 armed: his high helm upon his head, and at his side a mighty sword. 'So it is,
 even as I guessed,' he said. 'My half-brother would be before me with my
 father, in this as in all other matters.' Then turning upon Fingolfin he drew
 his sword, crying: 'Get thee gone, and take thy due place!'
 
-### Fëanor points his sword towards Fingolfin and accuses him of usurp
+## Fëanor points his sword towards Fingolfin and accuses him of usurp
 Fingolfin bowed before Finwë, and without word or glance to Fëanor he went from
 the chamber. But Fëanor followed him, and at the door of the king's house he
 stayed him; and the point of his bright sword he set against Fingolfin's breast
@@ -150,12 +150,12 @@ stayed him; and the point of his bright sword he set against Fingolfin's breast
 more to usurp my place and the love of my father, and maybe it will rid the
 Noldor of one who seeks to be the master of thralls.'
 
-### Fingolfin heeds not the words and seeks his brother Finarfin
+## Fingolfin heeds not the words and seeks his brother Finarfin
 These words were heard by many, for the house of Finwë was in the great square
 beneath the Mindon; but again Fingolfin made no answer, and passing through the
 throng in silence he went to seek Finarfin his brother.
 
-### Fëanor is brought before the Valar and sentenced to 12 years apart from Tirion
+## Fëanor is brought before the Valar and sentenced to 12 years apart from Tirion
 Now the unrest of the Noldor was not indeed hidden from the Valar, but its seed
 had been sown in the dark; and therefore, since Fëanor first spoke openly
 against them, they judged that he was the mover of discontent, being eminent in
@@ -179,12 +179,12 @@ leave Tirion where this threat was uttered. In that time take counsel with
 thyself, and remember who and what thou art. But after that time this matter
 shall be set in peace and held redressed, if others will release thee.'
 
-### Fingolfin resolves to releas his brother after the sentence
+## Fingolfin resolves to releas his brother after the sentence
 Then Fingolfin said: 'I will release my brother.' But Fëanor spoke no word in
 answer, standing silent before the Valar. Then he turned and left the council,
 and departed from Valmar.
 
-### Fëanor dwells in Formenos for that time, with his father Finwë, while Fingolfin rules the Noldor in Tirion
+## Fëanor dwells in Formenos for that time, with his father Finwë, while Fingolfin rules the Noldor in Tirion
 With him into banishment went his seven sons, and northward in Valinor they
 made a strong place and treasury in the hills; and there at Formenos a
 multitude of gems were laid in hoard, and weapons also, and the Silmarils were
@@ -194,15 +194,15 @@ lies of Melkor were made true in seeming, though Fëanor by his own deeds had
 brought this thing to pass; and the bitterness that Melkor had sown endured,
 and lived still long afterwards between the sons of Fingolfin and Fëanor.
 
-## Of Melkor's attempt to befriend Fëanor and his flight from Valinor
+# Of Melkor's attempt to befriend Fëanor and his flight from Valinor
 
-### Melkor becomes aloof even to Tulkas in that time.
+## Melkor becomes aloof even to Tulkas in that time.
 Now Melkor, knowing that his devices had been revealed, hid himself and passed
 from place to place as a cloud in the hills; and Tulkas sought for him in vain.
 Then it seemed to the people of Valinor that the light of the Trees was dimmed,
 and the shadows of all standing things grew longer and darker in that time.
 
-### Melkor comes to Formenos and speaks more cunning lies to Fëanor
+## Melkor comes to Formenos and speaks more cunning lies to Fëanor
 It is told that for a time Melkor was not seen again in Valinor, nor was any
 rumour heard of him, until suddenly he came to Formenos, and spoke with Fëanor
 before his doors. Friendship he feigned with cunning argument, urging him to
@@ -214,7 +214,7 @@ not Vala also?  Yea, and more than those who sit in pride in Valimar; and I
 have ever been a friend to the Noldor, most skilled and most valiant of the
 people of Arda.'
 
-### Fëanor considers Melkors sweet tongue, and Melkor sensing this presses more
+## Fëanor considers Melkors sweet tongue, and Melkor sensing this presses more
 Now Fëanor's heart was still bitter at his humiliation before Mandos, and he
 looked at Melkor in silence, pondering if indeed he might yet trust him so far
 as to aid him in his flight. And Melkor, seeing that Fëanor wavered, and
@@ -222,7 +222,7 @@ knowing that the Silmarils held his heart in thrall, said at the last: 'Here is
 a strong place, and well guarded; but think not that the Silmarils will lie
 safe in any treasury within the realm of the Valar!'
 
-### Melkor's cunning overreached his aim, and Fëanor wishes him te be gone
+## Melkor's cunning overreached his aim, and Fëanor wishes him te be gone
 But his cunning overreached his aim; his words touched too deep, and awoke a
 fire more fierce than he designed; and Fëanor looked upon Melkor with eyes that
 burned through his fair semblance and pierced the cloaks of his mind,
@@ -231,12 +231,12 @@ Fëanor's fear, and he cursed Melkor and bade him be gone, saying: 'Get thee
 gone from my gate, thou jail-crow of Mandos!' And he shut the doors of his
 house in the face of the mightiest of all the dwellers in Eä.
 
-### Melkor leaves in shame, being patient for his revenge, and Finwë sends word to Valmar
+## Melkor leaves in shame, being patient for his revenge, and Finwë sends word to Valmar
 Then Melkor departed in shame, for he was himself in peril, and he saw not his
 time yet for revenge; but his heart was black with anger. And Finwë was filled
 with great fear, and in haste he sent messengers to Manwë in Valmar.
 
-### The valar hear of this, and determine that Melkor left through Calacirya and his shadow flew north
+## The valar hear of this, and determine that Melkor left through Calacirya and his shadow flew north
 Now the Valar were sitting in council before their gates, fearing the
 lengthening of the shadows, when the messengers came from Formenos. At once
 Oromë and Tulkas sprang up, but even as they set out in pursuit messengers came
@@ -245,7 +245,7 @@ hill of Túna the Elves had seen him pass in wrath as a thundercloud. And they
 said that thence he had turned northward, for the Teleri in Alqualondë had seen
 his shadow going by their haven towards Araman.
 
-### Thus Melkor departed, for the time, but in their pursuit the Valar could not find him
+## Thus Melkor departed, for the time, but in their pursuit the Valar could not find him
 Thus Melkor departed from Valinor, and for a while the Two Trees shone again
 unshadowed, and the land was filled with light. But the Valar sought in vain
 for tidings of their enemy; and as a cloud far off that looms ever higher,

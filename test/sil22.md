@@ -1,14 +1,14 @@
 # Chapter 22: Of the Ruin of Doriath
 
-## Húrin is released from the captivity of Morgoth in Angband
+# Húrin is released from the captivity of Morgoth in Angband
 
-### Though Túrin is dead, Morgoth's dealings with the house of Hador are not yet ended
+## Though Túrin is dead, Morgoth's dealings with the house of Hador are not yet ended
 So ended the tale of Túrin Turambar; but Morgoth did not sleep nor rest
 from evil, and his dealings with the house of Hador were not yet ended.
 Against them his malice was unsated, though Húrin was under his eye,
 and Morwen wandered distraught in the wild.
 
-### Morgoth releases Húrin, who knows of his children through the lens of Morgoth, to go and fulfill his purposes
+## Morgoth releases Húrin, who knows of his children through the lens of Morgoth, to go and fulfill his purposes
 Unhappy was the lot of Húrin; for all that Morgoth knew of the working
 of his malice Húrin knew also, but lies were mingled with the truth,
 and aught that was good was hidden or distorted. In all ways Morgoth
@@ -20,7 +20,7 @@ pity as for an enemy utterly defeated. But he lied, for his purpose was
 that Húrin should still further his hatred for Elves and Men, ere he
 died.
 
-### Húrin goes to Hithlum, and the easterlings there let him in.
+## Húrin goes to Hithlum, and the easterlings there let him in.
 Then little though he trusted the words of Morgoth, knowing indeed that
 he was without pity, Húrin took his freedom, and went forth in grief,
 embittered by the words of the Dark Lord; and a year was now gone since
@@ -36,7 +36,7 @@ those lands; in which they were wise, for the remnant of his own people
 shunned him, because of his coming from Angband as one in league and
 honour with Morgoth.
 
-### Húrin leaves Hithlum and goes to the feet of Echoriath in Dimbar, seeking Gondolin
+## Húrin leaves Hithlum and goes to the feet of Echoriath in Dimbar, seeking Gondolin
 Thus his freedom did but increase the bitterness of Húrin's heart; and
 he departed from the land of Hithlum and went up into the mountains.
 Thence he descried far off. amid the clouds the peaks of the
@@ -54,31 +54,31 @@ he had done long ago in his youth; but he saw only the shadows blown
 from the east, and clouds swirling about the inaccessible peaks, and he
 heard only the wind hissing over the stones.
 
-## Of the eagles and Turgon and how Morgoth discovers the region of Gondolin
+# Of the eagles and Turgon and how Morgoth discovers the region of Gondolin
 
-### The eagles see Húrin, and bring word to Turgon of Húrin's escape
+## The eagles see Húrin, and bring word to Turgon of Húrin's escape
 But the watch of the great eagles was now redoubled, and they marked
 Húrin well, far below, forlorn in the fading light; and straightway
 Thorondor himself, since the tidings seemed great, brought word to
 Turgon. But Turgon said: 'Does Morgoth sleep? You were mistaken.'
 
-### Turgon questions Thorondor, at which the eagle replies that the eagles are never wrong
+## Turgon questions Thorondor, at which the eagle replies that the eagles are never wrong
 'Not so,' said Thorondor. 'If the Eagles of Manwë were wont to err
 thus, then long ago, lord, your hiding would have been in vain.'
 
-### Turgon determines that Húrin must have bent to the will of Morgoth
+## Turgon determines that Húrin must have bent to the will of Morgoth
 'Then your words bode ill,' said Turgon; 'for they can bear but one
 meaning.  Even Húrin Thalion has surrendered to the will of Morgoth. My
 heart is shut.'
 
-### Turgon reflects on this, and instead asks the eagles to find Húrin and bring him to Gondolin, but it was too late
+## Turgon reflects on this, and instead asks the eagles to find Húrin and bring him to Gondolin, but it was too late
 But when Thorondor was gone, Turgon sat long in thought, and he was
 troubled, remembering the deeds of Húrin of Dor-lómin; and he opened
 his heart, and sent to the eagles to seek for Húrin, and to bring him
 if they might to Gondolin. But it was too late, and they never saw him
 again in light or in shadow.
 
-### Húrin cries in vain at the mountains of Echoriath
+## Húrin cries in vain at the mountains of Echoriath
 For Húrin stood in despair before the silent cliffs of the Echoriath,
 and the westering sun, piercing the clouds, stained his white hair with
 red. Then he cried aloud in the wilderness, heedless of any ears, and
@@ -90,7 +90,7 @@ so they hissed in Serech at the sunset,' he said; and as he spoke the
 sun went behind the Mountains of Shadow, and a darkness fell about him,
 and the wind ceased, and there was silence in the waste.
 
-### Morgoth's servents hear Húrin's cries, and Morgoth knows at the very least which region Gondolin lies in
+## Morgoth's servents hear Húrin's cries, and Morgoth knows at the very least which region Gondolin lies in
 Yet there were ears that heard the words that Húrin spoke, and report
 of all came soon to the Dark Throne in the north; and Morgoth smiled,
 for he knew now clearly in what region Turgon dwelt, though because of
@@ -98,9 +98,9 @@ the eagles no spy of his could yet come within sight of the land behind
 the Encircling Mountains. This was the first evil that the freedom of
 Húrin achieved.
 
-## Húrin and Morwen's remeeting at Cabed Naeramarth
+# Húrin and Morwen's remeeting at Cabed Naeramarth
 
-### Húrin comes to the Cabed Naeramarth, where both Túrin and Nienor had met their end
+## Húrin comes to the Cabed Naeramarth, where both Túrin and Nienor had met their end
 As darkness fell Húrin stumbled from the rock, and fell into a heavy
 sleep of grief. But in his sleep he heard the voice of Morwen
 lamenting, and often she spoke his name; and it seemed to him that her
@@ -113,7 +113,7 @@ that walked with darkness about it; and therefore Húrin was not stayed,
 and he came at last to the place of the burning of Glaurung, and saw
 the tall stone standing near the brink of Cabed Naeramarth.
 
-### Húrin meets Eledhwen (Morwen) there
+## Húrin meets Eledhwen (Morwen) there
 But Húrin did not look at the stone, for he knew what was written
 there; and his eyes had seen that he was not alone. Sitting in the
 shadow of the stone there was a woman, bent over her knees; and as
@@ -124,23 +124,23 @@ still gleamed in them that long ago had earned for her the name
 Eledhwen, proudest and most beautiful of mortal women in the days of
 old.
 
-### Eledhwen greets him
+## Eledhwen greets him
 'You come at last,' she said. 'I have waited too long.'
 
-### Húrin replies
+## Húrin replies
 'It was a dark road. I have come as I could,' he answered.
 
-### Morwen tells Húrin that he is late
+## Morwen tells Húrin that he is late
 'But you are too late,' said Morwen. 'They are lost.'
 
-### Húrin replies that not all is lost
+## Húrin replies that not all is lost
 'I know it,' he said. 'But you are not.'
 
-### Morwen speaks of her weary age, and asks Húrin, if he knows, how Nienor found Túrin
+## Morwen speaks of her weary age, and asks Húrin, if he knows, how Nienor found Túrin
 But Morwen said: 'Almost. I am spent I shall go with the sun. Now
 little time is left: if you know, tell me! How did she find him?'
 
-### Húrin does not answer and Morwen dies. Húrin creates a grave there for Morwen also
+## Húrin does not answer and Morwen dies. Húrin creates a grave there for Morwen also
 But Húrin did not answer, and they sat beside the stone, and did not
 speak again; and when the sun went down Morwen sighed and clasped his
 hand, and was still; and Húrin knew that she had died. He looked down
@@ -157,7 +157,7 @@ dealings with them. Then he rose up, and he made a grave for Morwen
 above Cabed Naeramarth on the west side of the stone; and upon it he
 cut these words: Here lies also Morwen Eledhwen.
 
-### Of the Stone of the Hapless, where Húrin does not lay for this time
+## Of the Stone of the Hapless, where Húrin does not lay for this time
 It is told that a seer and harp-player of Brethil named Glirhuin made a
 song, saying that the Stone of the Hapless should not be defiled by
 Morgoth nor ever thrown down, not though the sea should drown all the
@@ -166,9 +166,9 @@ water beyond the new coasts that were made in the days of the wrath of
 the Valar. But Húrin does not lie there, for his doom drove him on, and
 the Shadow still followed him.
 
-## Húrin meets and slays Mîm the dwarf at Nargothrond
+# Húrin meets and slays Mîm the dwarf at Nargothrond
 
-### Húrin goes by Amon Rûdh, and comes to the doors of Felagund
+## Húrin goes by Amon Rûdh, and comes to the doors of Felagund
 Now Húrin crossed over Teiglin and passed southwards down the ancient
 road that led to Nargothrond; and he saw far off to the eastward the
 lonely height of Amon Rûdh, and knew what had befallen there. At length
@@ -177,7 +177,7 @@ river upon the fallen stones of the bridge, as Mablung of Doriath had
 ventured it before him; and he stood before the broken Doors of
 Felagund, leaning upon his staff.
 
-### Mîm the dwarf, as it turns out, stayed at Nargothrond, and Húrin meets him as he enters
+## Mîm the dwarf, as it turns out, stayed at Nargothrond, and Húrin meets him as he enters
 Here it must be told that after the departure of Glaurung Mîm the
 Petty-Dwarf had found his way to Nargothrond, and crept within the
 ruined halls; and he took possession of them, and sat there fingering
@@ -188,19 +188,19 @@ and Mîm came forth, and demanded to know his purpose. But Húrin said:
 'Who are you, that would hinder me from entering the house of Finrod
 Felagund?'
 
-### Mîm answers Húrin's questioning, replying that he is the last of his people, and wishes to protect what is his
+## Mîm answers Húrin's questioning, replying that he is the last of his people, and wishes to protect what is his
 Then the Dwarf answered: 'I am Mîm; and before the proud ones came from
 over the Sea, Dwarves delved the halls of Nulukkizdîn. I have but
 returned to take what is mine; for I am the last of my people.'
 
-### Húrin speaks in arms against Mîm
+## Húrin speaks in arms against Mîm
 'Then you shall enjoy your inheritance no longer,' said Húrin; 'for I
 am Húrin son of Galdor, returned out of Angband, and my son was Túrin
 Turambar, whom you have not forgotten; and he it was that slew Glaurung
 the Dragon, who wasted these halls where now you sit; and not unknown
 is it to me by whom the Dragon-helm of Dor-lómin was betrayed.'
 
-### Húrin slays Mîm, and takes only one thing
+## Húrin slays Mîm, and takes only one thing
 Then Mîm in great fear besought Húrin to take what he would, but to
 spare his life; but Húrin gave no heed to his prayer, and slew him
 there before the doors of Nargothrond. Then he entered in, and stayed a
@@ -209,9 +209,9 @@ upon the floors in darkness and decay; but it is told that when Húrin
 came forth from the wreck of Nargothrond and stood again beneath the
 sky he bore with him out of all that great hoard but one thing only.
 
-## Húrin's gift of Nauglamír to Thingol
+# Húrin's gift of Nauglamír to Thingol
 
-### Húrin comes to Doriath, and gives Nauglamír, the necklace of the dwarves, bitterly to Thingol
+## Húrin comes to Doriath, and gives Nauglamír, the necklace of the dwarves, bitterly to Thingol
 Now Húrin journeyed eastward, and he came to the Meres of Twilight
 above the Falls of Sirion; and there he was taken by the Elves that
 guarded the western marches of Doriath, and brought before King Thingol
@@ -227,7 +227,7 @@ works in the Elder Days, and prized by Finrod while he lived above all
 the treasures of Nargothrond. And Húrin cast it at the feet of Thingol
 with wild and bitter words.
 
-### The bitter words of Húrin as he gives it to Thingol
+## The bitter words of Húrin as he gives it to Thingol
 'Receive thou thy fee,' he cried, 'for thy fair keeping of my children
 and my wife! For this is the Nauglamír, whose name is known to many
 among Elves and Men; and I bring it to thee out of the darkness of
@@ -235,7 +235,7 @@ Nargothrond, where Finrod thy kinsman left it behind him when he set
 forth with Beren son of Barahir to fulfil the errand of Thingol of
 Doriath!'
 
-### Thingol stays his wrath with pity, and Melian tells of the crooked words that Húrin learned of his children
+## Thingol stays his wrath with pity, and Melian tells of the crooked words that Húrin learned of his children
 Then Thingol looked upon the great treasure, and knew it for the
 Nauglamír, and well did he understand Húrin's intent; but being filled
 with pity he restrained his wrath, and endured Húrin's scorn. And at
@@ -249,7 +249,7 @@ with honour and goodwill; and we sought by all means that we might to
 dissuade Morwen from the road to Nargothrond. With the voice of Morgoth
 thou dost now upbraid thy friends.'
 
-### Húrin sees the truth in Melian, and offers the necklace to Thingol as a man left with nothing
+## Húrin sees the truth in Melian, and offers the necklace to Thingol as a man left with nothing
 And hearing the words of Melian Húrin stood moveless, and he gazed long
 into the eyes of the Queen; and there in Menegroth, defended still by
 the Girdle of Melian from the darkness of the Enemy, he read the truth
@@ -261,7 +261,7 @@ Necklace of the Dwarves, as a gift from one who has nothing, and as a
 memorial of Húrin of Dor-lómin. For now my fate is fulfilled, and the
 purpose of Morgoth achieved; but I am his thrall no longer.'
 
-### The death of Húrin as he casts himself into the western seas
+## The death of Húrin as he casts himself into the western seas
 Then he turned away, and passed out from the Thousand Caves, and all
 that saw him fell back before his face; and none sought to withstand
 his going, nor did any know whither he went. But it is said that Húrin
@@ -269,9 +269,9 @@ would not live thereafter, being bereft of all purpose and desire, and
 cast himself at last into the western sea; and so ended the mightiest
 of the warriors of mortal Men.
 
-## The death of Thingol and the passing of Melian
+# The death of Thingol and the passing of Melian
 
-### How Thingol came to the idea to place the Silmaril in Nauglamír
+## How Thingol came to the idea to place the Silmaril in Nauglamír
 But when Húrin was gone from Menegroth, Thingol sat long in silence,
 gazing upon the great treasure that lay upon his knees; and it came
 into his mind that it should be remade, and in it should be set the
@@ -280,7 +280,7 @@ to the jewel of Fëanor, and became bound to it, and he liked not to let
 it rest even behind the doors of his inmost treasury; and he was minded
 now to bear it with him always, waking and sleeping.
 
-### Thingol tells the dwarves to reforge Nauglamír
+## Thingol tells the dwarves to reforge Nauglamír
 In those days the Dwarves still came on their journeys into Beleriand
 from their mansions in Ered Lindon, and passing over Gelion at Sam
 Athrad, the Ford of Stones, they travelled the ancient road to Doriath;
@@ -298,7 +298,7 @@ wonder the shining jewel of Fëanor; and they were filled with a great
 lust to possess them, and carry them off to their far homes in the
 mountains. But they dissembled their mind, and consented to the task.
 
-### The piece is finished, and the dwarves refuse to give it up to Thingol
+## The piece is finished, and the dwarves refuse to give it up to Thingol
 Long was their labour; and Thingol went down alone to their deep
 smithies, and sat ever among them as they worked. In time his desire
 was achieved, and the greatest of the works of Elves and Dwarves were
@@ -320,7 +320,7 @@ began by the waters of Cuiviénen years uncounted ere the fathers of the
 stunted people awoke?' And standing tall and proud among them he bade
 them with shameful words be gone unrequited out of Doriath.
 
-### Thingol is slain by the dwarves
+## Thingol is slain by the dwarves
 Then the lust of the Dwarves was kindled to rage by the words of the
 King; and they rose up about him, and laid hands on him, and slew him
 as he stood. So died in the deep places of Menegroth Elwë Singollo,
@@ -329,7 +329,7 @@ with one of the Ainur; and he who, alone of the Forsaken Elves, had
 seen the light of the Trees of Valinor, with his last sight gazed upon
 the Silmaril.
 
-### The dwarves are killed in the escape, save two who report back, and the necklace is brought to Melian
+## The dwarves are killed in the escape, save two who report back, and the necklace is brought to Melian
 Then the Dwarves taking the Nauglamír passed out of Menegroth and fled
 eastwards through Region. But tidings went swiftly through the forest,
 and few of that company came over Aros, for they were pursued to the
@@ -341,7 +341,7 @@ Mountains; and there in Nogrod they told somewhat of all that had
 befallen, saying that the Dwarves were slain in Doriath by command of
 the Elvenking, who thus would cheat them of their reward.
 
-### The march of the dwarves of Nogrod in sight of vengence
+## The march of the dwarves of Nogrod in sight of vengence
 Then great was the wrath and lamentation of the Dwarves of Nogrod for
 the death of their kin and their great craftsmen, and they tore their
 beards, and wailed; and long they sat taking thought for vengeance. It
@@ -350,7 +350,7 @@ the Dwarves of Belegost sought to dissuade them from their purpose; but
 their counsel was unavailing, and ere long a great host came forth from
 Nogrod, and crossing over Gelion marched westward through Beleriand.
 
-### Of the lifting of the Girdle of Melian
+## Of the lifting of the Girdle of Melian
 Upon Doriath a heavy change had fallen. Melian sat long in silence
 beside Thingol the King, and her thought passed back into the starlit
 years and to their first meeting among the nightingales of Nan Elmoth
@@ -369,7 +369,7 @@ to pass that her power was withdrawn in that time from the forests of
 Neldoreth and Region, and Esgalduin the enchanted river spoke with a
 different voice, and Doriath lay open to its enemies.
 
-### Melian gives the necklace to Mablung and passes to Lórien where she came
+## Melian gives the necklace to Mablung and passes to Lórien where she came
 Thereafter Melian spoke to none save to Mablung only, bidding him take
 heed to the Silmaril, and to send word speedily to Beren and Lúthien in
 Ossiriand; and she vanished out of Middle-earth, and passed to the land
@@ -377,7 +377,7 @@ of the Valar beyond the western sea, to muse upon her sorrows in the
 gardens of Lórien, whence she came, and this tale speaks of her no
 more.
 
-### The dwarves overtake the elves at Menegroth, and the Silmaril is taken
+## The dwarves overtake the elves at Menegroth, and the Silmaril is taken
 Thus it was that the host of the Naugrim crossing over Aros passed
 unhindered into the woods of Doriath; and none withstood them, for they
 were many and fierce, and the captains of the Grey-elves were cast into
@@ -391,9 +391,9 @@ Thingol were ransacked and plundered. There fell Mablung of the Heavy
 Hand before the doors of the treasury wherein lay the Nauglamír; and
 the Silmaril was taken.
 
-## The battle of taken by Beren and the Dwarves
+# The battle of taken by Beren and the Dwarves
 
-### Aside to Beren and Lúthien, their son Dior, his wife Nimloth, and their children, one of whom is Elwing
+## Aside to Beren and Lúthien, their son Dior, his wife Nimloth, and their children, one of whom is Elwing
 At that time Beren and Lúthien yet dwelt in Tol Galen, the Green Isle,
 in the River Adurant, southernmost of the streams that falling from
 Ered Lindon flowed down to join with Gelion; and their son Dior Eluchíl
@@ -404,7 +404,7 @@ Elwing, which is Star-spray, for she was born on a night of stars,
 whose light glittered in the spray of the waterfall of Lanthir Lamath
 beside her father's house.
 
-### Beren and Lúthien hear of the dwarves that came to Menegroth
+## Beren and Lúthien hear of the dwarves that came to Menegroth
 Now word went swiftly among the Elves of Ossiriand that a great host of
 Dwarves bearing gear of war had come down out of the mountains and
 passed over Gelion at the Ford of Stones. These tidings came soon to
@@ -414,7 +414,7 @@ left Tol Galen, and summoning to him Dior his son they went north to
 the River Ascar; and with them went many of the Green-elves of
 Ossiriand.
 
-### That host of elves of Ossiriand ambush the dwarves in their return
+## That host of elves of Ossiriand ambush the dwarves in their return
 Thus it came to pass that when the Dwarves of Nogrod, returning from
 Menegroth with diminished host, came again to Sarn Athrad, they were
 assailed by unseen enemies; for as they climbed up Gelion's banks
@@ -427,7 +427,7 @@ there came forth the Shepherds of the Trees, and they drove the Dwarves
 into the shadowy woods of Ered Lindon: whence, it is said, came never
 one to climb the high passes that led to their homes.
 
-### Beren slays the Lord of Nogrod and takes the necklace, and gives it to Lúthien
+## Beren slays the Lord of Nogrod and takes the necklace, and gives it to Lúthien
 In that battle by Sarn Athrad Beren fought his last fight, and himself
 slew the Lord of Nogrod, and wrested from him the Necklace of the
 Dwarves; but he dying laid his curse upon all the treasure. Then Beren
@@ -445,9 +445,9 @@ realm of Valinor; and for a little while the Land of the Dead that Live
 became like a vision of the land of the Valar, and no place has been
 since so fair, so fruitful, or so filled with light.
 
-## Of Dior in Menegroth, whom the sons of Fëanor assult, and the fate of the Silmaril to Elwing
+# Of Dior in Menegroth, whom the sons of Fëanor assult, and the fate of the Silmaril to Elwing
 
-### Dior goes to Menegroth and abides there
+## Dior goes to Menegroth and abides there
 Now Dior Thingol's heir bade farewell to Beren and Lúthien, and
 departing from Lanthir Lamath with Nimloth his wife he came to
 Menegroth, and abode there; and with them went their young sons Eluréd
@@ -456,7 +456,7 @@ with joy, and they arose from the darkness of their grief for fallen
 kin and King and for the departure of Melian; and Dior Eluchíl set
 himself to raise anew the glory of the kingdom of Doriath.
 
-### An elf from Ossiriand brings the necklace with the Silmaril to Dior in Menegroth
+## An elf from Ossiriand brings the necklace with the Silmaril to Dior in Menegroth
 There came a night of autumn, and when it grew late, one came and smote
 upon the doors of Menegroth, demanding admittance to the King. He was a
 lord of the Green-elves hastening from Ossiriand, and the door-wards
@@ -467,20 +467,20 @@ and Dior looking upon it knew it for a sign that Beren Erchamion and
 Lúthien Tinúviel had died indeed, and gone where go the race of Men to
 a fate beyond the world.
 
-### Dior reflects on his parents as he gazes upon the Silmaril
+## Dior reflects on his parents as he gazes upon the Silmaril
 Long did Dior gaze upon the Silmaril, which his father and mother had
 brought beyond hope out of the terror of Morgoth; and his grief was
 great that death had come upon them so soon. But the wise have said
 that the Silmaril hastened their end; for the flame of the beauty of
 Lúthien as she wore it was too bright for mortal lands.
 
-### Dior takes the Silmaril as one of threefold race
+## Dior takes the Silmaril as one of threefold race
 Then Dior arose, and about his neck he clasped the Nauglamír; and now
 he appeared as the fairest of all the children of the world, of
 threefold race: of the Edain, and of the Eldar, and of the Maiar of the
 Blessed Realm.
 
-### Hearing that Dior now holds the Silmaril, the Elves of Beleriand are stirred
+## Hearing that Dior now holds the Silmaril, the Elves of Beleriand are stirred
 But now the rumour ran among the scattered Elves of Beleriand that Dior
 Thingol's heir wore the Nauglamír, and they said: 'A Silmaril of Fëanor
 burns again in the woods of Doriath'; and the oath of the sons of
@@ -489,7 +489,7 @@ of the Dwarves no Elf would dare to assail her; but now hearing of the
 renewal of Doriath and of Dior's pride the seven gathered again from
 wandering, and they sent to him to claim their own.
 
-### The second slaying of Elf by Elf, where Dior and Nimloth are slain with Celegorm, Curufin, and Caranthir, while the servents of Celegorm take Eluréd and Elurín
+## The second slaying of Elf by Elf, where Dior and Nimloth are slain with Celegorm, Curufin, and Caranthir, while the servents of Celegorm take Eluréd and Elurín
 But Dior returned no answer to the sons of Fëanor; and Celegorm stirred
 up his brothers to prepare an assault upon Doriath. They came at
 unawares in the middle of winter, and fought with Dior in the Thousand
@@ -501,10 +501,10 @@ forest. Of this Maedhros indeed repented, and sought for them long in
 the woods of Doriath; but his search was unavailing, and of the fate of
 Eluréd and Elurín no tale tells.
 
-### Doriath is destroyed
+## Doriath is destroyed
 Thus Doriath was destroyed, and never rose again.
 
-### Some of the elves escape, among them Elwing with the Nauglamír and the Silmaril
+## Some of the elves escape, among them Elwing with the Nauglamír and the Silmaril
 But the sons of Fëanor gained not what they sought; for a remnant of
 the people fled before them, and with them was Elwing Dior's daughter,
 and they escaped, and bearing with them the Silmaril they came in time

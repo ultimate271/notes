@@ -1,8 +1,8 @@
 # Chapter 6: Of Fëanor and the Unchaining of Melkor
 
-## Of Míriel and her son Fëanor
+# Of Míriel and her son Fëanor
 
-### The Noontide of the Blessed Realm of Valinor
+## The Noontide of the Blessed Realm of Valinor
 Now the Three Kindreds of the Eldar were gathered at last in Valinor, and
 Melkor was chained. This was the Noontide of the Blessed Realm, the fullness of
 its glory and its bliss, long in tale of years, but in memory too brief. In
@@ -14,13 +14,13 @@ Rúmil of Tirion was the name of the loremaster who first achieved fitting signs
 for the recording of speech and song, some for graving upon metal or in stone,
 others for drawing with brush or with pen.
 
-### Curufinwë, called by his mother Fëanor, is born in Eldamar
+## Curufinwë, called by his mother Fëanor, is born in Eldamar
 In that time was born in Eldamar, in the house of the King in Tirion upon the
 crown of Túna, the eldest of the sons of Finwë, and the most beloved. Curufinwë
 was his name, but by his mother he was called Fëanor, Spirit of Fire; and thus
 he is remembered in all the tales of the Noldor.
 
-### Míriel, who is called Serindë, strength falls from her
+## Míriel, who is called Serindë, strength falls from her
 Míriel was the name of his mother, who was called Serindë, because of her
 surpassing skill in weaving and needlework; for her hands were more skilled to
 fineness than any hands even among the Noldor. The love of Finwë and Míriel was
@@ -30,7 +30,7 @@ birth she yearned for release from the labours of living. Ana when she had
 named mm, she said to Finwë: 'Never again shall I bear child; for strength that
 would have nourished the life of many has gone forth into Fëanor.'
 
-### Míriel, at the counsel of Manwë, goes to Lorien for healing
+## Míriel, at the counsel of Manwë, goes to Lorien for healing
 Then Finwë was grieved, for the Noldor were in me youth of their days, and he
 desired to bring forth many children into the Miss of Aman; and he said:
 'Surely there is healing in Aman? Here all weariness can find rest.' But when
@@ -39,11 +39,11 @@ her to the care of Irmo in Lórien. At their parting (for a little while as he
 thought) Finwë was sad, for it seemed an unhappy chance that the mother should
 depart and miss the beginning at least of the childhood days of her son.
 
-### Míriel's last solomn words to her husband
+## Míriel's last solomn words to her husband
 ‘It is indeed unhappy,’ said Míriel, 'and I would weep, if I were not so weary.
 But hold me blameless in this, and in all that may come after.’
 
-### Míriel's spirit comes to pass in the Garden of Lorien
+## Míriel's spirit comes to pass in the Garden of Lorien
 She went then to the gardens of Lórien and lay down to sleep; but though she
 seemed to sleep, her spirit indeed departed from her body, and passed in
 silence to the halls of Mandos. The maidens of Estë tended the body of Míriel,
@@ -53,9 +53,9 @@ willows beside the body of his wife he called her by her names. But it was
 unavailing; and alone in all the Blessed Realm he was deprived of joy. After a
 while he went to Lórien no more.
 
-## Of the relationships of Fëanor
+# Of the relationships of Fëanor
 
-### Of Fëanor and the skills he wrought through his maturing
+## Of Fëanor and the skills he wrought through his maturing
 An his love he gave thereafter to his son; and Fëanor grew swiftly, as if a
 secret fire were kindled within him. He was tall, and fair of face, and
 masterful, his eyes piercingly bright and his hair raven-dark; in the pursuit
@@ -71,7 +71,7 @@ and other crystals he made also, wherein things far away could be seen small
 but clear, as with the eyes of the eagles of Manwë.  Seldom were the hands and
 mind of Fëanor at rest.
 
-### Of Nerdanel, daughter of Mahtan, and their relationship to Fëanor
+## Of Nerdanel, daughter of Mahtan, and their relationship to Fëanor
 While still in his early youth he wedded Nerdanel, the daughter of a great
 smith named Mahtan, among those of the Noldor most dear to Aulë; and of Mahtan
 he learned much of the making of things in metal and in stone. Nerdanel also
@@ -81,14 +81,14 @@ his heart grew too hot; but his later deeds grieved her, and they became
 estranged. Seven sons she bore to Fëanor; her mood she bequeathed in part to
 some of them, but not to all.
 
-### Of Indis, second wife of Finwë
+## Of Indis, second wife of Finwë
 Now it came to pass that Finwë took as his second wife Indis the Fair.  She was
 a Vanya, close kin of Ingwë the High King, golden-haired and tall, and in all
 ways unlike Míriel. Finwë loved her greatly, and was glad again. But the shadow
 of Míriel did not depart from the house of Finwë, nor from his heart; and of
 all whom he loved Fëanor had ever the chief share of his thought.
 
-### What could have been
+## What could have been
 The wedding of his father was not pleasing to Fëanor; and he had no great love
 for Indis, nor for Fingolfin and Finarfin, her sons. He lived apart from them,
 exploring the land of Aman, or busying himself with the knowledge and the
@@ -101,9 +101,9 @@ strife in the house of Finwë is graven in the memory of the Noldorin Elves. But
 the children of Indis were great and glorious, and their children also; and if
 they had not lived the history of the Eldar would have been diminished.
 
-## Of the end of the chaining of Melkor
+# Of the end of the chaining of Melkor
 
-### The end of the three ages of the chaining of Melkor
+## The end of the three ages of the chaining of Melkor
 Now even while Fëanor and the craftsmen of the Noldor worked with delight,
 foreseeing no end to their labours, and while the sons of Indis grew to their
 full stature, the Noontide of Valinor was drawing to its close. For it came to
@@ -115,14 +115,14 @@ Children of Ilúvatar that sat at the feet of the Mighty, and hatred filled him;
 he looked upon the wealth of bright gems, and he lusted for them; but he hid
 his thoughts, and postponed his vengeance.
 
-### Melkor sues for pardon at the feet of Manwë
+## Melkor sues for pardon at the feet of Manwë
 Before the gates of Valmar Melkor abased himself at the feet of Manwë and sued
 for pardon, vowing that if he might be made only the least of the free people
 of Valinor he would aid the Valar in all their works, and most of all in the
 healing of the many hurts that he had done to the world. And Nienna aided his
 prayer; but Mandos was silent
 
-### Of the Valar and their opinions of the pardon
+## Of the Valar and their opinions of the pardon
 Then Manwë granted him pardon; but the Valar would not yet suffer him to depart
 beyond their sight and vigilance, and he was constrained to dwell within the
 gates of Valmar. But fair-seeming were all the words and deeds of Melkor in
@@ -137,7 +137,7 @@ clenched his hands whenever he saw Melkor his foe go by; for if Tulkas is slow
 to wrath he is slow also to forget. But they obeyed the judgement of Manwë; for
 those who will defend authority against rebellion must not themselves rebel.
 
-### Melkor begins to sow the seeds of deceit in the Noldor, most of all Fëanor
+## Melkor begins to sow the seeds of deceit in the Noldor, most of all Fëanor
 Now in his heart Melkor most hated the Eldar, both because they were fair and
 joyful and because in them he saw the reason for the arising of the Valar, and
 his own downfall. Therefore all the more did he feign love for them and seek

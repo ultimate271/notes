@@ -1,8 +1,8 @@
 # Chapter 15: Of the Noldor in Beleriand
 
-## Of Turgon and the beginning of Gondolin
+# Of Turgon and the beginning of Gondolin
 
-### Turgon finds Tumladen, finding a circle of mountains
+## Turgon finds Tumladen, finding a circle of mountains
 It has been told how by the guidance of Ulmo Turgon of Nevrast discovered the
 hidden vale of Tumladen; and that (as was after known) lay east of the upper
 waters of Sirion, in a ring of mountains tall and sheer, and no living thing
@@ -16,7 +16,7 @@ a fair city, a memorial of Tirion upon Túna; but he returned to Nevrast, and
 remained there in peace, though he pondered ever in his thought how he should
 accomplish his design.
 
-### After the Third Battle, Turgon sets to build Gondolin, and after 250 years it is done
+## After the Third Battle, Turgon sets to build Gondolin, and after 250 years it is done
 Now after the Dagor Aglareb the unquiet that Ulmo set in his heart returned to
 him, and he summoned many of the hardiest and most skilled of his people, and
 led them secretly to the hidden vale, and there they began the building of the
@@ -37,7 +37,7 @@ the realms of the Eldalië shall Gondolin stand against Melkor. But love not too
 well the work of thy hands and the devices of thy heart; and remember that the
 true hope of the Noldor lieth in the West and cometh from the Sea.'
 
-### Ulmo warns Turgon of the Doom of Mandos, and Turgon leaves helm and sword behind in Nevrast
+## Ulmo warns Turgon of the Doom of Mandos, and Turgon leaves helm and sword behind in Nevrast
 And Ulmo warned Turgon that he also lay under the Doom of Mandos, which Ulmo
 had no power to remove. 'Thus it may come to pass,' he said, 'that the curse of
 the Noldor shall find thee too ere the end, and treason awake within thy walls.
@@ -48,7 +48,7 @@ arms and a sword, that in years to come he may find them, and thus shalt thou
 know him, and not be deceived.' And Ulmo declared to Turgon of what kind and
 stature should be the helm and mail and sword that he left behind.
 
-### The hosts of Turgon go, company by company, to Gondolin, and seal the path behind them
+## The hosts of Turgon go, company by company, to Gondolin, and seal the path behind them
 Then Ulmo returned to the sea, and Turgon sent forth all his people, even to a
 third part of the Noldor of Fingolfin's following, and a yet greater host of
 the Sindar; and they passed away, company by company, secretly, under the
@@ -57,7 +57,7 @@ whither they had gone. And last of all Turgon arose, and went with his
 household silently through the hills, and passed the gates in the mountains,
 and they were shut behind him.
 
-### Description of Gondolin, of trees Glingal and Belthil, and Idril Celebrindal, Turgon's daughter
+## Description of Gondolin, of trees Glingal and Belthil, and Idril Celebrindal, Turgon's daughter
 Through many long years none passed inward thereafter, save Húrin and Huor
 only; and the host of Turgon came never forth again until the Year of
 Lamentation after three hundred and fifty years and more. But behind the circle
@@ -74,9 +74,9 @@ whose hair was as the gold of Laurelin before the coming of Melkor. Thus Turgon
 lived long in bliss; but Nevrast was desolate, and remained empty of living
 folk until the ruin of Beleriand.
 
-## Galadriel speaks to Melian who then speaks to Thingol of the Silmarils
+# Galadriel speaks to Melian who then speaks to Thingol of the Silmarils
 
-### In the meanwhile, Galadriel in Doriath is question by Melion
+## In the meanwhile, Galadriel in Doriath is question by Melion
 Now while the city of Gondolin was building in secret, Finrod Felagund wrought
 in the deep places of Nargothrond; but Galadriel his sister dwelt, as has been
 told, in Thingol's realm in Doriath. And at times Melian and Galadriel would
@@ -87,12 +87,12 @@ in you, but all else is hidden from me; for by no vision or thought can I
 perceive anything that passed or passes in the West: a shadow lies over all the
 land of Aman, and reaches far out over the sea. Why will you not tell me more?'
 
-### Galadriel glances the questioning
+## Galadriel glances the questioning
 'For that woe is past,' said Galadriel; 'and I would take what joy is here
 left, untroubled by memory. And maybe there is woe enough yet to come, though
 still hope may seem bright.'
 
-### Melian begins to guess the reason for Galadriel's dodginess
+## Melian begins to guess the reason for Galadriel's dodginess
 Then Melian looked in her eyes, and said: 'I believe not that the Noldor came
 forth as messengers of the Valar, as was said at first: not though they came in
 the very hour of our need. For they speak never of the Valar, nor have their
@@ -102,13 +102,13 @@ cause, Galadriel, were the high people of the Noldor driven forth as exiles
 from Aman? Or what evil lies on the sons of Fëanor that they are so haughty and
 so fell?  Do I not strike near the truth?'
 
-### Galadriel begins to open up
+## Galadriel begins to open up
 "Near,' said Galadriel; 'save that we were not driven forth, but came of our
 own will, and against that of the Valar. And through great peril and in despite
 of the Valar for this purpose we came: to take vengeance upon Morgoth, and
 regain what he stole.'
 
-### Galadriel tells of the Silmarils, but not of the Kinslaying nor Oath
+## Galadriel tells of the Silmarils, but not of the Kinslaying nor Oath
 Then Galadriel spoke to Melian of the Silmarils, and of the slaying of King
 Finwë at Formenos: but still she said no word of the Oath, nor of the
 Kinslaying, nor of the burning of the ships at Losgar. But Melian said: 'Now
@@ -116,10 +116,10 @@ much you tell me, and yet more I perceive. A darkness you would cast over the
 long road from Tirion, but I see evil there, which Thingol should learn for his
 guidance.'
 
-### After being questioned further, Galadriel deflects blame
+## After being questioned further, Galadriel deflects blame
 'Maybe,' said Galadriel; 'but not of me.'
 
-### Melian tells Thingol of Galadriel's words, and of the slaying of Finwë
+## Melian tells Thingol of Galadriel's words, and of the slaying of Finwë
 And Melian spoke then no more of these matters with Galadriel; but she told to
 King Thingol all that she had heard of the Silmarils. 'This is a great matter,'
 she said, 'greater indeed than the Noldor themselves understand; for the Light
@@ -130,7 +130,7 @@ are wrested from Morgoth. See now! Fëanor they have slain, and many another, as
 I guess; but first of all the deaths they have brought and yet shall bring was
 Finwë your friend. Morgoth slew him, ere he fled from Aman.'
 
-### Thingol reflects on Melian's words
+## Thingol reflects on Melian's words
 Then Thingol was silent, being filled with grief and foreboding; but at length
 he said: 'Now at last I understand the coming of the Noldor out of the West, at
 which I wondered much before. Not to our aid did they come (save by chance);
@@ -139,24 +139,24 @@ devices, until the uttermost need. For vengeance and redress of their loss the
 Noldor came. Yet all the more sure shall they be as allies against Morgoth,
 with whom it is not now to be thought that they shall ever make treaty.'
 
-### Melian warns Thingol of the sons of Fëanor
+## Melian warns Thingol of the sons of Fëanor
 But Melian said: 'Truly for these causes they came; but for others also. Beware
 of the sons of Fëanor! The shadow of the wrath of the Valar lies upon them; and
 they have done evil, I perceive, both in Aman and to their own kin. A grief but
 lulled to sleep lies between the princes of the Noldor.'
 
-### Thingol replies with a flowery version of 'The enemy of my enemy is my friend'
+## Thingol replies with a flowery version of 'The enemy of my enemy is my friend'
 And Thingol answered: 'What is that to me? Of Fëanor I have heard but report,
 which makes him great indeed. Of his sons I hear little to my pleasure; yet
 they are likely to prove the deadliest foes of our foe.'
 
-### Melian tells that their swords shall have two edges
+## Melian tells that their swords shall have two edges
 Their swords and their counsels shall have two edges,' I said Melian; and
 afterwards they spoke no more of this matter.
 
-## Of the feast in Menegroth where Thingol hears of the deeds of the Noldor
+# Of the feast in Menegroth where Thingol hears of the deeds of the Noldor
 
-### Rumor of the Noldor spreads, and Círdan sends messengers to Thingol
+## Rumor of the Noldor spreads, and Círdan sends messengers to Thingol
 It was not long before whispered tales began to pass among the Sindar
 concerning the deeds of the Noldor ere they came to Beleriand. Certain it is
 whence they came, and the evil truth was enhanced and poisoned by lies; but the
@@ -168,24 +168,24 @@ malice, though the malice he deemed was that of the princes of the Noldor,
 because of the jealousy of their houses. Therefore he sent messengers to
 Thingol to tell all that he had heard.
 
-### Messengers arrive, and Thingol absconds Finrod for withholding information
+## Messengers arrive, and Thingol absconds Finrod for withholding information
 It chanced that at that time the sons of Finarfin were again the guests of
 Thingol, for they wished to see their sister Galadriel. Then Thingol, being
 greatly moved, spoke in anger to Finrod, saying: 'Ill have you done to me,
 kinsman, to conceal so great matters from me. For now I have learned of all the
 evil deeds of the Noldor.'
 
-### Finrod replies saying the Noldor have done no harm against the Sindar
+## Finrod replies saying the Noldor have done no harm against the Sindar
 But Finrod answered: 'What ill have I done yon, lord? Or what evil deed have
 the Noldor done in all your realm to grieve you? Neither against your kinship
 nor against any of your people have they thought evil or done evil.'
 
-### Thingol again scolds Finrod for withholding information
+## Thingol again scolds Finrod for withholding information
 'I marvel at you, son of Eärwen,' said Thingol, 'that you would come to the
 board of your kinsman thus red-handed from the slaying of your mothers kin, and
 yet say naught in defence, nor yet seek any pardon!'
 
-### Finrod does not want to point fingers, but Angrod does
+## Finrod does not want to point fingers, but Angrod does
 Then Finrod was greatly troubled, but he was silent, for he could not defend
 himself, save by bringing charges against the other princes of the Noldor; and
 that he was loath to do before Thingol. But in Angrod's heart the memory of the
@@ -198,13 +198,13 @@ tale-bearers to you and treasonable to the Noldor: untruly as you know, for we
 have of our loyalty been silent before you, and thus earned your anger. But now
 these charges are no longer to be borne, and the truth yon shall know.'
 
-### Angrod speaks of all the evils of his uncles and cousins to Thingol
+## Angrod speaks of all the evils of his uncles and cousins to Thingol
 Then Angrod spoke bitterly against the sons of Fëanor, telling of the blood at
 Alqualondë, and the Doom of Mandos, and the burning of the ships at Losgar. And
 he cried: 'Wherefore should we that endured the Grinding Ice bear the name of
 kinslayers and traitors?'
 
-### Fingol becomes hot, but in his wisdom he remains friends to all but the sons of Fëanor
+## Fingol becomes hot, but in his wisdom he remains friends to all but the sons of Fëanor
 'Yet the shadow of Mandos lies on you also,' said Melian. But Thingol was long
 silent ere he spoke. 'Go now!' he said. 'For my heart is hot within me. Later
 you may return, if you will; for I will not shut my doors for ever against you,
@@ -218,7 +218,7 @@ command that they shall neither speak with the tongue of the Noldor nor answer
 to it. And all such as use it shall be held slayers of kin and betrayers of kin
 unrepentant.'
 
-### The sons of Finarfin depart for Menegroth, and the Eldarin tongue is no longer heard in the lands of Doriath
+## The sons of Finarfin depart for Menegroth, and the Eldarin tongue is no longer heard in the lands of Doriath
 Then the sons of Finarfin departed from Menegroth with heavy hearts, perceiving
 how the words of Mandos would ever be made true, and that none of the Noldor
 that followed after Fëanor could escape from the shadow that lay upon his
@@ -229,9 +229,9 @@ tongue in all their daily uses, and the High Speech of the West was spoken only
 by the lords of the Noldor among themselves. Yet that speech lived ever as a
 language of lore, wherever any of that people dwelt.
 
-## Of Finrod and the oath of solitude he takes
+# Of Finrod and the oath of solitude he takes
 
-### The sons of Finarfin return to Nargothrond, and Finrod declares that he will have no son to inherit his works
+## The sons of Finarfin return to Nargothrond, and Finrod declares that he will have no son to inherit his works
 It came to pass that Nargothrond was full-wrought (and yet Turgon still dwelt
 in the halls of Vinyamar), and the sons of Finarfin were gathered there to a
 feast; and Galadriel came from Doriath and dwelt a while in Nargothrond. Now
@@ -240,7 +240,7 @@ but foresight came upon Felagund as she spoke, and he said: 'An oath I too
 shall swear, and must be free to fulfil it, and go into darkness. Nor shall
 anything of my realm endure that a son should inherit.'
 
-### Amarië of the Vanyar is the one that Finrod loved
+## Amarië of the Vanyar is the one that Finrod loved
 But it is said that not until that hour had such cold thoughts ruled him; for
 indeed she whom he had loved was Amarië of the Vanyar, and she went not with
 him into exile.

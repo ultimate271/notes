@@ -1,8 +1,8 @@
 # Chapter 17: Of the Coming of Men into the West
 
-## First encounter of men and elves
+# First encounter of men and elves
 
-### Finrod hunts with Maglor and Maedhros to the north of Ossiriand
+## Finrod hunts with Maglor and Maedhros to the north of Ossiriand
 When three hundred years and more were gone since the Noldor came to Beleriand,
 in the days of the Long Peace, Finrod Felagund lord of Nargothrond journeyed
 east of Sirion and went hunting with Maglor and Maedhros, sons of Fëanor. But
@@ -11,7 +11,7 @@ Lindon that he saw shining afar; and taking the Dwarf-road he crossed Gelion at
 the ford of Sarn Athrad, and taming south over the upper streams of Ascar, he
 came into the north of Ossiriand.
 
-### Finrod hears song, and witnesses the first of coming of men
+## Finrod hears song, and witnesses the first of coming of men
 In a valley among the foothills of the mountains, below the springs of Thalos,
 he saw lights in the evening, and far off he heard the sound of song. At this
 he wondered much, for the Green-elves of that land lit no fires, nor did they
@@ -21,7 +21,7 @@ used a tongue that he had not heard before, neither that of Dwarves nor of
 Orcs. Then Felagund, standing silent hi the night-shadow of the trees, looked
 down into the camp, and there he beheld a strange people.
 
-### Of Bëor the Old and his people, the first to come to Beleriand
+## Of Bëor the Old and his people, the first to come to Beleriand
 Now these were a part of the kindred and following of Bëor the Old, as he was
 afterwards called, a chieftain among Men. After many lives of wandering out of
 the East he had led them at last over the Blue Mountains, the first of the race
@@ -29,7 +29,7 @@ of Men to enter Beleriand; and they sang because they were glad, and believed
 that they had escaped from all perils and had come at last to a land without
 fear.
 
-### Finrod Felegund plays a harp while the men sleep
+## Finrod Felegund plays a harp while the men sleep
 Long Felagund watched them, and love for them stirred in his heart; but he
 remained hidden in the trees until they had all fallen asleep. Then he went
 among the sleeping people, and sat beside their dying fire where none kept
@@ -37,7 +37,7 @@ watch; and he took up a rude harp which Bëor had laid aside, and he played
 music upon it such as the ears of Men had not heard; for they had as yet no
 teachers in the art, save only the Dark Elves in the wild lands.
 
-### The men listen to the playing as if in a dream
+## The men listen to the playing as if in a dream
 Now men awoke and listened to Felagund as he harped and sang, and each thought
 that he was in some fair dream, until he saw that his fellows were awake also
 beside him; but they did not speak or stir while Felagund still played, because
@@ -47,7 +47,7 @@ things of which he sang, of the making of Arda, and the bliss of Aman beyond
 the shadows of the Sea, came as clear visions before their eyes, and his Elvish
 speech was interpreted in each mind according to its measure.
 
-### Conclusion of the first encounter of men and elves
+## Conclusion of the first encounter of men and elves
 Thus it was that Men called King Felagund, whom they first met of all the
 Eldar, Nóm, that is Wisdom, in the language of that people, and after him they
 named his folk Nómin, the Wise. Indeed they believed at first that Felagund was
@@ -56,9 +56,9 @@ West; and this was (some say) the cause of their journeying. But Felagund dwelt
 among them and taught them true knowledge, and they loved him, and took him for
 their lord, and were ever after loyal to the house of Finarfin.
 
-## Morgoth's secret dealing with men
+# Morgoth's secret dealing with men
 
-### They begin to speak, and Bëor tells of darkness
+## They begin to speak, and Bëor tells of darkness
 Now the Eldar were beyond all other peoples skilled in tongues; and Felagund
 discovered also that he could read in the minds of Men such thoughts as they
 wished to reveal in speech, so that their words were easily interpreted. It is
@@ -75,7 +75,7 @@ our backs upon it, and we do not desire to return thither even in thought.
 Westwards our hearts have been turned, and we believe that there we shall find
 Light.'
 
-### Of Morgoth's first doings of men
+## Of Morgoth's first doings of men
 But it was said afterwards among the Eldar that when Men awoke in Hildórien at
 the rising of the Sun the spies of Morgoth were watchful, and tidings were soon
 brought to him; and this seemed to him so great a matter that secretly under
@@ -93,9 +93,9 @@ very few in number, whereas Morgoth grew afraid of the growing power and union
 of the Eldar and came back to Angband, leaving behind at that time but few
 servants, and those of less might and cunning.
 
-## Of the Haladin
+# Of the Haladin
 
-### Of the Haladin, who were larger but stayed in the east, led by Marach
+## Of the Haladin, who were larger but stayed in the east, led by Marach
 Now Felagund learned from Bëor that there were many other Men of like mind who
 were also journeying westward. 'Others of my own kin have crossed the
 Mountains,' he said, 'and they are wandering not far away; and the Haladin, a
@@ -106,7 +106,7 @@ times. They were before us on the westward march, but we passed them; for they
 are a numerous people, and yet keep together and move slowly, being all ruled
 by one chieftain whom they call Marach.'
 
-### The elves of Ossiriand want nothing to do with men
+## The elves of Ossiriand want nothing to do with men
 Now the Green-elves of Ossiriand were troubled by the coming of Men, and when
 they heard that a lord of the Eldar from over the Sea was among them they sent
 messengers to Felagund. 'Lord,' they said, 'if you have power over these
@@ -116,7 +116,7 @@ And these folk are hewers of trees and hunters of beasts; therefore we are
 their unfriends, and if they will not depart we shall afflict them in all ways
 that we can.'
 
-### The founding of Estolad by Bëor and his peoples
+## The founding of Estolad by Bëor and his peoples
 Then by the advice of Felagund Bëor gathered all the wandering families and
 kindreds of his people, and they removed over Gelion, and took up their abode
 in the lands of Amrod and Amras, upon the east banks of the Celon south of Nan
@@ -128,7 +128,7 @@ this way he got his name, Bëor, whereas his name before had been Balan; for
 Bëor signified 'Vassal' in the tongue of his people. The rule of his folk he
 committed to Baran his elder son; and he did not return again to Estolad.
 
-### The Haladin's coming into Thargelion
+## The Haladin's coming into Thargelion
 Soon after the departure of Felagund the other Men of whom Bëor had spoken came
 also into Beleriand. First came the Haladin; but meeting the unfriendship of
 the Green-elves they turned north and dwelt in Thargelion, in the country of
@@ -141,9 +141,9 @@ fertile land, came down the Dwarf-road, and settled in the country south ; and
 east of the dwellings of Baran son of Bëor; and there was great friendship
 between those peoples.
 
-## Foretelling of Finrod, Fingolfin, and Thingol's dealing with men
+# Foretelling of Finrod, Fingolfin, and Thingol's dealing with men
 
-### More on Felagund's friendship of men, called Atani or Edain
+## More on Felagund's friendship of men, called Atani or Edain
 Felagund himself often returned to visit Men; and many other Elves out of the
 west-lands, both Noldor and Sindar, Journeyed to Estolad, being eager to see
 the Edain, whose coming had long been foretold. Now Atani, the Second People,
@@ -151,14 +151,14 @@ was the name given to Men in Valinor in the lore that told of their coming; but
 in the speech of Beleriand that name became Edain, and it was there used only
 of the three kindreds of the Elf-friends.
 
-### Fingolfin welcome's men into the service of his peoples, and Marach comes to Hithlum
+## Fingolfin welcome's men into the service of his peoples, and Marach comes to Hithlum
 Fingolfin, as King of all the Noldor, sent messengers of welcome to them; and
 then many young and eager men of the Edain went away and took service with the
 kings and lords of the Eldar. Among them was Malach son of Marach, and he dwelt
 in Hithlum for fourteen years; and he learned the Elven-tongue and was given
 the name of Aradan.
 
-### Bëor's people go to Dorthonion and the people of Malach come to Hithlum
+## Bëor's people go to Dorthonion and the people of Malach come to Hithlum
 The Edain did not long dwell content in Estolad, for many still desired to go
 westward; but they did not know the way. Before them lay the fences of Doriath,
 and southward lay Sirion and its impassable fens.  Therefore the kings of the
@@ -175,7 +175,7 @@ Hithlum, but Magor son of Aradan and many of the people passed down Sirion into
 Beleriand and dwelt a while in the vales of the southern slopes of Ered
 Wethrin.
 
-### Of Thingol's displeasure of these new men
+## Of Thingol's displeasure of these new men
 It is said that in all these matters none save Finrod Felagund took counsel
 with King Thingol, and he was ill pleased, both for that reason, and because he
 was troubled by dreams concerning the coming of Men, ere ever the first tidings
@@ -189,9 +189,9 @@ even of Bëor's house, shall indeed come, and the Girdle of Melian shall not
 restrain him, for doom greater than my power shall send him; and the songs that
 shall spring from that coming shall endure when all Middle-earth is changed.'
 
-## How Bereg of Estolad leaves to the south and exits all tales of Beleriand
+# How Bereg of Estolad leaves to the south and exits all tales of Beleriand
 
-### Those that stayed in Estolad
+## Those that stayed in Estolad
 But many Men remained in Estolad, and there was still a mingled people living
 there long years after, until in the ruin of Beleriand they were overwhelmed or
 fled back into the East. For beside the old who deemed that their wandering
@@ -201,7 +201,7 @@ the Edain, in which the shadow of Morgoth may be discerned, for certain it is
 that he knew of the coming of Men into Beleriand and of their growing
 friendship with the Elves.
 
-### Bereg and Amlach's discontent
+## Bereg and Amlach's discontent
 The leaders of discontent were Bereg of the house of Bëor, and Amlach, one of
 the grandsons of Marach; and they said openly: 'We took long roads, desiring to
 escape the perils of Middle-earth and the dark things that dwell there; for we
@@ -211,7 +211,7 @@ for the Lord of the Dark is here before us, and the Eldar, wise but fell, who
 make endless war upon him. In the North he dwells, they say; and there is the
 pain and death from which we fled. We will not go that way.'
 
-### Assembly of men and elves, where Elf-friends counter the discontent
+## Assembly of men and elves, where Elf-friends counter the discontent
 Then a council and assembly of Men was called, and great numbers came together.
 And the Elf-friends answered Bereg, saying: 'Truly from the Dark King come all
 the evils from which we fled; but he seeks dominion over all Middle-earth, and
@@ -220,7 +220,7 @@ here, or at least held in leaguer.  Only by the valour of the Eldar is he
 restrained, and maybe it was for this purpose, to aid them at need, that we
 were brought into this land.'
 
-### Imlach's further discontent and blasphemy
+## Imlach's further discontent and blasphemy
 To this Bereg answered: 'Let the Eldar look to it! Our lives are short enough.'
 But there arose one who seemed to all to be Amlach son of Imlach, speaking fell
 words that shook the hearts of all who heard him: 'All this is but Elvish lore,
@@ -233,7 +233,7 @@ stirred to wrath the things that dwell beneath it, as they have ever done and
 ever shall.  Let the Orcs have the realm that is theirs, and we will have ours.
 There is room in the world, if the Eldar will let us be!'
 
-### Amlach resents his words and acknowledges the dark lord
+## Amlach resents his words and acknowledges the dark lord
 Then those that listened sat for a while astounded, and a shadow of fear fell
 on their hearts; and they resolved to depart far from the lands of the Eldar.
 But afterwards Amlach returned among them, and denied that he had been present
@@ -242,7 +242,7 @@ and bewilderment among Men.  Then the Elf-friends said: 'You will now believe
 this at least: there is indeed a Dark Lord, and his spies and emissaries are
 among us; for he fears us, and the strength that we may give to his foes.'
 
-### Bereg goes away to the south, Amlach goes to Maedhros in the north
+## Bereg goes away to the south, Amlach goes to Maedhros in the north
 But some still answered: 'He hates us, rather, and ever the more the longer we
 dwell here, meddling in his quarrel with the Kings of the Eldar, to no gain of
 ours.' Many therefore of those that yet remained in Estolad made ready to
@@ -253,9 +253,9 @@ life's end'; and he went away north and entered the service of Maedhros. But
 those of his people who were of like mind with Bereg chose a new leader, and
 they went back over the mountains into Eriador, and are forgotten.
 
-## Of Morgoth's attacks on the Haladin and how Haleth journies to Brethil
+# Of Morgoth's attacks on the Haladin and how Haleth journies to Brethil
 
-### Morgoth launches an attack of orcs from the south of Thargelion
+## Morgoth launches an attack of orcs from the south of Thargelion
 During this time the Haladin remained in Thargelion and were content.  But
 Morgoth, seeing that by lies and deceits he could not yet wholly estrange Elves
 and Men, was filled with wrath, and endeavoured to do Men what hurt he could.
@@ -263,7 +263,7 @@ Therefore he sent out an Orc-raid, and passing east it escaped the leaguer, and
 came in stealth back over Ered Lindon by the passes of the Dwarf-road, and fell
 upon the Haladin in the southern woods of the land of Caranthir.
 
-### Haldad unites the Haladin and creates a seige to protect his peoples
+## Haldad unites the Haladin and creates a seige to protect his peoples
 Now the Haladin did not live under the rule of lords or many together, but each
 homestead was set apart and governed its own affairs, and they were slow to
 unite. But there was among them a man named Haldad, who was masterful and
@@ -273,7 +273,7 @@ a stockade across from water to water; and behind it they led all the women and
 children that they could save. There they were besieged, until their food was
 gone.
 
-### Introduction of Haleth when Haldad and Haldar are slain
+## Introduction of Haleth when Haldad and Haldar are slain
 Haldad had twin children: Haleth his daughter, and Haldar his son; and both
 were valiant in the defence, for Haleth was a woman of great heart and
 strength.  But at last Haldad was slain in a sortie against the Orcs; and
@@ -284,14 +284,14 @@ later, as the Orcs made their last assault and had already broken through the
 stockade, there came suddenly a music of trumpets, and Caranthir with his host
 came down from the north and drove the Orcs into the rivers.
 
-### Caranthir offers Haleth lands in the north
+## Caranthir offers Haleth lands in the north
 Then Caranthir looked kindly upon Men and did Haleth great honour; and he
 offered her recompense for her father and brother. And seeing, over late, what
 valour there was in the Edain, he said to her: 'If you will remove and dwell
 further north, there you shall have the friendship and protection of the Eldar,
 and free lands of your own.'
 
-### Haleth's journey to the forest of Brethil, and Haldan, her nephew, will become the heir
+## Haleth's journey to the forest of Brethil, and Haldan, her nephew, will become the heir
 But Haleth was proud, and unwilling to be guided or ruled, and most of the
 Haladin were of like mood. Therefore she thanked Caranthir, but answered: 'My
 mind is now set, lord, to leave the shadow of the mountains, and go west,
@@ -319,7 +319,7 @@ whither she would, and dwell under her rule; and these she led into the Forest
 of Brethil, between Teiglin and Sirion. Thither in the evil days that followed
 many of her scattered folk returned.
 
-### Political dispute of the claim of the forest of Brethil resolved
+## Political dispute of the claim of the forest of Brethil resolved
 Now Brethil was claimed as part of his realm by King Thingol, though it was not
 within the Girdle of Melian, and he would have denied it to Haleth; but
 Felagund, who had the friendship of Thingol, hearing of all that had befallen
@@ -333,9 +333,9 @@ Haleth dwelt in Brethil until she died; and her people raised a green mound
 over her in the heights of the forest, Tûr Haretha, the Ladybarrow,
 Haudh-en-Arwen in the Sindarin tongue.
 
-## Conclusion of the coming of men
+# Conclusion of the coming of men
 
-### Summary of the distribution of the Edain
+## Summary of the distribution of the Edain
 In this way it came to pass that the Edain dwelt in the lands of the Eldar,
 some here, some there, some wandering, some settled in kindreds or small
 peoples; and the most part of them soon learned the Grey-elven tongue, both as
@@ -349,7 +349,7 @@ the Edain had delight in the friendship of the Elves, and dwelt among them for
 so long as they had leave; and the young men often took service for a time in
 the hosts of the kings.
 
-### Dor-lomin is occupied by Hador, heir of Malach, and Dothonion is kept by Boromir, heir of Beor
+## Dor-lomin is occupied by Hador, heir of Malach, and Dothonion is kept by Boromir, heir of Beor
 Now Hador Lórindol, son of Hathol, son of Magor, son of Malach Aradan, entered
 the household of Fingolfin in his youth, and was loved by the King. Fingolfin
 therefore gave to him the lordship of Dor-lómin, and into that land he gathered
@@ -359,7 +359,7 @@ was not forgotten, and from it came the common tongue of Númenor. But in
 Dorthonion the lordship of the people of Bëor and the country of Ladros was
 given to Boromir, son of Boron, who was the grandson of Bëor the Old.
 
-### The family tress that lead from Bregor and Hador to Elwing and Eärendil
+## The family tress that lead from Bregor and Hador to Elwing and Eärendil
 The sons of Hador were Galdor and Gundor; and the sons of Galdor were Húrin and
 Huor; and the son of Húrin was Túrin the Bane of Glaurung; and the son of Huor
 was Tuor, father of Eärendil the Blessed. The son of Boromir was Bregor, whose
@@ -370,7 +370,7 @@ Beren One-hand, who won the love of Lúthien Thingol's daughter, and returned
 from the Dead; from them came Elwing the wife of Eärendil, and all the Kings of
 Númenor after.
 
-### Of the Three Houses of the Edain
+## Of the Three Houses of the Edain
 All these were caught in the net of the Doom of the Noldor; and they did great
 deeds which the Eldar remember still among the histories of the Kings of old.
 And in those days the strength of Men was added to the power of the Noldor, and
@@ -393,7 +393,7 @@ free in the greenwoods while the wonder of the lands of the Eldar was new upon
 them. But in the realms of the West their time was brief and their days
 unhappy.
 
-### Bëor the Old dies, and the elves are wondered at the short lives of men
+## Bëor the Old dies, and the elves are wondered at the short lives of men
 The years of the Edain were lengthened, according to the reckoning of Men,
 after their coming to Beleriand; but at last Bëor the Old died when he had
 lived three and ninety years, for four and forty of which he had served King
@@ -405,7 +405,7 @@ willingly and passed in peace; and the Eldar wondered much at the strange fate
 of Men, for in all their lore there was no account of it, and its end was
 hidden from them.
 
-### Conclusion of men
+## Conclusion of men
 Nonetheless the Edain of old learned swiftly of the Eldar all such art and
 knowledge as they could receive, and their sons increased in wisdom and skill,
 until they far surpassed all others of Mankind, who dwelt still east of the

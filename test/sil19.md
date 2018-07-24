@@ -1,8 +1,8 @@
 # Chapter 19: Of Beren and Lúthien
 
-## Meta-preface
+# Meta-preface
 
-### Introduction to the tale of Beren and Lúthien
+## Introduction to the tale of Beren and Lúthien
 Among the tales of sorrow and of ruin that come down to us from the darkness of
 those days there are yet some in which amid weeping there is joy and under the
 shadow of death light that endures. And of these histories most fair still in
@@ -11,9 +11,9 @@ the Lay of Leithian, Release from Bondage, which is the longest save one of the
 songs concerning the world of old; but here is told in fewer words and without
 song.
 
-## The trechery of Gorlim, the defeat of Barahir, and the escape of his son, Beren
+# The trechery of Gorlim, the defeat of Barahir, and the escape of his son, Beren
 
-### Of Barahir, his stubborn fall at Dorthonion, and Tarn Aeluin, the lake where his companions withdrew
+## Of Barahir, his stubborn fall at Dorthonion, and Tarn Aeluin, the lake where his companions withdrew
 It has been told that Barahir would not for sake Dorthonion, and there Morgoth
 pursued him to his death, until at last there remained to him only twelve
 companions. Now the forest of Dorthonion rose southward into mountainous moors;
@@ -27,7 +27,7 @@ made their lair, and Morgoth could not discover it. But the rumour of the deeds
 of Barahir and his companions went far and wide; and Morgoth commanded Sauron
 to find them and destroy them.
 
-### Gorlim returns from the war to find his wife Eilinel dead, but returns to his abandoned house because he does not believe it
+## Gorlim returns from the war to find his wife Eilinel dead, but returns to his abandoned house because he does not believe it
 Now among the companions of Barahir was Gorlim son of Angrim. His wife was
 named Eilinel, and their love was great, ere evil befell. But Gorlim returning
 from the war upon the marches found his house plundered and forsaken, and his
@@ -37,7 +37,7 @@ heart, thinking that perhaps Eilinel was not dead. At times he would depart
 alone and secretly, and visit his house that stood amid the fields and woods he
 had once possessed; and this became known to the servants of Morgoth.
 
-### Gorlim thinks he finds his wife, but its really Sauron
+## Gorlim thinks he finds his wife, but its really Sauron
 On a time of autumn he came in the dusk of evening, and drawing near he saw as
 he thought a light at the window; and coming warily he looked within. There he
 saw Eilinel, and her face was worn with grief and hunger, and it seemed to him
@@ -52,15 +52,15 @@ faltered. Then straightaway they brought him into the dreadful presence of
 Sauron; and Sauron said: 'I hear now that thou wouldst barter with me. What is
 thy price?'
 
-### Gorlim wishes to have his wife again, and in his torment barters with Sauron
+## Gorlim wishes to have his wife again, and in his torment barters with Sauron
 And Gorlim answered that he should find Eilinel again, and with her be set
 free; for he thought Eilinel also had been made captive.
 
-### Sauron agrees
+## Sauron agrees
 Than Sauron smiled, saying: 'That is a small price for so great a treachery. So
 shall it surely be. Say on!'
 
-### Gorlim tells what he knows, and Sauron puts him, as he did Eilinel, to death
+## Gorlim tells what he knows, and Sauron puts him, as he did Eilinel, to death
 Now Gorlim would have drawn back, but daunted by the eyes of Sauron he told at
 last all that he would know. Then Sauron laughed; and he mocked Gorlim, and
 revealed to him that he had only seen a phantom devised by wizardry to entrap
@@ -68,7 +68,7 @@ him; for Eilinel was dead. 'Nonetheless I will grant thy prayer,' said Sauron;
 'and thou shalt go to Eilinel, and be set free of my service.' Then he put him
 cruelly to death.
 
-### Sauron storms and kills the companions of Barahir, save Beren who escapes
+## Sauron storms and kills the companions of Barahir, save Beren who escapes
 In this way the hiding of Barahir was revealed, and Morgoth drew his net about
 it; and the Orcs coming in the still hours before dawn surprised the men of
 Dorthonion and slew them all, save one. For Beren son of Barahir had been sent
@@ -77,7 +77,7 @@ was far afield when the lair was taken. But as he slept benighted in the forest
 he dreamed that carrion-birds sat thick as leaves upon bare trees beside a
 mere, and blood dripped from their beaks.
 
-### Beren is brought to by a ghost of Gorlim and told to make haste to warn his peoples, but he is too late
+## Beren is brought to by a ghost of Gorlim and told to make haste to warn his peoples, but he is too late
 Then Beren was aware in his dream of a form that came to him across the water,
 and it was a wraith of Gorlim; and it spoke to him declaring his treachery and
 death, and bade him make haste to warn his father. Then Beren awoke, and sped
@@ -85,7 +85,7 @@ through the night, and came back to the lair of the outlaws on the second
 morning. But as he drew near the carrion-birds rose from the ground and sat in
 the alder-trees beside Tarn Aeluin, and croaked in mockery.
 
-### Beren slays the orc captain that killed his father, and takes the ring of Felegund from it
+## Beren slays the orc captain that killed his father, and takes the ring of Felegund from it
 There Beren buried his fathers bones, and raised a cairn of boulders above him,
 and swore upon it an oath of vengeance. First there for he pursued the Orcs
 that had slain his father and his kinsmen, and he found their camp by night at
@@ -97,7 +97,7 @@ Beren sprang from behind rock, and slew captain, and taking the hand and the
 ring he escaped, being defended by fate for the Orcs were dismayed, and their
 arrows wild.
 
-### Beren becomes a wild man in the next four years, friend of the living things about him, with a bounty on his head from Sauron
+## Beren becomes a wild man in the next four years, friend of the living things about him, with a bounty on his head from Sauron
 Thereafter for four years more Beren wandered still upon Dorthonion, a solitary
 outlaw; but he became the friend of birds and beasts, and they aided him, and
 did not betray him, and from that time forth he ate no flesh nor slew any
@@ -111,9 +111,9 @@ approach than sought him out. Therefore and army was sent against him under the
 command of Sauron; and Sauron brought werewolves, fell beasts inhabited by
 dreadful spirits that he had imprisoned in their bodies.
 
-## Beren travels south and by chance comes upon Lúthien
+# Beren travels south and by chance comes upon Lúthien
 
-### Beren travels south, over the Ered Gorgoroth, through Dungortheb, and amongst the terrors of Ungoliant and her kind, finding himself at last in Doriath
+## Beren travels south, over the Ered Gorgoroth, through Dungortheb, and amongst the terrors of Ungoliant and her kind, finding himself at last in Doriath
 All that land was now become filled with evil, and all clean things were
 departing from it; and Beren was pressed so hard that at last he was forced to
 flee from Dorthonion. In time of winter and snow he forsook the land and grave
@@ -134,7 +134,7 @@ dared to tread to the borders of Doriath. And he passed through the mazes that
 Melian wove about the kingdom of Thingol, even as she had foretold; for a great
 doom lay upon him.
 
-### Beren happens upon Lúthien as he wanders into Neldoreth
+## Beren happens upon Lúthien as he wanders into Neldoreth
 It is told in the Lay of Leithian that Beren came stumbling into Doriath grey
 and bowed as with many years of woe, so great had been the torment of the road.
 But wandering in the summer in the woods of Neldoreth he came upon Lúthien,
@@ -148,7 +148,7 @@ the light upon the leaves of trees, as the voice of clear waters, as the stars
 above the mists of the world, such was her glory and her loveliness; and in her
 face was a shining light.
 
-### Beren becomes dumb under her spell, and seeks after her, calling her Tinúviel
+## Beren becomes dumb under her spell, and seeks after her, calling her Tinúviel
 But she vanished from his sight; and he became dumb, as one that is bound under
 a spell, and he strayed long in the woods, wild and wary as a beast, seeking
 for her. In his heart he called her Tinúviel, that signifies Nightingale,
@@ -156,7 +156,7 @@ daughter of twilight, in the Grey-elven tongue, for he knew no other name for
 her. And he saw her afar as leaves in the winds of autumn, and in winter as a
 star upon a hill, but a chain was upon his limbs.
 
-### Lúthien sings at the eve of spring
+## Lúthien sings at the eve of spring
 There came a time near dawn on the eve of spring, and Lúthien danced upon a
 green hill; and suddenly she began to sing. Keen, heart-piercing was her song
 as the song of the lark that rises from the gates of night and pours its voice
@@ -165,7 +165,7 @@ song of Lúthien released the behind the walls of the world; and the song of
 Lúthien released the bonds of winter, and the frozen waters spoke, and flowers
 sprang from the cold earth where her feet had passed.
 
-### Lúthien hears Beren call for her, and feels love for him, and so her doom is set with his
+## Lúthien hears Beren call for her, and feels love for him, and so her doom is set with his
 Then the spell of silence fell from Beren, and he called to her, crying
 Tinúviel; and the woods echoed the name. Then she halted in wonder, and fled no
 more, and Beren came to her. But as she looked on him, doom fell upon her, and
@@ -180,16 +180,16 @@ was caught, and being immortal she shared in his mortality, and being free
 received his chain; and her anguish was greater than any other of the Eldalië
 has known.
 
-### Lúthien returns to him, and they share a brief but blissful time
+## Lúthien returns to him, and they share a brief but blissful time
 Beyond his hope she returned to him where he sat in darkness, and long ago in
 the Hidden Kingdom she laid her hand in his. Thereafter often she came to him,
 and they went in secret through the woods together from spring to summer; and
 no others of the Children of Ilúvatar have had joy so great, though the time
 was brief.
 
-## The conversation between Thingol and Beren, and the request made of Beren by Thingol
+# The conversation between Thingol and Beren, and the request made of Beren by Thingol
 
-### Daeron, a minstrel in love with Lúthien, sees her and Beren, and alerts Thingol, who, at his daughter's wishes, brings Beren to Menegroth to be questioned
+## Daeron, a minstrel in love with Lúthien, sees her and Beren, and alerts Thingol, who, at his daughter's wishes, brings Beren to Menegroth to be questioned
 But Daeron the minstrel also loved Lúthien, and he espied her meetings with
 Beren, and betrayed them to Thingol. Then the King was filled with anger, for
 Lúthien he loved above all things, setting her above all the princes of the
@@ -200,24 +200,24 @@ sent his servants to lay hands on him and lead him to Menegroth as a
 malefactor; and Lúthien forestalling them led Beren herself before the throne
 of Thingol, as if he were an honoured guest.
 
-### Thingol questions Beren as any daughters-father might
+## Thingol questions Beren as any daughters-father might
 Then Thingol looked upon Beren in scorn and anger; but Melian was silent. 'Who
 are you', said the King, 'that come hither as a thief, and unbidden dare to
 approach my throne?'
 
-### Beren is still awestruck, so Lúthien answers for him, speaking his praise
+## Beren is still awestruck, so Lúthien answers for him, speaking his praise
 But Beren being filled with dread, for the splendour of Menegroth and the
 majesty of Thingol were very great, answered nothing. Therefore Lúthien spoke,
 and said: 'He is Beren son of Barahir, lord of Men, mighty foe of Morgoth, the
 tale of whose deeds is become a song even among the Elves.'
 
-### Thingol requests Beren answer, and asks why he should not punish him for his folly
+## Thingol requests Beren answer, and asks why he should not punish him for his folly
 'Let Beren speak!' said Thingol. 'What would you here, unhappy mortal, and for
 what cause have you left your own land to enter this, which is forbidden to
 such as you? Can you show reason why my power should not be laid on you in
 heavy punishment for you insolence and folly?'
 
-### Beren gathers his words, and speaks of the fairness of Lúthien
+## Beren gathers his words, and speaks of the fairness of Lúthien
 Then Beren looking up beheld the eyes of Lúthien, and his glance went also to
 the face of Melian and it seemed to him that words were put into his mouth.
 Fear left him, and the pride of the eldest house of Men returned to him; and he
@@ -228,7 +228,7 @@ jewels.  Neither rock, nor steel, nor the fires of Morgoth, nor all the powers
 of the Elf-kingdoms, shall keep from me the treasure that I desire. For Lúthien
 your daughter is the fairest of all the Children of the World.'
 
-### Thingol is still enraged, and regrets his oath to Lúthien to stay his hand in killing Beren
+## Thingol is still enraged, and regrets his oath to Lúthien to stay his hand in killing Beren
 Then silence fell upon the hall, for those that stood there were astounded and
 afraid, and they thought that Beren would be slain. But Thingol spoke slowly,
 saying: 'Death you have earned with these words; and death you should find
@@ -236,13 +236,13 @@ suddenly, had I not sworn an oath in haste; of which I repent, baseborn mortal,
 who in the realm of Morgoth has learnt to creep in secret as his spies and
 thralls.'
 
-### Beren answers Thingol's anger, saying that his name does not deserve the blasphemy of spy or theif by the ring of Felegund
+## Beren answers Thingol's anger, saying that his name does not deserve the blasphemy of spy or theif by the ring of Felegund
 Then Beren answered: 'Death you can give me earned or unearned; but the names I
 will not take from you of baseborn, nor spy, nor thrall. By the ring of
 Felagund, that he gave to Barahir my father on the battle field of the North,
 my house has not earned such names from any Elf, be he king or no.'
 
-### In seeing the ring, Melian counsels Thingol of the fate of Beren
+## In seeing the ring, Melian counsels Thingol of the fate of Beren
 His words were proud, and all eyes looked upon the ring; for he held it now
 aloft, and the green jewels gleamed there that the Noldor had devised in
 Valinor. For this ring was like to twin serpents, whose eyes were emeralds, and
@@ -252,7 +252,7 @@ leaned to Thingol's side, and in whispered counsel bade him forgo his wrath.
 'For not by you,' she said, 'shall Beren be slain; and far and free does his
 fate led him in the end, yet it is wound with yours. Take heed!'
 
-### Thingol, saying that the deeds of Barahir avail him not, requests Beren to bring him a Silmaril
+## Thingol, saying that the deeds of Barahir avail him not, requests Beren to bring him a Silmaril
 But Thingol looked in silence upon Lúthien; and he thought in his heart:
 'Unhappy Men, children of little lords and brief kings, shall such as these lay
 hands on you, and yet live?' Then breaking the silence he said: 'I see the
@@ -266,7 +266,7 @@ me in your hand a Silmaril from Morgoth's crown; and then, if she will, Lúthien
 may set her hand in yours. Then you shall have my jewel; and though the fate of
 Arda lie within the Silmarils, yet you shall hold me generous.'
 
-### The doom of Doriath is begun, and the curse of Mandos is brought upon them
+## The doom of Doriath is begun, and the curse of Mandos is brought upon them
 Thus he wrought the doom of Doriath, and was ensnared within the curse of
 Mandos. And those that heard these words perceived that Thingol would save his
 oath, and yet send Beren to his death; for they know that not all the power of
@@ -275,7 +275,7 @@ shining Silmarils of Fëanor. For they were set in the Iron Crown, and treasured
 in Angband above all wealth; and Balrogs were about them, and countless swords,
 and strong bars, and unassailable walls, and the dark majesty of Morgoth.
 
-### Beren accepts with pride this request of Thingol
+## Beren accepts with pride this request of Thingol
 But Beren laughed. 'For little price,' he said, 'do Elven-kings sell their
 daughters: for gems, and things made by craft. But if this be your will,
 Thingol, I will perform it. And when we meet again my hand shall hold a
@@ -284,7 +284,7 @@ of Barahir.' Then he looked in the eyes of Melian, who spoke not; and he bade
 farewell to Lúthien Tinúviel, and bowing before Thingol and Melian he put aside
 the guards about him, and departed from Menegroth alone.
 
-### The convesation of Melian and Thingol after Beren departs
+## The convesation of Melian and Thingol after Beren departs
 Then at last Melian spoke, and she said to Thingol: 'O King, you have devised
 cunning counsel. But if my eyes have not lost their sight, it is ill for you,
 whether Beren fail in his errand, or achieve it. For you have doom either your
@@ -294,14 +294,14 @@ cherish above all treasure. And if there were hope or fear that Beren should
 come ever back alive to Menegroth, he should not have looked again upon the
 light of heaven, though I had sworn it.'
 
-### The solomnity of Lúthien
+## The solomnity of Lúthien
 But Lúthien was silent, and from that hour she sang not again in Doriath. A
 brooding silence fell upon the woods, and the shadows lengthened in the kingdom
 of Thingol.
 
-## Beren visits Finrod, who with 10 faithful servents set out on their quest
+# Beren visits Finrod, who with 10 faithful servents set out on their quest
 
-### Beren leaves and finds himself about the highlands of Taur-en-Faroth above Nargothrond
+## Beren leaves and finds himself about the highlands of Taur-en-Faroth above Nargothrond
 It is told in the Lay of Leithian that Beren passed through Doriath unhindered,
 and came at length to the region of the Twilight Meres, and the Fens of Sirion;
 and leaving Thingol's land he climbed the hills above the Falls of Sirion,
@@ -312,7 +312,7 @@ beyond he descried afar the highlands of Taur-en-Faroth that rose above
 Nargothrond. And being destitute, without hope or counsel, he turned his feet
 thither.
 
-### Beren meets hunters of Finrod Felegund in that land, and they begin to lead him to Nargothrond
+## Beren meets hunters of Finrod Felegund in that land, and they begin to lead him to Nargothrond
 Upon all that plain the Elves of Nargothrond kept unceasing watch; and every
 hill upon its borders was crowned with hidden towers, and through all its woods
 and fields archers ranged secretly and with great craft.  Their arrows were
@@ -331,7 +331,7 @@ joined Narog, the flood was less, and crossing there and turning again
 southward the Elves led Beren under the light of the moon to the dark gates of
 their hidden halls.
 
-### Finrod tells Beren of the oath of Fëanor which he is now inevitibly tangled in
+## Finrod tells Beren of the oath of Fëanor which he is now inevitibly tangled in
 Thus Beren came before King Finrod Felagund; and Felagund knew him, needing no
 ring to remind him of the kin of Bëor and of Barahir. Behind closed doors they
 sat, and Beren told of the death of Barahir, and of all that had befallen him
@@ -350,7 +350,7 @@ many of their own people. They have shown friendship to me in every need, but I
 fear that they will show neither love nor mercy to you, if your quest be told.
 Yet my own oath holds; and thus we are all ensnared.'
 
-### Felagund tells his people of Beren, and Celegorm proclaims that his people claim the right to the Silmarils
+## Felagund tells his people of Beren, and Celegorm proclaims that his people claim the right to the Silmarils
 Then King Felagund spoke before his people, recalling the deeds of Barahir, and
 his vow and he declared that it was laid upon him to aid the son of Barahir in
 his need, and he sought the help of his chieftains. Then Celegorm arose amid
@@ -361,7 +361,7 @@ wizardry, shall defend him from the pursuing hate of Fëanor's sons, if he take
 or find a Silmaril and keep it. For the Silmarils we alone claim, until the
 world ends.'
 
-### Curufin also talks, more softly but with the same power, of the oath of Fëanor
+## Curufin also talks, more softly but with the same power, of the oath of Fëanor
 Many other words he spoke, as potent as were long before in Tirion the words of
 his father that first inflamed the Noldor to rebellion. And after Celegorm
 Curufin spoke, more softly but with no less power, conjuring in the minds of
@@ -372,14 +372,14 @@ venomed dart, they pursued all strangers, forgetting the bonds of kinship. Thus
 they fell from the valour and freedom of the Elves of old, and their land was
 darkened.
 
-### The brothers Curufin and Celegorm hearts' grow dark against Finrod under their oath
+## The brothers Curufin and Celegorm hearts' grow dark against Finrod under their oath
 And now they murmured that Finarfin's son was not as a Vala to command them,
 and they turned their faces from him. But the curse of Mandos came upon the
 brothers, and dark thoughts arose in their hearts, thinking to send forth
 Felagund alone to his death, and to usurp, it might be, the throne of
 Nargothrond; for they were of the eldest line of the princes of the Noldor.
 
-### Felegund, sensing the trechery, lays down his crown and asks those that would follow him to do so
+## Felegund, sensing the trechery, lays down his crown and asks those that would follow him to do so
 And Felagund seeing that he was forsaken took from his head the silver crown of
 Nargothrond and cast it at his feet, saying: 'Your oaths of faith to me you may
 break, but I must hold my bond. Yet if there be any on whom the shadow of out
@@ -389,14 +389,14 @@ stood by him; and the chief of them, who was named Edrahil, stooping lifted the
 crown and asked that it be given to a steward until Felagund's return. 'for you
 remain my king, and theirs,' he said, 'whatever betide.'
 
-### Felegund gives the crown to Orodreth, his brother, to keep as his steward lest they return
+## Felegund gives the crown to Orodreth, his brother, to keep as his steward lest they return
 Then Felagund gave the crown of Nargothrond to Orodreth his brother to govern
 in his stead; and Celegorm and Curufin said nothing, but they smiled and went
 from the halls.
 
-## The contest of Sauron and Felagund, in which the group is cast into a great pit
+# The contest of Sauron and Felagund, in which the group is cast into a great pit
 
-### The group sets out, disguising themselves as orcs and coming to Minas Tirith which Sauron had taken
+## The group sets out, disguising themselves as orcs and coming to Minas Tirith which Sauron had taken
 On an evening of autumn Felagund and Beren set out from Nargothrond with their
 ten companions; and they journeyed beside Narog to his source in the Falls of
 Ivrin. Beneath the Shadowy Mountains they came upon a company of Orcs, and slew
@@ -409,7 +409,7 @@ for they went in haste, and stayed not to report their deeds, as was commanded
 to all the servants of Morgoth that passed that way.  Therefore he sent to
 waylay them, and bring them before him.
 
-### The contest of Sauron and Felagund
+## The contest of Sauron and Felagund
 Thus befell the contest of Sauron and Felagund which is renowned. For Felagund
 strove with Sauron in songs of power, ad the power of the King was very great;
 but Sauron had the mastery, as is told in the Lay of Leithian:
@@ -454,15 +454,15 @@ Then Sauron stripped from the their disguise, and they stood before him
 naked and afraid. But though their kinds were revealed, Sauron could
 not discover their names or their purposes.
 
-### Sauron casts them into a deep pit
+## Sauron casts them into a deep pit
 He cast them therefore into a deep pit, dark and silent, and threatened to slay
 them cruel, unless one would betray the truth to him. From time to time they
 saw two eyes kindled in the dark, and a werewolf devoured one of the
 companions; but none betrayed their lord.
 
-## How Celegorm and Curufin find Lúthien and intend to use her to their perverted ways
+# How Celegorm and Curufin find Lúthien and intend to use her to their perverted ways
 
-### Lúthien feels the heaviness of Beren's defeat, and telling Daeron, he, instead of helping her, decides to trap her in a house at the shafts of Hírilorn
+## Lúthien feels the heaviness of Beren's defeat, and telling Daeron, he, instead of helping her, decides to trap her in a house at the shafts of Hírilorn
 In the time when Sauron cast Beren into the pit a weight of horror came upon
 Lúthien's heart; and going to Melian for counsel she learned that Beren lay in
 the dungeons of Tol-in-Gaurhoth without hope of rescue.  Then Lúthien,
@@ -479,7 +479,7 @@ ground. Far aloft between the shafts of Hírilorn a wooden house was built, and
 there Lúthien was made to dwell; and ladders were taken away and guarded, save
 only when the servants of Thingol wrought her such things as she needed.
 
-### Lúthien, through her enchantments, grows her hair into a darkness that she uses to climb down from that prison
+## Lúthien, through her enchantments, grows her hair into a darkness that she uses to climb down from that prison
 It is told in the Lay of Leithian how she escaped from the house in Hírilorn;
 for she put forth her arts of enchantment, and caused her hair to grow to great
 length, and of it she wove a dark robe that wrapped her beauty like a shadow,
@@ -489,7 +489,7 @@ guards that sat beneath the house they fell into a deep slumber. Then Lúthien
 climbed from her prison, and shrouded in her shadowy cloak she escaped from all
 eyes, and vanished out of Doriath.
 
-### Celegorm and Curufin, with Huon, are hunting in the Guarded Plain.
+## Celegorm and Curufin, with Huon, are hunting in the Guarded Plain.
 It chanced that Celegorm and Curufin went on a hunt through the Guarded Plain;
 and this they did because Sauron, being filled with suspicion, sent forth many
 wolves into the Elf-lands. Therefore they took their hounds and rode forth; and
@@ -502,7 +502,7 @@ exile, and was faithful; and thus he too came under the doom of woe set upon
 the Noldor, and it was decreed that he should meet death, but not until he
 encountered the mightiest wolf that would ever walk the world.
 
-### Huan discovers Lúthien and she reveals herself to Celegorm and Curufin
+## Huan discovers Lúthien and she reveals herself to Celegorm and Curufin
 Huan it was that found Lúthien flying like a shadow surprised by the daylight
 under the trees, when Celegorm and Curufin rested a while near to the western
 eaves of Doriath; for nothing could escape the sight and scent of Huan, nor
@@ -515,7 +515,7 @@ would find help in her need, if she returned with him now to Nargothrond. By no
 sign did he reveal that he knew already of Beren and the quest, of which she
 told, nor that it was a matter which touched him near.
 
-### Lúthien is betrayed at Nargothrond as the brothers intend to keep her for themselves to claim the kingship of the elves
+## Lúthien is betrayed at Nargothrond as the brothers intend to keep her for themselves to claim the kingship of the elves
 Thus they broke off the hunt and returned to Nargothrond, and Lúthien was
 betrayed; for they held her fast, and took away her cloak, and she was not
 permitted to pass the gates or to speak with any save the brothers, Celegorm
@@ -527,7 +527,7 @@ do so, until they had all the might of the Elf-kingdoms under their hands.
 Orodreth had no power to withstand them, for they swayed the hearts of the
 people of Nargothrond; and Celegorm sent messengers to Thingol urging his suit.
 
-### But Huan comes to Lúthien and she tells the hound of Beren and Huan's heart is moved
+## But Huan comes to Lúthien and she tells the hound of Beren and Huan's heart is moved
 But Huan the hound was true of heart, and the love of Lúthien had fallen upon
 him in the first hour of their meeting; and he grieved at her captivity.
 Therefore he came often to her chamber; and at night he lay before her door,
@@ -537,7 +537,7 @@ that did not serve Morgoth; ad Huan understood all that was said. For he
 comprehended the speech of all things with voice; but it was permitted to him
 thrice only ere his death to speak with words.
 
-### Huan takes Lúthien away, and allows her to ride him as a steed into the north
+## Huan takes Lúthien away, and allows her to ride him as a steed into the north
 Now Huan devised a plan for the aid of Lúthien; and coming at a time of night
 he brought her cloak, and for the first time he spoke, giving her counsel. Then
 he led her by secret ways out of Nargothrond, and they fled north together; and
@@ -545,9 +545,9 @@ he humbled his pride and suffered her to ride upon him in the fashion of a
 steed, even as the Orcs did at times upon great wolves. Thus they made great
 speed, for Huan was swift and tireless.
 
-## How Lúthien saves Beren from the captivity of Sauron in Tol-in-Gaurhoth (Minas Tirith)
+# How Lúthien saves Beren from the captivity of Sauron in Tol-in-Gaurhoth (Minas Tirith)
 
-### Sauron questions the company of Beren and Felagund, and Felagund sacrifices himself in defense of Beren
+## Sauron questions the company of Beren and Felagund, and Felagund sacrifices himself in defense of Beren
 In the pits of Sauron Beren and Felagund lay, and all their companions were now
 dead; but Sauron purposed to keep Felagund to the last, for he perceived that
 he was a Noldor of great might and wisdom, and he deemed that in him lay the
@@ -562,7 +562,7 @@ dark, in Tol-in-Gaurhoth, whose great tower he himself had built. Thus King
 Finrod Felagund, fairest and most beloved of the house of Finwë, redeemed his
 oath; but Beren mourned beside him in despair.
 
-### Lúthien in that hour comes, and sings a song that Beren returns to her, before he collapses
+## Lúthien in that hour comes, and sings a song that Beren returns to her, before he collapses
 In that hour Lúthien came, and standing upon the bridge that led to Sauron's
 isle she sang a song that no walls of stone could hinder.  Beren heard, and he
 thought that he dreamed; for the stars shone above him, and in the trees
@@ -571,7 +571,7 @@ had made in praise of the Seven Stars, the Sickle of the Valar that Varda hung
 above the North as a sign for the fall of Morgoth. Then all strength left him
 and he fell down into darkness.
 
-### Sauron sends his wolves to attack Lúthien, but Huan slays them all
+## Sauron sends his wolves to attack Lúthien, but Huan slays them all
 But Lúthien heard his answering voice, and she sang then a song of greater
 power. The wolves howled, and the isle trembled. Sauron stood in the high
 tower, wrapped in his black thought ;but he smiled hearing her voice, for he
@@ -590,7 +590,7 @@ thought that he himself would accomplish it. Therefore he took upon himself the
 form of a werewolf, and made himself the mightiest that had yet walked the
 world; and he came forth to win the passage of the bridge.
 
-### Sauron himself takes the form of a wolf and attacks Huan and Lúthien
+## Sauron himself takes the form of a wolf and attacks Huan and Lúthien
 So great was the horror of his approach that Huan leaped aside. Then Sauron
 sprang upon Lúthien; and she swooned before the menace of the fell spirit in
 his eyes and the foul vapour of his breath. But even as he came, falling she
@@ -599,7 +599,7 @@ drowsiness came upon him. Then Huan sprang.  There befell the battle of Huan
 and Wolf-Sauron, and howls and baying echoed in the hills, and the watchers on
 the walls of Ered Wethrin across the valley heard it afar and were dismayed.
 
-### Lúthien talks shit to Sauron
+## Lúthien talks shit to Sauron
 But no wizardry nor spell, neither fang nor venom, nor devil's art nor
 beast-strength , could overthrow Huan without forsaking his body utterly. Ere
 his foul spirit left its dark house, Lúthien came to him, ghost be sent quaking
@@ -607,14 +607,14 @@ back to Morgoth; and she said: 'There everlastingly thy naked self shall endure
 the torment of his scorn, pierced by his eyes, unless thou yield to me the
 mastery of thy tower.'
 
-### Sauron yields, and takes the form of a vampire, and flees to Taur-nu-Fuin (Dorthonion)
+## Sauron yields, and takes the form of a vampire, and flees to Taur-nu-Fuin (Dorthonion)
 Then Sauron yielded himself, and Lúthien took the mastery of the isle and all
 that was there; and Huan released him. And immediately he took the form of a
 vampire, great as a dark cloud across the moon, and he fled, dripping blood
 from his throat upon the trees, and came to Tar-nu-Fuin, and dwelt there,
 filling it with horror.
 
-### Lúthien comes into the tower newly taken, and finds Beren mourning over Felagund, and in this way they are reunited
+## Lúthien comes into the tower newly taken, and finds Beren mourning over Felagund, and in this way they are reunited
 Then Lúthien stood upon the bridge, and declare her power: and the spell was
 loosed that bound stone to stone, and the gates were thrown down, and the walls
 opened, and the pits laid bare; and many thralls and captives came forth in
@@ -627,23 +627,23 @@ forgetfulness.  But Beren coming back to the light out of the pits of despair
 lifted her up, and they looked again upon one another; and the day rising over
 the dark hills shone upon them.
 
-### The burial of Finrod son of Finarfin
+## The burial of Finrod son of Finarfin
 They buried the body of Felagund upon the hill-top of his own isle, and it was
 clean again; and the green grave of Finrod Finarfin's son, fairest of all the
 princes of the Elves, remained inviolate, until the land was changed and
 broken, and foundered under destroying seas. But Finrod walks with Finarfin his
 father beneath the trees in Eldamar.
 
-### Beren and Lúthien are reunited, and Huan returns to Celegorm
+## Beren and Lúthien are reunited, and Huan returns to Celegorm
 Now Beren and Lúthien Tinúviel went free again and together walked through the
 woods renewing for a time their joy; and though winter came it hurt them not,
 for flowers lingered where Lúthien went, and the birds sang beneath the snow
 clad hills. But Huan being faithful went back to Celegorm his master; yet their
 love was less than before.
 
-## The aftermath at Nargothrond as Celegorm and Curufin leave the throne to Orodreth
+# The aftermath at Nargothrond as Celegorm and Curufin leave the throne to Orodreth
 
-### The people of Nargothrond sense the treachery of the brothers Celegorm and Curufin, and turn to Orodreth, who shows pity on them lest he bind the curse of Mandos more
+## The people of Nargothrond sense the treachery of the brothers Celegorm and Curufin, and turn to Orodreth, who shows pity on them lest he bind the curse of Mandos more
 There was tumult in Nargothrond. For thither now returned many Elves that had
 been prisoners in the isle of Sauron; and a clamour arose that no words of
 Celegorm could still. They lamented bitterly the fall of Felagund their king,
@@ -657,7 +657,7 @@ Mandos more closely upon them all. Yet neither bread nor rest would he grant to
 Celegorm and Curufin within his realm, and he swore that there should be little
 love between Nargothrond and the sons of Fëanor there after.
 
-### Celegorm and Curufin leave, but Celebrimbor stays behind, and Huan follows his master Celegorm
+## Celegorm and Curufin leave, but Celebrimbor stays behind, and Huan follows his master Celegorm
 'Let it be so!' said Celegorm, and there was a light of menace in his eyes; but
 Curufin smiled. Ten they took horse and rode away like fire, to find if they
 might their kindred in the east. But none would go with them, not even those
@@ -666,16 +666,16 @@ upon the brothers, and that evil followed them. In that time Celebrimbor the
 son of Curufin repudiated the deeds of his father, and remained in Nargothrond;
 yet Huan followed still the horse of Celegorm his master.
 
-### Their path out of Nargothrond to Himring where Maedhros dwelt
+## Their path out of Nargothrond to Himring where Maedhros dwelt
 Northward they rode, for they intended in their haste to pass through Dimbar,
 and along the north marches or Doriath, seeking the swiftest road to Him ring,
 where Maedhros their brother dwelt; and still they might hope with speed to
 traverse it, since it lay close to Doriath's borders, shunning Nan Dungortheb
 and the distant menace of the Mountains of Terror.
 
-## The brothers Celegorm and Curufin attack Beren and Lúthien in the Forest of Brethil
+# The brothers Celegorm and Curufin attack Beren and Lúthien in the Forest of Brethil
 
-### In the forests of Berthil, Lúthien resolves to keep her fate intertwined with Beren's whatever task he takes
+## In the forests of Berthil, Lúthien resolves to keep her fate intertwined with Beren's whatever task he takes
 Now it is told that Beren and Lúthien came in their wandering into the Forests
 of Brethil, and drew near at last to the borders of Doriath.  Then Beren took
 thought of his vow; and against his heart he resolved, when Lúthien was come
@@ -686,7 +686,7 @@ wandering upon the face of the earth; or to hold to your word and challenge the
 power of darkness upon its throne. But on either road I shall go with you, and
 our doom shall be alike.'
 
-### Celegorm and Curufin come across Beren and Lúthien and attack them
+## Celegorm and Curufin come across Beren and Lúthien and attack them
 Even as they spoke together of these things, walking without heed of aught
 else, Celegorm and Curufin rode up, hastening through the forest; and the
 brothers espied them and knew them for afar. Then Celegorm turned his horse,
@@ -698,7 +698,7 @@ Elves. He took Curufin by the throat from behind, and hurled him backward, and
 they fell to the ground together. The horse reared and fell, but Lúthien was
 flung aside, and lay upon the grass.
 
-### Huan stops Celegorm from killing Beren, and Beren disarms Curufin and takes his knife and horse for his own use
+## Huan stops Celegorm from killing Beren, and Beren disarms Curufin and takes his knife and horse for his own use
 Then Beren throttled Curufin; but death was near him, for Celegorm rode upon
 him with a spear. In that hour Huan forsook the service or Celegorm, and sprang
 upon him, so that his horse swerved aside, and would not approach Beren because
@@ -711,7 +711,7 @@ teach him to turn his valour to worthier use. 'Your horse,' he said, 'I keep
 for the service of Lúthien, and it may be accounted happy to be free of such a
 master.'
 
-### As they feign exit, Curufin takes the bow of Celegorm and a shot gets Beren in the breast
+## As they feign exit, Curufin takes the bow of Celegorm and a shot gets Beren in the breast
 Then Curufin cursed Beren under cloud and sky. 'Go hence,' he said, 'unto a
 swift and bitter death.' Celegorm took him beside him on his horse, and the
 brothers made then as if to ride away; and Beren turned away and took no heed
@@ -720,7 +720,7 @@ of Celegorm and shot back as they went; and the arrow was aimed at Lúthien.
 Huan leaping caught it in his mouth; but Curufin shot again, and Beren sprang
 before Lúthien, and the dart smote him in the breast.
 
-### Huan returns with herb to heal Beren's wounds, and Beren decides to continue on his quest without her
+## Huan returns with herb to heal Beren's wounds, and Beren decides to continue on his quest without her
 It is told that Huan pursued the sons of Fëanor, and they fled in fear; and
 returning he brought to Lúthien a herb out of the forest. With that leaf he
 staunched Beren's wound, and by her arts and by her love she healed him; and
@@ -729,9 +729,9 @@ and his love, and knowing Lúthien to be now safe, arose one morning before the
 sun, and committed her to the care of Huan; then in great anguish he departed
 while she yet slept upon the grass.
 
-## The encounter at Angband
+# The encounter at Angband
 
-### Beren comes upon Thangorodrim and sings of Lúthien
+## Beren comes upon Thangorodrim and sings of Lúthien
 He rode northward again with all speed to the Pass of Sirion, and coming to the
 skirts of Taur-nu-Fuin he looked out across the waste of Anfauglith and saw
 afar the peaks of Thangorodrim. There he dismissed the horse of Curufin, and
@@ -758,7 +758,7 @@ these words were part:
 And he sang aloud, caring not what ear should overhear him, for he was
 desperate and looked for no escape.
 
-### Lúthien comes upon Huan and heeds Beren's songs
+## Lúthien comes upon Huan and heeds Beren's songs
 But Lúthien heard his song, and she sang in answer, as she came through the
 woods unlooked for. For Huan, consenting once more to be her steed, had borne
 her swiftly hard upon Beren's trail. Long he had pondered in his heart what
@@ -770,7 +770,7 @@ vampire's form to Angband; and her great fingered wings were barbed at each
 joint's end with and iron claw. Clad in these dreadful garments Huan and
 Lúthien ran through Taur-nu-Fuin, and all things fled before them.
 
-### Huan and Lúthian reveal themselves outside their disguise to Beren
+## Huan and Lúthian reveal themselves outside their disguise to Beren
 Beren seeing their approach was dismayed; and he wondered, for he had heard the
 voice of Tinúviel, and he thought it now a phantom for his ensnaring. But they
 halted and cast aside their disguise, and Lúthien ran towards him. Thus Beren
@@ -778,12 +778,12 @@ and Lúthien met again between the desert and the wood. For a while he was
 silent and was glad; but after a space he strove once more to dissuade Lúthien
 from her journey.
 
-### Beren urges Lúthien to stay back
+## Beren urges Lúthien to stay back
 'Thrice now I curse my oath to Thingol,' he said, 'and I would that he had
 slain me in Menegroth, rather than I should bring you under the shadow of
 Morgoth.'
 
-### Huan, in his second speaking to man, tells the fate and doom of Beren is now Lúthien's to bear also
+## Huan, in his second speaking to man, tells the fate and doom of Beren is now Lúthien's to bear also
 Then for the second time Huan spoke with words; and he counselled Beren,
 saying: 'From the shadow of death you can no longer save Lúthien, for by her
 love she is now subject to it. You can turn from your fate and lead her into
@@ -795,7 +795,7 @@ my heart forebodes that what you find at the Gate I shall myself see.  All else
 is dark to me; yet it may be that our three paths lead back to Doriath, and we
 may meet before the end.'
 
-### Beren and Lúthien take up their disguise as Draugluin and Thuringwethil
+## Beren and Lúthien take up their disguise as Draugluin and Thuringwethil
 Then Beren perceived that Lúthien could not be divided from the doom that lay
 upon them both, and he sought no longer to dissuade her. By the counsel of Huan
 and the arts of Lúthien he was arrayed now in the hame of Draugluin, and she in
@@ -805,7 +805,7 @@ and horror was in his glance as he saw upon his flank a bat-like creature
 clinging with creased wings. Then howling under the moon he leaped down the
 hill, and the bat wheeled and flittered above him.
 
-### They come to the Gate of Angband
+## They come to the Gate of Angband
 They passed through all perils, until they came with the dust of their long and
 weary road upon them to the drear dale that lay before the Gate of Angband.
 Black chasms opened beside the road, whence forms as of writhing serpents
@@ -814,7 +814,7 @@ carrion fowl crying with fell voices. Before them was the impregnable Gate, an
 arch wide and dark at the foot of the mountain; above it reared a thousand feet
 of precipice.
 
-### Carcharoth is described as they see him at the Gate of Angband
+## Carcharoth is described as they see him at the Gate of Angband
 There dismay took them, for at the gate was a guard of whom no tidings had yet
 gone forth. Rumour of he knew not what designs abroad among the princes of the
 Elves had come to Morgoth, and ever down the aisles of the forest was heard the
@@ -828,7 +828,7 @@ tormented, terrible, and strong. Carcharoth, the Red Maw, he is named in the
 tales of those days, and Anfauglir, the Jaws of Thirst. And Morgoth set him to
 lie unsleeping before the doors of Angband, lest Huan come.
 
-### Lúthien, revealing her light, brings Carcharoth to sleep
+## Lúthien, revealing her light, brings Carcharoth to sleep
 Now Carcharoth espied them from afar, and he was filled with doubt; for news
 had long been brought to Angband that Draugluin was dead.  Therefore when they
 approached he denied them entry, and bade them stand; and he drew near with
@@ -840,7 +840,7 @@ saying: 'O woe-begotten spirit, fall now into dark oblivion, and forget for a
 while the dreadful doom of life.' And Carcharoth was felled, as though
 lightning had smitten him.
 
-### The duo comes to the throne of Morgoth, where Morgoth in his lust is eventually blinded by the beauty of Lúthien's song
+## The duo comes to the throne of Morgoth, where Morgoth in his lust is eventually blinded by the beauty of Lúthien's song
 Then Beren and Lúthien went through the Gate, and down the labyrinthine stairs;
 and together wrought the greatest deed that has been dared by Elves or Men. For
 they came to the seat of Morgoth in his nethermost hall that was upheld by
@@ -857,7 +857,7 @@ and out of the shadows began a song of such surpassing loveliness, and of such
 blinding power, that he listened perforce; and a blindness came upon him, as
 his eyes roamed to and fro, seeking her.
 
-### Lúthien puts even Morgoth to sleep, with the weight of the Silmarils on his head
+## Lúthien puts even Morgoth to sleep, with the weight of the Silmarils on his head
 All his court were cast down in slumber, and all the fires faded and were
 quenched; but the Silmarils in the crown on Morgoth's head blazed forth
 suddenly with a radiance of white flame; and the burden of that crown and of
@@ -868,17 +868,17 @@ air, and her voice came dropping down like rain into pools, profound and dark.
 She cast her cloak before his eyes, and set upon him a dream, dark as the outer
 Void where once he walked alone.
 
-### Morgoth falls, and the crown with the Silmarils embeded in it falls to the floor, and all is still
+## Morgoth falls, and the crown with the Silmarils embeded in it falls to the floor, and all is still
 Suddenly he fell, as a hill sliding in avalanche, and hurled like thunder from
 his throne lay prone upon the floors of hell. The iron crown rolled echoing
 from his head. All things were still.
 
-### Beren also was put to sleep by her song, but upon awakening by Lúthien, he takes the knife Angrist and cut a Silmaril from the crown
+## Beren also was put to sleep by her song, but upon awakening by Lúthien, he takes the knife Angrist and cut a Silmaril from the crown
 As a dead beast Beren lay upon the ground; but Lúthien touching him with her
 hand aroused him, and he cast aside the wolf-hame. Then he drew forth the knife
 Angrist; and from the iron claws that held it he cut a Silmaril.
 
-### Beren gets one, and being over eager, tries to pry a second out of the crown, but Angrist snaps and moves Morgoth in his sleep
+## Beren gets one, and being over eager, tries to pry a second out of the crown, but Angrist snaps and moves Morgoth in his sleep
 As he closed it in his hand, the radiance welled through his living flesh, and
 his hand became as a shining lamp; but the jewel suffered his touch and hurt
 him not. It came then into Beren's mind that he would go beyond his vow, and
@@ -887,21 +887,21 @@ doom of the Silmarils. The knife Angrist snapped, and a shard of the blade
 flying smote the cheek of Morgoth. He groaned and stirred, and all the host of
 Angband moved in sleep.
 
-### Beren and Lúthien flee, but come across Carcharoth who had arisin from sleep
+## Beren and Lúthien flee, but come across Carcharoth who had arisin from sleep
 Then terror fell upon Beren and Lúthien, and they fled, heedless and without
 disguise, desiring only to see the light once more. They were neither hindered
 nor pursued, but the Gate was held against their going out; for Carcharoth had
 arisen from sleep, and stood now in wrath upon the threshold of Angband. Before
 they were aware of him, he saw them, and sprang upon them as they ran.
 
-### Lúthien is spent, but Beren holds the Silmaril to the wolf that he might be consumed by it's power
+## Lúthien is spent, but Beren holds the Silmaril to the wolf that he might be consumed by it's power
 Lúthien was spent, and she had not time nor strength to quell the wolf.  But
 Beren strode forth before her, and in his right hand he held aloft the
 Silmaril.  Carcharoth halted, and for a moment was afraid. 'Get you gone, and
 fly!' cried Beren; 'for here is afire that shall consume you, and all evil
 things.' And he thrust the Silmaril before the eyes of the wolf.
 
-### Carcharoth takes the hand or Beren in his jaws, and consumed now with flame he flees the north in frenzy, killing all foul beasts of Morgoth in his path
+## Carcharoth takes the hand or Beren in his jaws, and consumed now with flame he flees the north in frenzy, killing all foul beasts of Morgoth in his path
 But Carcharoth looked upon that holy jewel and was not daunted, and the
 devouring spirit within him awoke to sudden fire; and gaping he took suddenly
 the hand within his jaws, and he bit it off at the wrist. Then swiftly all his
@@ -915,14 +915,14 @@ world. Of all the terrors that came ever into Beleriand ere Angband's fall the
 madness of Carcharoth was the most dreadful; for the power of the Silmaril was
 hidden within him.
 
-### Lúthien with her lips removes the venom of Carcharoth that Beren had suffered, but the host of Morgoth is now awakened
+## Lúthien with her lips removes the venom of Carcharoth that Beren had suffered, but the host of Morgoth is now awakened
 Now Beren lay in a swoon within the perilous Gate, and death drew nigh him for
 there was venom on the fangs of the wolf. Lúthien with her lips drew out the
 venom, and she put forth her failing power to staunch the hideous wound. But
 behind her in the depths of Angband the rumour grew of great wrath aroused. The
 host of Morgoth were awakened.
 
-### Thorondor comes down to save Beren and Lúthien
+## Thorondor comes down to save Beren and Lúthien
 Thus the quest of the Silmaril was like to have ended in ruin and despair; but
 in that hour above the wall of the valley three mighty birds appeared, flying
 northward with wings swifter than the wind.  Among all birds and beasts the
@@ -932,7 +932,7 @@ Thorondor and his vassals soared, and seeing now the madness of the Wolf and
 Beren's fall they came swiftly down, even as the powers of Angband were
 released from the toils of sleep.
 
-### Thorondor flies them over Gondolin, which Lúthien beholds, and brings them to the dell in Neldoreth where Beren had left her
+## Thorondor flies them over Gondolin, which Lúthien beholds, and brings them to the dell in Neldoreth where Beren had left her
 Then they lifted up Lúthien and Beren from the earth, and bore them aloft into
 the clouds. Below them suddenly thunder rolled, lightnings leaped upward, and
 the mountains quaked. Fire and smoke belched forth from Thangorodrim, and
@@ -949,7 +949,7 @@ flight. And at the last the eagles set them down upon the borders of Doriath;
 and they were come to that same dell whence Beren had stolen in despair and
 left Lúthien asleep.
 
-### Spring rises again as Huan and Lúthien tend to the wounds of Beren
+## Spring rises again as Huan and Lúthien tend to the wounds of Beren
 There the eagles laid her at Beren's side and returned to the peaks of
 Crissaegrim and their high eyries; but Huan came to her, and together they
 tended Beren, even as before when she healed him of the wound that Curufin gave
@@ -960,9 +960,9 @@ again, and looked up, seeing leaves against the sky; and he heard beneath the
 leaves singing soft and slow beside him Lúthien Tinúviel. And it was spring
 again.
 
-## Beren and Lúthien return to Menegroth
+# Beren and Lúthien return to Menegroth
 
-### They dwell in the woods for a time, but Beren, always remembering his oath to Thingol
+## They dwell in the woods for a time, but Beren, always remembering his oath to Thingol
 Thereafter Beren was named Erchamion, which is the One-handed; and suffering
 was graven in his face. But at last he was drawn back to life by the love of
 Lúthien, and he arose, and together they walked in the woods once more. And
@@ -979,7 +979,7 @@ after a while he persuaded her, and their footsteps forsook the houseless
 lands; and he passed into Doriath, leading Lúthien home. So their doom willed
 it.
 
-### How Daeron left the forest of Doriath, and went to the east of Middle Earth
+## How Daeron left the forest of Doriath, and went to the east of Middle Earth
 Upon Doriath evil days had fallen. Grief and silence had come upon all its
 people when Lúthien was lost. Long they had sought for her in vain.  And it is
 told that in that time Daeron the minstrel of Thingol strayed from the land,
@@ -992,7 +992,7 @@ mountains he came into the East of Middle-earth, where for many ages he made
 lament beside dark waters for Lúthien, daughter of Thingol, most beautiful of
 all living things.
 
-### Thingol, in the meanwhile, had gotten wind of all that had happened, and was unsure of his next moves
+## Thingol, in the meanwhile, had gotten wind of all that had happened, and was unsure of his next moves
 In that time Thingol turned to Melian; but now she withheld her counsel from
 him, saying that the doom that he had devised must work to its appointed end,
 and that he must wait now upon time. But Thingol learned that Lúthien had
@@ -1006,7 +1006,7 @@ assail the seven sons of Fëanor; but he sent messengers to Himring to summon
 their aid in seeking for Lúthien, since Celegorm had not sent her to the house
 of her father, nor had he kept her safely.
 
-### But Thingol is now made aware of the frenzy of Carcharoth as he comes down from the sources of Esgalduin into Doriath
+## But Thingol is now made aware of the frenzy of Carcharoth as he comes down from the sources of Esgalduin into Doriath
 But in the north of his realm his messengers met with a peril sudden and
 unlooked for: the onslaught of Carcharoth, the Wolf of Angband. In his madness
 he had run ravening from the north, and passing at length over Taur-nu-Fuin
@@ -1017,7 +1017,7 @@ that he bore to his torment.  Thus he burst into the inviolate woods of
 Doriath, and all fled away in fear. Alone of the messengers Mablung, chief
 captain of the King, escaped, and he brought the dread tidings to Thingol.
 
-### Beren comes back accourding to his word to Menegroth
+## Beren comes back accourding to his word to Menegroth
 Even in that dark hour Beren and Lúthien returned, hastening from the west, and
 the news of their coming went before them like a sound of music borne by the
 wind into dark houses where men sit sorrowful. They came at last to the gates
@@ -1027,21 +1027,21 @@ had thought dead; but he loved him not, because of the woes that he had brought
 upon Doriath. But Beren knelt before him, and said: 'I return according to my
 word. I am come now to claim my own.'
 
-### Thingol askes Beren of his quest
+## Thingol askes Beren of his quest
 And Thingol answered: 'What of your quest, and of your vow?'
 
-### Beren replies that is is fulfilled
+## Beren replies that is is fulfilled
 But Beren said: 'It is fulfilled. Even now a Silmaril is in my hand.'
 
-### Thingol requests to see the Silmaril
+## Thingol requests to see the Silmaril
 Then Thingol said: 'Show it to me!'
 
-### Beren names himself Camlost, the Empty-handed
+## Beren names himself Camlost, the Empty-handed
 And Beren put forth his left hand, slowly opening its fingers; but it was
 empty. Then he held up his right arm; and from that hour he named himself
 Camlost, the Empty-handed.
 
-### Thingol yields his will, and Beren takes the hand of Lúthien in the throne of her father
+## Thingol yields his will, and Beren takes the hand of Lúthien in the throne of her father
 Then Thingol's mood was softened; and Beren sat before his throne upon the
 left, and Lúthien upon the right, and they told all the tale of the Quest,
 while all there listened and were filled with amazement. And it seemed to
@@ -1051,16 +1051,16 @@ their doom might not be withstood by any power of the world. Therefore at the
 last he yielded his will, and Beren took the hand of Lúthien before the throne
 of her father.
 
-## The Hunting of the Wolf
+# The Hunting of the Wolf
 
-### However, hearing of the onslaught of Carcharoth, Beren knows his quest is not yet fulfilled
+## However, hearing of the onslaught of Carcharoth, Beren knows his quest is not yet fulfilled
 But now a shadow fell upon the joy of Doriath at the return of Lúthien the
 fair; for learning of the cause of the madness of Carcharoth the people grew
 the more afraid, perceiving that his danger was fraught with dreadful power
 because of the holy jewel, and hardly might be overthrown. And Beren, hearing
 of the onslaught of the Wolf, understood that the Quest was not yet fulfilled.
 
-### The Hunting of the Wolf, where many of that time save Lúthien went out to stay the murdurous fiend
+## The Hunting of the Wolf, where many of that time save Lúthien went out to stay the murdurous fiend
 Therefore, since daily Carcharoth drew nearer to Menegroth, they prepared the
 Hunting of the Wolf; of all pursuits of beasts whereof tales tell the most
 perilous. To that chase went Huan the Hound of Valinor, and Mablung of the
@@ -1069,7 +1069,7 @@ Doriath.  They rode forth in the morning and passed over the River Esgalduin;
 but Lúthien remained behind at the gates of Menegroth. A dark shadow fell upon
 her and it seemed to her that the sun had sickened and turned black.
 
-### Carcharoth sees their coming along Esgalduin, and hides in the shadows
+## Carcharoth sees their coming along Esgalduin, and hides in the shadows
 The hunters turned east and north, and following the course of the river they
 came at last upon Carcharoth the Wolf in a dark valley, down the northern side
 whereof Esgalduin fell in a torrent over steep falls.  At the foot of the falls
@@ -1081,7 +1081,7 @@ rode towards him he slunk aside into a deep brake, and there lay hid. But they
 set a guard about all that place, and waited, and the shadows grew long in the
 forest.
 
-### Carcharoth gets the jump on Thingol, but Huan quickly comes to the aid, and a great battle is had
+## Carcharoth gets the jump on Thingol, but Huan quickly comes to the aid, and a great battle is had
 Beren stood beside Thingol, and suddenly they were aware that Huan had left
 their side. Then a great baying awoke in the thicket; for Huan becoming
 impatient and desiring to look upon this wolf had gone in alone to dislodge
@@ -1097,14 +1097,14 @@ from on high and choked the falls of Esgalduin. There they fought to the death;
 but Thingol gave no heed, for he knelt by Beren, seeing that he was sorely
 hurt.
 
-### Huan speaks his third and final time to Beren before he dies
+## Huan speaks his third and final time to Beren before he dies
 Huan in that hour slew Carcharoth; but there in the woven woods of Doriath his
 own doom long spoken was fulfilled, and he was wounded mortally, and the venom
 of Morgoth entered into him. Then he came, and falling beside Beren spoke for
 the third time with words; and he bade Beren farewell before he died. Beren
 spoke not, but laid his hand upon the head of the hound, and so they parted.
 
-### Mablung rips the belly of the wolf, taking the hand of Beren out and gives it to Beren, who presents the Silmaril to Thingol
+## Mablung rips the belly of the wolf, taking the hand of Beren out and gives it to Beren, who presents the Silmaril to Thingol
 Mablung and Beleg came hastening to the King's aid, but when they looked upon
 what was done they cast aside their spears and wept. Then Mablung took a knife
 and ripped up the belly of the Wolf; and within he was well nigh all consumed
@@ -1116,9 +1116,9 @@ Beren's living hand; and Beren was aroused by the touch of the Silmaril, and
 held it aloft, and bade Thingol receive it. 'Now is the Quest achieved,' he
 said, 'and my doom full-wrought'; and he spoke no more.
 
-## At the halls of Mandos
+# At the halls of Mandos
 
-### They bring Beren, with Huan, back to Menegroth, where Beren passes beyond the western sea
+## They bring Beren, with Huan, back to Menegroth, where Beren passes beyond the western sea
 They bore back Beren Camlost son of Barahir upon a bier of branches with Huan
 the wolfhound at his side; and night fell ere they returned to Menegroth. At
 the feet of Hírilorn the great beech Lúthien met them walking slow, and some
@@ -1128,7 +1128,7 @@ ere the spirit left him. But the starlight was quenched and darkness had fallen
 even upon Lúthien Tinúviel. Thus ended the Quest of the Silmaril; but the Lay
 of Leithian, Release form Bondage does not end.
 
-### Lúthien's body comes to rest on the western sea, where she falls into darkness to the halls of Mandos
+## Lúthien's body comes to rest on the western sea, where she falls into darkness to the halls of Mandos
 For the spirit of Beren at her bidding tarried in the halls of Mandos,
 unwilling to leave the world, until Lúthien came to say her last farewell upon
 the dim shores of the Outer Sea, whence Men that die set out never to return.
@@ -1136,7 +1136,7 @@ But the spirit of Lúthien fell down into darkness, and at the last it fled, and
 her body lay like a flower that is suddenly cut off and lies for a while
 unwithered on the grass.
 
-### Lúthien comes to Mandos and sings to him
+## Lúthien comes to Mandos and sings to him
 Then a winter, as it were the hoar age of mortal Men, fell upon Thingol. But
 Lúthien came to the halls of Mandos, where are the appointed places of the
 Eldalië, beyond the mansions of the West upon the confines of the world. There
@@ -1144,7 +1144,7 @@ those that wait sit in the shadow of their thought. But her beauty was more
 than their beauty, and her sorrow deeper than their sorrows; and she knelt
 before Mandos and sang to him.
 
-### Of the fairness of the song that Lúthien sang to Mandos
+## Of the fairness of the song that Lúthien sang to Mandos
 The song of Lúthien before Mandos was the song most fair that ever in words was
 woven, and the song most sorrowful that ever the world shall ever hear.
 Unchanged, imperishable, it is sung still in Valinor beyond the hearing of the
@@ -1155,7 +1155,7 @@ innumerable stars. And as she knelt before him her tears fell upon his feet
 like rain upon stones; and Mandos was moved to pity, who never before was so
 moved, nor has been since.
 
-### Mandos summons Beren, who was also in Mandos, and seeks the council of Manwë
+## Mandos summons Beren, who was also in Mandos, and seeks the council of Manwë
 Therefore he summoned Beren, and even as Lúthien had spoken in the hour of his
 death they met again beyond the Western Sea. But Mandos had no power to
 withhold the spirits of Men that were dead within the confines of the world,
@@ -1164,7 +1164,7 @@ Ilúvatar. He went therefore to Manwë, Lord of the Valar, who governed the worl
 under the hand of Ilúvatar; and Manwë sought counsel in his inmost thought,
 where the will of Ilúvatar was revealed.
 
-### The choices of Lúthien given by Manwë
+## The choices of Lúthien given by Manwë
 These were the choices that he gave to Lúthien. Because of her labours and her
 sorrow, she should be released from Mandos, and go to Valimar, there to dwell
 until the world's end among the Valar, forgetting all griefs that her life had
@@ -1176,7 +1176,7 @@ would become mortal, land subject to a second death, even as he; and ere long
 she would leave the world for ever, and her beauty become only a memory in
 song.
 
-### How Lúthien chose the doom of man so that herself and Beren might be together to die in Middle Earth
+## How Lúthien chose the doom of man so that herself and Beren might be together to die in Middle Earth
 This doom she chose, forsaking the Blessed Realm, and putting aside all claim
 to kinship with those that dwell there; that thus whatever grief might lie in
 wait, the fates of Beren and Lúthien might be joined, and their paths lead
