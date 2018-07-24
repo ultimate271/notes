@@ -1,7 +1,7 @@
 Chapter 1: Of the Beginning of Days
+
 # The first war in the Spring of Arda on the Isle of Almaren
 ## Tulkas the Strong overcomes Melkor with laughter in the First War
-
 It is told among the wise that the First War began before Arda was full-shaped,
 and ere yet there was any thing that grew or walked upon earth; and for long
 Melkor had the upper hand. But in the midst of the war a spirit of great
