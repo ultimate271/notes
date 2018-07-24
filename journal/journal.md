@@ -7349,6 +7349,53 @@ off, although that was the end of the dream if that happened. But this whole
 event with these two "druggies" was the most profound aspect of the dream, and
 the part that stuck with me the most and what I wanted to get out.
 
+#20180720 Dream: Coffee disaster - Dragon and the King
+So last night I did have a dream, it was a sort of short dream, but it was
+there non-the-less. This dream was pretty brief and I don't want to dwell on
+it. Basically, I was at work, and I was demonstrating to my co-worker the
+proper way to make a french press coffee, and as I was doing so, I began
+measuring out the amount, saying the importance of being precise with your
+measuerments, and I placed it in the grinder, and ground it up using a burr
+grinder, and everything was going fine and dandy until I put the coffee into
+the press, and it filled up half of the press. At this, I did a bit of a sanity
+check, and said, "hm, I must have measured it wrong" to which my grandfather,
+who I think sort of showed up at the dream at that point, said, "Yeah, I think
+you did." Well, the scene was still at my work break room, but in that room
+there were my extended family, and some of my family I think but everyone there
+was sort of in the background, and they were getting ready to go to easter
+sunday church service, and I wasn't going, and my grandfather was there with
+me, since he is catholic and always goes to the catholic service when the rest
+of my family goes to the luthren service, and the times don't match up usually,
+so it was just my grandfather and me there, and the rest of my extended family
+was getting ready and making their way to service. So I started to empty the
+contents of the french press, in hopes to salvage the coffee that I had ground,
+and at this point I began making a whole mess of the situation. I was getting
+coffee grinds everywhere, I took apart the french press and wasn't sure how to
+put it back together, and since it was a dream the pieces were sort of changing
+and morphing as I tried to put it together. That is, I would have piece A, and
+I would place it on the counter, and I would grab piece B because piece B fit
+into piece A, but as I went to grab piece B I would lose sight for a moment of
+piece A, and as I went back to it, piece A would be an entirely different piece
+than it was when I placed it there, call it piece C now. And so the pieces
+began to multiply in the dream in this way, but I wasn't acutely aware that
+that was what was going on, and instead I was just overwhelmed with the number
+of pieces I was trying to put back together, on top of the fact that some
+pieces were dirty with coffee grounds, and I didn't have a means to clean them,
+or if I did I did not think to do so, and the entire thing turned into a whole
+sort of catastrophe, and my grandfather mostly just watched there as I
+struggled with this whole thing, and the last thing I remember was "Well, I
+used to be good at this, and now I am just making a fool of myself," because I
+was doing this to try and impress my colleagues at work. And that was the
+extent of the dream.
+
+So yeah, I don't want to dwell on that dream too much, I just wanted to write
+it down before I did anything else. Currently, I have finished the dragon and
+the king, and I want to go back through it and write a very critical analysis
+on the syntax and tone of essentially every paragraph in there. I think I will
+do that now. I might come back to this journal entry and extend it out a bit,
+as I surely have more to say, but for now I really want to get to work on that,
+and also get to work on my lit analyzer.
+
 # 20180721 Dream in Kyle's house - Finished Reading the Brothers Karamazov
 So I feel very strange right now. I am writing a journal article "on top of
 another" so to speak. You see, I was at work yesterday, and as I was leaving
@@ -7890,4 +7937,239 @@ it's not until they don't hear from him that Damien realizes that Brett has
 been killed. So Damien, who knew Brett from school but hadn't kept in touch,
 gets the letter from the hermatage people, so he and Kimberly go and visit the
 scene, and it's there that Brett's half-black friend and Susan, it's there that
-they all meet for the first time. 
+they all meet for the first time.
+
+# 20180723
+So last night after I wrote this journal article was interesting for me. I
+think I just want to go into it and describe what has happened.
+
+So after I finished the article, I had about maybe a cup of coffee left, and I
+decided that I didn't want to finish it and poured it down the drain. At that
+point, I was wholly decided that I wanted to go out for some exercise. This was
+a sort of natural instinct, as I was feeling that sort of "out of body"ness
+from coffee that I feel, and I very much wanted to get back into my body, and I
+hadn't had proper exercise in a few days at least, so I decided it was time.
+And thinking back on it, I could have thought about how it would be good to let
+the creative juices "refuel" so to speak, after I had just discovered so much
+about how I want my hermit story to go, that I thought that maybe I needed my
+brain to reset. But the thing is, I was not thinking about that at all, I was
+not thinking about my characters at all, not about writting or anything like
+that. I literally just went, and I got involved in the workout. It was great. I
+think it was a perfect indication of "the zone" that people talk about. This is
+what I did.
+
+With a continuosly running clock. Run 200m (I kept to about a 45 second pace
+here, at 3in/1out breathing scheme) then at 2:30 jog back to the start. Then,
+with a 4in/2out scheme, run 800m (I kept to about a 5 minute pace on this). I
+did this four times, each starting at nine minutes. So It looked like 200m run,
+slow jog back (and I kept to 6/2 scheme there), 800m run, then a minute and a
+half of rest. In the minute and a half, I was keeping to the heavy breathing,
+and did a short hold then inhale and compress cycle just before I started the
+sprint, which created a very interesting effect. In all, I did about five k
+worth of running.
+
+I say all of this, one because I very much paid attention to my breathe the
+entire time, and this was the first time that I really felt that I was using
+breathe in a meaningful way throughout the workout, and I could use that to
+gauge my effort levels. But more I say this for this reason. After the whole
+thing, I finished with one final exhale and inhale release cycle, and I used a
+tree to lean on to make sure I didn't collapse or anything, and after I was
+done, I climbed the tree to finish up my rest and cool down. While I was up in
+the tree, I saw some small little leaves sprouting up there, and I thought
+about Peterson talking about Chimps how we evolved from them by the discovery
+of fire and the weilding of that to cook meat, and I thought, "I'm already up
+in the tree, fuck it," and I plucked off one of the leaves of that tiny little
+sprout, and I chewed it in my mouth. I was not brave enough to swallow it,
+(imagine that story, man eats dirty leaves from the tree and contracts disease
+xyz) but I did chew on it for quite a bit, and spit it out and just sort of
+chuckled at myself. I then used my monkey grips to ease myself off of the tree,
+and when I got back to my apartment, I ate some raw ginger root with kale, then
+some raw tumeric root with kale, and I took a shot of apple cider vinegar, and
+I felt very raw as I did all of this. It was quite a cool experince, and I
+thought about how my caffinated self was feeling out of body, and I still felt
+that to some extent, but I thought about how differently this work out would
+have gone had I not caffinated myself before hand.
+
+Anyway, after this, I was still sweaty, wearing my breifs and athletic shorts,
+and I just sat down in my chair that I have set up in my apartment, and I just
+started reading Poor Folk. And as I started reading, I only intended to read
+the first few letters (the work is written as a series of letters, similar to
+dracula, I forget the name for that sort of work) but as I kept reading I
+decided to just keep going, and I eventually read the whole thing. Now, at this
+point I could stop and talk about the novel, and what I thought about it, and
+to give my very breif opinion, "I thought it was very good, and I liked the way
+poverty and desperation of poverty is addressed", but more I say all of this to
+say that I was able to read the 120 pages pretty much non stop, with very
+minimal distraction. There were a couple times I got distracted and had to go
+back and re-read what I had already read, but for the most part I was able to
+get through the entire thing pretty un interupted. Towards the end I was
+getting a little drogy, I stopped caring about some details. For instance,
+there were a few relatives of the girl in the novel who started to come in
+towards the end, but instead of trying to figure out if I had heard of them
+before, or try and get who they were exactly and how they fit in the whole
+thing, I just read through them, and got to the point where I was just "getting
+to the end to finish it". And I got to the end, and I really like the way it
+ended. But my whole point is, by the time I finished, it was nearly five
+o'clock, and I don't remember exactly what time I finished my journal article,
+I could maybe look at commit history, but my point is that there was so much
+concentration after I finished the coffee, it quite astounded me.
+
+So after I ate some beef (and I am very much liking my beef tenderizing mallet)
+I spent most of the rest of the evening studying Russian tenses and
+declinations and things like that, and I started to create some cheat sheets on
+some index cards, but really what I need to do is take a word stem, and figure
+out all of the ways that words stem can be modified, and start to put the
+actual word stems on the cards. Somethnig also, I want to say, is fuck Russian
+cursive, I am going to print in Russian the same way I print in english, and I
+will only look at the cursive for the purpose of knowing what italics will say.
+
+So after that, I read Prometheus Bound, by Euc ... something I don't know, but
+I read it and it was good. I liked it a lot, actually, it addresses the nature
+of the god to do what is good and right, and accepting his punishment in spite
+of that. And Prometheus has privy information from the muses about the fall of
+Zeus, and still he does not reveal it even when Hermes comes as messenger.
+Pretty neat play.
+
+So I do want to say that I entirely did not get at all any progress towards my
+lit analyzer, but I feel that I have in my head what I want to do, it's just a
+matter of getting it started. I have been able to use the gui I have created to
+streamline the process of getting something from the source to the individual
+markdown files, and now the goal is to get something from annotated markdown to
+a reference and tags file. I have this notion that I want to have a "seperate
+notation" file for how I read, but that would not display on my tablet very
+well, at all actually, and I really want to be able to use my tablet to create
+these annotations pretty seemlessly, so that's not going to work. I just need
+to actually start on it, which I think I might have to force myself to do after
+lunch or something today.
+
+So after that, it started getting late, and I had to get myself into the other
+room to put some mindless hearthstone tournament on so I could go to sleep. And
+so I went to sleep, and as I was waking up, I had a fleeting dream. The dream
+was at the location of Yoga, but with Colin there, as if it was his house or
+something, and his daughter was there, but this was not Camryn, his actual
+daughter, but a dream person who just was her daughter. Now this girl, this
+daughter, I don't know her name, she was the kind that was exactly what you
+would expect from a daughter, she was sixteen and a little plump, and very
+girly. And I followed her, because she wanted to show me her "side house" or
+something. Basically, in the parking lot of the yoga, in the corner, was set
+aside for her her "play house" and this play house was a sort of life size
+dollhouse, where she actually had a porch she could sit on, with a chair, but
+those were the only things that were actually accomodating for humans, and the
+rest was almost more like a dog house than anything else. It's like those bird
+houses that birds never use, but that people like to put up to pretend that
+birds use. And I remember as she showed me this thing, she sat down, and she
+was distracted by her phone the whole time, and she was gossiping about someone
+with her friend, it seemed, and this gossip, I don't remember because I didn't
+pay attention to it, but I remember thinking "typical" in the dream, like, this
+is just typical for a girl her age to inturrupt what she wanted to show me
+because this was so important that it couldn't wait, and it had to be taken
+care of, and that which was so important that she had to show me could be put
+on hold by whatever she was doing on her phone. So as she was doing this, I
+looked into a box expecting it to be deep, but as I looked into the box, I
+realized it was a sort of play box, and when she got off the phone, I rememeber
+saying something like, "so does it have AC?" and she looked at my like "well of
+course not silly" and she probably said something like that to me, and I
+thought just about how quaint this life size doll house was, and I wanted to
+venture inside, inside also being very shallow, but before I could do so I woke
+up.
+
+When I woke up, I had the first inclination that "surely I have not waken
+before my alarm," and I had a moment of "well shit" because sometimes I have
+the alarm in the other room, but I had distinctly remembered to bring it with
+me as I changed rooms, but I was just waking so I was getting my bearings. And
+as I checked, I found that it was indeed before my alarm, so I went back to
+sleep, and let my alarm hit me at the correct points in rem sleep. This dream
+was the sleep after my alarm and before I got up, and as I woke up, I remember
+distinctly thinking, "I want to go back there" but then I remembered that my
+alarm had gone off already, and that this was the one extra cycle of rapid
+cycle sleep I allow myself, and I realized that I was just coming up with a
+reason to go back to sleep when I should be awake. So I got up and started my
+day.
+
+Today, Paco showed me some stuff with a knife. I am still on the fence about
+carrying a knife, but I am pretty convinced that I at least want to research
+it, and at the very least own a knife. Whether I will carry it everywhere I go,
+or just when I go out, or some other, I don't know, and I will certainly not
+carry it in public until I feel rather comfortable with the trainer. I can see
+myself playing with the trainer in my apartment for a long time before I feel
+comfortable carrying in public. I will plan to research into that, and see what
+I want my course of action to be.
+
+So the last thing that is on my mind today, is I have not visited my father in
+what is now almost exactly a week. It is strange. I really should have visited
+on Saturday, but I didn't do that, and Sunday I thought about it again, but
+didn't go again (mostly because I was really in the zone with literature and
+everything else on sunday) and now I feel I should go, just because I am not
+sure why. But at the same time, my last visit with him was so uneventful, that
+I don't know if I should go, but I think I should. Surely there is something to
+gain there?
+
+I will say, I have noticed some resent still existing in me towards my parents.
+I think that they are repentent a little bit, especially my father, but I don't
+know about my mother. That's just a little note, and I don't really want to
+dwell on it.
+
+So yeah, I have still some time to continue writing for the rest of the hour,
+and I'm not sure what to do with it. Usually I have something to write, but
+today I don't as much. I could write about how I want to organize my note
+taking scheme, but that I think has more to do with actually just writing the
+note taking scheme than it does writing about it, so I will pass on that. I
+feel a little inspired to go back and mark up the dragon and teh king, so I
+might do that, a little later today, but I think I would prefer to use my
+"free" hour on the note taking scheme.
+
+I do want to talk about Russian for a second. So I think when it comes to
+writing Russian, having all of the conjugations spread out like "here is a
+stem, and here is how you can conjugate that stem" works for writing and
+generating the Russian you want to say, but I want to do something sort of the
+opposite. I want to be able to take a Russian word, and within it's context be
+able to determine what sort of word it is. And this I think is more
+interesting, because there is quite a bit of ambiguity in that, and that I
+think is sort of cool. Like, I had this notion that any word which ends in an
+hard consonent is a nominative Russian male noun, but looking at some of the
+tables, it seems that female plural possessives will actually remove the
+suffix, so a word that ends in a hard consonent could be a male nominative or a
+female genitive plural. And there are a lot of things like this. So I want to
+be able to get to the point where I can see Russian, and even though I might
+not know what the words mean, I can say what functions they serve in the
+sentence, and from that, I want to be able to start to get a better
+understanding of how Russian is written. Then I can start trying my hand at
+rearranging Russian sentences to say the same thing but in different ways. For
+instance, in English, I could say, "the boy threw the dog a bone" and "Some boy
+tossed a bone to the dog" which mean mostly the some thing, but they have
+subtle differences, and I want to be able to acheive this level of subtlyty in
+Russian. It's so cool, to be able to decline nouns to have them take different
+parts in the sentence. I find it really a fascinating aspect of the Russian
+langauge, and I am eager to explore it. On the one hand, getting all of
+everything straightened out will be difficult, but I am feeling more and more
+like just the act of straightening it out is helping me in bounds in
+understanding how Russian is spoken and written, and how it is formed, and from
+there I am not even concerned with vocabulary. In this puzzle of grammer, I
+will be able to gleen words here and there, and as I start to gleen words in
+this way, I will have to discover new words in order to "expand out the puzzle
+and make it more interesting". Like, once I start getting bored with the
+puzzle, I will have to expand my vocabulary to make the puzzle more
+interesting, and in this way I can keep the whole thing interesting as I unpack
+the puzzle. It's exciting.
+
+So that is the next project for me to do, is to create a list of Russian
+endings, and then all of the cooresponding ways that that ending could make a
+Russian word. I want to be able to identify parts of sentences, first with
+simple sentences, then with more complex one. It's exciting, and that will be
+my goal from here.
+
+Well, I have filled up the rest of my hours. I will plan now to get to actual
+work with the rest of the thirty minutes I have before our meeting, and then
+today is open mat, and then after lunch I will start to explore all of these
+exciting things. I'm almost giddy with anticipation. There are so many exciting
+things to do in this world and it always feels like there is never enough time
+to do them. It's beautiful.
+
+In fact, I could go on about this experince I had on top of the garage, but
+that is for another day.
+
+I also want to say that I plan to go to the writers meeting on Tuesday,
+tomorrow, but I don't have much to say about that, and I need to stop. So this
+is me stopping. Till next time.
+
+
