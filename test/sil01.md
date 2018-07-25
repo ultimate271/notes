@@ -1,4 +1,6 @@
 # Chapter 1: Of the Beginning of Days
+[Metadata]: # {}
+[Actor]: # {Aloysha}
 # The first war in the Spring of Arda on the Isle of Almaren
 ## Tulkas the Strong overcomes Melkor with laughter in the First War
 It is told among the wise that the First War began before Arda was full-shaped,
