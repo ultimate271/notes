@@ -8347,3 +8347,299 @@ forgetting the room, Eric being excited to tell people, the scene with the two
 girls and the ruffians, then the conversation with Konkol and female Nick, in
 the back of my somehow large enough to fit the three of us on couches car. A
 very fascinating dream.
+
+# 20180725
+So today I woke up and I didn't have any dreams. I actually do remember, I did
+have some dreams, but they were rather fleeting and didn't represent themselves
+to me in a way that I can particularly remember. So I won't bother to dwell on
+it, thinking to hard on it is a sure fire way to ensure that I don't remember
+it. It's good as well, because I have a couple things I want to write about,
+and a dream would take up the entire session like it usually does, so that give
+me time to write about other things.
+
+So the two things I want to write about are this. First, I want to write about
+my morning, because it was a very interesting morning. Second, I want to write
+about my (very positive) experience at readysetwrite. I'm not sure which I want
+to do first, so I will do the second thing first.
+
+So yesterday, I finally decided to make the time to go to the Ready Set Write
+meetup group that Nicolas had told me about. It was in Frisco, which I didn't
+realize was so far from Irving. I thought it was just up the way, but really it
+was a full twenty five miles up the way, so that was a bit unexpected for me.
+
+The experince was good. First I went into the nerdvana restaurant, and I asked
+them there if they knew about people who were a part of the ready set write
+meetup, and they asked me if they met at the restaurant or the coffee shop, and
+I said that it was probably the coffee shop, and so I went out and to the right
+to the other building that was the coffee shop. After that whole thing, I
+started looking around for people that looked like they were there for the
+meetup, and I saw a couple of groups of people, and there was one set of women
+who all had laptops out, and they seemed to me to be working on something, but
+they seemed to already be immersed in what they were doing, and even though I
+was precisely on time (and perhaps a couple of minutes late because of my
+difficulty in finding the place exactly) I was not expecting them to have
+already started. Also, I looked at the screen of one of the woman, and they had
+some sort of powerpoint open, and from looking at it I deterined that these
+women were probably not writing, but instead were most likely meeting about
+something else. Right as I was then considering asking one of them if they knew
+about ready set write, I decided to scan the rest of the room before I
+inturrupted anyone, and I saw Nicolas sitting in the corner at one of the
+tables there. He waved to me, so I walked over. We shook hands, then shared a
+bro hug, and we started to catch up on things. We talked about when the last
+time we talked was, and things like that, and in general just mostly caught up.
+The topic then sort of went to what happened to me after college, and I alluded
+to my trip to Seattle, and he mentioned that my grandparents had told him about
+this, but I thought that he thought he was confusing me with someone else whose
+grandparents were in Seattle and I thought that he thought that I had lived
+with my grandparents for a time in Seattle, but we cleared up that confusion
+pretty quick when he clarified, "No, when I visited your grandparents bayhouse
+with Kyle, they told me about your trip to Seattle," to which I was actually
+quite fascinated. I must have some sort of impact on them, because this is the
+second time someone has told me something about myself that "they already knew"
+even though I hadn't told them, because they had heard about it through my
+grandparents. It's quite a fascinating thing, and I find it somewhat peculiar,
+and interesting that it's happened now twice within the span of a month.
+
+Regardless, after we had caught up a little bit, three more women showed up
+there, one with a baby, and two others. Nicolas went over the procedure, of the
+words that were there as the prompt, and they were very elementary words,
+plant, ball, danger, and product, and from those we all set to our writing.
+
+I have the writing saved, and I will plan to save them all of course as I write
+them, because I plan to do this again, but mostly I just went off on the words,
+and when I was done, I thought to myself, "how can I share this?" but I
+eventually ended up sharing, and I shared the bit about the plant that runs a
+ball plant, and the story of some nations that play a game with a ball that
+comes from this plant.
+
+Now, the last person to share, the woman with the baby, I could tell that she
+had a foriegn accent, and I was perhaps hopeful that it was Russian, just
+because I am learning Russian, but I wasn't too hopeful, and thought that it
+was perhaps some other language like Finnish or Polish or something, because I
+know that those accents can be similar, so I told myself not to be
+presumptuous, and instead just go about the thing. Well, when she came to
+share, she shared what she wrote, and she prefaced it with, "as you can hear,
+english is not my first language, so I mostly just want to write to help
+understand english better" something like that, and she shared her story about
+a girl in Hawaii that gets a call from someone about a product, and the story
+is about the adventures of this person, and she is so excited about it that
+this person parties the night and sleeps through the alarm, and misses the
+appointment, and that is sort of where it left off. But it was very well
+written, and there was only a couple of moments where the grammer was off. So
+when she was talking about that, how she mostly wants to get better at grammer,
+and how she took classes but it is too expensive, and so she wants to meet
+other people, and came upon this meetup, and she wants to use it to help
+understand grammer better, the other people there talked about how Saturdays
+might be more beneficial for her, as that's when people bring in their work for
+critique rather than creation. And at that we mostly wrapped up the meeting.
+
+Well, I got past my fear, and I walked up to her. I asked her name again, and I
+said something like, "So you said you know Russian, and it just so happens, I
+have been wanting to learn a foreign language, and about a month ago I just
+decided that I should go ahead and pick one and learn, and it just so happens
+that Russian is the language I decided to learn, so I was wondering if you
+wanted to exchange, I could help you with english, and you could help me with
+Russian." She said she would like that, and then I kind of went back and forth
+about "maybe I'll see you Saturdays" but she said that wouldn't work because of
+the baby, and she cannot stay at places long because she needs to take care of
+the baby, and I said I understand, but then we landed on, her husband, he will
+work late some evenings during the week, so she has the time to meet in the
+evenings. I then said, that sounds great, and I then emphasized that I am
+still very new to Russian, like all I know how to say is, "Я знаю... я не знаю
+по-Русски" and she sort of chuckled and said "that's not bad" but of course I
+know she was being nice, but still. I then said that it sounds great, and we
+exchanged numbers, and I told her we would keep in touch. And I went home, and
+when I got back to my apartment, I started making flash cards for the words I
+"know" so far, and when I was looking up знаю the stress is on the а and not
+the ю so I felt sort of silly saying it so backwards like I did to her, but of
+course such a mistake is certain to happen.
+
+So that was my experince there. I was dreadfully frightened going to sleep,
+like "Oh my, I have really plunged myself into this whole Russian thing, I'm in
+deep now, I really need to prepare something that is not so silly to prepare
+myself for meeting with this woman, she will think I am dreadfully stupid" and
+so on and so on, and I felt wholly unprepared for the whole thing as I was
+going to bed. But I didn't think to much on it, I am exageratting my emotions
+here as I am writing but really the emotion was more like, "Okay, I guess I'm
+all in here, I'll have to prepare something" and I went to bed like that.
+
+Well, and this is why I suppose I wanted to do it this way first, I woke up,
+and when I woke up I instantly knew two things. The first was, I knew how I
+wanted to place nouns on my flash cards, which was something of a relief to me,
+because that was something I was thinking over, and the second thing was, I
+knew how to approach the situation. I would come up with some sentences, after
+I have finished my flash cards, and from these sentences, I would try and
+create some sort of coherent story, or at least, not a story, but I want to
+create sentences that I have questions about, and I want to say, "this is how I
+would say something in Russian, and I am curious what sort of subtlties you
+would add on to it." Something like that. So I could come up with a simple
+sentence, and then add on to it in a very immature way, and from that build up
+more complex sentences which would neccesarily be wrong, but that's the point,
+because I want to see how complex ideas can be made from more simple ones, and
+how that process is done in Russian. So I think that will be the plan. I will
+continue to make flash cards, and from these flash cards I will make some
+sample sentences, and build these sentences beyond my control, and ask her
+about subtlties where I went "off the rails" so to speak.
+
+All that to say, I am very glad I made this effort to make this exchange with
+her, and I am very hopeful that, maybe once every two weeks, we can get
+together and exchange language.
+
+Something I will say as well, something that struck me very strongly about this
+woman, is that she is a very kind hearted human being. Some of that might be
+partly her upbringing, best I can tell she was certainly not privledged growing
+up, but the innocence of her, it struck me. She also had such a way with her
+child, her child was very well behaved, and such a thing, that strikes me as
+also very noteworthy. It's a facet of something that I like.
+
+I also want to say, in spite of my natural instinct to have these sorts of
+thoughts, I very much want to have no intention on acting on the sexual tension
+that her and I might feel. There is a sort of tension there, at least on my
+sexually repressed end, and that tension is a function of my own, that I don't
+want to act on at all costs. Women have such a strong way of mitigating that
+tension, it's a feature of them that fascinates me, and in my interactions with
+this woman, I hope to acquire that sort of womanly trait. That way, when there
+is a healthy tension, I will know how to handle it.
+
+I have managed to continue to abstain from marijuana and coffee as well. I want
+to go off on a quick tangent here. So yesterday, I got a call from my lawyer,
+Ben Hunsucker, and he informed me that I have been accepted into the First
+offender program, which is good, and he told me that the first urinalisis that
+I will have to take will be at the end of August, which if you can do the math,
+means that I have a full month before the first time I have to pee in a cup.
+Well, if you look at that, that means I could pretty safely smoke some
+marijuana right now, and be entirely set for the uninalisis, and I even
+entertained the idea for a brief fleeting moment.
+
+Now I want to be clear here, I did not entertain it so far as actually getting
+to the point where I said, "Fuck it, I'm doing it," and I thought about how it
+would happen, and I decided that I didn't want it to happen like that. So
+nothing happened. But the main reason is this. Marijuana has a lot more long
+term benifits for me. I don't like smoking a lot of weed at once, that is not a
+pleasureable experience for me, I much prefer smoking a little bit at a time,
+and having some self restraint for it, especially in the mornings. I perhaps
+indulge a little too much in the evenings, after work, but when there is BJJ,
+or Yoga, or something else that I can go and "work off the high" with, I will
+do that.
+
+Regardless, the bottom line here is, it would not be in my best interest to
+smoke any marijuana right now, for many reasons. Besides the obvious of "I
+should not because the law determines it so" (which for me is the least of my
+reasons), there is this fact that the one off smoking experience will only make
+me want to crave more, along with the perhaps the most important aspect that I
+have put myself on probation. The fruits of the tree of life are not ripe yet,
+and to indulge in such a thing before it is ready, that would be the great fall
+of man. Indeed, that's an interesting question. Was the fruit of the tree of
+life ripe when Eve and Adam partook in the fall? I'm not sure, and I don't
+know. Perhaps in my study of literature, I will discover this.
+
+Which brings me to the rest of what I wanted to say (it's amazing how stream of
+consciousness works). I woke up this morning, and checked the time, and
+determined that I had another full REM cycle before I had to get up. As in, I
+woke up at around 5:00, and I needed to be up at 6:30, as today is a training
+day. But as I got up, I thought, I could have went into the other room and
+watched some Hearthstone tournament which would sedate me to sleep, or I could
+get on the piano. So after I finish reading a bit of Freud, I drank some water
+and got on the piano, and I played, at an excruciating slow tempo, the Adagio
+of Beethovens seventh sonata, the one in D major that reminds me of birds
+disentigrating into nothing. Now, that movement, it's very immature, I would
+say. There is a lot of yearning, a lot of sighing, a lot of diminished cords
+that imply pondering, and anguish, and so on and so on, and I dare say that it
+captures the immaturity very well. The entire sonata is such that, well, it's
+sort of the anguish of a troubled teen, I would say, is what it reminds me of,
+a troubled female teen, because it is a very female sonata to me. I'm not sure
+what about it makes me say that, but that is my conception of it. But I had
+wanted to play this movement very slowly, and I did and when I was done, I knew
+that it was not worth my time learning this sonata like I have others. I would
+be embarassed to play it in front of others.
+
+So as I was done with that, I got up and walked around a bit, and I felt the
+inclination to play some mozart after that. So I found my mozart book, and I
+started playing some mozart before I realized that I had played for quite a
+long time, and that I needed to get to training.
+
+Something I thought about though, as I finished beethoven and before I moved to
+mozart, was this. My analysis of music, I wanted to do it for so long, but I
+had so many difficulties putting together in my head exactly how I wanted to
+represent music, on top of the fact that I am not familiar with the output of
+music to computer native formats. These sorts of difficulties are the same
+sorts of difficulties I am encountering now with my lit analyzer, and with
+that I thought to myself, "if I tried and gave up on my music analyzer (which I
+haven't totally given up, but it is certainly don't have intentions to make it
+happen like I used to), what's to say this project won't meet the same fate?"
+To that I have one observation. I can create stories. Yes, they may not be very
+good, and Dostoevsky is certainly a much greater author than I am and perhaps
+ever will be, but I can create them, and be proud of them. Stories come to me,
+I can discover them, I can write them down, and I know, certain aspects of the
+stories have to be changed in certain ways to create different effects. And
+yes, it might be the case that I am not the best at doing that, and I will
+never be as good as I want to be, but that is in contrast to my musical
+creativity. I am musially illiterate in comparison. I don't have that same sort
+of curiousity, that intuition with music the same way that I do with words. I
+can't read a score, and pick out all of the little things that I like about it,
+and change around "I like this but I would have written it this way." and so on
+in the same way that I do with novels.
+
+I found this paralell between musical ideas and a novel. In a novel, the good
+ones that I have been reading so far, characters are introduced even towards
+the very end of the novel, so that in the final "movement" of the novel, an
+entirely new character might be introduced that could be critical to the novel
+as a whole. And this has been a grief I have had with music, that the motifs,
+the characters, that get introduced towards the middle and end of a work, those
+motifs I have grief with because "why are they introducing something new at
+this point?" and I get lost and the impact of the music is lost on me. I feel
+that, "it's not fundamental enough" and my engineer brain kicks in and says
+that all of the motifs should be introduced at the beginning, and that the
+exploration of them all should have a direct connection that I can easily
+analyze. But when an author does it in a novel, I say to myself, "wow, what a
+great effect that has, this character is introduced in such an organic way out
+of the plot, and he adds such and such to the story." and I can even say what I
+like about that character being introduced, and how I thought that it impacted
+the work as a whole, and so on and so on. The point is, I enjoy such
+complexities, and I see the motivation behind it being done, and the "greater
+theme" behind the entire work I am able to "unpeel" from the plot and the
+characters and everything, and I'm able to provide commentary about it, to say
+what I like and dislike about it, and why I like or dislike it, suggesting what
+I might have done differently had I been the author. 
+
+But not so with music. When music does these things, I am not able to see the
+"greater theme" of the music, and instead I am simply left to trust the
+composer, to trust what he said, and what he wrote, and to take what he wrote
+almost as a sort of scripture. It's hallowed, and it shouldn't be trifled with
+or questions by a lowly mortal like me who has no idea how these things work.
+Which is true, since I am that lowly mortal in the musical world, since I do
+not have that intuition, I should not trifle with these things, and I should
+trust those that do. At the same time, this attitude towards it, it suggests a
+fine lack of understanding for what music means. A novel should not have a
+goal, but instead should be discovered from the soul, and music does not come
+from my soul. My soul is not bred out of music, I do not have a musical soul. I
+have a musical mind, and I love the way music underlys so many things that we
+do in life. But my soul does not express itself in music. It's sad, to come to
+that realization, but I have always known it.
+
+The question now becomes, in what way could I unlearn music to discover it in
+my soul? What is neccesary for me to find my inner musical soul? I would need
+to take lessons on music, from a great teacher. Who is such a teacher? I do not
+know. So be it. Perhaps such a teacher will come by me some day, and I can give
+them absurd amounts of money per hour, and through that I will discover the
+music of my soul. But maybe not. I need to create, I need to improvise, and I
+need to compose, but the medium to do that is so counter intuitive to what I
+want. Writing a score by hand is tedious, and I certainly can not have a
+musical idea and write it out by hand.
+
+Singing is the only way I could do this. I could create a musical idea in my
+head, and sing it. I have that sort of intuition. But I don't know what the
+notes are. That's the rub. My ear is not in tune with that. So ear training I
+think is probably a much bigger aspect to the whole thing. Ear training is the
+crux of the issue. That is what I need to practice.
+
+Surely there are online resources for ear training. That's an idea. Train the
+ear, reproduce the notes. Then, when I hear something in my head, the notes
+would come out in their form, just like when I hear something with my ear, the
+same thing happens. Such a great notion.
+
+That would certainly be the start to developing a musical soul. But it would
+take so much effort. I want to develop my lyical soul first. I want to learn
+Russian, I want to create my "Lit analyzer suite". I will do those things
+before I go back to music. I will surely go back to music in my life, but in
+what way, I don't know.
