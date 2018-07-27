@@ -9151,3 +9151,375 @@ the middle of the night, but these dreams were definitely seperated by a rem
 cycle for sure. In fact, I can say with confidence that this dream does not
 lead into the next one, as my parents in this dream
 
+So I'm back now, I have finished work and arrived at home, and I ate some food,
+and I am feeling very pressed to do all of the things before I go to bed, but
+there is simply not enough time in the day to do things.
+
+So I want to try and ease myself back into the mindset of the dream. Like I
+said, this dream was not connected with the dream before it, and the themes
+presented are very different than those of the past dream. Indeed, if I were to
+write a story with these two dreams, I would have the main character of this
+dream have with him a sock puppet, that he has, showing the sybolism of the
+demon that he contended with in the dream before, but it's not a novel, and
+that is not what happened.
+
+There was also a lot of allusion to this dream in the previous entires of my
+journal. I have not gone back and listened to the recording that I made this
+morning, and it is well over twelve hours since I woke up. I will plan to
+listen to it after I finish talking about this. I will have to come up with a
+Russian story to share, so that Liel and I will have some bad Russian grammer
+to talk over. I am very nervous about our meeting, but she was enthusiastic
+about making contact with me, so I will do my best to rise up to the occasion.
+
+Anyway, enough of that. I want to go back over to the dream. I made a lot of
+references to this dream in my journal, and indeed, for the better part of the
+morning, I seemed to be acting out almost exactly the feelings and emotions I
+had during the dream. This is fascinating to me, as it's really difficult to
+say which came first. Of course, the dream came first, but how much
+pre-suppostion about what was going on did my subconscious brain know, and how
+much was the emotions that I was going through in the dream acted out in my
+later life? Were these emotions brewing in me, and my dream self had to act
+them out as a sort of premonition of what my day was going to be like?
+
+It's hard to have an answer to these questions. The pragmatist in me says that
+all of these things are simply a subconscious manifestation of the knowledge of
+things that my conscious brain does not know, and that is the explanation of
+the events, but there are a lot of coincidences between the dream and what
+played out that it's hard to deny that a supernatuaral interpretation is not
+wholly unreasonable. I do maintain my position though, that the appeal to the
+supernatural indicates a sort of weakness of man to find the "path of least
+resistance" in discovering the truth of a matter that he does not understand,
+and I surely do not understand what happened to me today, last night and today.
+To appeal to a supernatural source, that would be the cheap way out.
+
+Well, enough ado about it, let's talk about the dream.
+
+So the dream started, and I was in the living room of my parents house. The
+layout of the house was similar to the layout of the last dream, although now
+that I think about it, the only common element of the main "scenes" of the
+dream is the kitchen, and mention of the schoolroom is only alluded to but
+never visited in the dream, so I find that interesting. Even the kitchen is
+approached from the other angle. Perhaps this could indicate that both of these
+dreams, together for a sort of yin and yang, that they are two aspects of the
+control I have on my life and the things in my life I have insecurities of.
+That is an interesting interpretation, the implications of which are well
+beyond my present understanding. In fact, I could just be making associations
+in the effort to seem profound, while really I'm just spewing a bunch of
+nonsense, although when one has a dream, a pair of dreams, such as these two,
+that have such a profound effect on the waking life, any association
+discovered, as long as it isn't patently absurd, should have some merit.
+
+Anyway, this dream begins in the living room. In the living room of my parents
+place, I am hosting a party. I very much know I am the host, as I am walking
+around from person to person, being cordial to them, making sure that they are
+having a great time, offering drinks all around, and the like, doing "hosty"
+things.
+
+At this party, I know are at least Caitlin and Kyle, who are both in the living
+room. The living room has been turned into a sort of make shift dance floor,
+and I know Kyle and Caitlin are both on the dancefloor, dancing, and they are
+having a grand time together. They are not dancing with eachother, or at least,
+they are dancing with everyone else as much as everyone is dancing together.
+
+In the rest of the room, there are a few more dancing people, some people on
+the couchs, couples paired off and cuddling togethre and sharing drinks, and in
+general, the scene is very much like one of the parties that I might have
+attended while I was in college. It was not overly cliched, like you would see
+in a college frat movie or something like that, but it was the sort of party
+where there was music and dancing and drinking, and everyone was having a good
+time.
+
+So as I make my way through the living room, making sure everyone is having a
+good time, I then make my way into the kitchen. Now, at this point, I would
+have to go back and listen to my recording to know who it is I am talking too
+in the kitchen. I do not think it was Kaley, but it might have been Kaley at
+this point. I know we were talking, and in fact, the more I think about it the
+more I am convinced that this was Kaley.
+
+So I am standing on the table side of teh part of the counter that seperates
+our kitchen, and Kaley is standing on the other side, and she is not drunk, but
+certainly she has been drinking, and it's very clear that she is thinking
+through things while she is drinking. And she starts to talk to me about her
+boyfriend. At this point, I feel it is important to also say that irl, about
+say a month ago, she talked with Caitlin about her boyfriend, whose name I
+don't remember, maybe Justin, although I might be confusing that name. Joe, Joe
+is his name. Anyway, she was talking about how he was having commitment issues,
+and how she was asking questions about where this was going, and he was being
+wishy washy about it, and etc etc. and she wasn't sure where they stood. She
+was telling this to Caitlin in the break room, about a month ago, but I was
+there making tea or something as well, so I sort of became a part of the
+conversation, but only a little bit.
+
+So this was the point we were having in the conversation. She was saying how
+she was considering (in the dream) of breaking up with Joe, and she wasn't sure
+what to do, so she was looknig to me for guidance. And I remember a moment, I
+was standing on the table side of the part of the counter which divides the
+kitchen, and she was standing on the other side, and she started to sort of
+just collapse into me. In fact, I think at this point we had alerady gone.
+
+This is why I am not convinced that she was the one I was talking to in the
+kitchen, because the timeline doesn't match up. I remember having a
+conversation with someone in the kitchen, but I entirely forget who it was. And
+it was a decent conversation. For the sake of moving forward, we will pretend
+as though this conversation happened. I do have a vague recollection that this
+coversation was about how great the party was, and she was telling me that I
+was being a good host, which I accepted graciously.
+
+So after that, I went into my parents bedroom, through the dining room, and I
+saw that the partying was dying down a litte bit and people were starting to
+pass out, as this party was intended to be a sleepover, and these people had
+designated areas where they were to go to sleep.
+
+At this point, I am pretty sure I am naked, or at least, I don't remember
+whether or not I had clothes on at this point, and I was certainly naked later
+in the conversation, so I can only presume that I was naked at the start of it
+as well. My nakedness comes into play later, so it is a relevent subject.
+
+So I go into my parents room, and I see Kaley, and she is sitting on the
+otoman, and me, being the sly host that I am, decides to sit on the chair
+opposite her. And this is when she starts talking to me. I will be entirely
+honest, this conversation is pretty one sided, she is doing most of the
+talking, and I am doing my best to be a good listener. And she starts talking
+to me about her boyfriend, and she goes on about how things aren't working out,
+and everything like that, and she starts to aske me for guidance, on what she
+should do. Before I can reply in answer in any way, she sort of collapses in
+the chair next to me, like "what should I do!" in one big exasperated sigh, and
+I pick her up, and sit her in my lap.
+
+I know I was nervous in doing this, but I knew it to be the right thing to do,
+and I didn't want to betray myself by giving in to my base instinctual desires
+here, so I was very cautious, but not hesitant, in showing this gesture.
+
+And I just say something like, "Sit here, get comfortable, and just get it off
+your chest" or something like that. "I'm here to listen." And she continued to
+talk. And as she sat there, I know I wrapped a blanket that was there around
+us. I also know that I started to develop an erection. In fact, I think the
+erection was already there, because I was aware of it as I was setting her in
+my lap. But Kaley I know, she sort of arranged herself on my lap, and she sat
+so that he back was to me, so that my erection sort of went up her tail bone. I
+don't know if she was naked either. If she was, it was only in relation to her
+tail bone. In fact, when I have to think about it, I think that she was wearing
+only panties, but thinking harder on it, I can't say anything about what the
+panties were like, except that they were somewhat modest, at least more modest
+than a thong. But like I said, I have to think really hard on it, so I believe
+it is my imagination playing here, and not my memory. The one thing I do
+rememebr very distinctly is that she sat in front of my erection, on teh side
+of it closer to my knees, and that my erection sort of came up along the base
+of her spine. And so we arranged ourselves like this, me making sure not to
+betray myself by acting in an wholly reprehensible way. In fact, I was
+genuinly interested in listening to her, and the fact of my erection I mere
+made not of, not out of shame, but out of the fact that I didn't want it to
+betray my interest in listening to her. Which is why I made sure that it went
+behind her, and she leaned a bit against, and we were abel to cuddle in that
+way under teh blaknet as she talked about things.
+
+Well, we were having a pleasent conversation, and I do remember my mind
+drifiting a bit. In fact, as interested as I genuinely was in the conversation,
+my mind kept drifting to my insecurities during th ewhole thing, so much so
+that those things are what I remember rather than the actual conversation she
+had to say. I remember thinking "is this going to lead to sex," and I hushed
+that thought as wholy undesirable, and I remember also thinking, "does she have
+the impression that I want to have sex with her?" which I also dwelled on for a
+bit, but I felt insecure about. Besides that, mostly I was trying my best to
+hush my stupid and repressed thoughts about false perceptions of sexual desire,
+in favor of truly trying to understand and connect with this human being, but I
+was being betrayed at every turn by the sexual things that were happening
+there.
+
+At around this point in the dream, my parents, who I knew were sleeping, begin
+to wake, at the sound of Kaley's voice in the conversaiton. They wake up, and
+they are both sort of groggy, and they ask first, "who is that there," and then
+after they deduce that it's me, they say, "what are you doing, why haven't you
+gone to bed." To that, I said, you're right, we should go to bed, and I said to
+Kaley, "let's go into the schoolroom". Well the schoolroom door was closed, and
+I knew that no one else was in the room. And at this my insecurities were
+still flaring themselves, but I must remind the reader, or maybe say for the
+first time when I should have set it before, that I was not outwardly acting or
+making to life my insecurities. On the contrary, I was being what I would say
+was quite smooth through the whole thing, bringing her to my lap, maneuvering
+her around my erection, and making it known to her but not letting it intrude
+on her, and wrapping a blanket around the both of us to keep eachother warm.
+All of these things, I was doing in response to the feedback I was recieving
+from this dream Kaley, and I was being very successful at making her feel
+comfortable to open up and talk to me. All of my insecurities I had in the
+forefront of my mind because I did not want them to betray how smooth I was
+being.
+
+So at this, I did mention that we should go the school room, and the insecurity
+of, "she might think this is a ploy to get it on with her" was no the
+expression of that action, but instead I was mostly just suggesting the
+schoolroom so that we could be alone and continue on with this conversation
+which I was finding pleasent, and in the schoolroom we wouldn't have
+inturrputions. So of course, I thought that, "this could be very much seen as
+having ulterior motive." but I had the most pure intentions with the action,
+and with every action leading up to that point.
+
+The women reading this might say, "no guy is ever that pure" and that is the
+source of insecurities. It is the fact taht, I try and do things that seem pure
+to myself, but will not be seen as pure by others. That, and I also have those
+insecurites because secretly I know there is a part of me that is not pure, and
+that part of me could easily rise up in such an occasion and take control when
+I don't want him to. I have been mastering my control over that part of me
+lately be abstination from masterbation, but that is a recent endeavor, and I
+am only what, I month and a half into my probation now? There is a lot more
+probation to go.
+
+Anyway, at this, at my mention that we should go to the schoolroom (which might
+be connected to the demon of the previous dream, but I will leave such analysis
+for later) my parents instant said this. My father spoke up, and said, "No, you
+are not" and I looked back at him and said, "What?" in a very authoritative
+way, not wavering at all. I was genuinely upset at this. If he had not replied
+to my "What?" as he did, I could have very easily defied him, but his reply was
+this. "This is my house, and you are not taking a girl alone at night into a
+room alone when you are in my house." To that, I got very angry.
+
+At at this point, I had a moment. The moment was, I saw my father was being
+very cool about the whole situation, and I had a moment. I saw that my anger,
+my flare of emotions was wholly my own, and that to escalate the situation,
+that was on me. And I did a quick double take. I thought, "I could find a way
+to handle this situation cooly, or I could flip out." And it was because my
+father appealed to the sense of ownership of what happens in his house, the
+sense of authority there, that I knew it was unwise to go against his direct
+word like that when I was in his domain, when I was in his house (and a line
+like that is something like my father has said to me before in relation to
+other things, "Not in my house your not" is a typical dad line), it was because
+he said so as the primary figure of authority in that domain, and I knew it was
+true, as such, that I was indeed in his house, and that a firm rule like that
+should not be gone against, I had decided that I had already lost at that
+moment, that I decided, "I will escalate this situation". It was a very strange
+moment to have in a dream. To have the self-consciousness to be aware of
+something like that is very much an intellectual pursuit, and to have that sort
+of intellectual knowledge in such an emotianl moment, in a dream, I feel must
+indicate something.
+
+So I went off. I got up, almost tossing Kaley aside, not concerning myself at
+all with her anymore, and I started yelling. Full on yelling. Stuff like, "What
+the fuck!" And "You think I'm not an adult! Fuck you, and fuck you too" I would
+asy to my father, and then to my mom when I realized she was agreeing with the
+decisions of my father, and not only because my parents do a very good job at
+not publicly showing their disagreements, but also because I could tell that
+she truly had the same belieef that I shouldn't take a girl to another room
+alone.
+
+I honestly don't remember what sort of vurgarities I screamed at them. I
+probably said something also to the effect of "this is why I am like I am,
+because both of you wish to supress me in this way, it's fucked up, and you are
+fucked up parents for doing it". It's been a long time since I've had a thought
+that violent towards my parents. It's honestly quite amazing to me, that I as a
+twenty seven year old man can still have such strong feeling of resentment
+towards my parents, and I still on some level deeply resent them for raising me
+how they did. I have been making great efforts to forgive and to move on, but I
+don't know. I know definitely that my dad feels repentance, and certainly my
+mom as well, but I think it is the sort of repentence like, "Well, we see that
+you have resentment, and we can see the results of the way we raised you" but I
+feel that maybe it is not full repentence. I have forgiven my father, both
+inwardly and to him actually, using the words, "I forgive you for that" but
+clearly there is still more forgivness taht needs to be done, and this dream
+indicates to me that the repentence, it's maybe not there. I don't know, I
+don't have the wisdom to see it, and I can only visit them more and do my best
+to have the conversations that we need to have, but Luekemia makes that
+difficult.
+
+I'm reminded of a quote of mine. "My relationship from you as parent to child
+lasted twenty six years, and died then. The relationship we have now, of me as
+an adult taking care of you, that relationship is still in its infancy." That
+is the noly thing, for me to try and cultivate the relationship of adult to
+elderly, and that is on me. It's one hundred percent on me.
+
+Anyway, shrink session out of the way, and back ot the dream, after yelling
+things such as that to them, I storm out and go back into the kitchen to get
+some food out of the refridgerator. As I storm, I am not yelling or anything,
+but I am noticably storming, and the people in the living room who were
+sleeping from the night before, notably Caitlin and Kyle, they begin to wake,
+and in their groginess, they see me. I wholly decide to storm through to the
+kitchen anyway, and somehow, through the miricale of dream worlds, my dad is
+already there. This isn't a surprise to me. As I go to the fridge, I say to
+him. "You know what, maybe I should fucknig thank you, Kaley is a ditz anyway,
+so maybe you saved me from that." And I said it with the most distaste one can
+possible give. My dad looks at me, and then looks at the hallway through the
+dining room that I just walked down, and I said, "She's right there isn't she."
+and she walked in.
+
+Now, I do must say, she was not noticably upset, and I was at a loss at what to
+say. On the one hand, what I said I wholly thought was true, and since I am
+being totally honest with myself, that is something that I have thought about
+when I think about Kaley. But saying something like that, it is meant to label
+people, and people always take it as labeling, where as when I say it, I always
+mean it in a nuanced way. I never use absolutes, but when absolutes like that
+come out of my mouth, I myself know them not to be absolutes, but I know taht
+they will be received as such, and any attempt to try and recover by saying, "I
+don't meant that absolutly," is also seen as disengenous and cowardly. So I was
+sort of at a loss, because on the one hand, that is honset, but on the other
+hand, it is not honest in the ways other people would receive, and trying to
+explain that distinction to someone, especially a woman, who has just received
+such an insult in that way, will only serve to insult them futher. I knew all
+of that in that moment, so I sort of stared there, in my stormiy and upset way,
+and I sort of just thought, fuck it, let her be upset that I insulted her, I
+would rather he be upset than to back away from my honesty.
+
+So I walked away from that situation. I might have said something like, "I wish
+I could apologize for those words, but I honestly can't, so for that I'm sorry"
+something like that. And walked away. She did not break down, or anything like
+that, I think she was more stunned and shocked than anything. Well I wasn't
+waiting around to find out, because I had already decided that I was making my
+way the fuck out of my parents place. And on the way out, my mom was standing
+near the kitchen table, and I had to go by her to get to th efront door where I
+was going to make my exit, and as I walked by her, I said, "I know you won't
+believe me when I say this, but I did not intend to have sex with her in the
+school room." and my mom started trying to speak in reply to that, but I told
+her to stop, and that I was leaving.
+
+I walked through the living room, and on the way out, I don't remember if Kyle
+and Caitlin, I think they had already left, and I remember seeing the empty
+sleeping bags that they had slept in, and I thought, "my anger has driven them
+away" and I thought that it was only natural, as my anger had driven even
+myself away, I wanted to get hte fuck out of there, and why wouldn't they? It
+was only natural. So I walked out the front door, and got into my car. As soon
+as I got into my car, I sped off, I slammed the accelerator, and I drove to the
+corner, which is only like 20 feet, at full accelerator speed. And as I was
+taking that turn, and there were parked cars that I was wholly aware of that I
+could run over if I was not careful, I said to myself, "It's okay, you can calm
+down now, you're not in the presence of you parents so you don't have to act
+upset anymore." But I was stilly upset, I certainly was not acting upset to
+make some sort of point, I became upset and chose to display that in the most
+immature sort of way. So I continued down the road, and I turned right on yale,
+and right on apollo, and I was still going fast, but starting to cmoe to my
+senses that I was being dangerous, so it was the forefront of my mind that I
+was being dangerous, and that I should try and calm myself down for my own
+sake. It was around the point that I was crossing plano road (which all of this
+was still uncannily similar to real life) that I woke up.
+
+Now, I will say, at the point I woke up, and I believe I already said this, I
+did not have an erection. I was wearing boxer briefs that night, and I am
+unsure if I had an erection during the actual dream. It's unknown. What is
+known is the profund effect that this dream had on me.
+
+That, on top of the fact that I was still processing the dream as I was walking
+into work, and she stopped to talk to me, and then that conversations was cut
+short by myself, and then later that day Caitlin messaged me with her problem,
+and I nearly lost my cool, all while I was just beginning to write about these
+dreams, it's so insane, and the fact that I had hadn't been able to process the
+dreams yet, they were so profound, and I needed to process them, and I aws
+being inturrupted by a stupid canadian tax issue, and I was becoming
+increastingly upset at the fact that I had'nt processed the dreams, and the
+reason was because I had an obligation to work, it's so uncanny to me.
+
+One last thing I will say is, the driving away while upset was very much
+analgoulous to me driving to BJJ at lunch. And I did talk about the amazing
+sort of effect the soul of Skyler had on me at BJJ. And as I was driving, I
+thought, "this is just like the dream, only the dream ended just as I was
+getting somewhere new, where as I'm not going to wake up from real life, I will
+discover what that something new is. And it was a sort of private lesson from
+Skyler. Such an interesting set of dhreams, followed by an extremely
+interesting day. I am fascinated by this.
+
+Now, I have it in ym mind to come up with a Russian story, but it is nine at
+this point, and I have to get to bed. I do not know when I am going to come up
+with a Russian story. I will sit for a bit outside right now, and let the
+mental exhaustion of this whole writing session wear off. I will do my best to
+come up with a story, and to at least write down some sentences that are beyond
+my comprehension. So enough of that, it's out there, the day is done, and I am
+so very glad that I was able to get both of those dreams down to their
+completion. So very, very glad. Life is good.
+
+
