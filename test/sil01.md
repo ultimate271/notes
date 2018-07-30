@@ -14,6 +14,23 @@ and his laughter, and forsook Arda, and there was peace for a long age. And
 Tulkas remained and became one of the Valar of the Kingdom of Arda; but Melkor
 brooded in the outer darkness, and his hate was given to Tulkas for ever after.
 
+This first event has multiple paragraphs
+In fact, I am going to make this shit
+so awkward
+just for the sake of it
+
+### Holy shit it's a subevent
+[Speaker]: # {Aloysha}
+This subevent is going to be a bitch
+
+I am going to make it a bitch
+
+Okay, that's bitch enough
+Bitch goddamn enough
+
+### By god it's another sub event, the madman!
+[Speaker]: # {Ivan}
+
 ## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
 In that time the Valar brought order to the seas and the lands and the
 mountains, and Yavanna planted at last the seeds that she had long devised.
@@ -100,6 +117,7 @@ until they knew where the Children of Ilúvatar were dwelling, who were yet to
 come in a time that was hidden from the Valar.
 
 # The first settlement of the Land of Aman
+[Actor]: # {Aloysha}
 ## The valor leave Almaren, moving to the Land of Aman, where they make dwelling
 Thus ended the Spring of Arda. The dwelling of the Valar upon Almaren
 was utterly destroyed, and they had no abiding place upon the face of
@@ -185,6 +203,7 @@ water and of light. Thus began the Days of the Bliss of Valinor; and thus began
 also the Count of Time.
 
 # The contrast of the Valar and Melkor
+[Actor]: # {Aloysha}
 ## Reminder of the twighlight of middle earth and of Melkor's shadow that fell their
 But as the ages drew on to the hour appointed by Ilúvatar for the coming of the
 Firstborn, Middle-earth lay in a twilight beneath the stars that Varda had
@@ -290,6 +309,8 @@ mostly with the Elves, for Ilúvatar made them more like in nature to the Ainur,
 though less in might and stature; whereas to Men he gave strange gifts.
 
 ## Iluvatar sat alone, and spoke of the Quendi and the Atani, allowing the Quendi be the fairest of all things, and the Atani the power to shape their fate beyond the Music of the Ainur
+[Speaker]: # {Aloysha}
+[Speaker]: # {Morgoth}
 For it is said that after the departure of the Valar there was silence, and for
 an age Ilúvatar sat alone in thought. Then he spoke and said: 'Behold I love
 the Earth, which shall be a mansion for the Quendi and the Atani! But the
