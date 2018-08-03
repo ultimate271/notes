@@ -267,3 +267,61 @@ the fact that he has a period of not stammering is what is strange. The
 stammering should have more effect, rather than me just putting elipses between
 a sentence.
 
+## The dragon wishes to get through this stammering
+I don't like how the dragon puts himself above the humans, he should just say
+something like "Speak plainly, as you would to a peer."
+
+## The leader explains the situation as best he can
+I don't know how much of this stammering is neccesary. I like it as contrast to
+the previous ceremony, but it seems a little overboard.
+
+## The dragon asks about an heir
+I think here, I want the dragon to ask about how the kingship is passed down,
+not about an heir directly.
+
+## The man replies about the heir
+Then, here, the man can inform the dragon about their strict monarchy. I like
+the stammering here, although it could be done a little more skillfully.
+
+## The dragon announces his intention to rule in the kings place
+I would like for the dragon to announce his intentions with, "This will be the
+plan." or something like that, to indicate that he is taking control of the
+situation himself."
+
+## The people are uneasy at this proposition
+I like this. Amongst should probably be among
+
+## The leader expresses his uneasiness at this idea
+I shouldn't use sardonically here, the leader should still be showing reverence
+here. I like the notion of the leader opposing the dragon as much as he dares
+though. There is probably a better way to do that.
+
+## The leader looks at the dragon and considers his mortality
+I like how this paragraph follows the previous one. I'm not sure how I feel
+about the mortality and the image of the knife. I would rather have the leader
+think about touching the scales or something like that. The knife makes the
+leader to sinister. Also, the phrasing of the eyes of the dragon is a bit
+clunky. I don't know how much of this needs to be cut. The pacing is a bit
+everywhere with it. The whole thing might just need to be reworked
+
+## The dragon expresses his curiosity of the people, lecturing them a bit about their actions
+I'm not sure how I feel about the use of the divine. I like the sentence before
+that though, and desperate I think is the right word. I also like the notion of
+the dragon getting excited at the notion of ruling people. I think some
+sentences should be cut though.
+
+
+
+# The dragon takes the people into the sky
+## The dragon creates playful patterns in the sky
+I repeat a lot of phrases here, this could be said in more concise a manner
+## The dragon invites the people on his back
+I want to emphasize that this ride will be a one time thing. The cliche is
+strong here too, I it needs to be editted.
+## The people step on to his back, but are still apprehensive
+I like the joviality of the dragon, the very last phrase is awkward and clunky
+though
+## Their apprension gone, the dragon takes flight into the sky, and the people observe the surroundings
+There are some technical quirks to this paragraph, and it's a bit overdone, but
+for the most part I like it.
+## The dragon circles down to the town, and instructs the people to trust him
