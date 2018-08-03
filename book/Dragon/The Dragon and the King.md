@@ -376,6 +376,7 @@ nature of their request, the dragon inturrupted him.
 ## The dragon asks about an heir
 "And what of his heir? Why has he not taken up the kingship?"
 
+## The man replies about the heir
 And to this the man replied, "Well, you see, that's the thing, is the king
 never married, and does not intend to, so there is no rightful heir, and
 finding one among us to rule, well, we have not been in this situation before,
