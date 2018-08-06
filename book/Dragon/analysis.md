@@ -232,6 +232,9 @@ knife. I want this to be a little more greusome as well. A little more graphic.
 I overdo it a bit with the symbolism of the blood and sun as well, that needs
 to be polished.
 
+This bit is a little much. Both this paragraph and the on before it need to be
+quite a lot shorter
+
 ## The people stop their singing, and the calf is set ablaze
 I love the sudden stop. That should be it's own sentence for sure. I also like
 the description of the eternal moment. The speaking of a chant is very cliche,
@@ -244,6 +247,8 @@ yell to become overwhelmed by the winds and the flames. Something like that,
 until the winds and flames come to full height, and then the people kneel at
 the alter.
 
+This is also a bit much, this paragraph and the one before it need to be
+shorter
 ## The dragon flies out of the winds and flames
 I like none of them seeing where the dragon came from, and I want to use the
 description of the dragon appearing to reflect that a little better. Even
@@ -258,8 +263,12 @@ the dragon
 # The people discuss their situation with the dragon
 ## The dragon makes the first inquiry
 I like this section, and the next one.
+
+I don't like "that would dare" I prefer "who summons"
 ## After the people do not answer, the dragon asks again with more authority
 I like this section and the previous one
+
+I like "Speak!" over "Well?"
 ## The leader of the people there answers the dragon
 The leader is the leader, not "the one who leaded them". Also, I feel the
 stammering is a little overdone. Or not done enough. I like the stammering, and
@@ -267,13 +276,23 @@ the fact that he has a period of not stammering is what is strange. The
 stammering should have more effect, rather than me just putting elipses between
 a sentence.
 
+The stammering is very out of place, this isn't a fucking novel, it's a folk
+tale. Fuck the stammering.
+
 ## The dragon wishes to get through this stammering
 I don't like how the dragon puts himself above the humans, he should just say
 something like "Speak plainly, as you would to a peer."
 
+I think the dragon should instead instruct the leader to ignore honerifics. I
+like that better.
+
 ## The leader explains the situation as best he can
 I don't know how much of this stammering is neccesary. I like it as contrast to
 the previous ceremony, but it seems a little overboard.
+
+It is very overboard, there is not new information here either. There shouldn't
+be. At this point, we know the situation. The leader should speak more
+concisely.
 
 ## The dragon asks about an heir
 I think here, I want the dragon to ask about how the kingship is passed down,
@@ -288,6 +307,9 @@ I would like for the dragon to announce his intentions with, "This will be the
 plan." or something like that, to indicate that he is taking control of the
 situation himself."
 
+I want the dragon to say "get on my back and let's go to the town" or something
+like that. I want him to be very more active.
+
 ## The people are uneasy at this proposition
 I like this. Amongst should probably be among
 
@@ -295,6 +317,7 @@ I like this. Amongst should probably be among
 I shouldn't use sardonically here, the leader should still be showing reverence
 here. I like the notion of the leader opposing the dragon as much as he dares
 though. There is probably a better way to do that.
+
 
 ## The leader looks at the dragon and considers his mortality
 I like how this paragraph follows the previous one. I'm not sure how I feel
@@ -304,24 +327,119 @@ leader to sinister. Also, the phrasing of the eyes of the dragon is a bit
 clunky. I don't know how much of this needs to be cut. The pacing is a bit
 everywhere with it. The whole thing might just need to be reworked
 
+I think better would be to show the peoples remorse at summoning the dragon.
+I might also like a word about accepting their new fate here. The imagary of
+killing the dragon should stay, but in the context of acceptance rather then
+curiousity.
+
 ## The dragon expresses his curiosity of the people, lecturing them a bit about their actions
 I'm not sure how I feel about the use of the divine. I like the sentence before
 that though, and desperate I think is the right word. I also like the notion of
 the dragon getting excited at the notion of ruling people. I think some
 sentences should be cut though.
 
+This can be a lot more pointed. I like the dragon announcing the people are
+desperate, and I like the pill. Those two things should be pointed. The dragon
+should then reexpress his intention, and command more forcefully the people
+onto his back.
+
 
 
 # The dragon takes the people into the sky
 ## The dragon creates playful patterns in the sky
 I repeat a lot of phrases here, this could be said in more concise a manner
+
+This entire paragraph is not needed, it should instead be a paragraph about the
+dragon presenting itself to the people to step on.
+
+Also, the playfulness of the dragon does not fit entirely. I like some
+playfulness, but I without using the word play at all.
 ## The dragon invites the people on his back
 I want to emphasize that this ride will be a one time thing. The cliche is
 strong here too, I it needs to be editted.
+
+I want to have a sort of imagery, something like, "let me show you the clouds,
+let me show you the heights that I can take you towards."
 ## The people step on to his back, but are still apprehensive
 I like the joviality of the dragon, the very last phrase is awkward and clunky
 though
+
+I like the dragon letting out a laugh, but it's a bit out of place. I think I
+would prefer a sort of "setting off" of the dragon.
+
 ## Their apprension gone, the dragon takes flight into the sky, and the people observe the surroundings
 There are some technical quirks to this paragraph, and it's a bit overdone, but
 for the most part I like it.
+
+I really don't like the timidness, I think I want to change the whole tone to
+be one of fear.
+
+I also want the view not to be breathtaking and gorgeous, I want a line that is
+something like, "if they were not so scared, it would have been the most
+beautiful scene of their lives.
 ## The dragon circles down to the town, and instructs the people to trust him
+I don't like the start of "all too soon." I think it should just be cut. The
+dragon's speech is a little formal here. I think it might make sense if the
+dragon flys up and into the sky here.
+# The people annouce the dragons plan to the king, who happily takes his leave
+## The people are giddy from their flight
+
+## The people announce the plan to the king
+
+## The king is excited at the news, and takes his leave
+
+
+
+
+
+
+## The people were happy at the kings reaction, and begin making preperation for the dragon
+
+## The dragon stops them, saying that he will lead in his own way
+
+## The towns people, a little peeved at this, still submit to the dragon, and they feast and are glad
+
+# What happened in the following years, the people begin to realize this is a tyranicy
+## After many years, the people begin to realize the tyranicy of the dragon
+
+## The tribute required by the dragon
+
+## The people are wise enough to recognize that, even though they may not like it, that this is a good thing, and they look forward to their king returning
+
+## Conclusion to this phase of prosperity
+
+# The people rebel
+## The king does not return
+
+## The people begin to panic about what happened to their king
+
+## The leader of the people makes a speech for freedom
+
+
+
+## The dragon hears the rallying of the people
+
+## The dragon addresses the people very sarcastically
+
+## The leader ignores the sarcasm and makes his case to the dragon
+
+## The dragon, amused in his divine way, express his disdain for the people
+
+## The leader says that they don't want to be great, they want their town back
+
+## The dragon continues to try and convince them of his ways
+
+## The people yell profanities at the dragon, and begin to attack him physically
+
+## The dragons initial reaction to this rebellion
+
+## The dragon's reflections from the sky
+
+## The dragon slays the people
+
+
+# The dragon contemplates the fate of the king
+## The dragon contemplates the fate of the king, determining that it doesn't matter
+
+## The dragon returns to his slumber
+
