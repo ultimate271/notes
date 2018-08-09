@@ -130,10 +130,66 @@ laugh about it.
 Since they graduated they hadn't talked much, but now he was getting this
 email, an email from the Buddhist Society, that had Brett in the subject line.
 
-"Seems he's gotten into Buddhism for now." Damien closed his phone and left the
-email unopened. It was probably some story about how Buddhism is the true way,
-and he was going to give me irrefutable proof that this was the case. Damien
-didn't really care. 
+"Seems he's gotten into Buddhism for now." Damien just glanced to his phone and
+decided to leave the email unopened for now. It was probably some story about
+how Buddhism is the true way, and he was going to give me irrefutable proof
+that this was the case. Damien didn't really care.
 
-Although the email said "Concerning Brett," as if something had happened to
-him.
+Damien continued to lean against his desk as he stared outside. "Buddhism," he
+thought. Damien knew very little about buddhism. He knew very little about any
+religion for that matter. "Why whould I study something that has no basis in
+fact?" would be his answer for anyone who would try and convince him to study
+these things.
+
+He continued to look outside. Damien thought about vector mechanics and forces
+as he watched the wind blow through the trees. He watched the trees sway back
+and forth and thought about pendulum mechanics. He saw a leaf fly across the
+wind and that brought him to contemplate the topic of fluid dynamics.
+
+"All of these things are so beautiful, only so much more so because we
+understand the forces that govern them. Mysticism is no way to treat the doings
+of the world."
+
+Damien had become so entranced in the view that he hadn't noticed a girl appear
+in his doorway.
+
+"Am I inturrupting your work? You look very busy!"
+
+Damien looked over and saw Kimberly in his doorway. "Yes, as a matter of fact,
+I was about to discover a breakthrough in the fundamental questions of our
+universe, but your prescence has gone and ruined it."
+
+Damien smiled to her, indicating that he was clearly joking. She walked over to
+him to give him a peck on the lips. As she advanced, he grabbed her by the
+buttocks and hoisted her up into his lap as he was standing there, and gave
+her a legitamate kiss. After returning the gesture for a bit, she broke off,
+"okay, stop, what if one of your students walks in?"
+
+"I think they're all gone, I scared most of them off."
+
+She broke off anyway. "I don't have long, I was just on my way back to my place
+from class, and I was planning on making dinner for two tonight, how would you
+like that?"
+
+"Oh, just dinner?" Damien teased her.
+
+"Well, I'm finished with finals, and knowing you, whether you're done or not
+you have no stress about the entire thing, so I was thinking a dinner would be
+a nice place to start or night." She gave him that look that only a woman knows
+how to give.
+
+"I like where this is headed. Dinner sounds great."
+
+"All right, it's a date!" Kimberly went and pecked him on the lips, this time
+making sure that the gesture was quick enough that he couldn't make anything
+more of it. "I'll see you at mine! Don't be late!"
+
+"I wouldn't dream of it." Damien watched her walk off with playful little
+skips.
+
+Damien leaned against his desk again and went back to looking out the window.
+Damien let out a little chuckle to himself, a chuckle at his own thoughts. He
+went back to his chair and resumed grading papers.
+
+The email was entirely out of his mind by this point, and on his mind was only
+this night with Kimberly.
