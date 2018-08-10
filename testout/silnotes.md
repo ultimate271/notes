@@ -1,7 +1,6 @@
 # Morgoth
 [Reference]: # {Character}
-The evil dark lord of the Silmarillion 
-
+The evil dark lord of the Silmarillion
 ## Tags
 Morgoth
 Melkor
@@ -10,8 +9,7 @@ Melkor
 {01.05.02}
 # Tulkas
 [Reference]: # {Character}
-The valar of the something 
-
+The valar of the something
 ## Tags
 Tulkas
 Tulkas the Strong
