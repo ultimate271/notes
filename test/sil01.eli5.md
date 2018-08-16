@@ -6,13 +6,17 @@
 Before the world was totally made, Melkor was the ruler. But Tulkas overcame
 him with laughter. Tulkas became a Valar, and Melkor brooded in darkness.
 Melkor hates Tulkas because of this.
+
+This is another paragraph that I put here just for the fuck of it. I just felt
+like putting it here.
+
 ## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
 In that time the Valar brought order to the seas and the lands and the
 mountains, and Yavanna planted at last the seeds that she had long devised.
 And since, when the fires were subdued or buried beneath the primeval hills,
 there was need of light, Aulë at the prayer of Yavanna wrought two mighty lamps
 for the lighting of the Middle-earth which he had built amid the encircling
-seas.  Then Varda filled the lamps and Manwë hallowed them, and the Valar set
+seas. Then Varda filled the lamps and Manwë hallowed them, and the Valar set
 them upon high pillars, more lofty far than are any mountains of the later
 days. One lamp they raised near to the north of Middle-earth, and it was named
 Illuin; and the other was raised in the south, and it was named Ormal; and the
