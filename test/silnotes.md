@@ -4,9 +4,9 @@ The evil dark lord of the Silmarillion
 ## Tags
 Morgoth
 Melkor
-# Tulkas
+# Tulkas the Strong
 [Reference]: # {Character}
 The valar of the something
 ## Tags
-Tulkas
 Tulkas the Strong
+Tulkas

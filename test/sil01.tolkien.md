@@ -3,6 +3,12 @@
 [Author]: # {Tolkien}
 # The first war in the Spring of Arda on the Isle of Almaren
 ## Tulkas the Strong overcomes Melkor with laughter in the First War
+[Speaker]: # {Tulkas the Strong}
+[Place]: # {Little Kingdom}
+[Speaker]: # {Valar}
+[Speaker]: # {Melkor}
+[Place]: # {Arda}
+[Event]: # {First War}
 It is told among the wise that the First War began before Arda was full-shaped,
 and ere yet there was any thing that grew or walked upon earth; and for long
 Melkor had the upper hand. But in the midst of the war a spirit of great
@@ -15,6 +21,15 @@ Tulkas remained and became one of the Valar of the Kingdom of Arda; but Melkor
 brooded in the outer darkness, and his hate was given to Tulkas for ever after.
 
 ## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
+[Item]: # {Lamps of the Valar}
+[Item]: # {Ormal}
+[Item]: # {Illuin}
+[Speaker]: # {Manwë}
+[Speaker]: # {Varda}
+[Place]: # {Middle-earth}
+[Speaker]: # {Aulë}
+[Speaker]: # {Yavanna}
+[Speaker]: # {Valar}
 In that time the Valar brought order to the seas and the lands and the
 mountains, and Yavanna planted at last the seeds that she had long devised.
 And since, when the fires were subdued or buried beneath the primeval hills,
@@ -28,6 +43,12 @@ light of the Lamps of the Valar flowed out over the Earth, so that all was lit
 as it were in a changeless day.
 
 ## Yavanna enriches the Isle of Almaren as the first dwelling of the Valar
+[Speaker]: # {Valar}
+[Place]: # {Great Lake}
+[Place]: # {Isle of Almaren}
+[Item]: # {Lamps}
+[Place]: # {Earth}
+[Speaker]: # {Yavanna}
 Then the seeds that Yavanna had sown began swiftly to sprout and to burgeon,
 and there arose a multitude of growing things great and small, mosses and
 grasses and great ferns, and trees whose tops were crowned with cloud as they
@@ -42,6 +63,12 @@ dwelling of the Valar when all things were young, and new-made green was yet a
 marvel in the eyes of the makers; and they were long content.
 
 ## Manwë ordains a feast while Melkor looks on in hate and lust
+[Place]: # {Arda}
+[Place]: # {Eä}
+[Speaker]: # {Melkor}
+[Speaker]: # {Tulkas}
+[Speaker]: # {Aulë}
+[Speaker]: # {Manwë}
 Now it came to pass that while the Valar rested from their labours, and watched
 the growth and unfolding of the things that they had devised and begun, Manwë
 ordained a great feast; and the Valar and an their host came at his bidding.
@@ -57,6 +84,14 @@ Arda, and looked down upon it, and the beauty of the Earth in its Spring filled
 him the more with hate.
 
 ## Melkor invades under the shadow of Illuin in the North, Tulkas weds Nessa
+[Speaker]: # {Oromë}
+[Speaker]: # {Nessa}
+[Speaker]: # {Tulkas}
+[Event]: # {Spring of Arda}
+[Speaker]: # {Melkor}
+[Object]: # {Illuin}
+[Place]: # {Almaren}
+[Speaker]: # {Valar}
 Now therefore the Valar were gathered upon Almaren, fearing no evil, and
 because of the light of Illuin they did not perceive the shadow in the north
 that was cast from afar by Melkor; for he was grown dark as the Night of the
@@ -65,11 +100,24 @@ Nessa the sister of Oromë, and she danced before the Valar upon the green grass
 of Almaren.
 
 ## Melkor invades from the north while a weary Tulkas takes his rest
+[Speaker]: # {Valar}
+[Place]: # {Middle-earth}
+[Place]: # {Walls of the Night}
+[Speaker]: # {Melkor}
+[Speaker]: # {Tulkas}
 Then Tulkas slept, being weary and content, and Melkor deemed that his hour had
 come. And he passed therefore over the Walls of the Night with his host, and
 came to Middle-earth far in the north; and the Valar were not aware of him.
 
 ## Melkor builds Utumno, from which vile things spawn. Illuin and Ormal destroyed
+[Item]: # {Ormal}
+[Event]: # {Spring of Arda}
+[Speaker]: # {Melkor}
+[Speaker]: # {Valar}
+[Place]: # {Utumno}
+[Item]: # {Illuin}
+[Place]: # {Earth}
+[Speaker]: # {Melkor}
 Now Melkor began the delving and building of a vast fortress, deep under Earth,
 beneath dark mountains where the beams of Illuin were cold and dim.  That
 stronghold was named Utumno. And though the Valar knew naught of it as yet,
@@ -89,6 +137,13 @@ shape of Arda and the symmetry of its waters and its lands was marred in that
 time, so that the first designs of the Valar were never after restored.
 
 ## Melkor flees middle earth while the Valor focus their efforts on restoration
+[Character]: # {Children of Ilúvatar}
+[Place]: # {Earth}
+[Speaker]: # {Valar}
+[Place]: # {Utumno}
+[Speaker]: # {Tulkas}
+[Speaker]: # {Manwë}
+[Speaker]: # {Melkor}
 In the confusion and the darkness Melkor escaped, though fear fell upon him;
 for above the roaring of the seas he heard the voice of Manwë as a mighty wind,
 and the earth trembled beneath the feet of Tulkas. But he came to Utumno ere
@@ -100,7 +155,6 @@ until they knew where the Children of Ilúvatar were dwelling, who were yet to
 come in a time that was hidden from the Valar.
 
 # The first settlement of the Land of Aman
-[Actor]: # {Aloysha}
 ## The valor leave Almaren, moving to the Land of Aman, where they make dwelling
 Thus ended the Spring of Arda. The dwelling of the Valar upon Almaren
 was utterly destroyed, and they had no abiding place upon the face of

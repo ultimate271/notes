@@ -6,13 +6,30 @@
 [TreeTag]: # {01.01}
 ## Tulkas the Strong overcomes Melkor with laughter in the First War
 [TreeTag]: # {01.01.01}
+[Place]: # {Little Kingdom}
+[Place]: # {Arda}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Valar}
+[Speaker]: # {Morgoth}
+[Event]: # {First War}
 Before the world was totally made, Melkor was the ruler. But Tulkas overcame
 him with laughter. Tulkas became a Valar, and Melkor brooded in darkness.
 Melkor hates Tulkas because of this. 
 
 This is another paragraph that I put here just for the fuck of it. I just felt
-like putting it here. 
+like putting it here.
 
+## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
+[TreeTag]: # {01.01.02}
+[Place]: # {Middle-earth}
+[Speaker]: # {Manwë}
+[Speaker]: # {Varda}
+[Speaker]: # {Aulë}
+[Speaker]: # {Yavanna}
+[Speaker]: # {Valar}
+[Item]: # {Lamps of the Valar}
+[Item]: # {Ormal}
+[Item]: # {Illuin}
 In that time the Valar brought order to the seas and the lands and the
 mountains, and Yavanna planted at last the seeds that she had long devised. And
 since, when the fires were subdued or buried beneath the primeval hills, there
@@ -26,7 +43,13 @@ the Lamps of the Valar flowed out over the Earth, so that all was lit as it
 were in a changeless day.
 
 ## Yavanna enriches the Isle of Almaren as the first dwelling of the Valar
-[TreeTag]: # {01.01.02}
+[TreeTag]: # {01.01.03}
+[Place]: # {Great Lake}
+[Place]: # {Isle of Almaren}
+[Place]: # {Earth}
+[Speaker]: # {Valar}
+[Speaker]: # {Yavanna}
+[Item]: # {Lamps}
 Then the seeds that Yavanna had sown began swiftly to sprout and to burgeon,
 and there arose a multitude of growing things great and small, mosses and
 grasses and great ferns, and trees whose tops were crowned with cloud as they
@@ -41,7 +64,13 @@ dwelling of the Valar when all things were young, and new-made green was yet a
 marvel in the eyes of the makers; and they were long content.
 
 ## Manwë ordains a feast while Melkor looks on in hate and lust
-[TreeTag]: # {01.01.03}
+[TreeTag]: # {01.01.04}
+[Place]: # {Arda}
+[Place]: # {Eä}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Aulë}
+[Speaker]: # {Manwë}
 Now it came to pass that while the Valar rested from their labours, and watched
 the growth and unfolding of the things that they had devised and begun, Manwë
 ordained a great feast; and the Valar and an their host came at his bidding.
@@ -57,7 +86,15 @@ Arda, and looked down upon it, and the beauty of the Earth in its Spring filled
 him the more with hate.
 
 ## Melkor invades under the shadow of Illuin in the North, Tulkas weds Nessa
-[TreeTag]: # {01.01.04}
+[TreeTag]: # {01.01.05}
+[Object]: # {Illuin}
+[Place]: # {Almaren}
+[Speaker]: # {Oromë}
+[Speaker]: # {Nessa}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Valar}
+[Event]: # {Spring of Arda}
 Now therefore the Valar were gathered upon Almaren, fearing no evil, and
 because of the light of Illuin they did not perceive the shadow in the north
 that was cast from afar by Melkor; for he was grown dark as the Night of the
@@ -66,13 +103,25 @@ Nessa the sister of Oromë, and she danced before the Valar upon the green grass
 of Almaren.
 
 ## Melkor invades from the north while a weary Tulkas takes his rest
-[TreeTag]: # {01.01.05}
+[TreeTag]: # {01.01.06}
+[Place]: # {Middle-earth}
+[Place]: # {Walls of the Night}
+[Speaker]: # {Valar}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Tulkas the Strong}
 Then Tulkas slept, being weary and content, and Melkor deemed that his hour had
 come. And he passed therefore over the Walls of the Night with his host, and
 came to Middle-earth far in the north; and the Valar were not aware of him.
 
 ## Melkor builds Utumno, from which vile things spawn. Illuin and Ormal destroyed
-[TreeTag]: # {01.01.06}
+[TreeTag]: # {01.01.07}
+[Place]: # {Utumno}
+[Place]: # {Earth}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Valar}
+[Event]: # {Spring of Arda}
+[Item]: # {Ormal}
+[Item]: # {Illuin}
 Now Melkor began the delving and building of a vast fortress, deep under Earth,
 beneath dark mountains where the beams of Illuin were cold and dim.  That
 stronghold was named Utumno. And though the Valar knew naught of it as yet,
@@ -92,7 +141,14 @@ shape of Arda and the symmetry of its waters and its lands was marred in that
 time, so that the first designs of the Valar were never after restored.
 
 ## Melkor flees middle earth while the Valor focus their efforts on restoration
-[TreeTag]: # {01.01.07}
+[TreeTag]: # {01.01.08}
+[Character]: # {Children of Ilúvatar}
+[Place]: # {Earth}
+[Place]: # {Utumno}
+[Speaker]: # {Valar}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Manwë}
+[Speaker]: # {Morgoth}
 In the confusion and the darkness Melkor escaped, though fear fell upon him;
 for above the roaring of the seas he heard the voice of Manwë as a mighty wind,
 and the earth trembled beneath the feet of Tulkas. But he came to Utumno ere
@@ -355,21 +411,3 @@ of old the Valar declared to the Elves in Valinor that Men shall join in the
 Second Music of the Ainur; whereas Ilúvatar has not revealed what he purposes
 for the Elves after the World's end, and Melkor has not discovered it.
 
-# The first war in the Spring of Arda on the Isle of Almaren
-[TreeTag]: # {01.01}
-## Tulkas the Strong overcomes Melkor with laughter in the First War
-[TreeTag]: # {01.01.01}
-## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
-[TreeTag]: # {01.01.02}
-## Yavanna enriches the Isle of Almaren as the first dwelling of the Valar
-[TreeTag]: # {01.01.03}
-## Manwë ordains a feast while Melkor looks on in hate and lust
-[TreeTag]: # {01.01.04}
-## Melkor invades under the shadow of Illuin in the North, Tulkas weds Nessa
-[TreeTag]: # {01.01.05}
-## Melkor invades from the north while a weary Tulkas takes his rest
-[TreeTag]: # {01.01.06}
-## Melkor builds Utumno, from which vile things spawn. Illuin and Ormal destroyed
-[TreeTag]: # {01.01.07}
-## Melkor flees middle earth while the Valor focus their efforts on restoration
-[TreeTag]: # {01.01.08}
