@@ -1,6 +1,15 @@
 # BOOK IV
 
 # Argument
+[Character]: # {Diomed}
+[Character]: # {Sthenelus}
+[Character]: # {Ulysses}
+[Character]: # {Machaon}
+[Character]: # {Agamemnon}
+[Character]: # {Menelaus}
+[Character]: # {Fandarus}
+[Character]: # {Minerva}
+[Place]: # {Olympus}
   A quarrel in Olympus--Minerva goes down and persuades Fandarus
   to violate the oaths by wounding Menelaus with an arrow--Agamemnon
   makes a speech and sends for Machaon--He then
@@ -9,13 +18,14 @@
   Sthenelus, and the two hosts then engage, with great slaughter
   on either side.
 
-# 
+# Jove Juno and Minerva discuss breaking the oath at olympus
+[Location]: # {Olympus}
 [Actor]: # {Hebe}
 [Actor]: # {Juno}
 [Actor]: # {Menelaus}
 [Actor]: # {Jove}
-## Jove taunt Juno and Minerva
-[Place]: # {Priam}
+## Jove taunts Juno and Minerva
+[Character]: # {Priam}
 [Character]: # {Helen}
 [Character]: # {Alexandrus}
 [Character]: # {Venus}
@@ -69,7 +79,7 @@ of heaven, there was none that I so much respected as Ilius with Priam
 and his whole people. Equitable feasts were never wanting about my
 altar, nor the savour of burning fat, which is honour due to ourselves."
 
-##  Juno appeals to Jove to allow Minerva to take part in the fight
+## Juno appeals to Jove to allow Minerva to take part in the fight
 [Character]: # {Minerva}
 [Character]: # {Saturn}
 [Place]: # {Mycenae}
@@ -98,6 +108,8 @@ The sire of gods and men heeded her words, and said to Minerva, "Go at
 once into the Trojan and Achaean hosts, and contrive that the Trojans
 shall be the first to break their oaths and set upon the Achaeans."
 
+# 
+## 
 This was what Minerva was already eager to do, so down she darted from
 the topmost summits of Olympus. She shot through the sky as some
 brilliant meteor which the son of scheming Saturn has sent as a sign to
