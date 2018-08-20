@@ -1,5 +1,8 @@
 ## 14
 
+### 
+
+#### 
 * * *
 
 
@@ -18,6 +21,9 @@ overtaxed mind?
 
 
 
+### 
+
+#### 
 14
 
 
@@ -39,6 +45,7 @@ ash-blackened bones of a long-weathered carcass. Looking at them, Vin thought
 she felt something . . . a depression, as if simply being close to the building
 was enough to suck away her hope.
 
+#### 
 “Our target is a tunnel complex at the base of one of the far right spires,”
 Kelsier said, his voice barely carrying over the quiet hush of the falling
 rain. “We’re heading for a room at the very center of that complex.”
@@ -74,6 +81,7 @@ flawlessly.” Kelsier paused, then he turned to Vin. “Tonight, I didn’t pla
 all. We’re just going in—we’ll quiet anyone who tries to stop us, then break
 into that room.”
 
+#### 
 Vin sat quietly, feeling the chill rainwater on her wet hands and damp arms.
 Then she nodded.
 
@@ -85,6 +93,7 @@ now.”
 Kelsier chuckled. “Guess I’ve been hanging out with Breeze too long. I just
 don’t feel right unless someone tells me I’m crazy.”
 
+#### 
 Vin shrugged. However, as she moved on the rooftop, she felt it again—the sense
 of depression coming from Kredik Shaw.
 
@@ -101,6 +110,7 @@ Vin nodded, burning copper. Immediately, the sensation went away.
 
 She nodded again.
 
+#### 
 “All right, then,” he said, giving her a handful of coins. “Stay close to me,
 and keep your atium handy—just in case.”
 
@@ -132,6 +142,7 @@ man’s chest. Thrown to the side by the inhumanly strong kick, the guard crashe
 into the wall, then slumped to the ground. Kelsier was on his feet a second
 later, slamming his weight against the door and pushing it open.
 
+#### 
 Weak lanternlight spilled out of a stone corridor within. Kelsier ducked
 through the door. Vin dimmed her tin, then followed in a crouching dash, her
 heart pounding. Never, in all her time as a thief, had she done something like
@@ -194,6 +205,7 @@ and Vin felt herself following.
 I made him bring me, she thought. I wanted to fight, like him. I’m going to
 have to get used to this.
 
+#### 
 They dashed into a second corridor, and Kelsier jumped into the air. He
 lurched, then shot forward. Vin did the same, leaping and seeking an anchor far
 down the corridor, then using it to Pull herself through the air.
@@ -212,6 +224,7 @@ and it shone with a light far brighter than that of the small corridor
 lanterns. Vin extinguished her tin, following Kelsier through the archway and
 into the room.
 
+#### 
 Six braziers burned with open flames at the corners of the large, dome-roofed
 chamber. In contrast to the simple corridors, this room was covered with
 silver-inlayed murals. Each obviously represented the Lord Ruler; they were
@@ -231,6 +244,7 @@ Kelsier walked up to a large oaken door set into the inner building, its
 surface carved with letterings Vin didn’t recognize. He reached out and pulled
 open the door.
 
+#### 
 A Steel Inquisitor stood inside. The creature smiled, lips curling in an eerie
 expression beneath the two massive spikes that had been pounded point-first
 through its eyes.
@@ -276,6 +290,9 @@ toward her, and Vin felt chilled by its horrifying, unnatural gaze.
 “RUN!” The word echoed in the domed chamber. And this time, finally, it struck
 home.
 
+### 
+
+#### 
 Vin scrambled to her feet—fear shocking her, screaming at her, making her move.
 She dashed toward the nearest archway, uncertain if it was the one she had come
 in through. She clutched Kelsier’s coin pouch and burned iron, frantically
@@ -339,6 +356,7 @@ up, glancing at the Inquisitor, and a piece of metal shot at her face. She
 Pushed against it, but the Inquisitor was too strong. She had to duck and let
 the metal go, lest his power pin her back against the wall.
 
+#### 
 I’ll need something to block with. Something that isn’t made of metal.
 
 As she heard the Inquisitor step into the room, she found what she needed—a
@@ -357,6 +375,7 @@ one, their sharp, jagged edges digging deeply into the book’s leather cover.
 The Inquisitor paused, and she was rewarded by what seemed to be a look of
 confusion on its twisted face. Then a hundred shadow images shot from his body.
 
+#### 
 Lord Ruler! Vin thought. He had atium too.
 
 Not pausing to worry about what that meant, Vin hopped over the altar, carrying
@@ -373,6 +392,7 @@ beside her, each one missing by just inches. She was invincible.
 She spun through the ranks of the men, not bothering to kill or hurt them—she
 only wanted to escape. As she passed the last one, she turned around a corner.
 
+#### 
 And a second Inquisitor, his body springing with shadow images, stepped up and
 slammed something sharp into her lower side.
 
@@ -400,6 +420,7 @@ blood.
 
 I’m going to die, she thought with terror.
 
+#### 
 And then she heard it. Rain. It was faint, but her tin-ears picked it out
 behind her. She spun, lurching through a door, and was rewarded by the sight of
 a large archway on the other side of the room. Mist pooled at the room’s floor,
@@ -421,6 +442,7 @@ mist to reflect ambient light, and the stars were hidden by clouds above. Vin
 couldn’t see where she was going; she had to use Allomancy to sense the
 metallic tips of the spires, and hope there was nothing in between.
 
+#### 
 She hit a spire, catching hold of it in the night and pulling to a stop. Have
 to bandage the wound . . . she thought weakly. She was beginning to grow numb,
 her head cloudy despite her pewter and tin.
@@ -439,6 +461,7 @@ She strained in the night, burning tin, the rainfall becoming a thunder in her
 ears. Over it, she thought she heard the distinct sound of something hitting a
 spire in the direction she had Pushed the book.
 
+#### 
 The Inquisitor had fallen for her ruse. Vin sighed, hanging from the spire,
 rain splattering her body. She made sure her copper was still burning, Pulled
 lightly against the spire to hold herself in place, and ripped off a piece of
@@ -451,6 +474,7 @@ ago. She should be dead.
 Something sounded in the darkness. Vin felt a chill, looking up. All was black
 around her.
 
+#### 
 It can’t be. He can’t—
 
 Something slammed into her spire. Vin cried out, jumping away. She Pulled
@@ -487,6 +511,7 @@ revealed a head set with two spikes, a body cloaked in a dark robe.
 She was too weak to move, too weak to do more than shiver in the puddle of
 water, clothing plastered to her skin. The Inquisitor turned toward her.
 
+#### 
 “Such a small, troubling thing you are,” he said. He stepped forward, but Vin
 could barely hear his words.
 
