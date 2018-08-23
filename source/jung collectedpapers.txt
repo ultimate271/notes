@@ -81,7 +81,8 @@ PRINTED IN GREAT BRITAIN.
 
 
 
-EDITOR'S PREFACE TO SECOND EDITION
+# EDITOR'S PREFACE TO SECOND EDITION
+## Preface
 
 
 The following papers have been gathered together from various sources,
@@ -169,7 +170,8 @@ psychoanalysis.
 
 
 
-AUTHOR'S PREFACE TO SECOND EDITION
+# AUTHOR'S PREFACE TO SECOND EDITION
+## Preface
 
 
 In agreement with my honoured collaborator, Dr. C. E. Long, I have
@@ -309,8 +311,8 @@ the production of this book.
 
 
 
-AUTHOR'S PREFACE TO FIRST EDITION
-
+# AUTHOR'S PREFACE TO FIRST EDITION
+## Preface
 
 This volume contains a selection of articles and pamphlets on analytical
 psychology written at intervals during the past fourteen years. These
@@ -450,765 +452,9 @@ general views developed above.
     ZÜRICH,
     _January, 1916_.
 
+# CHAPTER I
 
-
-
-CONTENTS
-
-
-                                                                  PAGE
-
-    EDITOR'S PREFACE TO SECOND EDITION                               v
-
-    AUTHOR'S PREFACE TO SECOND EDITION                              ix
-
-    AUTHOR'S PREFACE TO FIRST EDITION                             xiii
-
-
-    CHAPTER I
-
-    ON THE PSYCHOLOGY AND PATHOLOGY OF SO-CALLED OCCULT
-    PHENOMENA                                                        1
-
-     Difficulty of demarcation in borderline cases between
-     epilepsy, hysteria, and mental deficiency--Somnambulism an
-     hysterical manifestation--A case of spontaneous somnambulism,
-     with some characters of protracted hysterical delirium--Other
-     cases quoted--Charcot's classification of somnambulism--Naef's
-     and Azam's cases of periodic amnesia--Proust's and Boileau's
-     wandering-impulse cases--William James' case of Rev. Ansel
-     Bourne--Other examples showing changes in consciousness--Hypnagogic
-     hallucinations--Neurasthenic mental deficiency, Bleuler's
-     case--Summing up of Miss Elsie K.'s case--Need of further
-     scientific investigation in the field of psychological
-     peculiarities.
-
-    CASE OF SOMNAMBULISM IN A PERSON WITH NEUROPATHIC INHERITANCE
-    (SPIRITUALISTIC MEDIUM)                                         16
-
-     History of case--Accidental discovery of her mediumistic
-     powers--Her somnambulic attacks, "_attitudes passionelles_,"
-     catalepsy, tachypnoea, trance speeches, etc.--Ecstasies--Her
-     conviction of the reality of her visions--Her dreams,
-     hypnagogic and hypnopompic visions--The elevation of her
-     somnambulic character--Mental thought transference--S. W.'s
-     double life--Psychographic communications--Description of
-     séances--The Prophetess of Prevorst--Automatic writing--The two
-     grandfathers--Appearance of other somnambulic personalities.
-
-    DEVELOPMENT OF THE SOMNAMBULIC PERSONALITIES                    30
-
-     The psychograph and spiritualistic wonders--The
-     grandfather the medium's "guide" or "control"--Ulrich von
-     Gerbenstein--The somnambulic personalities have access
-     to the medium's memory--Ivenes--S. W.'s amnesia for her
-     ecstasies--Later séances--Her journeys on the other side--Oracular
-     sayings--Conventi--Ivenes' dignity and superiority to her
-     "guides"--Her previous incarnations--Her race-motherhood.
-
-    MYSTIC SCIENCE AND MYSTIC SYSTEM OF POWERS                      40
-
-     Her growing wilful deception--The waking
-     state--Her peculiarities--Instability--Hysterical
-     tendencies--Misreading--Errors of dispersion of attention discussed.
-
-    SEMI-SOMNAMBULISM                                               48
-
-    AUTOMATISMS                                                     49
-
-     Table movements--Unconscious motor
-     phenomena--Verbal suggestion and auto-suggestion--The
-     experimenter's participation--The medium's unconscious
-     response--Thought-reading--Table-tilting experiment,
-     illustrated--Experiments with beginners--Myers' experiments
-     in automatic writing--Janet's conversation with Lucie's
-     subconsciousness--Example of the way the subconscious personality
-     is constructed--Hallucinations appear with deepening hypnosis;
-     some contributing factors--Comparison between dream symbols
-     and appearance of somnambulic personalities--Extension of the
-     unconscious sphere--The somnambulist's thinking is in plastic
-     images, which are made objective in hallucinations--Why visual
-     and not auditory hallucinations occur--Origin of hypnagogic
-     hallucinations--Those of Jeanne d'Arc and others.
-
-    THE CHANGE IN CHARACTER                                         64
-
-     Noticeable in S. W.'s case, also in Mary
-     Reynolds'--Association with amnesic disturbances--Influence
-     of puberty in our case--S. W.'s systematic anæsthesia--Ivenes
-     not so much a case of double consciousness as one in which she
-     dreams herself into a higher ideal state--Similar pathological
-     dreaming found in the lives of saints--Mechanism of hysterical
-     identification--S. W.'s dreams break out explosively--Their origin
-     and meaning, and their subjective roots.
-
-    RELATION TO THE HYSTERICAL ATTACK                               75
-
-     In considering the origin of attack, two moments, viz.
-     irruption of hypnosis, and the psychic stimulation, must be
-     taken into account--In susceptible subjects relatively small
-     stimuli suffice to bring about somnambulism--Our case approaches
-     to hysterical lethargy--The automatisms transform lethargy
-     into hypnosis--Her ego-consciousness is identical in all
-     states--Secondary somnambulic personalities split off from the
-     primary unconscious personality--All group themselves under two
-     types, the gay-hilarious, and serio-religious--The automatic
-     speaking occurs--This facilitates the study of the subconscious
-     personalities--Their share of the consciousness--The irruption of
-     the hypnosis is complicated by an hysterical attack--The automatism
-     arising in the motor area plays the part of hypnotist--When the
-     hypnotism flows over into the visual sphere the hysterical attack
-     occurs--Grandfathers I. and II.--Hysterical dissociations belong to
-     the superficial layers of the ego-complex--There are layers beyond
-     the reach of dissociation--Effect of the hysterical attack.
-
-    RELATIONSHIP TO THE UNCONSCIOUS PERSONALITY                     82
-
-     The serio-religious and the gay-hilarious explained by the
-     anamnesis--Two halves of S. W.'s character--She is conscious of the
-     painful contrast--She seeks a middle way--Her aspirations bring her
-     to the puberty dream of the ideal Ivenes--The repressed ideas begin
-     an autonomous existence--This corroborates Freud's disclosures
-     concerning dreams--The relation of the somnambulic ego-complex and
-     the waking consciousness.
-
-    COURSE                                                          83
-
-     The progress of this affection reached its maximum in
-     4-8 weeks--Thenceforth a decline in the plasticity of the
-     phenomena--All degrees of somnambulism were observable--Her
-     manifest character improved--Similar improvements seen in certain
-     cases of double consciousness--Conception that this phenomenon
-     has a teleological meaning for the future personality--As seen in
-     Jeanne d'Arc and Mary Reynolds II.
-
-    THE UNCONSCIOUS ADDITIONAL CREATIVE WORK                        84
-
-     S. W. shows primary susceptibility of the unconscious--Binet
-     affirms the susceptibility of the hysteric is fifty times
-     greater than that of normal--Cryptomnesia, a second additional
-     creation--Cryptomnesic picture may enter consciousness
-     intra-physically--Unconscious plagiarism explained--Zarathustra
-     example--Glossolalia--Helen Smith's Martian language--The names
-     in Ivenes' mystic system show rudimentary glossolalia--The
-     Cryptomnesic picture may enter consciousness as a hallucination--Or
-     arrive at consciousness by motor automatism--By automatisms regions
-     formerly sealed are made accessible--Hypermnesia--Thought-reading
-     a prototype for extraordinary intuitive knowledge of somnambulists
-     and some normal persons--Association-concordance--Possibility
-     that concept and feeling are not always clearly separated in the
-     unconscious--S. W.'s mentality must be regarded as extraordinary.
-
-
-    CHAPTER II
-
-    THE ASSOCIATION METHOD                                          94
-
-     LECTURE I.--Formula for test--Disturbances of reaction
-     as complex-indicators--Discovery of a culprit by means of
-     test--Disturbances of reaction show emotional rather than
-     intellectual causes--Principal types--Value of the experiment in
-     dealing with neurotics.
-
-    LECTURE II.--FAMILIAR CONSTELLATIONS                           119
-
-     Dr. Fürst's researches--Effect of environment and education
-     on reactions--Effect of parental discord on children--Unconscious
-     tendency to repetition of parental mistakes--Case of pathological
-     association-concordance between mother and daughter--Neurosis, a
-     counter-argument against the personality with which the patient is
-     most nearly concerned--How to free the individual from unconscious
-     attachments to the milieu.
-
-    LECTURE III.--EXPERIENCES CONCERNING THE PSYCHIC LIFE OF
-    THE CHILD                                                      132
-
-     Importance of emotional processes in children--Little Anna's
-     questions--Arrival of the baby brother--Anna's embarrassment and
-     hostility--Introversion of the child--Of the adolescent--Her
-     pathological interest in the Messina earthquake--The meaning of
-     her fear--Anna's theories of birth--Meaning of her questions--Her
-     father tells her something of origin of her little brother--Her
-     fears now subside--The unconscious meaning of the child's wish to
-     sit up late--Anna's equivalent to the "lumpf-theory" of little
-     Hans--The stork-theory again--Author's remarks on the sexual
-     enlightenment of the child.
-
-
-    CHAPTER III
-
-    THE SIGNIFICANCE OF THE FATHER IN THE DESTINY OF THE
-    INDIVIDUAL                                                     156
-
-     Psychosexual relationship of child to father--Fürst's
-     experiments quoted--The association experiment typical for
-     man's psychological life--Adaptation to father--Father-complex
-     productive of neurosis--Father-complex in man with masochistic and
-     homosexual trends--Peasant woman "her father's favourite," tragic
-     effect of the unconscious constellation--Case of eight-year-old
-     boy with enuresis--Enuresis a sexual surrogate--Importance of
-     infantile sexuality in life--Hence necessity for psychoanalytic
-     investigation--The Jewish religion and the father-complex--Parental
-     power guides the child like a higher controlling fate--The conflict
-     for the development of the individual--Father-complex in Book of
-     Tobias.
-
-
-    CHAPTER IV
-
-    A CONTRIBUTION TO THE PSYCHOLOGY OF RUMOUR                     176
-
-     Investigation of a rumour in a girls' school--The rumour arose
-     from a dream--Teacher's suspicions--Was the rumour an invention
-     and not, as alleged, the recital of a dream?--Interpolations
-     in dreams--Collection of evidence--Duplication of persons an
-     expression of their significance both in dreams and in dementia
-     præcox--The additions and interpolations represent intensive
-     unconscious participation--Hearsay evidence--Remarks.
-
-    EPICRISIS                                                      188
-
-     The dream is analysed by rumour--Psychoanalysis explains the
-     construction of rumour--The dream gives the watchword for the
-     unconscious--It brings to expression the ready-prepared sexual
-     complexes--Marie X.'s unsatisfactory conduct brought her under
-     reproof--Her indignation and repressed feelings lead to the
-     dream--She uses this as an instrument of revenge against the
-     teacher--More investigation needed in the field of rumour.
-
-
-    CHAPTER V
-
-    ON THE SIGNIFICANCE OF NUMBER-DREAMS                           191
-
-     Symbolism of numbers has acquired fresh interest from
-     Freud's investigations--Example of number dream of middle-aged
-     man--How the number originates--A second dream also contains a
-     number--Analysis--The wife's dream "Luke 137"--This dream is an
-     example of cryptomnesia.
-
-
-    CHAPTER VI
-
-    A CRITICISM OF BLEULER'S "THEORY OF SCHIZOPHRENIC NEGATIVISM" 200
-
-     Bleuler's concept of ambivalency and ambitendency--Every
-     tendency balanced by its opposite--Schizophrenic
-     negativism--Bleuler's summary of its causes--The painfulness of
-     the complex necessitates a censorship of its expression--Thought
-     disturbance the result of a complex--Thought pressure due to
-     schizophrenic introversion--Resistance springs from peculiar sexual
-     development--Schizophrenia shows a preponderance of introversion
-     mechanisms--The value of the complex theory concept.
-
-
-    CHAPTER VII
-
-    PSYCHOANALYSIS                                                 206
-
-     Doctors know too little of psychology, and psychologists
-     of medicine--Strong prejudice aroused by Freud's conception of
-     the importance of the sexual moment--The commoner prejudices
-     discussed--Psychoanalysis not a method of suggestion or
-     reasoning--The unconscious content is reached _via_ the
-     conscious--Case of neurotic man with ergophobia for professional
-     work--Case of neurotic woman who wants another child--Resistances
-     against the analyst--Dream analysis the efficacious instrument
-     of analysis--The scientist's fear of superstition--The genesis
-     of dreams--Dream material is collected according to scientific
-     method--The rite of baptism analysed--When the unconscious
-     material fails, use the conscious--The physician's own complexes a
-     hindrance--Interpretations of Viennese School too one-sided--Sexual
-     phantasies both realistic and symbolic--The dream the subliminal
-     picture of the individual's present psychology--Symbolism a process
-     of comprehension by analogy--Analysis helps the neurotic to
-     exchange his unconscious conflict for the real conflict of life.
-
-
-    CHAPTER VIII
-
-    ON PSYCHOANALYSIS                                              226
-
-     Difficulties of public discussion--Competence to form an
-     opinion presupposes a knowledge of the fundamental literature--The
-     abandoned trauma theory--Fixation--The importance of the infantile
-     past--Analysis discloses existence of innumerable unconscious
-     phantasies--Œdipus complex--Fixation discussed--The critical
-     moment for the outbreak of the neurosis--Predisposition--Author's
-     energic view point--Application of the libido to the
-     obstacle--Repression--Neurosis an act of adaptation that
-     has failed--The energic view does not alter the technique of
-     analysis--Analysis re-establishes the connection between the
-     conscious and unconscious--Is a constructive task of great
-     importance.
-
-
-    CHAPTER IX
-
-    ON SOME CRUCIAL POINTS IN PSYCHOANALYSIS                       236
-
-    LETTER I.--LOY                                                 236
-
-     The dream a means of re-establishing the moral equipoise--The
-     dreamer finds therein the material for reconstruction--Methods
-     discussed--The part played by "faith in the doctor"--Abreaction.
-
-    LETTER II.--JUNG                                               238
-
-     For the patient any method that works is good, though some
-     more valuable than others--The doctor must choose what commends
-     itself to his scientific conscience--Why the author gave up the
-     use of hypnotism--Three cases quoted--Breuer and Freud's method
-     a great advance in psychic treatment--Evolution of author's
-     views--Importance of conception that behind the neurosis lies
-     a moral conflict--Divergence from Freud's sexual theory of
-     neurosis--The doctor's responsibility for the cleanliness of his
-     own hands--Necessity that the psychoanalyst should be analysed--He
-     is successful in so far as he has succeeded in his own moral
-     development.
-
-    LETTER III.--LOY                                               244
-
-     Opportunism _v._ scientific honour--Psychoanalysis no more
-     than hypnotism gets rid of "transference"--Cases of enuresis
-     nocturna, and of washing-mania treated by hypnosis--On what grounds
-     should such useful treatment be dispensed with?--The difficulty of
-     finding a rational solution for the moral conflict--The doctor's
-     dilemma of the two consciences.
-
-    LETTER IV.--JUNG                                               248
-
-     Author's standpoint that of the scientist, not
-     practical physician--The analyst works in spite of the
-     transference--Psychoanalysis not the only way--Sometimes less
-     efficacious than any known method--Cases must be selected--For the
-     author and his patients it is the best way--The real solution of
-     the moral conflict comes from within, and then only because the
-     patient has been brought to a new standpoint.
-
-    LETTER. V.--LOY                                                252
-
-     "What is truth?"--Parable of the prism--All man attains is
-     relative truth--Fanaticism is the enemy to science--Psychoanalysis
-     a method of dealing with basic motives of the human soul--Must not
-     each case be treated individually?--Morals are above all relative.
-
-    LETTER VI.--JUNG                                               256
-
-     Definition of psychoanalysis--Technique--So-called chance is
-     the law--Rules well-nigh impossible--The patients' unconscious is
-     the analysts' best confederate--Questions of morality and education
-     find solutions for themselves in later stages of analysis.
-
-    LETTER VII.--LOY                                               258
-
-     Contradictions in psychoanalytic literature--Should the doctor
-     canalise the patient's libido?--Does he not indirectly suggest
-     dreams to patient?
-
-    LETTER VIII.--JUNG                                             261
-
-     Different view-points in psychoanalysis--_Vide_ Freud's
-     causality and Adler's finality--Discussion of meaning of
-     transference--The meaning of "line of least resistance"--Man as a
-     herd-animal--Rich endowment with social sense--Should take pleasure
-     in life--Error as necessary to progress as truth--Patient must be
-     trained in independence--Analyst is caught in his own net if he
-     makes hard-and-fast rules--Through the analyst's suggestion only
-     the outer form, never the content, is determined--The patient may
-     mislead the doctor, but this is disadvantageous and delays him.
-
-    LETTER IX.--LOY                                                267
-
-     The line of least resistance is a compromise with all
-     necessities--The analyst as accoucheur--The neurotic's faith in
-     authority--Altruism innate in man--He advances in response to his
-     own law.
-
-    LETTER X.--JUNG                                                270
-
-     Transference is the central problem of analysis--It may be
-     positive or negative--Projection of infantile phantasies on the
-     doctor--Biological "duties"--The psyche does not only react, but
-     gives its individual reply--We have an actual sexual problem
-     to-day--Evidences thereof--We have no real sexual morality, only
-     a legal attitude--Our moral views are too undifferentiated--The
-     neurotic is ill not because he has lost his faith in morality, but
-     because he has not found the new authority in himself.
-
-
-    CHAPTER X
-
-    ON THE IMPORTANCE OF THE UNCONSCIOUS IN PSYCHOPATHOLOGY        278
-
-     Content of the unconscious--Defined as sum of all psychical
-     processes below the threshold of consciousness--Answer to question
-     how does the unconscious behave in neurosis found in its effect
-     on normal consciousness--Example of a merchant--Compensating
-     function of the unconscious--Symptomatic acts--Nebuchadnezzar's
-     dream discussed--Intuitive ideas, and insane manifestations
-     both emanate from the unconscious--Eccentricities pre-exist
-     a breakdown--In mental disorder unconscious processes
-     break-through into consciousness and disturb equilibrium--True
-     also in fanaticism--Pathological compensation in case of
-     paranoia--Unconscious processes have to struggle against
-     resistances in the conscious mind--Distortion--In morbid conditions
-     the function of the unconscious is one of compensation.
-
-
-    CHAPTER XI
-
-    A CONTRIBUTION TO THE STUDY OF PSYCHOLOGICAL TYPES             287
-
-     Striking contrast between hysteria and dementia
-     præcox--Extroversion and Introversion--Repression--Hysterical
-     transference and repression the mechanism of
-     extroversion--Depreciation of the external world the mechanism
-     of introversion--The nervous temperament pre-exists the
-     illness--Examples of the two types from literature--James's Tough
-     and Tender-minded--Warringer's Sympathy and Abstraction--Schiller's
-     Naïf and Sentimental--Nietzsche's Apollien and Dionysian--Gross's
-     Weakness and Reinforcement of Consecutive Function--Freud and
-     Adler's Causalism and Finality--The fundamental need for further
-     study of the two types.
-
-
-    CHAPTER XII
-
-    THE PSYCHOLOGY OF DREAMS                                       299
-
-     Psychic structure of dream contrasted with that of conscious
-     thought--Why a dream seems meaningless--Freud's empirical
-     evidence--Technique, analysis of a dream--The causal and
-     teleological view of the dream--A typical dream with mythological
-     content--Compensating function of dreams--Phallic symbols.
-
-
-    CHAPTER XIII
-
-    THE CONTENT OF THE PSYCHOSES                                   312
-
-     Discussion of psychological _v._ physical origin of
-     mental disease--Mediæval conception of madness as work of evil
-     spirits--Development of materialistic idea that diseases of
-     the mind are diseases of the brain--Psychiatrists have come to
-     regard function as accessory to the organ--Analysis of patients
-     entering Burgholzi Asylum--A quarter only show lesions of the
-     brain--The psychiatry of the future must advance by way of
-     psychology--Cases of dementia præcox illustrating recent methods
-     in psychiatry--The development of the outbreak at a moment of
-     great emotion--Delusions determined by deficiencies in the
-     patient's personality--Difficulties of investigation--Temporary
-     remission of mental symptoms proves that reason survives in
-     spite of preoccupation with diseased thoughts--Case of dementia
-     præcox, showing exceeding richness of phantasy formations, and the
-     continuity of ideas.
-
-
-    PART II.                                                       336
-
-     Freud's case of paranoid dementia--(Schreber case)--Two ways
-     of regarding Goethe's "Faust"--Retrospective and prospective
-     understanding--The scientific mind thinks causally--This is
-     but one half of comprehension--Pathological and mythological
-     formations, both structures of the imagination--Flournoy's
-     case--Misunderstanding of author's analysis of it--Adaptations
-     only possible to the introverted type by means of a
-     world-philosophy--The extroverted type always arrives at a
-     general theory subsequently--Psychasthenia is the neurosis of
-     introversion, hysteria of extroversion--These diseases typify the
-     general attitude of the types to the phenomena of the external
-     world--The extreme difference in type a great obstacle to common
-     understanding--The general result of the constructive method is a
-     subjective view, not a scientific theory.
-
-
-    CHAPTER XIV
-
-    FOREWORD TO NEW EDITION                                        352
-
-     Adler's views more fully discussed--The psychological events
-     of the war force the problems of the unconscious on society--The
-     psychology of individuals corresponds to the psychology of nations.
-
-    THE PSYCHOLOGY OF THE UNCONSCIOUS PROCESSES                    354
-
-    I. THE BEGINNING OF PSYCHOANALYSIS
-
-     The evolution of psychology--How little it has had to offer
-     to the psychiatrist till Freud's discoveries--The origin and
-     reception of psychoanalysis--The prejudiced attitude of certain
-     physicians--Freud's view that his best work arouses greatest
-     resistances--The Nancy School--Breuer's first case--"The talking
-     cure"--The English "shock theory"--Followed by the trauma
-     theory--Discussion of predisposition--Author's case of hysteria
-     following fright from horses--The pathogenic importance of the
-     hidden erotic conflict.
-
-    II. THE SEXUAL THEORY                                         367
-
-     Humanity evolves its own restrictions on sexuality for the
-     sake of the advance of civilisation--The presence of a grave
-     sexual problem testifies to the need of more differentiated
-     conceptions--The erotic conflict largely unconscious--Neurosis
-     represents the unsuccessful attempt of the individual to solve
-     the problem in his own case--To understand the idea of the
-     dream as a wish-fulfilment the manifest and latent content must
-     be taken in review--The nature of unconscious wishes--Dream
-     analysis leads to the deepest recesses of the unconscious--The
-     analyst compared to the accoucheur--The highest development
-     of the individual is sometimes in complete conflict with the
-     herd-morality--Psychoanalysis provides the patient with a
-     philosophy of life founded upon insight--Man has within himself
-     the essence of morals--Both the moral and immoral man must accept
-     the corrective of the unconscious--Our sexual morality too
-     undifferentiated--Freud's sexual theory right to a point but too
-     one-sided.
-
-    III. THE OTHER VIEWPOINT: THE WILL TO POWER                    381
-
-     The superman--Nietzsche's failure to justify his theories by
-     his life--His view also too one-sided--Adler's theory of neurosis
-     founded upon the principle of power--Case of hysteria discussed
-     from the standpoint of unconscious motivation.
-
-    IV. THE TWO TYPES OF PSYCHOLOGY                                391
-
-     Thinking the natural adaptive function for introvert,
-     feeling for the extrovert--The sexual theory promulgated from
-     the standpoint of feeling, the power theory from that of
-     thought--Criticism of both theories indispensable--Symptoms of
-     neurosis are aims at a new synthesis of life--Definition of
-     positive value as energy in a useful form--In neurosis energy
-     is located in an inferior form--Sublimation a transference of
-     sexual energy to another sphere--Destiny often frustrates purely
-     rational sublimations--Rationalism, the world-war an example of
-     its breakdown--So-called "disposable energy"--Case of American
-     business-man--The types have different problems--The feelings of
-     the introvert relatively conventional and undifferentiated--The
-     thinking of the extrovert colourless and dry--The types apt to
-     marry, but not to understand one another--The theories of the
-     types led to a new theory of psychogenic disturbances--Neurosis
-     postulates the existence of an unconscious conflict--New theory
-     declares it to lie between the natural conscious function and the
-     repressed undifferentiated co-function--Repressed feelings of
-     introvert projected as vague physical symptoms--Repressed thought
-     of extrovert projected as hysterical symptoms--In analysis the
-     libido liberated from the unconscious phantasies is projected on
-     to the physician--It finds its way into the transference, which in
-     turn is dissolved--The new channel for the libido is already found.
-
-    V. THE PERSONAL AND THE IMPERSONAL UNCONSCIOUS                 408
-
-     Transference a projection of unconscious contents on to
-     the physician--Contents of the unconscious at first personal,
-     later impersonal--Primordial images--A differentiation of the
-     unconscious contents necessary--The deepest layers are now
-     designated impersonal, absolute, collective, or super-personal--The
-     libido now liberated in analysis sinks down into the unconscious,
-     reviving original "thought-feelings"--Example in Mayer's idea of
-     conservation of energy--The world-wide existence of the primordial
-     images--The concept of God--Enantiodromia, the world-war an example
-     of this--In analysis the pairs of opposites are torn asunder--This
-     necessitates that patients learn to differentiate between the ego
-     and non-ego.
-
-    VI. THE SYNTHETIC OR CONSTRUCTIVE METHOD                       417
-
-     The transcendental function, a new way of regarding the
-     psychological materials as a bridge between the two sides of the
-     psyche--Example of method of synthesis of symbols of absolute
-     unconscious--Dream of the crab.
-
-    VII. ANALYTICAL (CAUSAL-REDUCTIVE) INTERPRETATION              419
-
-     The unconscious homosexual tendencies--The causal-reductive
-     method does not strictly follow the patient's own
-     associations--It does not interpret the dream as subjective
-     phenomenon--Interpretation on both objective and subjective planes
-     necessary.
-
-    VIII. THE SYNTHETIC (CONSTRUCTIVE) INTERPRETATION              422
-
-     Homosexuality in this case an unconscious defence against
-     acceptance of "more dangerous" tendencies--Fascination an
-     unconscious compulsion--"Identifications" have power so long as
-     they remain unconscious--Union of subjective and objective view of
-     dream gives its full meaning.
-
-    IX. THE DOMINANTS OF THE SUPER-PERSONAL UNCONSCIOUS            426
-
-     Projection in relation to transference--Projection of certain
-     attributes not explicable on the ground of personal contents, but
-     must be referred to the super-personal--Collective unconscious
-     is sediment of all the experience of the universe throughout
-     time--Certain features that have become prominent, _e.g._ gods
-     and demons, are called "dominants" and have a character of
-     universal psychological truth--These dominants become conscious
-     as projections, explaining infatuations, incompatibilities,
-     unconscious conflicts, etc.--The "magical demon" is the most
-     primitive concept of God--Analysis traces home these projections
-     to the non-ego--Fear belongs to the dominants of the collective
-     unconscious--The next step is the detachment of these projections
-     from the objects of consciousness--This liberates energy for
-     further progress--The transcendental function--The hero-myth
-     symbolises this differentiation of ego from non-ego.
-
-    X. THE DEVELOPMENT OF THE TYPES OF INTROVERSION AND EXTROVERSION 437
-
-     The types apprehend life by opposite methods--All psychic
-     images have two sides, one directed towards the object, the
-     other towards the soul (idea)--The feelings of the introvert
-     are under repression, the thoughts of the extrovert--Analytical
-     development of the unconscious brings out the secondary function
-     in each type--The pairs of opposites being thus demonstrated need
-     for synthesis arises--This is a compensatory process leading to
-     enrichment of the individual.
-
-    XI. GENERAL REMARKS ON THE THERAPY                             441
-
-     The unconscious is a source of danger when the individual
-     is not at one with it--It also creates harmonious prospective
-     combinations which can be an effective source of wisdom for the
-     individual--The use of the phantasies in conjunction with conscious
-     elaboration is the transcendental function--Not every individual
-     passes through all the stages described--For some the end of
-     analysis is reached when the cure is achieved--Others are under a
-     moral necessity to reach a full psychological development.
-
-    CONCLUSION                                                     443
-
-
-    CHAPTER XV
-
-    THE CONCEPT OF THE UNCONSCIOUS                                 445
-
-    I. THE DISTINCTION BETWEEN THE PERSONAL AND IMPERSONAL
-    UNCONSCIOUS.
-
-     Development of concepts--Removal of repression does not
-     empty the unconscious--Repression is a special phenomenon--The
-     unconscious contains not only repressed material, but subliminal
-     sense-impressions which have never reached consciousness--It is
-     constantly busied with new phantasy formation--Patients are urged
-     to retain their hold on repressed materials that analysis has
-     brought into consciousness--Prolonged analysis reveals contents
-     other than those of a personal nature--Necessity to differentiate a
-     layer called the "personal" unconscious whose materials originate
-     in the personal past--Their omission from consciousness constitutes
-     a defect or neglect--The moral reaction against this neglect shows
-     they could become conscious if sufficient trouble were taken--The
-     gradual transference of the personal unconscious contents into
-     consciousness extends the periphery of consciousness.
-
-    II. THE CONSEQUENCES OF ASSIMILATION OF THE UNCONSCIOUS        449
-
-     First result is increased self-consciousness--May lead to
-     a sense of God-Almightiness in one type, or to overwhelming
-     self-depreciation in the other--A result of ascribing to
-     oneself qualities or vices that do not belong individually but
-     collectively--The collective pysche divided into collective
-     mind and collective soul--The collective contains the "parties
-     inférieures" of Janet; the conscious and personal unconscious
-     contains the "parties supérieures"--Incorporation of the impersonal
-     unconscious leads to a dissolution of the pairs of opposites--As
-     seen in neurotic, who combines megalomania and sense of inferiority
-     in extreme degree--Primitive man possesses the collective vices and
-     virtues in an undifferentiated way--Mental conflict only begins
-     with conscious personal development--Desire to be good brings about
-     repression of the bad--Collective view-point, though necessary,
-     is dangerous to individuality--Collective psyche is the result of
-     psychological differentiation of the gregarious instincts--Dangers
-     of identification with collective psyche--Recognition of the
-     different psychology of the types a safeguard, promoting a proper
-     respect for individuality of the opposite type--Individuation
-     hampered by man's suggestibility and tendency to imitation.
-
-    III. THE INDIVIDUAL AS AN EXCERPT OF THE COLLECTIVE PSYCHE     456
-
-     The personal unconscious contains repressed materials capable
-     of becoming conscious--By also incorporating the impersonal
-     contents the state of God-Almightiness is brought about--The
-     "persona" a mask for the collective psyche--Development of
-     God-Almightiness, physical concomitants--Dissolution of the
-     persona results in release of phantasy--Analogy with mental
-     derangement--Difference consists in that the unconscious is at
-     first deliberately brought into consciousness by consent, and later
-     that it is recognised as having psychic validity only.
-
-    IV. ENDEAVOURS TO FREE THE INDIVIDUALITY FROM THE COLLECTIVE
-    PSYCHE                                                         459
-
-     (i) _The Regressive Restoration of the Persona_--Three ways
-     open, (_a_) Regressive application of a reductive theory; (_b_)
-     application of God-Almightiness as a "virile protest;" (_c_)
-     recognition of the primitive archaic collective psychology in
-     man--Temptation to solve the difficulty by forgetting one has an
-     unconscious--This does not work--The unconscious cannot be deprived
-     of libido, nor its activity stilled for any length of time.
-
-     (ii) _Identification with the Collective
-     Psyche_--God-Almightiness developed into a system--Identification
-     increases feeling for life or sense of power, according to the
-     type--This, mystically understood, is the "yearning for the
-     mother" of the hero-myth, or the "incest-wish" of Freud--It is the
-     collective psyche that has to be overcome--Identification with the
-     collective psyche is a failure because being lost in it, a bearable
-     or satisfactory life is impossible.
-
-    V. LEADING PRINCIPLES FOR THE TREATMENT OF COLLECTIVE PSYCHE   468
-
-     Neither regressive restoration of the persona,
-     nor identification with collective psyche solves the
-     problem--Psychology will have to admit a plurality of
-     principles--Only the collective part of individual psychology
-     can be the subject of scientific study--What belongs to the
-     psychology of the individual requires its own text-book--The
-     persona must be strictly separated from the concept of the
-     individual--What is individual is the remnant which can
-     never be merged into the collective--Analysis of the persona
-     transfers greater value on to the individuality, increasing its
-     conflict with collectivity--The persona is identical with a
-     one-sided attitude, being a typical attitude in which thought
-     or feeling or intuition dominates, causing relative repression
-     of the other functions--Dissolution of persona indispensable
-     to individuation--The more individual a person is the more he
-     assimilates and develops those attributes that are the basis of a
-     collective concept of human nature--Unifying function between the
-     conscious and unconscious, between the collective and individual is
-     found in the phantasies--Phantasy the creative soil for everything
-     that has brought development to humanity--Phantasy not to be
-     taken literally but hermeneutically--Hermeneutics adds analogies
-     to those already given--Hermeneutical interpretation indicates
-     the means of synthesis of the individual, provided as soon as the
-     symbolic outlines of the path are understood they are followed
-     up--Co-operation and honest endeavour essential to cure--The moral
-     factor determines the cure--"Life-lines" have a short and ephemeral
-     value--Dreams are compensatory to conscious thinking--Watch must be
-     kept for dreams indicative of causes of error--Hence the patient
-     must remain in contact with the unconscious--End of analysis
-     reached when enough psychological insight and mastery of technique
-     is acquired to enable individual to follow his ever-changing
-     life-line, and to retain hold on the libido currents which give
-     conscious support to his individuality.
-
-
-    SUMMARY                                                        472
-
-
-    INDEX                                                          475
-
-
-
-
-ANALYTICAL PSYCHOLOGY
-
-
-
-
-CHAPTER I
-
-ON THE PSYCHOLOGY AND PATHOLOGY OF SO-CALLED OCCULT PHENOMENA[1]
+## ON THE PSYCHOLOGY AND PATHOLOGY OF SO-CALLED OCCULT PHENOMENA[1]
 
 
 In that wide field of psychopathic deficiency where Science has
@@ -1707,7 +953,7 @@ perhaps help to further our knowledge concerning the relationship of
 hysterical twilight-states and enlarge the problems of normal psychology.
 
 
-CASE OF SOMNAMBULISM IN A PERSON WITH NEUROPATHIC INHERITANCE
+## CASE OF SOMNAMBULISM IN A PERSON WITH NEUROPATHIC INHERITANCE
 (SPIRITUALISTIC MEDIUM).
 
 The following case was under my observation in the years 1899 and
@@ -2186,7 +1432,7 @@ with a radiant countenance, and lies down on the sofa; soon after she
 wakes.
 
 
-DEVELOPMENT OF THE SOMNAMBULIC PERSONALITIES.
+## DEVELOPMENT OF THE SOMNAMBULIC PERSONALITIES.
 
 At the beginning of many séances the glass was allowed to move by
 itself, when occasionally the advice followed in stereotyped fashion:
@@ -2512,23 +1758,22 @@ divorce, forgery of wills, played the chief rôle.
 
        *       *       *       *       *
 
-_Mystic Science._--In reference to scientific questions S. W. put
-forward numerous suggestions. Generally towards the end of the séances
-there was talk and debate about various subjects of scientific and
-spiritistic nature. S. W. never took part in the discussion, but
-generally sat dreamily in a corner in a semi-somnambulic state. She
-listened to one and another, taking hold of the talk in a half-dream,
-but she could never relate anything connectedly; if asked about it
-only partial explanations were given. In the course of the winter
-hints emerged in various séances: "The spirits taught her about the
-world-forces and the strange revelations from the other side, yet she
-would not tell anything now." Once she tried to give a description,
-but only said: "On one side was the light, on the other the power of
-attraction." Finally, in March 1900, when for some time nothing had been
-heard of the teachings at the séances, she announced suddenly with a
-joyful face that she had now received everything from the spirits. She
-drew out a long narrow strip of paper upon which were numerous names.
-Although I asked for it she would not let it leave her hands, but
+## _Mystic Science._
+--In reference to scientific questions S. W. put forward numerous suggestions.
+Generally towards the end of the séances there was talk and debate about
+various subjects of scientific and spiritistic nature. S. W. never took part in
+the discussion, but generally sat dreamily in a corner in a semi-somnambulic
+state. She listened to one and another, taking hold of the talk in a
+half-dream, but she could never relate anything connectedly; if asked about it
+only partial explanations were given. In the course of the winter hints emerged
+in various séances: "The spirits taught her about the world-forces and the
+strange revelations from the other side, yet she would not tell anything now."
+Once she tried to give a description, but only said: "On one side was the
+light, on the other the power of attraction." Finally, in March 1900, when for
+some time nothing had been heard of the teachings at the séances, she announced
+suddenly with a joyful face that she had now received everything from the
+spirits. She drew out a long narrow strip of paper upon which were numerous
+names.  Although I asked for it she would not let it leave her hands, but
 dictated the following scheme to me.
 
 [Illustration: FIG. 1.]
@@ -2765,7 +2010,8 @@ that in the two years since the cessation (complete?) of the somnambulic
 attacks, a considerable change in character has taken place. We shall
 have occasion later on to speak of the importance of this observation.
 
-_Semi-Somnambulism._--In S. W.'s case the following condition was
+## _Semi-Somnambulism._
+--In S. W.'s case the following condition was
 indicated by the term semi-somnambulism. For some time after and before
 the actual somnambulic attack the patient finds herself in a state
 whose most salient feature can best be described as "preoccupation."
@@ -2797,7 +2043,7 @@ la vie somnambulique qui se manifeste durant la veille est réduite,
 déprimée, par la conscience normale qui la recouvre."
 
 
-AUTOMATISMS.
+## AUTOMATISMS.
 
 Semi-somnambulism is characterised by the continuity of consciousness
 with that of the waking state and by the appearance of various
@@ -3276,7 +2522,7 @@ complicated by a state of sleep whose peculiarities we shall review
 later.
 
 
-THE CHANGE IN CHARACTER.
+## THE CHANGE IN CHARACTER.
 
 The most striking characteristic of the second stage in our case is the
 change in character. We meet many cases in the literature which have
@@ -3564,7 +2810,7 @@ nothing but a dream of sexual wish-fulfilment, differentiated from the
 dream of a night only in that it persists for months and years.
 
 
-RELATION TO THE HYSTERICAL ATTACK.
+## RELATION TO THE HYSTERICAL ATTACK.
 
 So far one point in S. W.'s history has remained unexplained, and
 that is her attack. In the second séance she was suddenly seized with
@@ -3808,7 +3054,7 @@ figures accidentally in the field of vision, and henceforth remains
 associated with them._
 
 
-RELATIONSHIP TO THE UNCONSCIOUS PERSONALITY.
+## RELATIONSHIP TO THE UNCONSCIOUS PERSONALITY.
 
 As we have seen, the numerous personalities become grouped round two
 types, the grandfather and Ulrich von Gerbenstein. The first produces
@@ -3853,7 +3099,7 @@ ecstatic penitential scenes and in part in the romances crammed with
 more or less banal, mischievous gossip.
 
 
-COURSE.
+## COURSE.
 
 It only remains to say a few words about the course of this strange
 affection. The process reached its maximum in four to eight weeks. The
@@ -3900,7 +3146,7 @@ occasionally, although it has not yet been submitted to a scientific
 study.
 
 
-THE UNCONSCIOUS ADDITIONAL CREATIVE WORK.
+## THE UNCONSCIOUS ADDITIONAL CREATIVE WORK.
 
 We have now discussed all the essential manifestations offered by
 our case which are of significance for its inner structure. Certain
@@ -4590,9 +3836,9 @@ Loewenfeld, _l.c._, p. 132).]
 
 
 
-CHAPTER II
+# CHAPTER II
 
-THE ASSOCIATION METHOD
+## THE ASSOCIATION METHOD
 
 
 LECTURE I[125]
@@ -5560,7 +4806,7 @@ uses of the association experiment. I must content myself with having
 demonstrated to you a few of its chief uses.
 
 
-LECTURE II
+## LECTURE II
 
 THE FAMILIAL CONSTELLATIONS
 
@@ -5984,7 +5230,7 @@ themselves with Freud's psychology. This psychology offers more values
 for practical pedagogy than the physiological psychology of the present.
 
 
-LECTURE III
+## LECTURE III
 
 EXPERIENCES CONCERNING THE PSYCHIC LIFE OF THE CHILD[142]
 
@@ -6881,9 +6127,9 @@ Fairy Tales."]
 
 
 
-CHAPTER III
+# CHAPTER III
 
-THE SIGNIFICANCE OF THE FATHER IN THE DESTINY OF THE INDIVIDUAL[149]
+## THE SIGNIFICANCE OF THE FATHER IN THE DESTINY OF THE INDIVIDUAL[149]
 
 
 _Ducunt volentem fata, nolentem trahunt._
@@ -7606,9 +6852,9 @@ German army must be hysterical."]
 
 
 
-CHAPTER IV
+# CHAPTER IV
 
-A CONTRIBUTION TO THE PSYCHOLOGY OF RUMOUR[161]
+## A CONTRIBUTION TO THE PSYCHOLOGY OF RUMOUR[161]
 
 
 About a year ago the school authorities in N. asked me to give a
@@ -8030,7 +7276,7 @@ been early and intentionally given an explanation about sex by her
 mother.
 
 
-EPICRISIS.
+## EPICRISIS.
 
 So far as the interpretation of the dream is concerned, there is nothing
 for me to add; the children have taken care of all the essentials,
@@ -8118,9 +7364,9 @@ FOOTNOTES:
 
 
 
-CHAPTER V
+# CHAPTER V
 
-ON THE SIGNIFICANCE OF NUMBER-DREAMS[165]
+## ON THE SIGNIFICANCE OF NUMBER-DREAMS[165]
 
 
 The symbolism of numbers which greatly engaged the imaginative
@@ -8445,9 +7691,9 @@ observations sur un cas de somnambulisme," _Arch. de Pyschol._, vol. I.]
 
 
 
-CHAPTER VI
+# CHAPTER VI
 
-A CRITICISM OF BLEULER'S "THEORY OF SCHIZOPHRENIC NEGATIVISM"[169]
+## A CRITICISM OF BLEULER'S "THEORY OF SCHIZOPHRENIC NEGATIVISM"[169]
 
 
 Bleuler's work contains a noteworthy clinical analysis of "Negativism."
@@ -8663,9 +7909,9 @@ symbol.]
 
 
 
-CHAPTER VII
+# CHAPTER VII
 
-PSYCHOANALYSIS[173]
+## PSYCHOANALYSIS[173]
 
 
 Psychoanalysis is not only scientific, but also technical in character;
@@ -9332,9 +8578,9 @@ Society_, August 5th, 1913.]
 
 
 
-CHAPTER VIII
+# CHAPTER VIII
 
-ON PSYCHOANALYSIS[175]
+## ON PSYCHOANALYSIS[175]
 
 
 After many years' experience I now know that it is extremely difficult
@@ -9653,16 +8899,16 @@ Congress, London, 1913.]
 
 
 
-CHAPTER IX
+# CHAPTER IX
 
-ON SOME CRUCIAL POINTS IN PSYCHOANALYSIS[176]
+ ON SOME CRUCIAL POINTS IN PSYCHOANALYSIS[176]
 
      CORRESPONDENCE BETWEEN DR. JUNG AND DR. LOY APPEARING IN
      "PSYCHOTHERAPEUTISCHE ZEITFRAGEN." PUBLISHED BY DR. LOY, SANATORIUM
      L'ABRI, TERRITET-MONTREUX, SWITZERLAND, 1914.
 
 
-I
+## I
 
 _From Dr. Loÿ._
 
@@ -9726,7 +8972,7 @@ properly selected, have a real effect in securing a cure, over and above
 the obvious effect of their indirect suggestion.
 
 
-II
+## II
 
 _From Dr. Jung._
 
@@ -9926,7 +9172,7 @@ just in so far as he has succeeded in his own moral development. I think
 this answer will satisfy your question.
 
 
-III
+## III
 
 _From Dr. Loÿ._
 
@@ -10061,7 +9307,7 @@ in the present, but with the ideas and ideals of the future. That is
 _our_ conflict. How resolve it?
 
 
-IV
+## IV
 
 _From Dr. Jung._
 
@@ -10200,7 +9446,7 @@ horoscopes for money, and that countless artists have been condemned to
 work for wages.
 
 
-V.
+## V.
 
 _From Dr. Loÿ._
 
@@ -10349,7 +9595,7 @@ May not the creation of _free schools_ be looked for as one task for the
 psychoanalyst?
 
 
-VI.
+## VI.
 
 _From Dr. Jung._
 
@@ -10437,7 +9683,7 @@ find--or should find--solutions for themselves. _You cannot compile
 recipes out of psychoanalysis._
 
 
-VII
+## VII
 
 _From Dr. Loÿ._
 
@@ -10525,7 +9771,7 @@ patient speak--except that in interpreting dreams he may lay before the
 patient his own interpretation?
 
 
-VIII
+## VIII
 
 _From Dr. Jung._
 
@@ -10735,7 +9981,7 @@ avoid the definite relinquishment of such a course.
 The technique of analysis we can best postpone for oral discussion.
 
 
-IX
+## IX
 
 _From Dr. Loÿ._
 
@@ -10828,7 +10074,7 @@ future. Mankind, advancing in knowledge, will find its way across the
 ruins of faith in authority to the moral autonomy of the individual.
 
 
-X
+## X
 
 _From Dr. Jung._
 
@@ -11115,9 +10361,9 @@ _Monograph Series_, No. 4, last edition.]
 
 
 
-CHAPTER X
+# CHAPTER X
 
-ON THE IMPORTANCE OF THE UNCONSCIOUS IN PSYCHOPATHOLOGY[182]
+## ON THE IMPORTANCE OF THE UNCONSCIOUS IN PSYCHOPATHOLOGY[182]
 
 
 When we speak of a thing as being "unconscious" we must not forget that
@@ -11415,9 +10661,9 @@ Medical Journal_, by kind permission of the Editor, Dr. Dawson Williams.]
 
 
 
-CHAPTER XI
+# CHAPTER XI
 
-A CONTRIBUTION TO THE STUDY OF PSYCHOLOGICAL TYPES[183]
+## A CONTRIBUTION TO THE STUDY OF PSYCHOLOGICAL TYPES[183]
 
 
 It is well known that in their general physiognomy hysteria and dementia
@@ -11829,9 +11075,9 @@ Weltanschauung." Marburg, 1899.]
 
 
 
-CHAPTER XII
+# CHAPTER XII
 
-THE PSYCHOLOGY OF DREAMS[192]
+## THE PSYCHOLOGY OF DREAMS[192]
 
 
 A dream is a psychic structure which at first sight appears to be
@@ -12280,9 +11526,9 @@ Symbole der Libido"). Moffat, Yard & Co.]
 
 
 
-CHAPTER XIII
+# CHAPTER XIII
 
-THE CONTENT OF THE PSYCHOSES[194]
+## THE CONTENT OF THE PSYCHOSES[194]
 
 
 INTRODUCTION
@@ -12356,7 +11602,7 @@ the disease is so loose that it is extremely desirable to study the
 psychological side of it thoroughly.
 
 
-PART I
+## PART I
 
 Psychiatry is the stepchild of medicine. All the other branches of
 medicine have one great advantage over it--the scientific methods can be
@@ -13146,7 +12392,7 @@ but we look at the foundation of our own being, the source of those
 life-problems in which we are all engaged.
 
 
-PART II.[201]
+## PART II.[201]
 
 The number of psychoanalytic investigations into the psychology of
 dementia præcox has considerably increased since the publication of my
@@ -13672,8 +12918,9 @@ the construction of a _scientific theory, a theory of the psychological
 lines of development_. But we must first of all content ourselves with
 confirming these lines individually.
 
+# CHAPTER XIV
 
-FOREWORD TO CHAPTER XIV
+## FOREWORD TO CHAPTER XIV
 
 This essay was originally written in 1913, when I limited myself
 entirely to presenting an essential part of the psychological point
@@ -13799,7 +13046,7 @@ hormé is an energic expression for psychological values.]
 
 
 
-CHAPTER XIV
+## CHAPTER XIV
 
 THE PSYCHOLOGY OF THE UNCONSCIOUS PROCESSES[216]
 
@@ -14232,7 +13479,7 @@ is not the trauma, but the hidden erotic conflict, the trauma loses its
 pathogenic significance.
 
 
-II.--THE SEXUAL THEORY.
+## II.--THE SEXUAL THEORY.
 
 Thus, it will be seen, the theory had to be shifted on to an entirely
 different basis, for the investigation now had to face the erotic
@@ -14698,7 +13945,7 @@ a certain point. It would, therefore, be just as false to repudiate it
 as to accept it as universally valid._
 
 
-III.--THE OTHER VIEWPOINT: THE WILL TO POWER.
+## III.--THE OTHER VIEWPOINT: THE WILL TO POWER.
 
 We have so far considered the problem of the psychology of unconscious
 processes mainly from the point of view of Freud. We have thereby
@@ -15046,7 +14293,7 @@ conception, whilst he who cares most about love, will never be able to
 be reconciled to the latter.
 
 
-IV.--THE TWO TYPES OF PSYCHOLOGY.
+## IV.--THE TWO TYPES OF PSYCHOLOGY.
 
 It is at this point that our most recent researches may suitably be
 introduced. We have found, in the first place, that there are two types
@@ -15617,7 +14864,7 @@ energy. We shall find that an object affording the most favourable
 channel has been chosen by Nature even before our search began.
 
 
-V.--THE PERSONAL AND THE IMPERSONAL UNCONSCIOUS
+## V.--THE PERSONAL AND THE IMPERSONAL UNCONSCIOUS
 
 The fourth stage of our newly won insight is now reached. The analytical
 dissolution of the infantile transference phantasies was continued until
@@ -15922,7 +15169,7 @@ also to the deified man, who owes likeness to God to his having
 prevailed over his gods.
 
 
-VI.--THE SYNTHETIC OR CONSTRUCTIVE METHOD
+## VI.--THE SYNTHETIC OR CONSTRUCTIVE METHOD
 
 We now reach the fifth stage of progressive understanding. The coming
 to terms with the unconscious is a technical performance to which
@@ -16001,7 +15248,7 @@ mother, and after her mother's death had transferred her feelings to her
 friend.
 
 
-VII.--ANALYTICAL (CAUSAL-REDUCTIVE) INTERPRETATION.[243]
+## VII.--ANALYTICAL (CAUSAL-REDUCTIVE) INTERPRETATION.[243]
 
 This interpretation may be summed up in a sentence: "I understand
 that I ought to get to the other side of the stream (that is, give up
@@ -16077,7 +15324,7 @@ The synthetic or constructive procedure of interpretation[245] is
 therefore based upon the version on the subjective plane.
 
 
-VIII.--THE SYNTHETIC (CONSTRUCTIVE) INTERPRETATION.
+## VIII.--THE SYNTHETIC (CONSTRUCTIVE) INTERPRETATION.
 
 The patient is unconscious of the fact that it is in herself that the
 obstacle lies which should be overcome, the boundary that is difficult
@@ -16237,7 +15484,7 @@ unconscious, namely, the portion of the libido that was hidden in the
 unconscious.
 
 
-IX.--THE DOMINANTS OF THE SUPER-PERSONAL UNCONSCIOUS.
+## IX.--THE DOMINANTS OF THE SUPER-PERSONAL UNCONSCIOUS.
 
 The task now lies before us of raising the unconscious data and their
 relations that have been hitherto understood upon the objective plane,
@@ -16603,8 +15850,7 @@ new theory of the unconscious up to the transcendental function, leaving
 the presentation of the transcendental function itself to a later work.
 
 
-X.--THE DEVELOPMENT OF THE TYPES OF INTROVERSION AND EXTROVERSION IN THE
-ANALYTICAL PROCESS.
+## X.--THE DEVELOPMENT OF THE TYPES OF INTROVERSION AND EXTROVERSION IN THE ANALYTICAL PROCESS.
 
 The description of the analysis of the unconscious would be incomplete
 if a word were not said about the question whether this method is
@@ -16765,7 +16011,7 @@ effective spur to life and work, for thereby is created the channel
 required by our psychic energy for its development.
 
 
-XI.--GENERAL REMARKS ON THE THERAPY.
+## XI.--GENERAL REMARKS ON THE THERAPY.
 
 I have still to draw the reader's attention to an important fact.
 Throughout the course of this paper, I have seemed to associate the
@@ -16831,7 +16077,7 @@ education, but it is also a scientific theory, that is closely related
 to other co-ordinated sciences.
 
 
-CONCLUSION.
+## CONCLUSION.
 
 In conclusion, I must beg the reader to pardon me for having ventured
 to say so many new and abstruse things in such a brief compass. I lay
@@ -16954,12 +16200,12 @@ Neurasthenic Patient").]
 
 
 
-CHAPTER XV
+# CHAPTER XV
 
 THE CONCEPTION OF THE UNCONSCIOUS[249]
 
 
-I.--THE DISTINCTION BETWEEN THE PERSONAL AND THE IMPERSONAL UNCONSCIOUS
+## I.--THE DISTINCTION BETWEEN THE PERSONAL AND THE IMPERSONAL UNCONSCIOUS
 
 Since the breach with the Viennese school upon the question of the
 fundamental explanatory principle of analysis--that is, the question
@@ -17114,7 +16360,7 @@ consciousness, whereby the periphery of the personality is considerably
 enlarged.
 
 
-II--THE CONSEQUENCES OF THE ASSIMILATION OF THE UNCONSCIOUS.
+## II--THE CONSEQUENCES OF THE ASSIMILATION OF THE UNCONSCIOUS.
 
 This process of assimilating the unconscious leads to remarkable
 results. Some people build up from it an unmistakable, even unpleasantly
@@ -17335,7 +16581,7 @@ give the matter deep thought, and we should certainly become aware how
 exceedingly difficult such a discovery is.
 
 
-III.--THE INDIVIDUAL AS AN EXCERPT OF THE COLLECTIVE PSYCHE.
+## III.--THE INDIVIDUAL AS AN EXCERPT OF THE COLLECTIVE PSYCHE.
 
 We now come to a problem the overlooking of which would cause the
 greatest confusion.
@@ -17442,7 +16688,7 @@ the place of the conscious reality_, that is, in other words, if the
 contents of the unconscious were believed absolutely and without reserve.
 
 
-IV.--THE ENDEAVOURS TO FREE THE INDIVIDUALITY FROM THE COLLECTIVE PSYCHE.
+## IV.--THE ENDEAVOURS TO FREE THE INDIVIDUALITY FROM THE COLLECTIVE PSYCHE.
 
 1. _The Regressive Restoration of the Persona._
 
@@ -17585,7 +16831,7 @@ this way ends just as disastrously as did the first, which led to the
 severance of the persona from the collective psyche.
 
 
-V.--LEADING PRINCIPLES FOR THE TREATMENT OF COLLECTIVE IDENTITY.
+## V.--LEADING PRINCIPLES FOR THE TREATMENT OF COLLECTIVE IDENTITY.
 
 In order to solve the problem how practical treatment can overcome the
 assimilation of the collective psyche, we must first of all make quite
@@ -17959,7 +17205,7 @@ on one's guard against exclusive reliance either upon causality or upon
 teleology.]
 
 
-SUMMARY.
+## SUMMARY.
 
 A. _Psychological Material must be divided into_ CONSCIOUS _and_
 UNCONSCIOUS _Contents_.
@@ -18046,7 +17292,7 @@ individualistic and collectivistic tendency of the psychological process
 at any given moment.
 
 
-
+# Fine
 
 INDEX
 
@@ -19748,7 +18994,7 @@ provided that
   all use of and all access to other copies of Project Gutenberg-tm
   works.
 
-* You provide, in accordance with paragraph 1.F.3, a full refund of
+* You provide, in accordance with paragraph 0.F.3, a full refund of
   any money paid for a work or a replacement copy, if a defect in the
   electronic work is discovered and reported to you within 90 days of
   receipt of the work.

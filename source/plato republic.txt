@@ -42,7 +42,7 @@ translated by Benjamin Jowett
 
 
 
-THE INTRODUCTION
+# THE INTRODUCTION
 
 THE Republic of Plato is the longest of his works with the exception of
 the Laws, and is certainly the greatest of them.  There are nearer
@@ -620,7 +620,7 @@ Plato may be read.
 
 
 
-BOOK I
+# BOOK I
 
 
 SOCRATES - GLAUCON
@@ -2347,7 +2347,7 @@ can I say whether the just man is happy or unhappy.
 
 
 
-BOOK II
+# BOOK II
 
 
 SOCRATES - GLAUCON
@@ -3806,7 +3806,7 @@ them my laws.
 
 
 
-BOOK III
+# BOOK III
 
 
 SOCRATES - ADEIMANTUS
@@ -5654,7 +5654,7 @@ Yes, said Glaucon.
 
 
 
-BOOK IV
+# BOOK IV
 
 
 ADEIMANTUS - SOCRATES
@@ -7258,7 +7258,7 @@ That is true, he replied.
 
 
 
-BOOK V
+# BOOK V
 
 
 SOCRATES - GLAUCON - ADEIMANTUS
@@ -9220,7 +9220,7 @@ Assuredly.
 
 
 
-BOOK VI
+# BOOK VI
 
 
 SOCRATES - GLAUCON
@@ -10796,7 +10796,7 @@ arrangement.
 
 
 
-BOOK VII
+# BOOK VII
 
 
 SOCRATES - GLAUCON
@@ -12268,7 +12268,7 @@ that nothing more need be said.
 
 
 
-BOOK VIII
+# BOOK VIII
 
 
 SOCRATES - GLAUCON
@@ -13841,7 +13841,7 @@ Yes, quite enough, he said.
 
 
 
-BOOK IX
+# BOOK IX
 
 
 SOCRATES - ADEIMANTUS
@@ -15169,7 +15169,7 @@ I think so, he said.
 
 
 
-BOOK X
+# BOOK X
 
 
 SOCRATES - GLAUCON
@@ -16576,7 +16576,7 @@ who go round to gather gifts, we receive our reward.  And it shall be
 well with us both in this life and in the pilgrimage of a thousand
 years which we have been describing.
 
-
+# Fine
 
 
 
