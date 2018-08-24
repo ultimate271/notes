@@ -1,123 +1,7 @@
-﻿The Project Gutenberg EBook of The Possessed, by Fyodor Dostoevsky
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-
-Title: The Possessed
-       or, The Devils
-
-Author: Fyodor Dostoevsky
-
-Translator: Constance Garnett
-
-Release Date: May, 2005 [EBook #8117]
-Posting Date: August 13, 2010
-Last updated: July 3, 2017
-
-Language: English
-
-Character set encoding: UTF-8
-
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE POSSESSED ***
-
-
-
-
-Produced by David Moynihan, David Widger and Michelle Knight
-
-
-
-
-
-THE POSSESSED (The Devils)
-
-A Novel In Three Parts
-
-By Fyodor Dostoevsky
-
-Translated From The Russian By Constance Garnett
-
-1916
-
-
-CONTENTS:
-
-     * PART I
-     * CHAPTER I. INTRODUCTORY
-     * CHAPTER II. PRINCE HARRY. MATCHMAKING.
-     * CHAPTER III. THE SINS OF OTHERS
-     * CHAPTER IV. THE CRIPPLE
-     * CHAPTER V. THE SUBTLE SERPENT
-
-     * PART II
-     * CHAPTER I. NIGHT
-     * CHAPTER II. NIGHT (continued)
-     * CHAPTER III. THE DUEL
-     * CHAPTER IV. ALL IN EXPECTATION
-     * CHAPTER V. ON THE EVE OF THE FETE
-     * CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-     * CHAPTER VII. A MEETING
-     * CHAPTER VIII. IVAN THE TSAREVITCH
-     * CHAPTER IX. A RAID AT STEPAN TROFIMOVITCH'S
-     * CHAPTER X. FILIBUSTERS. A FATAL MORNING
-
-     * PART III
-     * CHAPTER I. THE FETE--FIRST PART
-     * CHAPTER II. THE END OF THE FETE
-     * CHAPTER III. A ROMANCE ENDED
-     * CHAPTER IV. THE LAST RESOLUTION
-     * CHAPTER V. A WANDERER
-     * CHAPTER VI. A BUSY NIGHT
-     * CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING
-     * CHAPTER VIII. CONCLUSION
-
-
-
-
-
-     "Strike me dead, the track has vanished,
-     Well, what now? We've lost the way,
-     Demons have bewitched our horses,
-     Led us in the wilds astray.
-
-     "What a number! Whither drift they?
-     What's the mournful dirge they sing?
-     Do they hail a witch's marriage
-     Or a goblin's burying?"
-
-     A. Pushkin.
-
-
-     "And there was one herd of many swine feeding on this
-     mountain; and they besought him that he would suffer them to
-     enter into them. And he suffered them.
-
-     "Then went the devils out of the man and entered into the
-     swine; and the herd ran violently down a steep place into
-     the lake and were choked.
-
-     "When they that fed them saw what was done, they fled, and
-     went and told it in the city and in the country.
-
-     "Then they went out to see what was done; and came to Jesus
-     and found the man, out of whom the devils were departed,
-     sitting at the feet of Jesus, clothed and in his right mind;
-     and they were afraid."
-
-     Luke, ch. viii. 32-37.
-
-
-
-
+﻿# The possessed
+[Author]: # {Constance Garrett}
 
 # PART I
-
-
-
 
 ## CHAPTER I. INTRODUCTORY
 
@@ -125,7 +9,7 @@ SOME DETAILS OF THE BIOGRAPHY OF THAT HIGHLY RESPECTED GENTLEMAN STEPAN
 TROFIMOVITCH VERHOVENSKY.
 
 
-I
+### I
 
 IN UNDERTAKING to describe the recent and strange incidents in our town,
 till lately wrapped in uneventful obscurity, I find myself forced in
@@ -279,7 +163,7 @@ high. No telegram came. Then he made friends with me again, which is a
 proof of the extreme kindness of his gentle and unresentful heart.
 
 
-II
+### II
 
 Of course I don't assert that he had never suffered for his convictions
 at all, but I am fully convinced that he might have gone on lecturing
@@ -377,7 +261,7 @@ importance. I shall need to speak of her more particularly, which I now
 proceed to do.
 
 
-III
+### III
 
 There are strange friendships. The two friends are always ready to fly
 at one another, and go on like that all their lives, and yet they cannot
@@ -459,7 +343,7 @@ was incredible how long she harboured resentment. I have two anecdotes
 to tell about that.
 
 
-IV
+### IV
 
 On one occasion, just at the time when the first rumours of the
 emancipation of the serfs were in the air, when all Russia was exulting
@@ -592,7 +476,7 @@ _dénouement_ of this affair. He could not believe that that was the end of
 it! And if so he must have looked strangely sometimes at his friend.
 
 
-V
+### V
 
 She had herself designed the costume for him which he wore for the rest
 of his life. It was elegant and characteristic; a long black frock-coat,
@@ -700,7 +584,7 @@ object of the journey was to see her only son, who was just finishing
 his studies at a Petersburg lyceum.
 
 
-VI
+### VI
 
 They spent almost the whole winter season in Petersburg. But by Lent
 everything burst like a rainbow-coloured soap-bubble.
@@ -859,7 +743,7 @@ day will come again and will turn all the tottering fabric of to-day
 into a true path. If not, what will happen?..."
 
 
-VII
+### VII
 
 Immediately on their return from Petersburg Varvara Petrovna sent her
 friend abroad to "recruit"; and, indeed, it was necessary for them to
@@ -947,7 +831,7 @@ something new: _je suis un simple_ dependent, _et rien de plus! Mais
 r-r-rien de plus._"
 
 
-VIII
+### VIII
 
 After this we had a period of stagnation which lasted nine years.
 The hysterical outbreaks and sobbings on my shoulder that recurred at
@@ -1152,7 +1036,7 @@ Slontsevsky, and for a time we received him on principle, but afterwards
 we didn't keep it up.
 
 
-IX
+### IX
 
 At one time it was reported about the town that our little circle was a
 hotbed of nihilism, profligacy, and godlessness, and the rumour gained
@@ -1382,7 +1266,7 @@ the memory of some leading man of the past.
 ## CHAPTER II. PRINCE HARRY. MATCHMAKING.
 
 
-I
+### I
 
 THERE WAS ANOTHER being in the world to whom Varvara Petrovna was as
 much attached as she was to Stepan Trofimovitch, her only son, Nikolay
@@ -1568,7 +1452,7 @@ glances at "Nicolas," scrutinising him reflectively... and behold--the
 wild beast suddenly showed his claws.
 
 
-II
+### II
 
 Suddenly, apropos of nothing, our prince was guilty of incredible
 outrages upon various persons and, what was most striking these outrages
@@ -1736,7 +1620,7 @@ tell him at once, don't forget, "The master himself knows that very
 well, and wishes you the same."'"
 
 
-III
+### III
 
 At last the interview with the governor took place too. Our dear, mild,
 Ivan Ossipovitch had only just returned and only just had time to hear
@@ -1926,7 +1810,7 @@ future member "of the universal human republic and social harmony."
 sometimes the unlooked-for Fourierist.
 
 
-IV
+### IV
 
 Our prince travelled for over three years, so that he was almost
 forgotten in the town. We learned from Stepan Trofimovitch that he
@@ -2301,7 +2185,7 @@ mercy upon one!"
 Stepan Trofimovitch "had mercy," but he withdrew in great perturbation.
 
 
-V
+### V
 
 Our friend certainly had fallen into not a few bad habits, especially of
 late. He had obviously and rapidly deteriorated; and it was true that
@@ -2355,7 +2239,7 @@ Had he any presentiment that evening of the colossal ordeal which was
 preparing for him in the immediate future?
 
 
-VI
+### VI
 
 I will now enter upon the description of that almost forgotten incident
 with which my story properly speaking begins.
@@ -2625,7 +2509,7 @@ And she flew off to walk by the wet brick pavements and the wooden
 planks to Stepan Trofimovitch's.
 
 
-VII
+### VII
 
 It was true that she would never have let Dasha suffer; on the contrary,
 she considered now that she was acting as her benefactress. The most
@@ -2814,7 +2698,7 @@ The next day, of course, he consented, and, indeed, he could do nothing
 else. There was one circumstance...
 
 
-VIII
+### VIII
 
 Stepan Trofimovitch's estate, as we used to call it (which consisted
 of fifty souls, reckoning in the old fashion, and bordered on
@@ -3003,7 +2887,7 @@ exclamations. In the evening we drank too much again.
 ## CHAPTER III. THE SINS OF OTHERS
 
 
-I
+### I
 
 ABOUT A WEEK had passed, and the position had begun to grow more
 complicated.
@@ -3158,7 +3042,7 @@ me that Stepan Trofimovitch greatly regretted having let his tongue run
 away with him, and having revealed such suspicions before me.
 
 
-II
+### II
 
 One morning, on the seventh or eighth day after Stepan Trofimovitch had
 consented to become "engaged," about eleven o'clock, when I was hurrying
@@ -3298,7 +3182,7 @@ immediately resolved to entertain Stepan Trofimovitch with an account of
 it, and even to act the whole scene to him.
 
 
-III
+### III
 
 But this time to my surprise I found an extraordinary change in him. He
 pounced on me with a sort of avidity, it is true, as soon as I went in,
@@ -3415,7 +3299,7 @@ as though thunder-struck.
 At the same instant Liputin walked into the room.
 
 
-IV
+### IV
 
 Why he should be lost owing to Liputin I did not know, and indeed I
 did not attach much significance to the words; I put it all down to his
@@ -3641,7 +3525,7 @@ Trofimovitch was so frightened of Liputin, and why he had cried out "I
 am lost" when he heard him coming.
 
 
-V
+### V
 
 We were all standing in the doorway. It was the moment when hosts and
 guests hurriedly exchange the last and most cordial words, and then
@@ -3777,7 +3661,7 @@ them with intense enjoyment,
 "How am I to begin?... I'm too overwhelmed...."
 
 
-VI
+### VI
 
 "The day before yesterday a servant was suddenly sent to me: 'You are
 asked to call at twelve o'clock,' said he. Can you fancy such a thing? I
@@ -4029,7 +3913,7 @@ He ran out of the room.
 He jumped up and ran after Alexey Nilitch.
 
 
-VII
+### VII
 
 Stepan Trofimovitch stood a moment reflecting, looked at me as though he
 did not see me, took up his hat and stick and walked quietly out of
@@ -4323,7 +4207,7 @@ sure to be at my lodging at ten or eleven o'clock when I come back. Oh,
 I've acted very wrongly in my conduct to you and to every one."
 
 
-VIII
+### VIII
 
 I did not find Shatov at home. I ran round again, two hours later. He
 was still out. At last, at eight o'clock I went to him again, meaning
@@ -4589,7 +4473,7 @@ He saw me to the gate with a lantern, to lock it after me. "Of course
 he's mad," I decided. In the gateway I met with another encounter.
 
 
-IX
+### IX
 
 I had only just lifted my leg over the high barrier across the bottom of
 the gateway, when suddenly a strong hand clutched at my chest.
@@ -4684,7 +4568,7 @@ you can ferret it out for yourself; I'll say nothing more; good-bye."
 
 
 
-X
+### X
 
 
 Stepan Trofimovitch was awaiting me with hysterical impatience. It
@@ -4900,7 +4784,7 @@ time you were in bed. _Voyez vous,_ it's twelve o'clock...."
 ## CHAPTER IV. THE CRIPPLE
 
 
-I
+### I
 
 SHATOV WAS NOT PERVERSE but acted on my note, and called at midday on
 Lizaveta Nikolaevna. We went in almost together; I was also going to
@@ -5016,7 +4900,7 @@ Nikolaevitch, who beamed all over as she looked at him. There was no
 help for it, I remained to talk to Mavriky Nikolaevitch.
 
 
-II
+### II
 
 Lizaveta Nikolaevna's business with Shatov turned out, to my surprise,
 to be really only concerned with literature. I had imagined, I don't
@@ -5315,7 +5199,7 @@ seemed to me.
 "Wonderfully queer man," Mavriky Nikolaevitch observed aloud.
 
 
-III
+### III
 
 He certainly was queer, but in all this there was a very great deal not
 clear to me. There was something underlying it all. I simply did not
@@ -5429,7 +5313,7 @@ Shatov, though I could be sure that he wouldn't help me in any way. But
 all the same, I hurried to him.
 
 
-IV
+### IV
 
 I did not find him at home till past seven o'clock that evening. To my
 surprise he had visitors with him--Alexey Nilitch, and another gentleman
@@ -5963,7 +5847,7 @@ flat every time."
 We didn't get off without a scene, however.
 
 
-VI
+### VI
 
 Shatov stood at the closed door of his room and listened; suddenly he
 sprang back.
@@ -6068,7 +5952,7 @@ I went away. An improbable idea was growing stronger and stronger in my
 mind. I thought of the next day with distress....
 
 
-VII
+### VII
 
 This "next day," the very Sunday which was to decide Stepan
 Trofimovitch's fate irrevocably, was one of the most memorable days in
@@ -6417,7 +6301,7 @@ Petrovna sat "as though in a mesmeric sleep." Liza's own expression.
 ## CHAPTER V. THE SUBTLE SERPENT
 
 
-I
+### I
 
 VARVARA PETROVNA rang the bell and threw herself into an easy chair by
 the window.
@@ -6568,7 +6452,7 @@ her, and scarcely concealing her vexation brought out: "Good morning,
 Praskovya Ivanovna, please be seated, I knew you would come!"
 
 
-II
+### II
 
 There could be nothing surprising to Praskovya Ivanovna in such a
 reception. Varvara Petrovna had from childhood upwards treated her
@@ -6614,7 +6498,7 @@ looking absent-mindedly into the air, no longer noticing even Marya
 Timofyevna.
 
 
-III
+### III
 
 "Ach, here!" Praskovya Ivanovna indicated an easy chair near the table
 and sank heavily into it with the assistance of Mavriky Nikolaevitch.
@@ -6943,7 +6827,7 @@ Mavriky Nikolaevitch bowed and went out. A moment later he brought in
 Mr. Lebyadkin.
 
 
-IV
+### IV
 
 I have said something of this gentleman's outward appearance. He was a
 tall, curly-haired, thick-set fellow about forty with a purplish, rather
@@ -7321,7 +7205,7 @@ into the drawing-room, not Nikolay Vsyevolodovitch, but a young man who
 was a complete stranger to all.
 
 
-V
+### V
 
 I will permit myself to halt here to sketch in a few hurried strokes
 this person who had so suddenly arrived on the scene.
@@ -7537,7 +7421,7 @@ heard a fly; but as soon as they had gone out, every one began suddenly
 talking.
 
 
-VI
+### VI
 
 It was very little of it talk, however; it was mostly exclamation. I've
 forgotten a little the order in which things happened, for a scene of
@@ -7994,7 +7878,7 @@ a little pause Nikolay Vsyevolodovitch waved him aside with a slight
 motion of his hand, and walked into the drawing-room.
 
 
-VII
+### VII
 
 He was cheerful and serene. Perhaps something very pleasant had happened
 to him, of which we knew nothing as yet; but he seemed particularly
@@ -8350,7 +8234,7 @@ There was a general outcry; but then suddenly an incident took place
 which no one could have anticipated.
 
 
-VIII
+### VIII
 
 First of all I must mention that, for the last two or three minutes
 Lizaveta Nikolaevna had seemed to be possessed by a new impulse; she
@@ -8500,7 +8384,7 @@ day.
 ## CHAPTER I. NIGHT
 
 
-I
+### I
 
 EIGHT DAYS HAD PASSED. Now that it is all over and I am writing a record
 of it, we know all about it; but at the time we knew nothing, and it was
@@ -8670,7 +8554,7 @@ future lay in their hands, fawned upon them in a despicable way, chiefly
 because they paid no attention to him whatever.
 
 
-II
+### II
 
 Pyotr Stepanovitch ran round to see his father twice, but unfortunately
 I was absent on both occasions. He visited him for the first time
@@ -8831,7 +8715,7 @@ Sunday, that is, the Monday evening--for in reality a "new scandal"
 began with that evening.
 
 
-III
+### III
 
 It was seven o'clock in the evening. Nikolay Vsyevolodovitch was sitting
 alone in his study--the room he had been fond of in old days. It was
@@ -9339,7 +9223,7 @@ Sunday when he attacked you, had he? I should be glad if you would make
 a note of that." He disappeared again without waiting for an answer.
 
 
-IV
+### IV
 
 Perhaps he imagined, as he made his exit, that as soon as he was left
 alone, Nikolay Vsyevolodovitch would begin beating on the wall with his
@@ -9486,7 +9370,7 @@ Vsyevolodovitch stepped over the high sill, and without a word passed by
 him straight into Kirillov's lodge.
 
 
-V
+### V
 
 There everything was unlocked and all the doors stood open. The passage
 and the first two rooms were dark, but there was a light shining in the
@@ -9855,7 +9739,7 @@ his pale face.
 "Ah, Shatov. Very well, good-bye."
 
 
-VI
+### VI
 
 The door of the empty house in which Shatov was lodging was not closed;
 but, making his way into the passage, Stavrogin found himself in utter
@@ -10217,7 +10101,7 @@ grasping, at last, what he wanted, and passed at once to his principal
 theme.
 
 
-VII
+### VII
 
 "Do you know," he began, with flashing eyes, almost menacingly, bending
 right forward in his chair, raising the forefinger of his right hand
@@ -10654,7 +10538,7 @@ The darkness and the rain continued as before.
 ## CHAPTER II. NIGHT (continued)
 
 
-I
+### I
 
 HE WALKED THE LENGTH of Bogoyavlensky Street. At last the road began
 to go downhill; his feet slipped in the mud and suddenly there lay
@@ -10806,7 +10690,7 @@ to force his services upon him on his own initiative, without Pyotr
 Stepanovitch's knowledge, and that would be more curious still.
 
 
-II
+### II
 
 The house which Nikolay Vsyevolodovitch had reached stood alone in a
 deserted lane between fences, beyond which market gardens stretched, at
@@ -11309,7 +11193,7 @@ positively spat in disgust, and went out again, lost in thought, to
 whistle on the steps.
 
 
-III
+### III
 
 Marya Timofyevna's room was twice as large as the one occupied by the
 captain, and furnished in the same rough style; but the table in front
@@ -11625,7 +11509,7 @@ laughing:
 "A curse on you, Grishka Otrepyev!"
 
 
-IV
+### IV
 
 "A knife, a knife," he repeated with uncontrollable anger, striding
 along through the mud and puddles, without picking his way. It is true
@@ -11744,7 +11628,7 @@ were still to be heard in the darkness.
 ## CHAPTER III. THE DUEL
 
 
-I
+### I
 
 THE NEXT DAY, at two o'clock in the afternoon, the duel took place as
 arranged. Things were hastened forward by Gaganov's obstinate desire to
@@ -11830,7 +11714,7 @@ of mention than anyone, so that it is quite impossible not to say a few
 words about him in particular.
 
 
-II
+### II
 
 I have hitherto not had occasion to describe his appearance. He was a
 tall man of thirty-three, and well fed, as the common folk express it,
@@ -12020,7 +11904,7 @@ off at a gallop.
 
 
 
-III
+### III
 
 "Why don't you speak?" he called impatiently to Kirillov, when they were
 not far from home.
@@ -12128,7 +12012,7 @@ one."
 Nikolay Vsyevolodovitch went into the house, greatly perturbed.
 
 
-IV
+### IV
 
 He learned at once from Alexey Yegorytch that Varvara Petrovna had
 been very glad to hear that Nikolay Vsyevolodovitch had gone out for a
@@ -12312,7 +12196,7 @@ H'm!... but perhaps that's what I want."
 ## CHAPTER IV. ALL IN EXPECTATION
 
 
-I
+### I
 
 The impression made on the whole neighbourhood by the story of the duel,
 which was rapidly noised abroad, was particularly remarkable from the
@@ -12647,7 +12531,7 @@ a strange, prolonged smile. It all lasted only one moment. Nikolay
 Vsyevolodovitch walked on.
 
 
-II
+### II
 
 He went to the "old man" straight from Varvara Petrovna's, and he was
 in such haste simply from spite, that he might revenge himself for an
@@ -12845,7 +12729,7 @@ let it be free from nonsense. Facts, facts, facts. And above all, let it
 be short. Good-bye."
 
 
-III
+### III
 
 Outside influences, too, had come into play in the matter, however.
 Pyotr Stepanovitch certainly had some designs on his parent. In my
@@ -13244,7 +13128,7 @@ would have happened. She was responsible for a great deal.
 ## CHAPTER V. ON THE EVE OF THE FETE
 
 
-I
+### I
 
 The date of the fête which Yulia Mihailovna was getting up for the
 benefit of the governesses of our province had been several times fixed
@@ -13527,7 +13411,7 @@ Liza got on her horse again, in her muddy riding-habit, and galloped
 away.
 
 
-II
+### II
 
 Two days after the incident I have described I met her in a numerous
 company, who were driving out on some expedition in three coaches,
@@ -13938,7 +13822,7 @@ not believe it at the time. I remember, however, that Nikolay
 Vsyevolodovitch was rather pale all the way home.
 
 
-III
+### III
 
 Almost at the same time, and certainly on the same day, the interview
 at last took place between Stepan Trofimovitch and Varvara Petrovna. She
@@ -14261,7 +14145,7 @@ dead with emotion.
 ## CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
 
 
-I
+### I
 
 The date of the fête was definitely fixed, and Von Lembke became more
 and more depressed. He was full of strange and sinister forebodings,
@@ -14365,7 +14249,7 @@ study. He popped in on him just when the sufferer was in a most stubborn
 mood.
 
 
-II
+### II
 
 A combination of circumstances had arisen which Mr. von Lembke was quite
 unable to deal with. In the very district where Pyotr Stepanovitch had
@@ -14530,7 +14414,7 @@ Pyotr Stepanovitch immediately lolled back on the sofa and drew his legs
 under him.
 
 
-III
+### III
 
 "What sort of worries? Surely not these trifles?" He nodded towards the
 manifesto. "I can bring you as many of them as you like; I made their
@@ -15066,7 +14950,7 @@ Well, good-bye. I dare say I shall bring you the writer in a couple of
 days or so. Above all, our compact!"
 
 
-IV
+### IV
 
 Though Pyotr Stepanovitch was perhaps far from being a stupid man, Fedka
 the convict had said of him truly "that he would make up a man himself
@@ -15231,7 +15115,7 @@ amused many people, became public property, moved Yulia Mihailovna to
 fierce anger, utterly disconcerting Andrey Antonovitch and reducing him
 at the crucial moment to a state of deplorable indecision.
 
-V
+### V
 
 It was a busy day for Pyotr Stepanovitch. From Von Lembke he hastened to
 Bogoyavlensky Street, but as he went along Bykovy Street, past the house
@@ -15546,7 +15430,7 @@ simply a rat escaping; men like that don't tell tales!"
 He ran to Filipov's house in Bogoyavlensky Street.
 
 
-VI
+### VI
 
 Pyotr Stepanovitch went first to Kirillov's. He found him, as usual,
 alone, and at the moment practising gymnastics, that is, standing with
@@ -15939,7 +15823,7 @@ nothing better could be wished! The Russian God Himself seems helping
 me."
 
 
-VII
+### VII
 
 He had probably been very busy that day on all sorts of errands and
 probably with success, which was reflected in the self-satisfied
@@ -16263,7 +16147,7 @@ simple business."
 ## CHAPTER VII. A MEETING
 
 
-I
+### I
 
 VIRGINSKY LIVED IN HIS OWN house, or rather his wife's, in Muravyin
 Street. It was a wooden house of one story, and there were no lodgers in
@@ -16471,7 +16355,7 @@ her cheeks were as red as cranberries: she had just quarrelled with her
 uncle over his views on the woman question.
 
 
-II
+### II
 
 With conspicuous nonchalance Verhovensky lounged in the chair at the
 upper end of the table, almost without greeting anyone. His expression
@@ -18222,7 +18106,7 @@ as he suddenly displayed that morning. Poor friend, kind-hearted friend!
 ## CHAPTER X. FILIBUSTERS. A FATAL MORNING
 
 
-I
+### I
 
 The adventure that befell us on the way was also a surprising one. But I
 must tell the story in due order. An hour before Stepan Trofimovitch
@@ -18683,7 +18567,7 @@ his head bent in thought, leaning lightly on his stick. He held his
 wide-brimmed hat in his left hand. We sat like that for ten minutes.
 
 
-II
+### II
 
 Lembke suddenly came in with rapid steps, accompanied by the chief of
 police, looked absent-mindedly at us and, taking no notice of us, was
@@ -18814,7 +18698,7 @@ entered noisily with all the party which had accompanied her. But at
 this point I should like to tell my story in as much detail as possible.
 
 
-III
+### III
 
 In the first place, the whole company who had filled three carriages
 crowded into the waiting-room. There was a special entrance to Yulia
@@ -19185,7 +19069,7 @@ not--but I've begun to move...."
 ## CHAPTER I. THE FETE--FIRST PART
 
 
-I
+### I
 
 The fête took place in spite of all the perplexities of the preceding
 "Shpigulin" day. I believe that even if Lembke had died the previous
@@ -19287,7 +19171,7 @@ would dance in costume--which would certainly be a complete novelty in
 itself. Who could resist subscribing? Every one subscribed.
 
 
-II
+### II
 
 The programme of the fête was divided into two parts: the literary
 matinée from midday till four o'clock, and afterwards a ball from ten
@@ -19785,7 +19669,7 @@ this by-play every moment. It made me uncomfortable. I hastened away to
 listen to Karmazinov.
 
 
-III
+### III
 
 There was a feeling in the hall that something was wrong again. Let me
 state to begin with that I have the deepest reverence for genius, but
@@ -20063,7 +19947,7 @@ And it was into this incipient chaos that poor Stepan Trofimovitch was
 thrust.
 
 
-IV
+### IV
 
 I ran out to him behind the scenes once more, and had time to warn him
 excitedly that in my opinion the game was up, that he had better not
@@ -20354,7 +20238,7 @@ course, I went to Stepan Trofimovitch's.
 ## CHAPTER II. THE END OF THE FETE
 
 
-I
+### I
 
 HE WOULD NOT SEE ME. He had shut himself up and was writing. At my
 repeated knocks and appeals he answered through the door:
@@ -20453,7 +20337,7 @@ and shouting after him that I was sure he would send Nastasya for me
 three times that day, but I would not come, I gave him up and ran off to
 Yulia Mihailovna.
 
-II
+### II
 
 There I was the witness of a revolting scene: the poor woman was
 deceived to her face, and I could do nothing. Indeed, what could I say
@@ -20848,7 +20732,7 @@ wanted, too, to have a look at Yulia Mihailovna, if only at a distance.
 I reproached myself greatly that I had left her so abruptly that
 afternoon.
 
-III
+### III
 
 All that night, with its almost grotesque incidents, and the terrible
 _dénouement_ that followed in the early morning, still seems to me like a
@@ -21308,7 +21192,7 @@ to the velvet sofas and the floor. Next morning, at the earliest
 possibility, they were dragged out by their legs into the street. So
 ended the fête for the benefit of the governesses of our province.
 
-IV
+### IV
 
 The fire frightened the inhabitants of the riverside just because it
 was evidently a case of arson. It was curious that at the first cry of
@@ -21526,7 +21410,7 @@ on like this?" and so saying he waved his arms.
 ## CHAPTER III. A ROMANCE ENDED
 
 
-I
+### I
 
 FROM THE LARGE BALLROOM of Skvoreshniki (the room in which the last
 interview with Varvara Petrovna and Stepan Trofimovitch had taken place)
@@ -21816,7 +21700,7 @@ it!"
 
 She started and looked at him in dismay; but he hurriedly went out.
 
-II
+### II
 
 The room from which Pyotr Stepanovitch had peeped in was a large
 oval vestibule. Alexey Yegorytch had been sitting there before Pyotr
@@ -22176,7 +22060,7 @@ room.
 "Perhaps, after all, it may be for the best," Pyotr Stepanovitch
 muttered to himself as he hid the revolver.
 
-III
+### III
 
 He rushed off to overtake Lizaveta Nikolaevna. She had not got far
 away, only a few steps, from the house. She had been detained by Alexey
@@ -22457,7 +22341,7 @@ irresponsible. I am of that opinion to this day.
 ## CHAPTER IV. THE LAST RESOLUTION
 
 
-I
+### I
 
 THAT MORNING MANY people saw Pyotr Stepanovitch. All who saw him
 remembered that he was in a particularly excited state. At two o'clock
@@ -22900,7 +22784,7 @@ where the printing press was hidden was announced and each was assigned
 his part and his duty. Liputin and Pyotr Stepanovitch promptly set off
 together to Kirillov.
 
-II
+### II
 
 All our fellows believed that Shatov was going to betray them; but they
 also believed that Pyotr Stepanovitch was playing with them like pawns.
@@ -23109,7 +22993,7 @@ Fedka used to visit Kirillov.
 "Shatov mustn't know that we are here," Pyotr Stepanovitch whispered
 sternly to Liputin.
 
-III
+### III
 
 Kirillov was sitting on his leather sofa drinking tea, as he always was
 at that hour. He did not get up to meet them, but gave a sort of start
@@ -23437,7 +23321,7 @@ hell; you are not wanted till to-morrow. But mind now, don't be a fool!"
 
 Liputin rushed home full speed.
 
-IV
+### IV
 
 He had long had a passport in readiness made out in a false name. It
 seems a wild idea that this prudent little man, the petty despot of
@@ -23518,7 +23402,7 @@ he still had his passport in his pocket.
 ## CHAPTER V. A WANDERER
 
 
-I
+### I
 
 THE CATASTROPHE WITH Liza and the death of Marya Timofyevna made an
 overwhelming impression on Shatov. I have already mentioned that that
@@ -23963,7 +23847,7 @@ bow and walked deliberately downstairs.
 
 "I thought you said something."
 
-II
+### II
 
 Erkel was a "little fool" who was only lacking in the higher form
 of reason, the ruling power of the intellect; but of the lesser, the
@@ -24259,7 +24143,7 @@ her desperate state than to leave her without help later, he paid
 no attention to her groans, nor her angry exclamations, but rushed
 downstairs, hurrying all he could.
 
-III
+### III
 
 First of all he went to Kirillov. It was by now about one o'clock in the
 night. Kirillov was standing in the middle of the room.
@@ -24533,7 +24417,7 @@ that your wife has come back?"
 "Fool!" cried Shatov, with a gesture of disgust, and ran home as hard as
 he could.
 
-IV
+### IV
 
 I may mention that Anna Prohorovna knew nothing of the resolutions
 that had been taken at the meeting the day before. On returning home
@@ -24661,7 +24545,7 @@ the streets with his tongue out and wouldn't have roused all the dogs in
 the town. He broke my window-frame."
 
 
-V
+### V
 
 He found Kirillov still pacing up and down his room so preoccupied that
 he had forgotten the arrival of Shatov's wife, and heard what he said
@@ -24719,7 +24603,7 @@ Mahomet was an epileptic. Be careful, Kirillov, it's epilepsy!"
 
 "It won't have time," Kirillov smiled gently.
 
-VI
+### VI
 
 The night was passing. Shatov was sent hither and thither, abused,
 called back. Marie was reduced to the most abject terror for life. She
@@ -24961,7 +24845,7 @@ They walked very fast.
 ## CHAPTER VI. A BUSY NIGHT
 
 
-I
+### I
 
 During that day Virginsky had spent two hours in running round to
 see the members of the quintet and to inform them that Shatov would
@@ -25396,7 +25280,7 @@ Pyotr Stepanovitch pondered a little.
 group must remain a group and obey, or I'll... What a wretched set they
 are though!"
 
-II
+### II
 
 He first went home, and carefully, without haste, packed his trunk. At
 six o'clock in the morning there was a special train from the town.
@@ -26158,7 +26042,7 @@ table, he smiled mechanically and then went out of the house, still for
 some reason walking on tiptoe. He crept through Fedka's hole again and
 carefully replaced the posts after him.
 
-III
+### III
 
 Precisely at ten minutes to six Pyotr Stepanovitch and Erkel were
 walking up and down the platform at the railway-station beside a rather
@@ -26330,7 +26214,7 @@ evening before.
 ## CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING
 
 
-I
+### I
 
 I am persuaded that Stepan Trofimovitch was terribly frightened as
 he felt the time fixed for his insane enterprise drawing near. I am
@@ -26936,7 +26820,7 @@ trap, "it has been a treat to see you."
 
 "Yes, my friend, yes... Fyodor Petrovitch... only good-bye."
 
-II
+### II
 
 "You see, my friend... you'll allow me to call myself your friend,
 n'est-ce pas?" Stepan Trofimovitch began hurriedly as soon as the trap
@@ -27416,7 +27300,7 @@ un lac!"_ he said. "Good heavens, I had not seen it before!..." At that
 moment there was the rumble of a carriage at the cottage door and a
 great hubbub in the house followed.
 
-III
+### III
 
 It was Varvara Petrovna herself. She had arrived, with Darya Pavlovna,
 in a closed carriage drawn by four horses, with two footmen. The marvel
@@ -28333,370 +28217,3 @@ At the inquest our doctors absolutely and emphatically rejected all idea
 of insanity.
 
 THE END
-
-
-
-
-
-
-End of the Project Gutenberg EBook of The Possessed, by Fyodor Dostoevsky
-
-*** END OF THIS PROJECT GUTENBERG EBOOK THE POSSESSED ***
-
-***** This file should be named 8117-8.txt or 8117-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/8/1/1/8117/
-
-Produced by David Moynihan, David Widger and Michelle Knight
-
-Updated editions will replace the previous one--the old editions
-will be renamed.
-
-Creating the works from public domain print editions means that no
-one owns a United States copyright in these works, so the Foundation
-(and you!) can copy and distribute it in the United States without
-permission and without paying copyright royalties.  Special rules,
-set forth in the General Terms of Use part of this license, apply to
-copying and distributing Project Gutenberg-tm electronic works to
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
-Gutenberg is a registered trademark, and may not be used if you
-charge for the eBooks, unless you receive specific permission.  If you
-do not charge anything for copies of this eBook, complying with the
-rules is very easy.  You may use this eBook for nearly any purpose
-such as creation of derivative works, reports, performances and
-research.  They may be modified and printed and given away--you may do
-practically ANYTHING with public domain eBooks.  Redistribution is
-subject to the trademark license, especially commercial
-redistribution.
-
-
-
-*** START: FULL LICENSE ***
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full Project
-Gutenberg-tm License (available with this file or online at
-http://gutenberg.org/license).
-
-
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
-electronic works
-
-1.A.  By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement.  If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or destroy
-all copies of Project Gutenberg-tm electronic works in your possession.
-If you paid a fee for obtaining a copy of or access to a Project
-Gutenberg-tm electronic work and you do not agree to be bound by the
-terms of this agreement, you may obtain a refund from the person or
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
-
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement.  There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement.  See
-paragraph 1.C below.  There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this agreement
-and help preserve free future access to Project Gutenberg-tm electronic
-works.  See paragraph 1.E below.
-
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-or PGLAF), owns a compilation copyright in the collection of Project
-Gutenberg-tm electronic works.  Nearly all the individual works in the
-collection are in the public domain in the United States.  If an
-individual work is in the public domain in the United States and you are
-located in the United States, we do not claim a right to prevent you from
-copying, distributing, performing, displaying or creating derivative
-works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
-Gutenberg-tm mission of promoting free access to electronic works by
-freely sharing Project Gutenberg-tm works in compliance with the terms of
-this agreement for keeping the Project Gutenberg-tm name associated with
-the work.  You can easily comply with the terms of this agreement by
-keeping this work in the same format with its attached full Project
-Gutenberg-tm License when you share it without charge with others.
-
-1.D.  The copyright laws of the place where you are located also govern
-what you can do with this work.  Copyright laws in most countries are in
-a constant state of change.  If you are outside the United States, check
-the laws of your country in addition to the terms of this agreement
-before downloading, copying, displaying, performing, distributing or
-creating derivative works based on this work or any other Project
-Gutenberg-tm work.  The Foundation makes no representations concerning
-the copyright status of any work in any country outside the United
-States.
-
-1.E.  Unless you have removed all references to Project Gutenberg:
-
-1.E.1.  The following sentence, with active links to, or other immediate
-access to, the full Project Gutenberg-tm License must appear prominently
-whenever any copy of a Project Gutenberg-tm work (any work on which the
-phrase "Project Gutenberg" appears, or with which the phrase "Project
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
-copied or distributed:
-
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org
-
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
-from the public domain (does not contain a notice indicating that it is
-posted with permission of the copyright holder), the work can be copied
-and distributed to anyone in the United States without paying any fees
-or charges.  If you are redistributing or providing access to a work
-with the phrase "Project Gutenberg" associated with or appearing on the
-work, you must comply either with the requirements of paragraphs 1.E.1
-through 1.E.7 or obtain permission for the use of the work and the
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
-1.E.9.
-
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
-terms imposed by the copyright holder.  Additional terms will be linked
-to the Project Gutenberg-tm License for all works posted with the
-permission of the copyright holder found at the beginning of this work.
-
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6.  You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including any
-word processing or hypertext form.  However, if you provide access to or
-distribute copies of a Project Gutenberg-tm work in a format other than
-"Plain Vanilla ASCII" or other format used in the official version
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
-you must, at no additional cost, fee or expense to the user, provide a
-copy, a means of exporting a copy, or a means of obtaining a copy upon
-request, of the work in its original "Plain Vanilla ASCII" or other
-form.  Any alternate format must include the full Project Gutenberg-tm
-License as specified in paragraph 1.E.1.
-
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8.  You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works provided
-that
-
-- You pay a royalty fee of 20% of the gross profits you derive from
-     the use of Project Gutenberg-tm works calculated using the method
-     you already use to calculate your applicable taxes.  The fee is
-     owed to the owner of the Project Gutenberg-tm trademark, but he
-     has agreed to donate royalties under this paragraph to the
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
-     must be paid within 60 days following each date on which you
-     prepare (or are legally required to prepare) your periodic tax
-     returns.  Royalty payments should be clearly marked as such and
-     sent to the Project Gutenberg Literary Archive Foundation at the
-     address specified in Section 4, "Information about donations to
-     the Project Gutenberg Literary Archive Foundation."
-
-- You provide a full refund of any money paid by a user who notifies
-     you in writing (or by e-mail) within 30 days of receipt that s/he
-     does not agree to the terms of the full Project Gutenberg-tm
-     License.  You must require such a user to return or
-     destroy all copies of the works possessed in a physical medium
-     and discontinue all use of and all access to other copies of
-     Project Gutenberg-tm works.
-
-- You provide, in accordance with paragraph 1.F.3, a full refund of any
-     money paid for a work or a replacement copy, if a defect in the
-     electronic work is discovered and reported to you within 90 days
-     of receipt of the work.
-
-- You comply with all other terms of this agreement for free
-     distribution of Project Gutenberg-tm works.
-
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-electronic work or group of works on different terms than are set
-forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
-Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-public domain works in creating the Project Gutenberg-tm
-collection.  Despite these efforts, Project Gutenberg-tm electronic
-works, and the medium on which they may be stored, may contain
-"Defects," such as, but not limited to, incomplete, inaccurate or
-corrupt data, transcription errors, a copyright or other intellectual
-property infringement, a defective or damaged disk or other medium, a
-computer virus, or computer codes that damage or cannot be read by
-your equipment.
-
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from.  If you
-received the work on a physical medium, you must return the medium with
-your written explanation.  The person or entity that provided you with
-the defective work may elect to provide a replacement copy in lieu of a
-refund.  If you received the work electronically, the person or entity
-providing it to you may choose to give you a second opportunity to
-receive the work electronically in lieu of a refund.  If the second copy
-is also defective, you may demand a refund in writing without further
-opportunities to fix the problem.
-
-1.F.4.  Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5.  Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of damages.
-If any disclaimer or limitation set forth in this agreement violates the
-law of the state applicable to this agreement, the agreement shall be
-interpreted to make the maximum disclaimer or limitation permitted by
-the applicable state law.  The invalidity or unenforceability of any
-provision of this agreement shall not void the remaining provisions.
-
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in accordance
-with this agreement, and any volunteers associated with the production,
-promotion and distribution of Project Gutenberg-tm electronic works,
-harmless from all liability, costs and expenses, including legal fees,
-that arise directly or indirectly from any of the following which you do
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
-work, (b) alteration, modification, or additions or deletions to any
-Project Gutenberg-tm work, and (c) any Defect you cause.
-
-
-Section  2.  Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of computers
-including obsolete, old, middle-aged and new computers.  It exists
-because of the efforts of hundreds of volunteers and donations from
-people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need, are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come.  In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future generations.
-To learn more about the Project Gutenberg Literary Archive Foundation
-and how your efforts and donations can help, see Sections 3 and 4
-and the Foundation web page at http://www.pglaf.org.
-
-
-Section 3.  Information about the Project Gutenberg Literary Archive
-Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service.  The Foundation's EIN or federal tax identification
-number is 64-6221541.  Its 501(c)(3) letter is posted at
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
-Literary Archive Foundation are tax deductible to the full extent
-permitted by U.S. federal laws and your state's laws.
-
-The Foundation's principal office is located at 4557 Melan Dr. S.
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
-throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
-business@pglaf.org.  Email contact links and up to date contact
-information can be found at the Foundation's web site and official
-page at http://pglaf.org
-
-For additional contact information:
-     Dr. Gregory B. Newby
-     Chief Executive and Director
-     gbnewby@pglaf.org
-
-
-Section 4.  Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment.  Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States.  Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements.  We do not solicit donations in locations
-where we have not received written confirmation of compliance.  To
-SEND DONATIONS or determine the status of compliance for any
-particular state visit http://pglaf.org
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses.  Donations are accepted in a number of other
-ways including checks, online payments and credit card donations.
-To donate, please visit: http://pglaf.org/donate
-
-
-Section 5.  General Information About Project Gutenberg-tm electronic
-works.
-
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
-concept of a library of electronic works that could be freely shared
-with anyone.  For thirty years, he produced and distributed Project
-Gutenberg-tm eBooks with only a loose network of volunteer support.
-
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as Public Domain in the U.S.
-unless a copyright notice is included.  Thus, we do not necessarily
-keep eBooks in compliance with any particular paper edition.
-
-
-Most people start at our Web site which has the main PG search facility:
-
-     http://www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
