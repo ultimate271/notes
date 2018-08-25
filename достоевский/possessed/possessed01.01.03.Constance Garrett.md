@@ -5,7 +5,10 @@
 PART I
 CHAPTER I. INTRODUCTORY
 III
-# III
+# Oveeciew of relationship between Stepan and Varvara
+## Details of their friendship: letters
+[Character]: # {Stepan Trofimovitch}
+[Character]: # {Varvara Petrovna}
 There are strange friendships. The two friends are always ready to fly at one
 another, and go on like that all their lives, and yet they cannot separate.
 Parting, in fact, is utterly impossible. The one who has begun the quarrel and
@@ -64,6 +67,7 @@ fell ill with one of his attacks of "summer cholera." These attacks of a sort
 of "summer cholera" were, in some cases, the regular consequence of his nervous
 agitations and were an interesting peculiarity of his physical constitution.
 
+## Varvara's propensity to think of Stepan as a son
 No doubt Varvara Petrovna did very often hate him. But there was one thing he
 had not discerned up to the end: that was that he had become for her a son, her
 creation, even, one may say, her invention; he had become flesh of her flesh,
