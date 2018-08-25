@@ -1,30 +1,32 @@
 # Chapter 20: Of the Fifth Battle: Nirnaeth Arnoediad
-
+[Metadata]: # {20}
+[Descriptor]: # {20}
+[Author]: # {tolkien}
 # The conclusion of the tale of Beren and Lúthien
-
+[TreeTag]: # {20.01}
 ## Beren and Lúthien go to Tol Galen in Ossiriand and there they died
-_Some commentary about this particular paragraph_
-
-It is said that Beren and Lúthien returned to the northern lands of
-Middle-earth, and dwelt together for a time as living man and woman; and they
-took up again their mortal form in Doriath. Those that saw them were both glad
-and fearful; and Lúthien went to Menegroth and healed the winter of Thingol
-with the touch of her hand. But Melian looked in her eyes and read the doom
-that was written there, and turned away; for she knew that a parting beyond the
-end of the world had come between them, and no grief of loss has been heavier
-than the grief of Melian the Maia in that hour. Then Beren and Lúthien went
-forth alone, fearing neither thirst nor hunger; and they passed beyond the
-River Gelion into Ossiriand, and dwelt there in Tol Galen the green isle, in
-the midst of Adurant, until all tidings of them ceased. The Eldar afterwards
-called that country Dor Firn-i-Guinar, the Land of the Dead that Live; and
-there was born Dior Aranel the beautiful, who was after known as Dior Eluchíl,
-which is Thingol's Heir. No mortal man spoke ever again with Beren son of
-Barahir; and none saw Beren or Lúthien leave the world, or marked where at last
-their bodies lay.
+[TreeTag]: # {20.01.01}
+_Some commentary about this particular paragraph_  It is said that Beren and
+Lúthien returned to the northern lands of Middle-earth, and dwelt together for
+a time as living man and woman; and they took up again their mortal form in
+Doriath. Those that saw them were both glad and fearful; and Lúthien went to
+Menegroth and healed the winter of Thingol with the touch of her hand. But
+Melian looked in her eyes and read the doom that was written there, and turned
+away; for she knew that a parting beyond the end of the world had come between
+them, and no grief of loss has been heavier than the grief of Melian the Maia
+in that hour. Then Beren and Lúthien went forth alone, fearing neither thirst
+nor hunger; and they passed beyond the River Gelion into Ossiriand, and dwelt
+there in Tol Galen the green isle, in the midst of Adurant, until all tidings
+of them ceased. The Eldar afterwards called that country Dor Firn-i-Guinar, the
+Land of the Dead that Live; and there was born Dior Aranel the beautiful, who
+was after known as Dior Eluchíl, which is Thingol's Heir. No mortal man spoke
+ever again with Beren son of Barahir; and none saw Beren or Lúthien leave the
+world, or marked where at last their bodies lay.
 
 # The plannings and alliances of the Elves and Men
-
+[TreeTag]: # {20.02}
 ## Of the Union of Maedhros
+[TreeTag]: # {20.02.01}
 In those days Maedhros son of Fëanor lifted up his heart, perceiving that
 Morgoth was not unassailable; for the deeds of Beren and Lúthien were sung in
 many songs throughout Beleriand. Yet Morgoth would destroy them all, one by
@@ -33,6 +35,7 @@ he began those counsels for the raising of the fortunes of the Eldar that are
 called the Union of Maedhros.
 
 ## Orodreth refuses to join, but Guilin chooses to fight against the ways of Minas Tirith
+[TreeTag]: # {20.02.02}
 Yet the oath of Fëanor and the evil deeds that it had wrought did injury to the
 design of Maedhros, and he had less aid than should have been. Orodreth would
 not march forth at the word of any son of Fëanor, because of the deeds of
@@ -45,6 +48,7 @@ house of Fingolfin, and marched beneath the banners of Fingon; and they came
 never back, save one.
 
 ## Thingol fortifies his realm from the sons of Fëanor so he may keep the Silmaril
+[TreeTag]: # {20.02.03}
 From Doriath came little help. For Maedhros and his brothers, being constrained
 by their oath, had before sent to Thingol and reminded him with haughty words
 of their claim, summoning him to yield the Silmaril, or become their enemy.
@@ -63,6 +67,7 @@ these great deeds. To them Thingol gave leave to go, so long as they served not
 the sons of Fëanor; and they joined themselves to the host of Fingon.
 
 ## The Dwarves and Men of Bór and Ulfang join Maedhros, and Halmir in Hithlum join as well
+[TreeTag]: # {20.02.04}
 But Maedhros had the help of the Naugrim, both in armed force and in great
 store of weapons; and the smithies of Nogrod and Belegost were busy in those
 days. And he gathered together again all his brothers and all the people who
@@ -76,6 +81,7 @@ son ruled that people. And to Gondolin also the tidings came, to Turgon, the
 hidden king.
 
 ## Morgoth is aware of the uniting of the elves about Beleriand
+[TreeTag]: # {20.02.05}
 But Maedhros made trial of his strength too soon, ere his plans were
 full-wrought; and though the Orcs were driven out of all the northward regions
 of Beleriand, and even Dorthonion was freed for a while, Morgoth was warned of
@@ -85,6 +91,7 @@ better able now to do, for the faithless Men of his secret allegiance were yet
 deep in the secrets of the sons of Fëanor.
 
 ## The plan to sandwhich Angband from the East and West
+[TreeTag]: # {20.02.06}
 At length Maedhros, having gathered all the strength that he could of Elves and
 Men and Dwarves, resolved to assault Angband from east and west; and he
 purposed to march with banners displayed in open force over Anfauglith. But
@@ -94,8 +101,9 @@ take the might of Morgoth as between anvil and hammer, and break it to pieces.
 And the signal for this was to be the firing of a great beacon in Dorthonion.
 
 # The calm before the storm
-
+[TreeTag]: # {20.03}
 ## The rising of the trumpets of those that fought there
+[TreeTag]: # {20.03.01}
 On the appointed day, on the morning of Midsummer, the trumpets of the Eldar
 greeted the rising of the sun; and in the east was raised the standard of the
 sons of Fëanor, and in the west the standard of Fingon, High King of the
@@ -108,6 +116,7 @@ right were the host of Dor-lómin and all the valour of Húrin and Huor his
 brother, and to them had come Haldir of Brethil with many men of the woods.
 
 ## Fingon grows nervous and looks to the East for Maedhros
+[TreeTag]: # {20.03.02}
 Then Fingon looked towards Thangorodrim, and there was a dark cloud about it,
 and a black smoke went up; and he knew that the wrath of Morgoth was aroused,
 and that their challenge was accepted. A shadow of doubt fell upon Fingon's
@@ -117,6 +126,7 @@ Maedhros was hindered in his setting-forth by the guile of Uldor the accursed,
 who deceived him with false warnings of assault from Angband.
 
 ## Turgon joins with his host of Gondolin unlooked for
+[TreeTag]: # {20.03.03}
 But now a cry went up, passing up the wind from the south from vale to vale,
 and Elves and Men lifted their voices in wonder and joy. For unsummoned and
 unlocked for Turgon had opened the leaguer of Gondolin, and was come with an
@@ -129,8 +139,9 @@ heard his great voice echo in the hills answered crying: 'Auta i lómë! The
 night is passing!'
 
 # The bait is laid by Morgoth and taken by the allies
-
+[TreeTag]: # {20.04}
 ## Morgoth sends forth his initial host
+[TreeTag]: # {20.04.01}
 Now Morgoth, who knew much of what was done and designed by his enemies, chose
 his hour, and trusting in his treacherous servants to hold back Maedhros and
 prevent the union of his foes he sent a force seeming great (and yet but part
@@ -139,6 +150,7 @@ raiment and showed no naked steel, and thus were already far over the sands of
 Anfauglith before their approach was seen.
 
 ## The Noldor grow anxious, but Húrin speaks of patience
+[TreeTag]: # {20.04.02}
 Then the hearts of the Noldor grew hot, and their captains wished to assail
 their foes upon the plain; but Húrin spoke against it, and bade them beware of
 the guile of Morgoth, whose strength was always greater than it seemed, and his
@@ -147,6 +159,7 @@ Maedhros came not, and the host grew impatient, Húrin urged them still to await
 it, and to let the Orcs break themselves in assault upon the hills.
 
 ## Gelmir is brought forth and mutilated to stir the impatience of the armies
+[TreeTag]: # {20.04.03}
 But the Captain of Morgoth in the west had been commanded to draw out Fingon
 swiftly from his hills by whatever means he could. He marched on therefore
 until the front of his battle was drawn up before the stream of Sirion, from
@@ -164,6 +177,7 @@ off Gelmir's hands and feet, and his head last, within sight of the Elves, and
 left him.
 
 ## Gwindor, brother of Gelmir, leeroy's in, and the host of Fingon are fought back
+[TreeTag]: # {20.04.04}
 By ill chance, at that place in the outworks stood Gwindor of Nargothrond, the
 brother of Gelmir. Now his wrath was kindled to madness, and he leapt forth on
 horseback, and many riders with him; and they pursued the heralds and slew
@@ -185,8 +199,9 @@ main host that he held in waiting, and Fingon was beaten back with great loss
 from the walls.
 
 # Climax and treachery
-
+[TreeTag]: # {20.05}
 ## Nirnaeth Arnoediad, Unnumbered Tears, as the host of Hithlum is surrounded
+[TreeTag]: # {20.05.01}
 Then in the plain of Anfauglith, on the fourth day of the war, there began
 Nirnaeth Arnoediad, Unnumbered Tears, for no song or tale can contain all its
 grief. The host of Fingon retreated over the sands, and Haldir lord of the
@@ -201,6 +216,7 @@ aid of his brother; and the Gondolindrim were strong and clad in mail, and
 their ranks shone like a river of steel in the sun.
 
 ## The climax of the battle, where all the allies meet and Angband is emptied
+[TreeTag]: # {20.05.02}
 Now the phalanx of the guard of the King broke through the ranks of the Orcs,
 and Turgon hewed his way to the side of his brother; and it is told that the
 meeting of Turgon with Húrin, who stood beside Fingon, was glad in the midst of
@@ -217,6 +233,7 @@ Great Worm were now great indeed, and Elves and Men withered before him; and he
 came between the hosts of Maedhros and Fingon and swept them apart.
 
 ## Of the treachery of the sons of Ulfang, his death by the sons of Bór and the retreat that followed
+[TreeTag]: # {20.05.03}
 Yet neither by wolf, nor by Balrog, nor by Dragon, would Morgoth have achieved
 his end, but for the treachery of Men. In this hour the plots of Ulfang were
 revealed. Many of the Easterlings turned and fled, their hearts being filled
@@ -234,8 +251,9 @@ they hewed a way out of the battle and escaped far away towards Mount Dolmed in
 the east.
 
 # The dwarves part in the battles
-
+[TreeTag]: # {20.06}
 ## Azaghâl injures Glaurung, but gives his life in doing
+[TreeTag]: # {20.06.01}
 Last of all the eastern force to stand firm were the Dwarves of Belegost, and
 thus they won renown. For the Naugrim withstood fire more hardily than either
 Elves or Men, and it was their custom moreover to wear great masks in battle
@@ -252,8 +270,9 @@ deep voices, as it were a funeral pomp in their country, and gave no heed more
 to their foes; and none dared to stay them.
 
 # The retreat of Turgon after the slaying of Fingon
-
+[TreeTag]: # {20.07}
 ## Fingon is slain by Gothmog
+[TreeTag]: # {20.07.01}
 But now in the western battle Fingon and Turgon were assailed by a tide of foes
 thrice greater than all the force that was left to them.  Gothmog, Lord of
 Balrogs, high-captain of Angband, was come; and he drove a dark wedge between
@@ -267,6 +286,7 @@ they beat him into the dust with their maces, and his banner, blue and silver,
 they trod into the mire of his blood.
 
 ## Húrin bids Turgon to flee so that Gondolin may still stand
+[TreeTag]: # {20.07.02}
 The field was lost; but still Húrin and Huor and the remnant of the house of
 Hador stood firm with Turgon of Gondolin, and the hosts of Morgoth could not
 yet win the Pass of Sirion. Then Húrin spoke to Turgon, saying: 'Go now, lord,
@@ -274,20 +294,24 @@ while time is! For in you lives the last hope of the Eldar, and while Gondolin
 stands Morgoth shall still know fear in his heart.'
 
 ## Turgon is not so sure that Gondolin will be any hope ere they lose
+[TreeTag]: # {20.07.03}
 But Turgon answered: 'Not long now can Gondolin be hidden; and being discovered
 it must fall.'
 
 ## Huor says goodbye to Turgon
+[TreeTag]: # {20.07.04}
 Then Huor spoke and said: 'Yet if it stands but a little while, then out of
 your house shall come the hope of Elves and Men. This I say to you, lord, with
 the eyes of death: though we part here for ever, and I shall not look on your
 white walls again, from you and from me a new star shall arise. Farewell!'
 
 ## Maeglin reflects on what may become of Gondolin
+[TreeTag]: # {20.07.05}
 And Maeglin, Turgon's sister-son, who stood by, heard these words, and did not
 forget them; but he said nothing.
 
 ## Turgon flees while Ecthelion and Glorfindel guard him, the last stand of Dor-lómin
+[TreeTag]: # {20.07.06}
 Then Turgon took the counsel of Húrin and Huor, and summoning all that remained
 of the host of Gondolin and such of Fingon's people as could be gathered he
 retreated towards the Pass of Sirion; and his captains Ecthelion and Glorfindel
@@ -300,6 +324,7 @@ fathers of Men wrought in behalf of the Eldar, the last stand of the Men of
 Dor-lómin is most renowned.
 
 ## Turgon escapes, and Húrin and Huor withdraw the troops
+[TreeTag]: # {20.07.07}
 So it was that Turgon fought his way southward, until coming behind the guard
 of Húrin and Huor he passed down Sirion and escaped; and he vanished into the
 mountains and was hidden from the eyes of Morgoth.  But the brothers drew the
@@ -308,6 +333,7 @@ withdrew, until they came behind the Fen of Serech, and had the stream of Rivil
 before them. There they stood and gave way no more.
 
 ## The orcs give chase, Huor is slain, and his peoples are piled in a heap
+[TreeTag]: # {20.07.08}
 Then all the hosts of Angband swarmed against them, and they bridged the stream
 with their dead, and encircled the remnant of Hithlum as a gathering tide about
 a rock. There as the sun westered on the sixth day, and the shadow of Ered
@@ -316,6 +342,7 @@ the valiant Men of Hador were slain about him in a heap; and the Orcs hewed
 their heads and piled them as a mound of gold in the sunset.
 
 ## Húrin stands alone, casts his sheild, and is captured by Gothmag in a vailiant fight
+[TreeTag]: # {20.07.09}
 Last of all Húrin stood alone. Then he cast aside his shield, and wielded an
 axe two-handed; and it is sung that the axe smoked in the black blood of the
 troll-guard of Gothmog until it withered, and each time that he slew Húrin
@@ -326,12 +353,14 @@ their arms; and ever their numbers were renewed, until at last he fell buried
 beneath them. Then Gothmog bound him and dragged him to Angband with mockery.
 
 ## The end of Nirnaeth Arnoediad
+[TreeTag]: # {20.07.10}
 Thus ended Nirnaeth Arnoediad, as the sun went down beyond the sea.  Night fell
 in Hithlum, and there came a great storm of wind out of the West.
 
 # Aftermath
-
+[TreeTag]: # {20.08}
 ## Of the victory of Morgoth
+[TreeTag]: # {20.08.01}
 Great was the triumph of Morgoth, and his design was accomplished in a manner
 after his own heart; for Men took the lives of Men, and betrayed the Eldar, and
 fear and hatred were aroused among those that should have been united against
@@ -339,6 +368,7 @@ him. From that day the hearts of the Elves were estranged from Men, save only
 those of the Three Houses of the Edain.
 
 ## The sons of Fëanor are scattered, and Fingon is no more. The "reward" of the treacherous
+[TreeTag]: # {20.08.02}
 The realm of Fingon was no more; and the sons of Fëanor wandered as leaves
 before the wind. Their arms were scattered, and their league broken; and they
 took to a wild and woodland life beneath the feet of Ered Lindon, mingling with
@@ -355,6 +385,7 @@ of Hithlum were taken to the mines of the north and laboured there as thralls,
 save some that eluded him and escaped into the wilds and the mountains.'
 
 ## The hosts of Morgoth overtake Beleriand, Círdan and Gil-galad flee to the Isle of Balar, and only Doriath, Nargothrond, and Gondolin remain un-savaged in that time
+[TreeTag]: # {20.08.03}
 The Orcs and the wolves went freely through all the North, and came ever
 further southward into Beleriand, even as far as Nantathren, the Land of
 Willows, and the borders of Ossiriand, and none were safe in field or wild.
@@ -378,6 +409,7 @@ and there many light and swift ships lay hid in the creeks and waters where the
 reeds were dense as a forest.
 
 ## Turgon seeks Círdan and they send seven ships, but only Voronwë returns
+[TreeTag]: # {20.08.04}
 And when Turgon heard of this he sent again his messengers to Sirion's mouths,
 and besought the aid of Círdan the Shipwright. At the bidding of Turgon Círdan
 built seven swift ships, and they sailed out into the West; but no tidings of
@@ -389,8 +421,9 @@ ashore in Nevrast. His name was Voronwë; and he was one of those that Turgon
 sent forth as messengers from Gondolin.
 
 # Morgoth seeks for Gondolin
-
+[TreeTag]: # {20.09}
 ## Morgoth thinks of Turgon, feeling his victory could have been more complete
+[TreeTag]: # {20.09.01}
 Now the thought of Morgoth dwelt ever upon Turgon; for Turgon had escaped him,
 of ail his foes that one whom he most desired to take or to destroy. And that
 thought troubled him, and marred his victory, for Turgon of the mighty house of
@@ -402,6 +435,7 @@ him, and whenever he drew near a shadow had fallen on his spirit, foreboding
 that in some time that yet lay hidden, from Turgon ruin should come to him.
 
 ## Morgoth tries to question and curse Húrin for the location of Gondolin, to no avail
+[TreeTag]: # {20.09.02}
 Therefore Húrin was brought before Morgoth, for Morgoth knew that he had the
 friendship of the King of Gondolin; but Húrin defied him, and mocked him. Then
 Morgoth cursed Húrin and Morwen and their offspring, and set a doom upon them
@@ -415,12 +449,14 @@ and with my ears thou shalt hear; and never shalt thou move from this place
 until all is fulfilled unto its bitter end.'
 
 ## Húrin is strong in Morgoth's questioning
+[TreeTag]: # {20.09.03}
 And even so it came to pass; but it is not said that Húrin asked ever of
 Morgoth either mercy or death, for himself or for any of his kin.
 
 # The Haudh-en-Ndengin, Hill of Slain, and Haudh-en_Nirnaeth, Hill of Tears
-
+[TreeTag]: # {20.10}
 ## The Orcs gather all of the slain, and place them in a great mound in Anfauglith
+[TreeTag]: # {20.10.01}
 By the command of Morgoth the Orcs with great labour gathered all the bodies of
 those who had fallen in the great battle, and all their harness and weapons,
 and piled them in a great mound in the midst of Anfauglith; and it was like a
@@ -429,3 +465,4 @@ Hill of Slain, and Haudh-en-Nirnaeth, the Hill of Tears. But grass came there
 and grew again long and green upon that hill, alone in all the desert that
 Morgoth made; and no creature of Morgoth trod thereafter upon the earth beneath
 which the swords of the Eldar and the Edain crumbled into rust.
+

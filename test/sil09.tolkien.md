@@ -1,8 +1,11 @@
 # Chapter 9: Of the Flight of the Noldor
-
+[Metadata]: # {09}
+[Descriptor]: # {09}
+[Author]: # {tolkien}
 # The aftermath of the loss of the trees and of Fëanor refusing the Silmarils
-
+[TreeTag]: # {09.01}
 ## Yavanna and the Valar mourn for the lost Trees upon Ezellohar
+[TreeTag]: # {09.01.01}
 After a time a great concourse gathered about the Ring of Doom; and the Valar
 sat in shadow, for it was night. But the stars of Varda now glimmered overhead,
 and the air was clear; for the winds of Manwë has driven away the vapours of
@@ -14,6 +17,7 @@ lamentation; and it seemed to those that mourned that they had drained to the
 dregs the cup of woe that Melkor had filled for them. But it was not so.
 
 ## Yavanna declares that she can restore the trees with the Silmarils
+[TreeTag]: # {09.01.02}
 Yavanna spoke before the Valar, saying: "The Light of the Trees has passed
 away, and lives now only in the Silmarils of Fëanor. Foresighted was he! Even
 for those who are mightiest under Ilúvatar there is some work that they may
@@ -23,19 +27,23 @@ could recall life to the Trees, ere their roots decay; and then our hurt should
 be healed, and the malice of Melkor be confounded.'
 
 ## Manwë hearkens to Fëanor
+[TreeTag]: # {09.01.03}
 Then Manwë spoke and said: 'Hearest thou, Fëanor son of Finwë, the words of
 Yavanna? Wilt thou grant what she would ask?'
 
 ## Tulkas also hearkens at Fëanor's silence
+[TreeTag]: # {09.01.04}
 There was long silence, but Fëanor answered no word. Then Tulkas cried: 'Speak,
 O Noldo, yea or nay! But who shall deny Yavanna? And did not the light of the
 Silmarils come from her work in the beginning?'
 
 ## Aulë stays their impatience
+[TreeTag]: # {09.01.05}
 But Aulë the Maker said: 'Be not hasty! We ask a greater thing than thou
 knowest. Let him have peace yet awhile.'
 
 ## Fëanor declares that the breaking of the silmarils will likewise break him
+[TreeTag]: # {09.01.06}
 But Fëanor spoke then, and cried bitterly: 'For the less even as for the
 greater there is some deed that he may accomplish but once only; and in that
 deed his heart shall rest. It may be that I can unlock my jewels, but never
@@ -43,6 +51,7 @@ again shall I make their like; and if I must break them, I shall break my
 heart, and I shall be slain; first of all the Eldar in Aman.'
 
 ## Fëanor remebers the words of Melkor and refuses the Silmarils to the Valar
+[TreeTag]: # {09.01.07}
 'Not the first,' said Mandos, but they did not understand his word; and again
 there was silence, while Fëanor brooded in the dark. It seemed to him that he
 was beset in a ring of enemies, and the words of Melkor returned to him, saying
@@ -53,14 +62,16 @@ will not do of free will.  But if the Valar will constrain me, then shall I
 know indeed that Melkor is of their kindred.'
 
 # Of Melkors slaying of Finwë and Fëanor's response thereof
-
+[TreeTag]: # {09.02}
 ## Nienna washes the defilements of Ungoliant about the Trees of Ezellohar with her tears
+[TreeTag]: # {09.02.01}
 Then Mandos said: 'Thou hast spoken.' And Nienna arose and went up onto
 Ezellohar, and cast back her grey hood, and with her tears washed away the
 defilements of Ungoliant; and she sang in mourning for the bitterness of the
 world and the Marring of Arda.
 
 ## Messengers from Formenos tell of Melkor's coming te Formenos and the slaying of Finwë
+[TreeTag]: # {09.02.02}
 But even as Nienna mourned, there came messengers from Formenos, and they were
 Noldor and bore new tidings of evil. For they told how a blind Darkness came
 northward, and in the midst walked some power for which there was no name, and
@@ -72,6 +83,7 @@ stronghold of Formenos, and taken all the Jewels of the Noldor that were
 hoarded in that place; and the Silmarils were gone.
 
 ## Fëanor flees the Ring of Doom, cursing Melkor and naming him Morgoth, in grief of his lost father
+[TreeTag]: # {09.02.03}
 Then Fëanor rose, and lifting up his hand before Manwë he cursed Melkor, naming
 him Morgoth, the Black Foe of the World; and by that name only was he known to
 the Eldar ever after. And he cursed also the summons of Manwë and the hour in
@@ -83,6 +95,7 @@ the peerless works of his hands; and who among sons, of Elves or of Men, have
 held their fathers of greater worth?
 
 ## Of the inevitablity of the Doom of the Noldor
+[TreeTag]: # {09.02.04}
 Many there grieved for the anguish of Fëanor, but his loss was not his alone;
 and Yavanna wept by the mound, in fear that the Darkness should swallow the
 last rays of the Light of Valinor for ever. For though the Valar did not yet
@@ -94,8 +107,9 @@ deeds would have been other than they were. But now the doom of the Noldor drew
 near.
 
 # The flight of Melkor and Ungoliant to Angband and beyond
-
+[TreeTag]: # {09.03}
 ## Melkor and Ungoliant flee through the Helcaraxë to Angband
+[TreeTag]: # {09.03.01}
 Meanwhile Morgoth escaping from the pursuit of the Valar came to the wastes of
 Araman. This land lay northward between the Mountains of the Pelóri and the
 Great Sea, as Avathar lay to the south; but Araman was a wider land, and
@@ -112,23 +126,28 @@ and knew that here he would seek to escape from her, and she stayed him,
 demanding that he fulfil his promise.
 
 ## Ungoliant stays Morgoth in the flight, request he fulfill his oath
+[TreeTag]: # {09.03.02}
 'Blackheart!' she said. 'I have done thy bidding. But I hunger still.'
 
 ## Morgoth asks what more Ungoliant could want
+[TreeTag]: # {09.03.03}
 'What wouldst thou have more?' said Morgoth. 'Dost thou desire all the world
 for thy belly? I did not vow to give thee that. I am its Lord.'
 
 ## Ungoliant requests the great treasure from both the hands of Morgoth
+[TreeTag]: # {09.03.04}
 'Not so much,' said Ungoliant. 'But thou hast a great treasure from Formenos; I
 will have all that. Yea, with both hands thou shalt give it'.
 
 ## Morgoth gives all from his left hand, but holds his right
+[TreeTag]: # {09.03.05}
 Then perforce Morgoth surrendered to her the gems that he bore with him, one by
 one and grudgingly; and she devoured them, and their beauty perished from the
 world. Huger and darker yet grew Ungoliant, but her lust was unsated. 'With one
 hand thou givest,' she said; 'with the left only. Open thy right hand.'
 
 ## Morgoth claims the Silmarils for himself, refusing to give them
+[TreeTag]: # {09.03.06}
 In his right hand Morgoth held close the Silmarils, and though they were locked
 in a crystal casket, they had begun to bum him, and his hand was clenched in
 pain; but he would not open it 'Nay!' he said.  'Thou hast had thy doe. For
@@ -137,6 +156,7 @@ more.  These things thou shalt not have, nor see. I name them unto myself for
 ever. '
 
 ## Ungoliant rises against Morgoth in Lammoth, but the Balrogs come against her, and she flees beneath Ered Gorgoroth, in the valley called Nan Dungortheb
+[TreeTag]: # {09.03.07}
 But Ungoliant had grown great, and he less by the power that had gone out of
 him; and she rose against him, and her cloud closed about him, and she enmeshed
 him in a web of clinging thongs to strangle him. Then Morgoth sent forth a
@@ -163,6 +183,7 @@ the fate of Ungoliant no tale tells. Yet some have said that she ended long
 ago, when in her uttermost famine she devoured herself at last.
 
 ## In Angband Morgoth reared the peaks of Thangorodrim, and sets the Silmarils about his crown
+[TreeTag]: # {09.03.08}
 And thus the fear of Yavanna that the Silmarils would be swallowed up and fall
 into nothingness did not come to pass; but they remained in the power of
 Morgoth. And he being freed gathered again all his servants that he could find,
@@ -183,6 +204,7 @@ his armies from his northern throne. And once only also did he himself wield
 weapon, while his realm lasted.
 
 ## Closing paragraph about Morgoth
+[TreeTag]: # {09.03.09}
 For now, more than in the days of Utumno ere his pride was humbled, his hatred
 devoured him, and in the domination of his servants and the inspiring of them
 with lust of evil he spent his spirit. Nonetheless his majesty as one of the
@@ -190,8 +212,9 @@ Valar long remained, though turned to terror, and before his face all save the
 mightiest sank into a dark pit of fear.
 
 # The Oath of Fëanor
-
+[TreeTag]: # {09.04}
 ## The doings of the Valar and Noldor meanwhile in Valinor
+[TreeTag]: # {09.04.01}
 Now when it was known that Morgoth had escaped from Valinor and pursuit was
 unavailing, the Valar remained long seated in darkness in the Ring of Doom, and
 the Maiar and the Vanyar stood beside them and wept; but the Noldor for the
@@ -200,6 +223,7 @@ Through the dim ravine of the Calacirya fogs drifted in from the shadowy seas
 and mantled its towers, and the lamp of the Mindon burned pale in the gloom.
 
 ## Fëanor, still not having lived out his sentance, claims kingship of the Noldor
+[TreeTag]: # {09.04.02}
 Then suddenly Fëanor appeared in the city and called on all to come to the high
 court of the King upon the summit of Túna; but the doom of banishment that had
 been laid upon him was not yet lifted, and he rebelled against the Valar. A
@@ -216,6 +240,7 @@ for the rape of the Silmarils. He claimed now the kingship of all the Noldor,
 since Finwë was dead, and he scorned the decrees of the Valar.
 
 ## Fëanor makes speech to the peoples of Noldor calling them to action
+[TreeTag]: # {09.04.03}
 'Why, O people of the Noldor,' he cried, 'why should we longer serve the
 jealous Valar, who cannot keep us nor even their own realm secure from their
 Enemy? And though he be now their foe, are not they and he of one kin?
@@ -226,6 +251,7 @@ all lost your King? And what else have ye not lost, cooped here in a narrow
 land between the mountains and the sea?
 
 ## To Cuiviénen he beckons his people to return
+[TreeTag]: # {09.04.04}
 'Here once was light, that the Valar begrudged to Middle-earth, but now dark
 levels all. Shall we mourn here deedless for ever, a shadow-folk,
 mist-haunting, dropping vain tears in the thankless sea? Or shall we return to
@@ -234,6 +260,7 @@ lands lay about, where a free people might walk. There they lie still and await
 us who in our folly forsook them. Come away!  Let the cowards keep this city!'
 
 ## Of great tidings he continues to urge the Noldor to follow him
+[TreeTag]: # {09.04.05}
 Long he spoke, and ever he urged the Noldor to follow him and by their own
 prowess to win freedom and great realms in the lands of the East, before it was
 too late; for he echoed the lies of Melkor, that the Valar had cozened them and
@@ -249,6 +276,7 @@ Silmarils, then we and we alone shall be lords of the unsullied Light, and
 masters of the bliss and beauty of Arda. No other race shall oust us!'
 
 ## Of the oath of Fëanor
+[TreeTag]: # {09.04.06}
 Then Fëanor swore a terrible oath. His seven sons leapt straightway to his side
 and took the selfsame vow together, and red as blood shone their drawn swords
 in the glare of the torches. They swore an oath which none shall break, and
@@ -257,10 +285,10 @@ upon them if they kept it not; and Manwë they named in witness, and Varda, and
 the hallowed mountain of Taniquetil, vowing to pursue with vengeance and hatred
 to the ends of the World Vala, Demon, Elf or Man as yet unborn, or any
 creature, great or small, good or evil, that time should bring forth unto the
-end of days, whoso should hold or take or keep a Silmaril from their
-possession.
+end of days, whoso should hold or take or keep a Silmaril from their possession.
 
 ## Of the effect of the oath on the different blood lines of the Noldor
+[TreeTag]: # {09.04.07}
 Thus spoke Maedhros and Maglor and Celegorm, Curufin and Caranthir, Amrod and
 Amras, princes of the Noldor; and many quailed to hear the dread words. For so
 sworn, good or evil, an oath may not be broken, and it shall pursue oathkeeper
@@ -280,6 +308,7 @@ Aegnor, sons of Finarfin. But these held their peace and spoke not against
 their fathers.
 
 ## The Noldor set after their long debate
+[TreeTag]: # {09.04.08}
 At length after long debate Fëanor prevailed, and the greater part of the
 Noldor there assembled he set aflame with the desire of new things and strange
 countries. Therefore when Finarfin spoke yet again for heed and delay, a great
@@ -287,6 +316,7 @@ shout went up: 'Nay, let us be gone!' And straightway Fëanor and his sons began
 to prepare for the marching forth.
 
 ## In haste Fëanor sets out, and the Valar are silent for the time
+[TreeTag]: # {09.04.09}
 Little foresight could there be for those who dared to take so dark a road. Yet
 all was done in over-haste; for Fëanor drove them on, fearing lest in the
 cooling of their hearts his words should wane and other counsels yet prevail;
@@ -298,6 +328,7 @@ their will. Now they watched and waited, for they did not yet believe that
 Fëanor could hold the host of the Noldor to his will.
 
 ## Of the dissension of those that began their journey out
+[TreeTag]: # {09.04.10}
 And indeed when Fëanor began the marshalling of the Noldor for their
 setting-out, then at once dissension arose. For though he had brought the
 assembly in a mind to depart, by no means all were of a mind to take Fëanor as
@@ -316,8 +347,9 @@ Aulë not least), some for the love of Tirion and the many things that they had
 made; none for fear of peril by the way.
 
 # The valars response, and the defiance of Fëanor
-
+[TreeTag]: # {09.05}
 ## A messenger from Manwë urges against their departure, simultaneously exiling Fëanor alone
+[TreeTag]: # {09.05.01}
 But even as the trumpet sang and Fëanor issued from the gates of Tirion a
 messenger came at last from Manwë, saying: 'Against the folly of Fëanor shall
 be set my counsel only. Go not forth! For the hour is evil, and your road leads
@@ -330,6 +362,7 @@ now or ever within the halls of Eä, not though Eru whom thou namest had made
 thee thrice greater than thou art.'
 
 ## Fëanor replies to his people, and asks them to follow them as they were into exile now
+[TreeTag]: # {09.05.02}
 But Fëanor laughed, and spoke not to the herald, but to the Noldor, saying:
 'So! Then will this valiant people send forth the heir of their King alone into
 banishment with his sons only, and return to their bondage? But if any will
@@ -338,6 +371,7 @@ seen it.  In Aman we have come through bliss to woe. The other now we will try:
 through sorrow to find joy; or freedom, at the least.'
 
 ## Fëanor scoffs the words of the messanger of Manwë, making haste to fight
+[TreeTag]: # {09.05.03}
 Then turning to the herald he cried: 'Say this to Manwë Súlimo, High King of
 Arda: if Fëanor cannot overthrow Morgoth, at least he delays not to assail him,
 and sits not idle in grief. And it may be that Eru has set in me a fire greater
@@ -346,6 +380,7 @@ that even the mighty in the Ring of Doom shall wonder to hear it. Yea, in the
 end they shall follow me.  Farewell!'
 
 ## Fëanor continues the quest, with the likes of Fingolfin and Finarfin begrudgingly behind
+[TreeTag]: # {09.05.04}
 In that hour the voice of Fëanor grew so great and so potent that even the
 herald of the Valar bowed before him as one full-answered, and departed; and
 the Noldor were over-ruled. Therefore they continued their march; and the House
@@ -360,8 +395,9 @@ forsaken, and some even of the things that they had made there they took with
 them: a solace and a burden on the road.
 
 # The battle for the ships of the Teleri
-
+[TreeTag]: # {09.06}
 ## Fëanor stops a second, realizing that he will need ships, bids the Teleri to join them
+[TreeTag]: # {09.06.01}
 Now Fëanor led the Noldor northward, because his first purpose was to follow
 Morgoth. Moreover Túna beneath Taniquetil was set nigh to the girdle of Arda,
 and there the Great Sea was immeasurably wide, whereas ever northward the
@@ -377,6 +413,7 @@ further diminished and his power for war upon Morgoth be increased. He hastened
 then to Alqualondë, and spoke to the Teleri as he had spoken before in Tirion.
 
 ## The Teleri refuse, and Fëanor bids to them again, appealing to their history
+[TreeTag]: # {09.06.02}
 But the Teleri were unmoved by aught that he could say. They were grieved
 indeed at the going of their kinsfolk and long friends, but would rather
 dissuade them than aid them; and no ship would they lend, nor help in the
@@ -393,6 +430,7 @@ beaches would yon be dwelling still, had not the Noldor carved out your haven
 and toiled upon your walls.'
 
 ## Olwë rebukes the folly of his friend, and refuse to lend the ships of the Teleri, their prized possesions
+[TreeTag]: # {09.06.03}
 But Olwë answered: 'We renounce no friendship. But it may be the part of a
 friend to rebuke a friend's folly. And when the Noldor welcomed us and gave us
 aid, otherwise then you spoke: in the land of Aman we were to dwell for ever,
@@ -405,6 +443,7 @@ of Finwë, these are to us as are the gems of the Noldor: the work of our
 hearts, whose like we shall not make again.'
 
 ## Fëanor elects to take the ships by force, and battle begins about them
+[TreeTag]: # {09.06.04}
 Thereupon Fëanor left him, and sat in dark thought beyond the walls of
 Alqualondë, until his host was assembled. When he judged that his strength was
 enough, he went to the Haven of the Swans and began to man the ships that were
@@ -419,6 +458,7 @@ they knew rightly the cause of the quarrel; some thought indeed that the Teleri
 had sought to waylay the march of the Noldor at the bidding of the Valar.
 
 ## The Teleri were overcome, and Ossë though called can aid not, but the tears of Uinen wreck many ships, and these tales of the enslaving at Alqualondë are told in the Noldolantë
+[TreeTag]: # {09.06.05}
 Thus at last the Teleri were overcome, and a great part of their mariners that
 dwelt in Alqualondë were wickedly slain. For the Noldor were become fierce and
 desperate, and the Teleri had less strength, and were armed for the most part
@@ -432,8 +472,9 @@ Alqualondë more is told in that lament which is named Noldolantë, the Fall of
 the Noldor, that Maglor made ere he was lost.
 
 # The Doom of the Noldor
-
+[TreeTag]: # {09.07}
 ## The Noldor meet Mandos who will tell the Prophecy of the North, the Doom of the Noldor, the curse to be place on them
+[TreeTag]: # {09.07.01}
 Nonetheless the greater part of the Noldor escaped, and when the storm was past
 they held on their course, some by ship and some by land; but the way was long
 and ever more evil as they went forward. After they had marched for a great
@@ -451,6 +492,7 @@ uttered upon those that would not stay nor seek the doom and pardon of the
 Valar.
 
 ## Mandos tells the Doom of the Noldor
+[TreeTag]: # {09.07.02}
 'Tears unnumbered ye shall shed; and the Valar will fence Valinor against you,
 and shut you out, so that not even the echo of your lamentation shall pass over
 the mountains. On the House of Fëanor the wrath of the Valar lieth from the
@@ -461,6 +503,7 @@ things turn that they begin well; and by treason of kin unto kin, and the fear
 of treason, shall this come to pass. The Dispossessed shall they be for ever.
 
 ## Mandos continues, saying that though they are immortal, the Noldor will be slain
+[TreeTag]: # {09.07.03}
 'Ye have spilled the blood of your kindred unrighteously and have stained the
 land of Aman. For blood ye shall render blood, and beyond Aman ye shall dwell
 in Death's shadow. For though Eru appointed to you to die not in Eä, and no
@@ -473,6 +516,7 @@ with a great burden, and shall wane, and become as shadows of regret before the
 younger race that cometh after. The Valar have spoken.'
 
 ## Fëanor replies, shrinking not at the curse placed upon him and his peoples
+[TreeTag]: # {09.07.04}
 Then many quailed; but Fëanor hardened his heart and said: 'We have sworn, and
 not lightly. This oath we will keep. We are threatened with many evils, and
 treason not least; but one thing is not said: that we shall suffer from
@@ -481,6 +525,7 @@ go on, and this doom I add: the deeds that we shall do shall be the matter of
 song until the last days of Arda.'
 
 ## Finarfin returns to be king of the Noldor in Valinor, but his sons and the rest of the Noldor continue on
+[TreeTag]: # {09.07.05}
 But in that hour Finarfin forsook the march, and turned back, being filled with
 grief, and with bitterness against the House of Fëanor, because of his kinship
 with Olwë of Alqualondë; and many of his people went with him, retracing their
@@ -497,8 +542,9 @@ the bitter end, if bitter it must be. So the main host held on, and swiftly the
 evil that was foretold began its work.
 
 # The crossing of Fëanor, the burning of the ships, and the path of Fingolfin across Helcaraxë
-
+[TreeTag]: # {09.08}
 ## The Noldor that continue come upon the Helcaraxë
+[TreeTag]: # {09.08.01}
 The Noldor came at last far into the north of Arda; and they saw the first
 teeth of the ice that floated in the sea, and knew that they were drawing nigh
 to the Helcaraxë. For between the land of Aman that in the north curved
@@ -510,6 +556,7 @@ hills of ice and the grinding of ice deep-sunken. Such was the Helcaraxë, and
 there none yet had dared to tread save the Valar only and Ungoliant
 
 ## Fëanor, knowing the low count of their ships, forsakes Fingolfin and their kind and sail without them to Drengist, which ran into Dor-lómin
+[TreeTag]: # {09.08.02}
 Therefore Fëanor halted and the Noldor debated what course they should now
 take. But they began to suffer anguish from the cold, and the clinging mists
 through which no gleam of star could pierce; and many repented of the road and
@@ -533,12 +580,14 @@ foot once more upon the shores of Middle-earth; and the landing of Fëanor was
 at the mouth of the firth which was called Drengist and ran into Dor-lómin.
 
 ## Maedhros eldest son of Fëanor, asks who will return, and who they will bear first
+[TreeTag]: # {09.08.03}
 But when they were landed, Maedhros the eldest of his sons, and on a time the
 friend of Fingon ere Morgoth's lies came between, spoke to Fëanor, saying: 'Now
 what ships and rowers will you spare to return, and whom shall they bear hither
 first? Fingon the valiant?'
 
 ## None and None, Fëanor replies, as they burn the ships upon Losgar at the Firth of Dregrist
+[TreeTag]: # {09.08.04}
 Then Fëanor laughed as one fey, and he cried: 'None and none! What I have left
 behind I count now no loss; needless baggage on the road it has proved. Let
 those that cursed my name, curse me still, and whine their way back to the
@@ -551,6 +600,7 @@ clouds; and they knew that they were betrayed. This was the firstfruits of the
 Kinslaying and the Doom of the Noldor.
 
 ## And Fingolfin, seeing the fires of the ships, determines to cross to middle-earth through the Helcaraxë
+[TreeTag]: # {09.08.05}
 Then Fingolfin seeing that Fëanor had left him to perish in Araman or return in
 shame to Valinor was filled with bitterness; but he desired now as never before
 to come by some way to Middle-earth, and meet Fëanor again. And he and his host
@@ -566,3 +616,4 @@ lost, and many others perished also; and it was with a lessened host that
 Fingolfin set foot at last upon the Outer Lands.  Small love for Fëanor or his
 sons had those that marched at last behind him, and blew their trumpets in
 Middle-earth at the first rising of the Moon.
+

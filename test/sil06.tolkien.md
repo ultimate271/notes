@@ -1,8 +1,11 @@
 # Chapter 6: Of Fëanor and the Unchaining of Melkor
-
+[Metadata]: # {06}
+[Descriptor]: # {06}
+[Author]: # {tolkien}
 # Of Míriel and her son Fëanor
-
+[TreeTag]: # {06.01}
 ## The Noontide of the Blessed Realm of Valinor
+[TreeTag]: # {06.01.01}
 Now the Three Kindreds of the Eldar were gathered at last in Valinor, and
 Melkor was chained. This was the Noontide of the Blessed Realm, the fullness of
 its glory and its bliss, long in tale of years, but in memory too brief. In
@@ -15,12 +18,14 @@ for the recording of speech and song, some for graving upon metal or in stone,
 others for drawing with brush or with pen.
 
 ## Curufinwë, called by his mother Fëanor, is born in Eldamar
+[TreeTag]: # {06.01.02}
 In that time was born in Eldamar, in the house of the King in Tirion upon the
 crown of Túna, the eldest of the sons of Finwë, and the most beloved. Curufinwë
 was his name, but by his mother he was called Fëanor, Spirit of Fire; and thus
 he is remembered in all the tales of the Noldor.
 
 ## Míriel, who is called Serindë, strength falls from her
+[TreeTag]: # {06.01.03}
 Míriel was the name of his mother, who was called Serindë, because of her
 surpassing skill in weaving and needlework; for her hands were more skilled to
 fineness than any hands even among the Noldor. The love of Finwë and Míriel was
@@ -31,6 +36,7 @@ named mm, she said to Finwë: 'Never again shall I bear child; for strength that
 would have nourished the life of many has gone forth into Fëanor.'
 
 ## Míriel, at the counsel of Manwë, goes to Lorien for healing
+[TreeTag]: # {06.01.04}
 Then Finwë was grieved, for the Noldor were in me youth of their days, and he
 desired to bring forth many children into the Miss of Aman; and he said:
 'Surely there is healing in Aman? Here all weariness can find rest.' But when
@@ -40,10 +46,12 @@ thought) Finwë was sad, for it seemed an unhappy chance that the mother should
 depart and miss the beginning at least of the childhood days of her son.
 
 ## Míriel's last solomn words to her husband
+[TreeTag]: # {06.01.05}
 ‘It is indeed unhappy,’ said Míriel, 'and I would weep, if I were not so weary.
 But hold me blameless in this, and in all that may come after.’
 
 ## Míriel's spirit comes to pass in the Garden of Lorien
+[TreeTag]: # {06.01.06}
 She went then to the gardens of Lórien and lay down to sleep; but though she
 seemed to sleep, her spirit indeed departed from her body, and passed in
 silence to the halls of Mandos. The maidens of Estë tended the body of Míriel,
@@ -54,8 +62,9 @@ unavailing; and alone in all the Blessed Realm he was deprived of joy. After a
 while he went to Lórien no more.
 
 # Of the relationships of Fëanor
-
+[TreeTag]: # {06.02}
 ## Of Fëanor and the skills he wrought through his maturing
+[TreeTag]: # {06.02.01}
 An his love he gave thereafter to his son; and Fëanor grew swiftly, as if a
 secret fire were kindled within him. He was tall, and fair of face, and
 masterful, his eyes piercingly bright and his hair raven-dark; in the pursuit
@@ -72,6 +81,7 @@ but clear, as with the eyes of the eagles of Manwë.  Seldom were the hands and
 mind of Fëanor at rest.
 
 ## Of Nerdanel, daughter of Mahtan, and their relationship to Fëanor
+[TreeTag]: # {06.02.02}
 While still in his early youth he wedded Nerdanel, the daughter of a great
 smith named Mahtan, among those of the Noldor most dear to Aulë; and of Mahtan
 he learned much of the making of things in metal and in stone. Nerdanel also
@@ -82,6 +92,7 @@ estranged. Seven sons she bore to Fëanor; her mood she bequeathed in part to
 some of them, but not to all.
 
 ## Of Indis, second wife of Finwë
+[TreeTag]: # {06.02.03}
 Now it came to pass that Finwë took as his second wife Indis the Fair.  She was
 a Vanya, close kin of Ingwë the High King, golden-haired and tall, and in all
 ways unlike Míriel. Finwë loved her greatly, and was glad again. But the shadow
@@ -89,6 +100,7 @@ of Míriel did not depart from the house of Finwë, nor from his heart; and of
 all whom he loved Fëanor had ever the chief share of his thought.
 
 ## What could have been
+[TreeTag]: # {06.02.04}
 The wedding of his father was not pleasing to Fëanor; and he had no great love
 for Indis, nor for Fingolfin and Finarfin, her sons. He lived apart from them,
 exploring the land of Aman, or busying himself with the knowledge and the
@@ -102,8 +114,9 @@ the children of Indis were great and glorious, and their children also; and if
 they had not lived the history of the Eldar would have been diminished.
 
 # Of the end of the chaining of Melkor
-
+[TreeTag]: # {06.03}
 ## The end of the three ages of the chaining of Melkor
+[TreeTag]: # {06.03.01}
 Now even while Fëanor and the craftsmen of the Noldor worked with delight,
 foreseeing no end to their labours, and while the sons of Indis grew to their
 full stature, the Noontide of Valinor was drawing to its close. For it came to
@@ -116,6 +129,7 @@ he looked upon the wealth of bright gems, and he lusted for them; but he hid
 his thoughts, and postponed his vengeance.
 
 ## Melkor sues for pardon at the feet of Manwë
+[TreeTag]: # {06.03.02}
 Before the gates of Valmar Melkor abased himself at the feet of Manwë and sued
 for pardon, vowing that if he might be made only the least of the free people
 of Valinor he would aid the Valar in all their works, and most of all in the
@@ -123,6 +137,7 @@ healing of the many hurts that he had done to the world. And Nienna aided his
 prayer; but Mandos was silent
 
 ## Of the Valar and their opinions of the pardon
+[TreeTag]: # {06.03.03}
 Then Manwë granted him pardon; but the Valar would not yet suffer him to depart
 beyond their sight and vigilance, and he was constrained to dwell within the
 gates of Valmar. But fair-seeming were all the words and deeds of Melkor in
@@ -138,6 +153,7 @@ to wrath he is slow also to forget. But they obeyed the judgement of Manwë; for
 those who will defend authority against rebellion must not themselves rebel.
 
 ## Melkor begins to sow the seeds of deceit in the Noldor, most of all Fëanor
+[TreeTag]: # {06.03.04}
 Now in his heart Melkor most hated the Eldar, both because they were fair and
 joyful and because in them he saw the reason for the arising of the Valar, and
 his own downfall. Therefore all the more did he feign love for them and seek
@@ -156,3 +172,4 @@ no converse with him and took no counsel from him. For Fëanor was driven by the
 fire of his own heart only, working ever swiftly and alone; and he asked the
 aid and sought the counsel of none that dwelt in Aman, great or small, save
 only and for a little while of Nerdanel the wise, his wife.
+

@@ -1,13 +1,17 @@
 # Chapter 1: Of the Beginning of Days
-[Metadata]: # {}
-[Author]: # {Tolkien}
+[Metadata]: # {01}
+[Descriptor]: # {01}
+[Author]: # {tolkien}
 # The first war in the Spring of Arda on the Isle of Almaren
+[TreeTag]: # {01.01}
 ## Tulkas the Strong overcomes Melkor with laughter in the First War
-[Speaker]: # {Tulkas the Strong}
+[TreeTag]: # {01.01.01}
 [Place]: # {Little Kingdom}
-[Speaker]: # {Valar}
-[Speaker]: # {Melkor}
 [Place]: # {Arda}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Valar}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Your mom}
 [Event]: # {First War}
 It is told among the wise that the First War began before Arda was full-shaped,
 and ere yet there was any thing that grew or walked upon earth; and for long
@@ -21,34 +25,36 @@ Tulkas remained and became one of the Valar of the Kingdom of Arda; but Melkor
 brooded in the outer darkness, and his hate was given to Tulkas for ever after.
 
 ## Aulë creates lamps Illuin and Ormal while Yavana nurtures the lands
-[Item]: # {Lamps of the Valar}
-[Item]: # {Ormal}
-[Item]: # {Illuin}
+[TreeTag]: # {01.01.02}
+[Place]: # {Middle-earth}
 [Speaker]: # {Manwë}
 [Speaker]: # {Varda}
-[Place]: # {Middle-earth}
 [Speaker]: # {Aulë}
 [Speaker]: # {Yavanna}
 [Speaker]: # {Valar}
+[Item]: # {Lamps of the Valar}
+[Item]: # {Ormal}
+[Item]: # {Illuin}
 In that time the Valar brought order to the seas and the lands and the
-mountains, and Yavanna planted at last the seeds that she had long devised.
-And since, when the fires were subdued or buried beneath the primeval hills,
-there was need of light, Aulë at the prayer of Yavanna wrought two mighty lamps
-for the lighting of the Middle-earth which he had built amid the encircling
-seas.  Then Varda filled the lamps and Manwë hallowed them, and the Valar set
-them upon high pillars, more lofty far than are any mountains of the later
-days. One lamp they raised near to the north of Middle-earth, and it was named
-Illuin; and the other was raised in the south, and it was named Ormal; and the
-light of the Lamps of the Valar flowed out over the Earth, so that all was lit
-as it were in a changeless day.
+mountains, and Yavanna planted at last the seeds that she had long devised. And
+since, when the fires were subdued or buried beneath the primeval hills, there
+was need of light, Aulë at the prayer of Yavanna wrought two mighty lamps for
+the lighting of the Middle-earth which he had built amid the encircling seas.
+Then Varda filled the lamps and Manwë hallowed them, and the Valar set them
+upon high pillars, more lofty far than are any mountains of the later days. One
+lamp they raised near to the north of Middle-earth, and it was named Illuin;
+and the other was raised in the south, and it was named Ormal; and the light of
+the Lamps of the Valar flowed out over the Earth, so that all was lit as it
+were in a changeless day.
 
 ## Yavanna enriches the Isle of Almaren as the first dwelling of the Valar
-[Speaker]: # {Valar}
+[TreeTag]: # {01.01.03}
 [Place]: # {Great Lake}
 [Place]: # {Isle of Almaren}
-[Item]: # {Lamps}
 [Place]: # {Earth}
+[Speaker]: # {Valar}
 [Speaker]: # {Yavanna}
+[Item]: # {Lamps}
 Then the seeds that Yavanna had sown began swiftly to sprout and to burgeon,
 and there arose a multitude of growing things great and small, mosses and
 grasses and great ferns, and trees whose tops were crowned with cloud as they
@@ -63,10 +69,11 @@ dwelling of the Valar when all things were young, and new-made green was yet a
 marvel in the eyes of the makers; and they were long content.
 
 ## Manwë ordains a feast while Melkor looks on in hate and lust
+[TreeTag]: # {01.01.04}
 [Place]: # {Arda}
 [Place]: # {Eä}
-[Speaker]: # {Melkor}
-[Speaker]: # {Tulkas}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Tulkas the Strong}
 [Speaker]: # {Aulë}
 [Speaker]: # {Manwë}
 Now it came to pass that while the Valar rested from their labours, and watched
@@ -84,14 +91,15 @@ Arda, and looked down upon it, and the beauty of the Earth in its Spring filled
 him the more with hate.
 
 ## Melkor invades under the shadow of Illuin in the North, Tulkas weds Nessa
-[Speaker]: # {Oromë}
-[Speaker]: # {Nessa}
-[Speaker]: # {Tulkas}
-[Event]: # {Spring of Arda}
-[Speaker]: # {Melkor}
+[TreeTag]: # {01.01.05}
 [Object]: # {Illuin}
 [Place]: # {Almaren}
+[Speaker]: # {Oromë}
+[Speaker]: # {Nessa}
+[Speaker]: # {Tulkas the Strong}
+[Speaker]: # {Morgoth}
 [Speaker]: # {Valar}
+[Event]: # {Spring of Arda}
 Now therefore the Valar were gathered upon Almaren, fearing no evil, and
 because of the light of Illuin they did not perceive the shadow in the north
 that was cast from afar by Melkor; for he was grown dark as the Night of the
@@ -100,24 +108,25 @@ Nessa the sister of Oromë, and she danced before the Valar upon the green grass
 of Almaren.
 
 ## Melkor invades from the north while a weary Tulkas takes his rest
-[Speaker]: # {Valar}
+[TreeTag]: # {01.01.06}
 [Place]: # {Middle-earth}
 [Place]: # {Walls of the Night}
-[Speaker]: # {Melkor}
-[Speaker]: # {Tulkas}
+[Speaker]: # {Valar}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Tulkas the Strong}
 Then Tulkas slept, being weary and content, and Melkor deemed that his hour had
 come. And he passed therefore over the Walls of the Night with his host, and
 came to Middle-earth far in the north; and the Valar were not aware of him.
 
 ## Melkor builds Utumno, from which vile things spawn. Illuin and Ormal destroyed
-[Item]: # {Ormal}
-[Event]: # {Spring of Arda}
-[Speaker]: # {Melkor}
-[Speaker]: # {Valar}
+[TreeTag]: # {01.01.07}
 [Place]: # {Utumno}
-[Item]: # {Illuin}
 [Place]: # {Earth}
-[Speaker]: # {Melkor}
+[Speaker]: # {Morgoth}
+[Speaker]: # {Valar}
+[Event]: # {Spring of Arda}
+[Item]: # {Ormal}
+[Item]: # {Illuin}
 Now Melkor began the delving and building of a vast fortress, deep under Earth,
 beneath dark mountains where the beams of Illuin were cold and dim.  That
 stronghold was named Utumno. And though the Valar knew naught of it as yet,
@@ -137,13 +146,14 @@ shape of Arda and the symmetry of its waters and its lands was marred in that
 time, so that the first designs of the Valar were never after restored.
 
 ## Melkor flees middle earth while the Valor focus their efforts on restoration
+[TreeTag]: # {01.01.08}
 [Character]: # {Children of Ilúvatar}
 [Place]: # {Earth}
-[Speaker]: # {Valar}
 [Place]: # {Utumno}
-[Speaker]: # {Tulkas}
+[Speaker]: # {Valar}
+[Speaker]: # {Tulkas the Strong}
 [Speaker]: # {Manwë}
-[Speaker]: # {Melkor}
+[Speaker]: # {Morgoth}
 In the confusion and the darkness Melkor escaped, though fear fell upon him;
 for above the roaring of the seas he heard the voice of Manwë as a mighty wind,
 and the earth trembled beneath the feet of Tulkas. But he came to Utumno ere
@@ -155,27 +165,29 @@ until they knew where the Children of Ilúvatar were dwelling, who were yet to
 come in a time that was hidden from the Valar.
 
 # The first settlement of the Land of Aman
+[TreeTag]: # {01.02}
+[Actor]: # {Aloysha}
 ## The valor leave Almaren, moving to the Land of Aman, where they make dwelling
-Thus ended the Spring of Arda. The dwelling of the Valar upon Almaren
-was utterly destroyed, and they had no abiding place upon the face of
-the Earth.  Therefore they departed from Middle-earth and went to the
-Land of Aman, the westernmost of all lands upon the borders of the
-world; for its west shores looked upon the Outer Sea, that is called by
-the Elves Ekkaia, encircling the Kingdom of Arda. How wide is that sea
-none know but the Valar; and beyond it are the Walls of the Night. But
-the east shores of Aman were the uttermost end of Belegaer, the Great
-Sea at the West; and since Melkor was returned to Middle-earth and they
-could not yet overcome him, the Valar fortified their dwelling, and
-upon the shores of the sea they raised the Pelóri, the Mountains of
-Aman, highest upon Earth. And above all the mountains of the Pelóri was
-that height upon whose summit Manwë set his throne. Taniquetil the
-Elves name that holy mountain, and Oiolossë Everlasting Whiteness, and
-Elerrína Crowned with Stars, and many names beside; but the Sindar
-spoke of it in their later tongue as Amon Uilos. From their halls upon
-Taniquetil Manwë and Varda could look out across the Earth even into
-the furthest East.
+[TreeTag]: # {01.02.01}
+Thus ended the Spring of Arda. The dwelling of the Valar upon Almaren was
+utterly destroyed, and they had no abiding place upon the face of the Earth.
+Therefore they departed from Middle-earth and went to the Land of Aman, the
+westernmost of all lands upon the borders of the world; for its west shores
+looked upon the Outer Sea, that is called by the Elves Ekkaia, encircling the
+Kingdom of Arda. How wide is that sea none know but the Valar; and beyond it
+are the Walls of the Night. But the east shores of Aman were the uttermost end
+of Belegaer, the Great Sea at the West; and since Melkor was returned to
+Middle-earth and they could not yet overcome him, the Valar fortified their
+dwelling, and upon the shores of the sea they raised the Pelóri, the Mountains
+of Aman, highest upon Earth. And above all the mountains of the Pelóri was that
+height upon whose summit Manwë set his throne. Taniquetil the Elves name that
+holy mountain, and Oiolossë Everlasting Whiteness, and Elerrína Crowned with
+Stars, and many names beside; but the Sindar spoke of it in their later tongue
+as Amon Uilos. From their halls upon Taniquetil Manwë and Varda could look out
+across the Earth even into the furthest East.
 
 ## The birth of Valinor in Aman
+[TreeTag]: # {01.02.02}
 Behind the walls of the Pelóri the Valar established their domain in that
 region which is called Valinor, and there were their houses, their gardens, and
 their towers. In that guarded land the Valar gathered great store of light and
@@ -187,7 +199,9 @@ that land, nor any corruption or sickness in anything that lived; for the very
 stones and waters were hallowed.
 
 # Yavanna brings life to the Two Trees of Valinor
+[TreeTag]: # {01.03}
 ## Yavanna begins to sing on the hill of Ezellohar
+[TreeTag]: # {01.03.01}
 And when Valinor was full-wrought and the mansions of the Valar were
 established, in the midst of the plain beyond the mountains they built their
 city, Valmar of many bells. Before its western gate there was a green mound,
@@ -200,6 +214,7 @@ in the Máhanaxar, the Ring of Doom near to the golden gates of Valmar, and
 Yavanna Kementári sang before them and they watched.
 
 ## Yavanna's singing brings forth the Two Trees of Valinor
+[TreeTag]: # {01.03.02}
 And as they watched, upon the mound there came forth two slender shoots; and
 silence was over all the world in that hour, nor was there any other sound save
 the chanting of Yavanna. Under her song the saplings grew and became fair and
@@ -208,6 +223,7 @@ Valinor. Of all things which Yavanna made they have most renown, and about
 their fate all the tales of the Elder Days are woven.
 
 ## Description of the two trees
+[TreeTag]: # {01.03.03}
 The one had leaves of dark green that beneath were as shining silver, and from
 each of his countless flowers a dew of silver light was ever falling, and the
 earth beneath was dappled with the shadow of his fluttering leaves.  The other
@@ -220,6 +236,7 @@ other names; but Laurelin the other was, and Malinalda, and Culúrien, and many
 names in song beside.
 
 ## The Valar begin the Count of Time by the Waning and Waking of the two trees of Valinor
+[TreeTag]: # {01.03.04}
 In seven hours the glory of each tree waxed to full and waned again to naught;
 and each awoke once more to life an hour before the other ceased to shine. Thus
 in Valinor twice every day there came a gentle hour of softer light when both
@@ -240,8 +257,10 @@ water and of light. Thus began the Days of the Bliss of Valinor; and thus began
 also the Count of Time.
 
 # The contrast of the Valar and Melkor
+[TreeTag]: # {01.04}
 [Actor]: # {Aloysha}
 ## Reminder of the twighlight of middle earth and of Melkor's shadow that fell their
+[TreeTag]: # {01.04.01}
 But as the ages drew on to the hour appointed by Ilúvatar for the coming of the
 Firstborn, Middle-earth lay in a twilight beneath the stars that Varda had
 wrought in the ages forgotten of her labours in Eä. And in the darkness Melkor
@@ -251,6 +270,7 @@ are beneath them; and whatsoever was cruel or violent or deadly in those days
 is laid to his charge.
 
 ## Aule labors long creating many beautiful and shapely things, with the help of his spouse Yavanna, and Aule is named Friend of the Noldor, being those that first acheived the making of the Silmarils that are lost
+[TreeTag]: # {01.04.02}
 From the beauty and bliss of Valinor the Valar came seldom over the mountains
 to Middle-earth, but gave to the land beyond the Pelóri their care and their
 love. And in the midst of the Blessed Realm were the mansions of Aulë, and
@@ -270,6 +290,7 @@ carving.  The Noldor also it was who first achieved the making of gems; and the
 fairest of an gems were the Silmarils, and they are lost.
 
 ## Manwe sits on his seat in Taniquetil, and is able to see many things, barring the impenetrable dark thought of Melkor in the shadows
+[TreeTag]: # {01.04.03}
 But Manwë Súlimo, highest and holiest of the Valar, sat upon the borders of
 Aman, forsaking not in his thought the Outer Lands. For his throne was set in
 majesty upon the pinnacle of Taniquetil, the highest of the mountains of the
@@ -281,6 +302,7 @@ hidden even from the eyes of Manwë and the servants of Manwë, for where Melkor
 sat in his dark thought impenetrable shadows lay.
 
 ## Manwe is named King of the world of Valar and Elves and Men, and his spouse Varda, named Elbereth in Sindarin tongue, and the Queen of the Valar, maker of the stars.
+[TreeTag]: # {01.04.04}
 Manwë has no thought for his own honour, and is not jealous of his power, but
 rules all to peace. The Vanyar he loved best of all the Elves, and of him they
 received song and poetry; for poetry is the delight of Manwë, and the song of
@@ -293,6 +315,7 @@ Elbereth, Queen of the Valar, maker of the stars; and with than were a great
 host of spirits in blessedness.
 
 ## Of Ulmo and his influence of all the tides of Arda from his dwelling in the Outer Sea
+[TreeTag]: # {01.04.05}
 But Ulmo was alone, and he abode not in Valinor, nor ever came thither unless
 there were need for a great council; he dwelt from the beginning of Arda in the
 Outer Ocean, and still he dwells there. Thence he governs the flowing of all
@@ -314,6 +337,7 @@ Middle-earth, and whatsoever may since have befallen of ruin or of change he
 has not ceased to take thought for it, and will not until the end of days.
 
 ## Of Yavanna and her healings of the destruction of Melkor in Middle Earth, and Orome and his pursuits hunting the evil of Melkor with his great horn Valaroma
+[TreeTag]: # {01.04.06}
 And in that time of dark Yavanna also was unwilling utterly to forsake the
 Outer Lands; for all things teat grow are dear to her, and she mourned for the
 works that she had begun in Middle-earth but Melkor had marred.  Therefore
@@ -332,7 +356,9 @@ passed the servants of Melkor would gather again; and the lands were filled
 with shadows and deceit.
 
 # On the Children of Iluvatar
+[TreeTag]: # {01.05}
 ## On the Children of Iluvatar and their relation to the Ainur
+[TreeTag]: # {01.05.01}
 Now all is said concerning the manner of the Earth and its rulers in the
 beginning of days, and ere the world became such as the Children of Ilúvatar
 have known it. For Elves and Men are the Children of Ilúvatar; and since they
@@ -346,6 +372,7 @@ mostly with the Elves, for Ilúvatar made them more like in nature to the Ainur,
 though less in might and stature; whereas to Men he gave strange gifts.
 
 ## Iluvatar sat alone, and spoke of the Quendi and the Atani, allowing the Quendi be the fairest of all things, and the Atani the power to shape their fate beyond the Music of the Ainur
+[TreeTag]: # {01.05.02}
 [Speaker]: # {Aloysha}
 [Speaker]: # {Morgoth}
 For it is said that after the departure of the Valar there was silence, and for
@@ -361,6 +388,7 @@ is as fate to all things else; and of their operation everything should be, in
 form and deed, completed, and the world fulfilled unto the last and smallest.
 
 ## On the relationship between the elves and men.
+[TreeTag]: # {01.05.03}
 But Ilúvatar knew that Men, being set amid the turmoils of the powers of the
 world, would stray often, and would not use their gifts in harmony; and he
 said: ''These too in their time shall find that all that they do redounds at
@@ -370,6 +398,7 @@ Elves that Men resemble Melkor most of all the Ainur, although he has ever
 feared and hated them, even those that served him.
 
 ## Iluvatar and the gift of Man.
+[TreeTag]: # {01.05.04}
 It is one with this gift of freedom that the children of Men dwell only a short
 space in the world alive, and are not bound to it, and depart soon whither the
 Elves know not. Whereas the Elves remain until the end of days, and their love

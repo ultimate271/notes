@@ -1,6 +1,11 @@
 # Chapter 4: Of Thingol and Melian
-
+[Metadata]: # {04}
+[Descriptor]: # {04}
+[Author]: # {tolkien}
+# Chapter 4: Of Thingol and Melian
+[TreeTag]: # {04.01}
 ## Of Melian, Maia of Yavanna, her beauty in Lorien, and her departure to Middle-earth
+[TreeTag]: # {04.01.01}
 Melian was a Maia, of the race of the Valar. She dwelt in the gardens of
 Lórien, and among all his people there were none more beautiful than Melian,
 nor more wise, nor more skilled in songs of enchantment. It is told that the
@@ -14,6 +19,7 @@ from Valinor and came to the Hither Lands, and there she filled the silence of
 Middle-earth before the dawn with her voice and the voices of her birds.
 
 ## Elwe happens upon Melian in Nan Elmoth on the way to visit Olwe in Neldoreth
+[TreeTag]: # {04.01.02}
 Now when their journey was near its end, as has been told, the people of the
 Teleri rested long in East Beleriand, beyond the River Gelion; and at that time
 many of the Noldor still lay to the westward, in those forests that were
@@ -30,12 +36,14 @@ stars, and there Melian stood; and out of the darkness he looked at her, and
 the light of Aman was in her face.
 
 ## A spell comes upon Elwe, and the trees grow around them as they see eachother
+[TreeTag]: # {04.01.03}
 She spoke no word; but being filled with love Elwë came to her and took her
 hand, and straightway a spell was laid on him, so that they stood thus while
 long years were measured by the wheeling stars above them; and the trees of Nan
 Elmoth grew tall and dark before they spoke any word.
 
 ## Olwe becomes King of the Teleri while Elwe and Melian become rulers of the Sindar in Menegroth
+[TreeTag]: # {04.01.04}
 Thus Elwë's folk who sought him found him not, and Olwë took the kingship of
 the Teleri and departed, as is told hereafter. Elwë Singollo came never again
 across the sea to Valinor so long as he lived, and Melian returned not thither
@@ -52,3 +60,4 @@ was of Amanyar, he was not accounted among the Moriquendi, but with the Elves
 of the Light, mighty upon Middle-earth. And of the love of Thingol and Melian
 there came into the world the fairest of all the Children of Ilúvatar that was
 or shall ever be.
+
