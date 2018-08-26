@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of Turgon and the beginning of Gondolin
 [TreeTag]: # {15.01}
+
 ## Turgon finds Tumladen, finding a circle of mountains
 [TreeTag]: # {15.01.01}
 It has been told how by the guidance of Ulmo Turgon of Nevrast discovered the
@@ -83,6 +84,7 @@ folk until the ruin of Beleriand.
 
 # Galadriel speaks to Melian who then speaks to Thingol of the Silmarils
 [TreeTag]: # {15.02}
+
 ## In the meanwhile, Galadriel in Doriath is question by Melion
 [TreeTag]: # {15.02.01}
 Now while the city of Gondolin was building in secret, Finrod Felagund wrought
@@ -174,6 +176,7 @@ afterwards they spoke no more of this matter.
 
 # Of the feast in Menegroth where Thingol hears of the deeds of the Noldor
 [TreeTag]: # {15.03}
+
 ## Rumor of the Noldor spreads, and Círdan sends messengers to Thingol
 [TreeTag]: # {15.03.01}
 It was not long before whispered tales began to pass among the Sindar
@@ -257,6 +260,7 @@ language of lore, wherever any of that people dwelt.
 
 # Of Finrod and the oath of solitude he takes
 [TreeTag]: # {15.04}
+
 ## The sons of Finarfin return to Nargothrond, and Finrod declares that he will have no son to inherit his works
 [TreeTag]: # {15.04.01}
 It came to pass that Nargothrond was full-wrought (and yet Turgon still dwelt

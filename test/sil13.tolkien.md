@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # The second battle of Beleriand, Dagor-nuin-Giliath, where overzealous Fëanor meets his end.
 [TreeTag]: # {13.01}
+
 ## The landing of Fëanor at Lammoth and the burning of the ships at Losgar
 [TreeTag]: # {13.01.01}
 It has been told that Fëanor and his sons came first of the Exiles to
@@ -88,6 +89,7 @@ both their greatest renown and their most grievous woe.
 
 # Of Maedhros son of Fëanor's capture by Morgoth and rescue by Fingon son of Fingolfin
 [TreeTag]: # {13.02}
+
 ## The Noldor meet the Grey-elves as friend in Mithrim
 [TreeTag]: # {13.02.01}
 Now in Mithrim there dwelt Grey-elves, folk of Beleriand that had wandered
@@ -248,6 +250,7 @@ Beleriand, and to treat with the people that dwelt there.
 
 # The strife of the Noldor and their arrangement into Beleriand
 [TreeTag]: # {13.03}
+
 ## Thingol welcomes prince Finarfin into Doriath but is cautious of the returning elves
 [TreeTag]: # {13.03.01}
 Now King Thingol welcomed not with a full heart the coming of so many princes
@@ -337,6 +340,7 @@ riches came to him.
 
 # The many years after the second battle and the continuing arrangement of the elves
 [TreeTag]: # {13.04}
+
 ## Fingolfin holds The Feast of Reuniting, Mereth Aderthad, at Irvin whence the river Narog flows
 [TreeTag]: # {13.04.01}
 When twenty years of the Sun had passed, Fingolfin King of the Noldor made a
@@ -434,6 +438,7 @@ manner of Tirion upon Túna, for which his heart yearned in exile.
 
 # Of the third battle of Beleriand and the 400 years of peace that followed
 [TreeTag]: # {13.05}
+
 ## Orcs pour from Angband and Dagor Aglared, the third battle of Beleriand, is begun
 [TreeTag]: # {13.05.01}
 Now Morgoth, believing the report of his spies that the lords of the Noldor

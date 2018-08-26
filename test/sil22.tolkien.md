@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Húrin is released from the captivity of Morgoth in Angband
 [TreeTag]: # {22.01}
+
 ## Though Túrin is dead, Morgoth's dealings with the house of Hador are not yet ended
 [TreeTag]: # {22.01.01}
 So ended the tale of Túrin Turambar; but Morgoth did not sleep nor rest from
@@ -59,6 +60,7 @@ hissing over the stones.
 
 # Of the eagles and Turgon and how Morgoth discovers the region of Gondolin
 [TreeTag]: # {22.02}
+
 ## The eagles see Húrin, and bring word to Turgon of Húrin's escape
 [TreeTag]: # {22.02.01}
 But the watch of the great eagles was now redoubled, and they marked Húrin
@@ -105,6 +107,7 @@ was the first evil that the freedom of Húrin achieved.
 
 # Húrin and Morwen's remeeting at Cabed Naeramarth
 [TreeTag]: # {22.03}
+
 ## Húrin comes to the Cabed Naeramarth, where both Túrin and Nienor had met their end
 [TreeTag]: # {22.03.01}
 As darkness fell Húrin stumbled from the rock, and fell into a heavy sleep of
@@ -178,6 +181,7 @@ there, for his doom drove him on, and the Shadow still followed him.
 
 # Húrin meets and slays Mîm the dwarf at Nargothrond
 [TreeTag]: # {22.04}
+
 ## Húrin goes by Amon Rûdh, and comes to the doors of Felagund
 [TreeTag]: # {22.04.01}
 Now Húrin crossed over Teiglin and passed southwards down the ancient road that
@@ -224,6 +228,7 @@ but one thing only.
 
 # Húrin's gift of Nauglamír to Thingol
 [TreeTag]: # {22.05}
+
 ## Húrin comes to Doriath, and gives Nauglamír, the necklace of the dwarves, bitterly to Thingol
 [TreeTag]: # {22.05.01}
 Now Húrin journeyed eastward, and he came to the Meres of Twilight above the
@@ -284,6 +289,7 @@ western sea; and so ended the mightiest of the warriors of mortal Men.
 
 # The death of Thingol and the passing of Melian
 [TreeTag]: # {22.06}
+
 ## How Thingol came to the idea to place the Silmaril in Nauglamír
 [TreeTag]: # {22.06.01}
 But when Húrin was gone from Menegroth, Thingol sat long in silence, gazing
@@ -405,6 +411,7 @@ doors of the treasury wherein lay the Nauglamír; and the Silmaril was taken.
 
 # The battle of taken by Beren and the Dwarves
 [TreeTag]: # {22.07}
+
 ## Aside to Beren and Lúthien, their son Dior, his wife Nimloth, and their children, one of whom is Elwing
 [TreeTag]: # {22.07.01}
 At that time Beren and Lúthien yet dwelt in Tol Galen, the Green Isle, in the
@@ -459,6 +466,7 @@ light.
 
 # Of Dior in Menegroth, whom the sons of Fëanor assult, and the fate of the Silmaril to Elwing
 [TreeTag]: # {22.08}
+
 ## Dior goes to Menegroth and abides there
 [TreeTag]: # {22.08.01}
 Now Dior Thingol's heir bade farewell to Beren and Lúthien, and departing from

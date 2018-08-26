@@ -1,44 +1,3 @@
-# Morgoth
-[Reference]: # {Character}
-The evil dark lord of the Silmarillion
-## Tags
-Morgoth
-Melkor
-## Actor in
-## Speaker in
-{01.01.01}
-{01.01.04}
-{01.01.05}
-{01.01.06}
-{01.01.07}
-{01.01.08}
-{01.05.02}
-## Mentioned in
-# Tulkas the Strong
-[Reference]: # {Character}
-The valar of the something
-## Tags
-Tulkas the Strong
-Tulkas
-## Actor in
-## Speaker in
-{01.01.01}
-{01.01.04}
-{01.01.05}
-{01.01.06}
-{01.01.08}
-## Mentioned in
-# Aloysha
-[Reference]: # {Character}
-
-## Tags
-Aloysha
-## Actor in
-{01.02}
-{01.04}
-## Speaker in
-{01.05.02}
-## Mentioned in
 # Little Kingdom
 [Reference]: # {Place}
 
@@ -46,7 +5,7 @@ Aloysha
 Little Kingdom
 ## Location of
 ## Mentioned in
-{01.01.01}
+{01.01}
 # Arda
 [Reference]: # {Place}
 
@@ -54,31 +13,8 @@ Little Kingdom
 Arda
 ## Location of
 ## Mentioned in
-{01.01.01}
-{01.01.04}
-# Valar
-[Reference]: # {Character}
-
-## Tags
-Valar
-## Actor in
-## Speaker in
-{01.01.01}
+{01.01}
 {01.01.02}
-{01.01.03}
-{01.01.05}
-{01.01.06}
-{01.01.07}
-{01.01.08}
-## Mentioned in
-# First War
-[Reference]: # {Myth}
-
-## Tags
-First War
-## Event of
-{01.01.01}
-## Mentioned in
 # Middle-earth
 [Reference]: # {Place}
 
@@ -86,64 +22,41 @@ First War
 Middle-earth
 ## Location of
 ## Mentioned in
-{01.01.02}
-{01.01.06}
-# Lamps of the Valar
-[Reference]: # {Object}
+{01.01}
+{01.01.04}
+# Great Lake
+[Reference]: # {Place}
 
 ## Tags
-Lamps of the Valar
-## Speaker in
-{01.01.02}
+Great Lake
+## Location of
 ## Mentioned in
-# Ormal
-[Reference]: # {Object}
+{01.01.01}
+# Isle of Almaren
+[Reference]: # {Place}
 
 ## Tags
-Ormal
-## Speaker in
-{01.01.02}
-{01.01.07}
+Isle of Almaren
+## Location of
 ## Mentioned in
-# Illuin
-[Reference]: # {Object}
+{01.01.01}
+# Earth
+[Reference]: # {Place}
 
 ## Tags
-Illuin
-## Speaker in
-{01.01.02}
-{01.01.07}
+Earth
+## Location of
 ## Mentioned in
+{01.01.01}
 {01.01.05}
-# Manwë
+{01.01.06}
+# Valar
 [Reference]: # {Character}
 
 ## Tags
-Manwë
+Valar
 ## Actor in
 ## Speaker in
-{01.01.02}
-{01.01.04}
-{01.01.08}
-## Mentioned in
-# Varda
-[Reference]: # {Character}
-
-## Tags
-Varda
-## Actor in
-## Speaker in
-{01.01.02}
-## Mentioned in
-# Aulë
-[Reference]: # {Character}
-
-## Tags
-Aulë
-## Actor in
-## Speaker in
-{01.01.02}
-{01.01.04}
 ## Mentioned in
 # Yavanna
 [Reference]: # {Character}
@@ -152,42 +65,13 @@ Aulë
 Yavanna
 ## Actor in
 ## Speaker in
-{01.01.02}
-{01.01.03}
 ## Mentioned in
-# Great Lake
-[Reference]: # {Place}
-
-## Tags
-Great Lake
-## Location of
-## Mentioned in
-{01.01.03}
-# Isle of Almaren
-[Reference]: # {Place}
-
-## Tags
-Isle of Almaren
-## Location of
-## Mentioned in
-{01.01.03}
-# Earth
-[Reference]: # {Place}
-
-## Tags
-Earth
-## Location of
-## Mentioned in
-{01.01.03}
-{01.01.07}
-{01.01.08}
 # Lamps
 [Reference]: # {Object}
 
 ## Tags
 Lamps
 ## Speaker in
-{01.01.03}
 ## Mentioned in
 # Eä
 [Reference]: # {Place}
@@ -196,7 +80,47 @@ Lamps
 Eä
 ## Location of
 ## Mentioned in
-{01.01.04}
+{01.01.02}
+# Morgoth
+[Reference]: # {Character}
+
+## Tags
+Morgoth
+## Actor in
+## Speaker in
+## Mentioned in
+# Tulkas the Strong
+[Reference]: # {Character}
+
+## Tags
+Tulkas the Strong
+## Actor in
+## Speaker in
+## Mentioned in
+# Aulë
+[Reference]: # {Character}
+
+## Tags
+Aulë
+## Actor in
+## Speaker in
+## Mentioned in
+# Manwë
+[Reference]: # {Character}
+
+## Tags
+Manwë
+## Actor in
+## Speaker in
+## Mentioned in
+# Illuin
+[Reference]: # {Object}
+
+## Tags
+Illuin
+## Speaker in
+## Mentioned in
+{01.01.03}
 # Almaren
 [Reference]: # {Place}
 
@@ -204,7 +128,7 @@ Eä
 Almaren
 ## Location of
 ## Mentioned in
-{01.01.05}
+{01.01.03}
 # Oromë
 [Reference]: # {Character}
 
@@ -212,7 +136,6 @@ Almaren
 Oromë
 ## Actor in
 ## Speaker in
-{01.01.05}
 ## Mentioned in
 # Nessa
 [Reference]: # {Character}
@@ -221,7 +144,6 @@ Oromë
 Nessa
 ## Actor in
 ## Speaker in
-{01.01.05}
 ## Mentioned in
 # Spring of Arda
 [Reference]: # {Myth}
@@ -229,8 +151,6 @@ Nessa
 ## Tags
 Spring of Arda
 ## Event of
-{01.01.05}
-{01.01.07}
 ## Mentioned in
 # Walls of the Night
 [Reference]: # {Place}
@@ -239,7 +159,7 @@ Spring of Arda
 Walls of the Night
 ## Location of
 ## Mentioned in
-{01.01.06}
+{01.01.04}
 # Utumno
 [Reference]: # {Place}
 
@@ -247,8 +167,15 @@ Walls of the Night
 Utumno
 ## Location of
 ## Mentioned in
-{01.01.07}
-{01.01.08}
+{01.01.05}
+{01.01.06}
+# Ormal
+[Reference]: # {Object}
+
+## Tags
+Ormal
+## Speaker in
+## Mentioned in
 # Children of Ilúvatar
 [Reference]: # {Character}
 
@@ -257,13 +184,12 @@ Children of Ilúvatar
 ## Actor in
 ## Speaker in
 ## Mentioned in
-{01.01.08}
-# Your mom
+{01.01.06}
+# Aloysha
 [Reference]: # {Character}
 
 ## Tags
-Your mom
+Aloysha
 ## Actor in
 ## Speaker in
-{01.01.01}
 ## Mentioned in

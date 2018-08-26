@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Calm before the storm
 [TreeTag]: # {18.01}
+
 ## Fingolfin ponders an assult on Angband
 [TreeTag]: # {18.01.01}
 Now Fingolfin, King of the North, and High King of the Noldor, seeing that his
@@ -40,6 +41,7 @@ of Men he took yet no account.
 
 # The beginnings of Dagor Bragollach, the fourth battle
 [TreeTag]: # {18.02}
+
 ## The beginning of Dagor Bragollach, the Battle of Sudden Flame
 [TreeTag]: # {18.02.01}
 There came a time of winter, when night was dark and without moon; and the wide
@@ -146,6 +148,7 @@ into Ossiriand, nor to Taur-im-Duinath and the wilds of the south.
 
 # The battle of Fingolfin and Morgoth
 [TreeTag]: # {18.03}
+
 ## Fingolfin, believing all is lost, hail mary's to the gates of Angband
 [TreeTag]: # {18.03.01}
 Now news came to Hithlum that Dorthonion was lost and the sons of Finarfin
@@ -224,6 +227,7 @@ Gil-galad) he sent to the Havens.
 
 # Summary of conflicts after that time
 [TreeTag]: # {18.04}
+
 ## Barahir and his men fight diligently at Dorthonion
 [TreeTag]: # {18.04.01}
 Now Morgoth's power overshadowed the Northlands; but Barahir would not flee
@@ -350,6 +354,7 @@ strength.
 
 # Of Hurin and Huor, sons of Galdor, and their visit to Gondolin
 [TreeTag]: # {18.05}
+
 ## Hurin and Huor hearken to fight, and are saved from their foolhardiness by Thorondor, who brings them to Gondolin
 [TreeTag]: # {18.05.01}
 At this time Húrin and Huor, the sons of Galdor of Dor-lómin, were dwelling
@@ -428,6 +433,7 @@ Morgoth.
 
 # Ending of the Fourth Battle
 [TreeTag]: # {18.06}
+
 ## Turgon sends messengers in secret to seek aid of the Valar, but none succeed
 [TreeTag]: # {18.06.01}
 Now when Turgon learned of the breaking of the leaguer of Angband he would not
@@ -464,6 +470,7 @@ Angband were full of labour.
 
 # Aftershocks as Morgoth attacks Hithlum and Hurin rises as the leader in Dor-lomin
 [TreeTag]: # {18.07}
+
 ## Seven years after, Morgoth attacks Hithlum, and Galdor is slain there
 [TreeTag]: # {18.07.01}
 When seven years had passed since the Fourth Battle, Morgoth renewed his

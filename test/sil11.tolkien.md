@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # The valar reflect on the doing of Fëanor
 [TreeTag]: # {11.01}
+
 ## The valar contemplate the events, and Manwë reflects on the doings of Fëanor
 [TreeTag]: # {11.01.01}
 It is told that after the flight of Melkor the Valar sat long unmoved upon
@@ -34,6 +35,7 @@ But Mandos said: 'And yet remain evil. To me shall Fëanor come soon.'
 
 # Of the sun and the moon and the Maiar that drove them
 [TreeTag]: # {11.02}
+
 ## The Valar try not entirely in vain to bring back the trees of Valar
 [TreeTag]: # {11.02.01}
 But when at last the Valar learned that the Noldor had indeed passed out of
@@ -178,6 +180,7 @@ touched by the poison of Ungoliant That light lives now in the Silmarils alone.
 
 # Of Morgoth's war upon the new lights and the fortification of Valinor
 [TreeTag]: # {11.03}
+
 ## Morgoth hated both new lights, but fears them, fighting them some but mostly creating shadows to hide from them
 [TreeTag]: # {11.03.01}
 But Morgoth hated the new lights, and was for a while confounded by this

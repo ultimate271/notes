@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of the Silmarils
 [TreeTag]: # {07.01}
+
 ## Fëanor creates the Silmarils of the light of the Trees of Valinor
 [TreeTag]: # {07.01.01}
 In that time were made those things that afterwards were most renowned of all
@@ -42,6 +43,7 @@ things that he himself had made.
 
 # Melkor sows the seeds of deceit through the Noldor
 [TreeTag]: # {07.02}
+
 ## Melkor, in his great lust for the Silmarils, again sows the seeds of deceit among the Noldor
 [TreeTag]: # {07.02.01}
 Then Melkor lusted for the Silmarils, and the very memory of their radiance was
@@ -127,6 +129,7 @@ all the lore of metalwork that he had learned of Aulë.
 
 # Of Fëanor's rebellion and his exile from Tirion
 [TreeTag]: # {07.03}
+
 ## Of Fëanor's rebellion marking the end of the high days of Valinor
 [TreeTag]: # {07.03.01}
 Thus with lies and evil whisperings and false counsel Melkor kindled the hearts
@@ -215,6 +218,7 @@ and lived still long afterwards between the sons of Fingolfin and Fëanor.
 
 # Of Melkor's attempt to befriend Fëanor and his flight from Valinor
 [TreeTag]: # {07.04}
+
 ## Melkor becomes aloof even to Tulkas in that time.
 [TreeTag]: # {07.04.01}
 Now Melkor, knowing that his devices had been revealed, hid himself and passed

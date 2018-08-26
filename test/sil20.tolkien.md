@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # The conclusion of the tale of Beren and Lúthien
 [TreeTag]: # {20.01}
+
 ## Beren and Lúthien go to Tol Galen in Ossiriand and there they died
 [TreeTag]: # {20.01.01}
 _Some commentary about this particular paragraph_  It is said that Beren and
@@ -25,6 +26,7 @@ world, or marked where at last their bodies lay.
 
 # The plannings and alliances of the Elves and Men
 [TreeTag]: # {20.02}
+
 ## Of the Union of Maedhros
 [TreeTag]: # {20.02.01}
 In those days Maedhros son of Fëanor lifted up his heart, perceiving that
@@ -102,6 +104,7 @@ And the signal for this was to be the firing of a great beacon in Dorthonion.
 
 # The calm before the storm
 [TreeTag]: # {20.03}
+
 ## The rising of the trumpets of those that fought there
 [TreeTag]: # {20.03.01}
 On the appointed day, on the morning of Midsummer, the trumpets of the Eldar
@@ -140,6 +143,7 @@ night is passing!'
 
 # The bait is laid by Morgoth and taken by the allies
 [TreeTag]: # {20.04}
+
 ## Morgoth sends forth his initial host
 [TreeTag]: # {20.04.01}
 Now Morgoth, who knew much of what was done and designed by his enemies, chose
@@ -200,6 +204,7 @@ from the walls.
 
 # Climax and treachery
 [TreeTag]: # {20.05}
+
 ## Nirnaeth Arnoediad, Unnumbered Tears, as the host of Hithlum is surrounded
 [TreeTag]: # {20.05.01}
 Then in the plain of Anfauglith, on the fourth day of the war, there began
@@ -252,6 +257,7 @@ the east.
 
 # The dwarves part in the battles
 [TreeTag]: # {20.06}
+
 ## Azaghâl injures Glaurung, but gives his life in doing
 [TreeTag]: # {20.06.01}
 Last of all the eastern force to stand firm were the Dwarves of Belegost, and
@@ -271,6 +277,7 @@ to their foes; and none dared to stay them.
 
 # The retreat of Turgon after the slaying of Fingon
 [TreeTag]: # {20.07}
+
 ## Fingon is slain by Gothmog
 [TreeTag]: # {20.07.01}
 But now in the western battle Fingon and Turgon were assailed by a tide of foes
@@ -359,6 +366,7 @@ in Hithlum, and there came a great storm of wind out of the West.
 
 # Aftermath
 [TreeTag]: # {20.08}
+
 ## Of the victory of Morgoth
 [TreeTag]: # {20.08.01}
 Great was the triumph of Morgoth, and his design was accomplished in a manner
@@ -422,6 +430,7 @@ sent forth as messengers from Gondolin.
 
 # Morgoth seeks for Gondolin
 [TreeTag]: # {20.09}
+
 ## Morgoth thinks of Turgon, feeling his victory could have been more complete
 [TreeTag]: # {20.09.01}
 Now the thought of Morgoth dwelt ever upon Turgon; for Turgon had escaped him,
@@ -455,6 +464,7 @@ Morgoth either mercy or death, for himself or for any of his kin.
 
 # The Haudh-en-Ndengin, Hill of Slain, and Haudh-en_Nirnaeth, Hill of Tears
 [TreeTag]: # {20.10}
+
 ## The Orcs gather all of the slain, and place them in a great mound in Anfauglith
 [TreeTag]: # {20.10.01}
 By the command of Morgoth the Orcs with great labour gathered all the bodies of

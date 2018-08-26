@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Aredhel wishes to leave the city of Gondolin
 [TreeTag]: # {16.01}
+
 ## Aredhel, sister of Turgon, in Gondolin, wishes to leave, and against his wisdom Turgon bids her leave with an escort
 [TreeTag]: # {16.01.01}
 Aredhel Ar-Feiniel, the White Lady of the Noldor, daughter of Fingolfin, dwelt
@@ -40,6 +41,7 @@ departed from Gondolin, and Turgon's heart was heavy at her going.
 
 # Aredhel's wanderings in Beleriand and meeting of Eöl
 [TreeTag]: # {16.02}
+
 ## Aredhel wishes not to see her brother Fingon, but instead the sons of Fëanor
 [TreeTag]: # {16.02.01}
 But when she came to the Ford of Brithiach in the River Sirion she said to her
@@ -127,6 +129,7 @@ ere any of her kin heard of her again.
 
 # Of Meaglin, his upbringing, and the depature of Mother and Son from Nan Elmoth
 [TreeTag]: # {16.03}
+
 ## The birth of Lómion, called Maeglin by his father
 [TreeTag]: # {16.03.01}
 It is not said that Aredhel was wholly unwilling, nor that her life in Nan
@@ -204,6 +207,7 @@ so westward along the fences of Doriath.
 
 # How Eöl is inturrupted by Curufin in chasing after them
 [TreeTag]: # {16.04}
+
 ## Eöl returns, and chases after them, but is stopped by Curufin
 [TreeTag]: # {16.04.01}
 Now Eöl returned out of the east sooner than Maeglin had foreseen, and found
@@ -274,6 +278,7 @@ mountains.
 
 # The tragedy of Aredhel and Eöl in Gondolin
 [TreeTag]: # {16.05}
+
 ## Aredhel and Maeglin are recieved warmly in Gondolin,
 [TreeTag]: # {16.05.01}
 Now Aredhel and Maeglin came to the Outer Gate of Gondolin and the Dark Guard
@@ -394,6 +399,7 @@ your hopes, and here may you yet die the same death as I.'
 
 # Of what was to become of Maeglin thereafter
 [TreeTag]: # {16.06}
+
 ## Of Maeglin's eventual heroism and utility in Gondolin
 [TreeTag]: # {16.06.01}
 Then they cast Eöl over the Caragdûr, and so he ended, and to all in Gondolin

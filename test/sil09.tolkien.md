@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # The aftermath of the loss of the trees and of Fëanor refusing the Silmarils
 [TreeTag]: # {09.01}
+
 ## Yavanna and the Valar mourn for the lost Trees upon Ezellohar
 [TreeTag]: # {09.01.01}
 After a time a great concourse gathered about the Ring of Doom; and the Valar
@@ -63,6 +64,7 @@ know indeed that Melkor is of their kindred.'
 
 # Of Melkors slaying of Finwë and Fëanor's response thereof
 [TreeTag]: # {09.02}
+
 ## Nienna washes the defilements of Ungoliant about the Trees of Ezellohar with her tears
 [TreeTag]: # {09.02.01}
 Then Mandos said: 'Thou hast spoken.' And Nienna arose and went up onto
@@ -108,6 +110,7 @@ near.
 
 # The flight of Melkor and Ungoliant to Angband and beyond
 [TreeTag]: # {09.03}
+
 ## Melkor and Ungoliant flee through the Helcaraxë to Angband
 [TreeTag]: # {09.03.01}
 Meanwhile Morgoth escaping from the pursuit of the Valar came to the wastes of
@@ -213,6 +216,7 @@ mightiest sank into a dark pit of fear.
 
 # The Oath of Fëanor
 [TreeTag]: # {09.04}
+
 ## The doings of the Valar and Noldor meanwhile in Valinor
 [TreeTag]: # {09.04.01}
 Now when it was known that Morgoth had escaped from Valinor and pursuit was
@@ -348,6 +352,7 @@ made; none for fear of peril by the way.
 
 # The valars response, and the defiance of Fëanor
 [TreeTag]: # {09.05}
+
 ## A messenger from Manwë urges against their departure, simultaneously exiling Fëanor alone
 [TreeTag]: # {09.05.01}
 But even as the trumpet sang and Fëanor issued from the gates of Tirion a
@@ -396,6 +401,7 @@ them: a solace and a burden on the road.
 
 # The battle for the ships of the Teleri
 [TreeTag]: # {09.06}
+
 ## Fëanor stops a second, realizing that he will need ships, bids the Teleri to join them
 [TreeTag]: # {09.06.01}
 Now Fëanor led the Noldor northward, because his first purpose was to follow
@@ -473,6 +479,7 @@ the Noldor, that Maglor made ere he was lost.
 
 # The Doom of the Noldor
 [TreeTag]: # {09.07}
+
 ## The Noldor meet Mandos who will tell the Prophecy of the North, the Doom of the Noldor, the curse to be place on them
 [TreeTag]: # {09.07.01}
 Nonetheless the greater part of the Noldor escaped, and when the storm was past
@@ -543,6 +550,7 @@ evil that was foretold began its work.
 
 # The crossing of Fëanor, the burning of the ships, and the path of Fingolfin across Helcaraxë
 [TreeTag]: # {09.08}
+
 ## The Noldor that continue come upon the Helcaraxë
 [TreeTag]: # {09.08.01}
 The Noldor came at last far into the north of Arda; and they saw the first

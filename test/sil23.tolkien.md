@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of Tuor's escape from Hithlum and the meeting of Ulmo
 [TreeTag]: # {23.01}
+
 ## Tuor's captivity by the easterling Lorgan and his escape to Androth
 [TreeTag]: # {23.01.01}
 It has been told that Huor the brother of Húrin was slain in the Battle of
@@ -51,6 +52,7 @@ gave Tuor a great cloak, to mantle him in shadow from the eyes of his enemies.
 
 # Tuor meets Voronwë who takes him to Gondolin
 [TreeTag]: # {23.02}
+
 ## Tuor meets Voronwë of Gondolin, who agrees to take him to that secret land
 [TreeTag]: # {23.02.01}
 But in the morning when the storm was passed, Tuor came upon an Elf standing
@@ -93,6 +95,7 @@ the city, flushed with the rose of dawn upon the plain.
 
 # Tuor delivers the messages of Ulmo to Turgon
 [TreeTag]: # {23.03}
+
 ## Tuor tells Turgon of the bidding of Ulmo to leave this city
 [TreeTag]: # {23.03.01}
 Thus it was that the son of Huor rode across Tumladen, and came to the gate of
@@ -138,6 +141,7 @@ and his people he forbade ever to pass the leaguer of the hills.
 
 # Of Idril and Tuor and their son Eärendil
 [TreeTag]: # {23.04}
+
 ## Idril and Tuor are wed after 7 years of service to Gondolin
 [TreeTag]: # {23.04.01}
 And Tuor remained in Gondolin, for its bliss and its beauty and the wisdom of
@@ -169,6 +173,7 @@ old; and the Sea spoke ever in his ear and heart, even as with Tuor his father.
 
 # The doings of Morgoth and the foresight of Idril
 [TreeTag]: # {23.05}
+
 ## How Morgoth sought after Gondolin, and Idril created a pass to the north
 [TreeTag]: # {23.05.01}
 Then the days of Gondolin were yet full of joy and peace; and none knew that
@@ -188,6 +193,7 @@ whisper of it came to Maeglin's ears.
 
 # The fall of Gondolin
 [TreeTag]: # {23.06}
+
 ## Maeglin's capture and betrayal by Morgoth
 [TreeTag]: # {23.06.01}
 Now on a time, when Eärendil was yet young, Maeglin was lost. For he, as has
@@ -232,6 +238,7 @@ of Turgon in its ruin.
 
 # The flight of Tuor and Idril from Maeglin and the duel of Glorfindel and the Balrog
 [TreeTag]: # {23.07}
+
 ## Tuor saves Idril and Eärendil from Maeglin as they escape the city
 [TreeTag]: # {23.07.01}
 Tuor sought to rescue Idril from the sack of the city, but Maeglin had laid
@@ -276,6 +283,7 @@ it amid the barrenness of stone, until the world was changed.
 
 # The aftermath of the fall and the unity of the elves at the mouths of Sirion
 [TreeTag]: # {23.08}
+
 ## The journey of Tuor and those that escaped down to the mouths of Sirion where they meet the company of Elwing
 [TreeTag]: # {23.08.01}
 Thus led by Tuor son of Huor the remnant of Gondolin passed over the mountains,

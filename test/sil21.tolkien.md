@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Initial Geneologies
 [TreeTag]: # {21.01}
+
 ## Of Rían, wife of Huor and mother of Tuor
 [TreeTag]: # {21.01.01}
 Rían, daughter of Belegund, was the wife of Huor, son of Galdor; and she was
@@ -24,6 +25,7 @@ wind out of Angband, and she died.
 
 # Túrin in Doriath
 [TreeTag]: # {21.02}
+
 ## How Morwen sent her son Túrin to come to Thingol of Doriath
 [TreeTag]: # {21.02.01}
 Now after the Nirnaeth Arnoediad Morwen abode still in Dor-lómin, for Túrin was
@@ -80,6 +82,7 @@ the marches of Doriath, and became the companion in arms of Beleg Cúthalion.
 
 # Túrin flees the Girdle of Melian and Beleg is sent to seek him
 [TreeTag]: # {21.03}
+
 ## After three years Saeros of Doriath begins to taunt Túrin
 [TreeTag]: # {21.03.01}
 And when three years had passed, Túrin returned again to Menegroth; but he came
@@ -183,6 +186,7 @@ Then they parted, in friendship, yet in sadness.
 
 # Beleg returns to Menegroth and receives Anglachel to fight the orcs at Dimbar
 [TreeTag]: # {21.04}
+
 ## Beleg returns to Menegroth
 [TreeTag]: # {21.04.01}
 Now Beleg returned to the Thousand Caves, and coming before Thingol and Melian
@@ -259,6 +263,7 @@ returned to them no more.
 
 # Túrin meets Mîm and dwells for a time on the hill of Amon Rûdh
 [TreeTag]: # {21.05}
+
 ## Back to Túrin, his people go west and meet the dwarf Mîm and capture him
 [TreeTag]: # {21.05.01}
 Now when Beleg parted from the outlaws and returned into Doriath, Túrin led
@@ -363,6 +368,7 @@ of Doriath and Nargothrond.
 
 # Beleg finds Túrin and stays with him
 [TreeTag]: # {21.06}
+
 ## Beleg finds the cave of Amon Rûdh in the winter of that time
 [TreeTag]: # {21.06.01}
 But when the year drew on to midwinter, snow came down from the north heavier
@@ -396,6 +402,7 @@ passed, and spring came, they had sterner work to do.
 
 # Morgoth attacks and uses Mîm to find and capture Túrin
 [TreeTag]: # {21.07}
+
 ## Aside about Morgoth and his doings
 [TreeTag]: # {21.07.01}
 Who knows now the counsels of Morgoth? Who can measure the reach of his
@@ -470,6 +477,7 @@ yet alive, and taken to Angband.
 
 # Beleg, in his attempt to rescue Túrin, first finds Gwindor and is then slain by Túrin
 [TreeTag]: # {21.08}
+
 ## Beleg, in his pursuit north for Túrin, comes across Gwinder the elf
 [TreeTag]: # {21.08.01}
 With little hope Beleg departed from Amon Rûdh and set out northward, towards
@@ -633,6 +641,7 @@ Nargothrond.
 
 # Túrin and Gwindor in Nargothrond
 [TreeTag]: # {21.09}
+
 ## Finduilas recognizes Gwindor, and Túrin chooses not to reveal his name
 [TreeTag]: # {21.09.01}
 At first his own people did not know Gwindor, who went out young and strong,
@@ -722,6 +731,7 @@ spoke only of the Black Sword of Nargothrond.
 
 # Glaurung's attack on Nargothrond
 [TreeTag]: # {21.10}
+
 ## Morwen and Nienor become guests in Thingol's hall
 [TreeTag]: # {21.10.01}
 In that time of respite and hope, when because of the deeds of the Mormegil the
@@ -894,6 +904,7 @@ innermost hall, and rested a while.
 
 # Túrin's flight to Dor-lómin and back to Amon Obel in Brethil
 [TreeTag]: # {21.11}
+
 ## Túrin flees to the north, tormented but not stayed
 [TreeTag]: # {21.11.01}
 And Túrin hastened along the ways to the north, through the lands now desolate
@@ -993,6 +1004,7 @@ wielded rather the bow and the spear.
 
 # The ill fated riding of Morwen, with Mablung and Nienor, to Nargothrond
 [TreeTag]: # {21.12}
+
 ## Rumors of Nargothrond come to Doriath, where the fate of Mormegil (Túrin) is not known, but identity is
 [TreeTag]: # {21.12.01}
 Now new tidings came to Doriath concerning Nargothrond, for some that had
@@ -1096,6 +1108,7 @@ long in vain for tidings of Morwen and Nienor.
 
 # Of Níniel and Turambar
 [TreeTag]: # {21.13}
+
 ## Nienor, being like a newborn, comes to the Forest of Brethil
 [TreeTag]: # {21.13.01}
 But Nienor ran on into the woods until she was spent, and then fell, and slept,
@@ -1154,6 +1167,7 @@ upon her mind.
 
 # The defeat of Glaurung
 [TreeTag]: # {21.14}
+
 ## Three years later, Turambar and Níniel are wed, but Brethil is assulted and Turambar is brought again to war
 [TreeTag]: # {21.14.01}
 But when three years were passed since the sack of Nargothrond Turambar asked
@@ -1275,6 +1289,7 @@ so that she could not stir from that place of her own will.
 
 # The end of Nienor
 [TreeTag]: # {21.15}
+
 ## Brandir finally arrives, finding Níniel in paralysis, and taking her hand he leads her away
 [TreeTag]: # {21.15.01}
 Even so Brandir found her, for he came to Nen Girith at last, limping wearily;
@@ -1333,6 +1348,7 @@ Dreadful Doom.
 
 # The death of Brandir
 [TreeTag]: # {21.16}
+
 ## Brandir kills Dorlas, and returns to Nen Girith, where those there ask of Níniel
 [TreeTag]: # {21.16.01}
 But Brandir made his way back to Nen Girith, to bring tidings to the people;
@@ -1396,6 +1412,7 @@ death in battle.
 
 # Mablung finds Túrin who runs and takes his own life
 [TreeTag]: # {21.17}
+
 ## Mablung finds Túrin at that mound, and Túrin reveals that the dragon has been slain
 [TreeTag]: # {21.17.01}
 And even as he sat there Mablung with a company of Grey-elves came over the

@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of Melkor's deceptions in flight, and his meeting of Ungoliant
 [TreeTag]: # {08.01}
+
 ## Oromë and Tulkas chase Melkor to the North, but in secret he fled to the south
 [TreeTag]: # {08.01.01}
 When Manwë heard of the ways that Melkor had taken, it seemed plain to him that
@@ -78,6 +79,7 @@ western slopes; and Ungoliant was at his side, and her darkness covered them.
 
 # Of the festival during that time
 [TreeTag]: # {08.02}
+
 ## Of the festival that was taking place
 [TreeTag]: # {08.02.01}
 Now it was a time of festival, as Melkor knew well. Though all tides and
@@ -139,6 +141,7 @@ their words would bear.
 
 # Of Ungoliant and Melkor's destruction of the Trees of Valinor and their flight therein
 [TreeTag]: # {08.03}
+
 ## Ungoliant and Melkor journey to Ezellohar, Melkor smites the trees while Ungoliant sucks their sap dry
 [TreeTag]: # {08.03.01}
 It is told that even as Fëanor and Fingolfin stood before Manwë there came the

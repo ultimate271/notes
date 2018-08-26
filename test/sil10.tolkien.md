@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Rewind to the Sindar, notably Elwë and Melian and the birth of Lúthien
 [TreeTag]: # {10.01}
+
 ## Lúthien is born of Elwë and Melian
 [TreeTag]: # {10.01.01}
 Now as has been told the power of Elwë and Melian increased in Middle-earth,
@@ -23,6 +24,7 @@ white flowers of niphredil came forth to greet her as stars from the earth.
 
 # Of dwarves and their dwellings and the building of Menegroth
 [TreeTag]: # {10.02}
+
 ## Of the dwellings of the dwarves, whom the Sindar call the Naugrim
 [TreeTag]: # {10.02.01}
 It came to pass during the second age of the captivity of Melkor that Dwarves
@@ -121,6 +123,7 @@ Beleriand there came no other rumour or tidings of the world without.
 
 # The beginnings of turmoil
 [TreeTag]: # {10.03}
+
 ## The dwarves begin to see the return of Melkor and his atrocities
 [TreeTag]: # {10.03.01}
 But as the third age of the captivity of Melkor drew on, the Dwarves became
@@ -166,6 +169,7 @@ in the time that was to come.
 
 # The calm before the storm
 [TreeTag]: # {10.04}
+
 ## Of the wood-elves journey to Ossiriand, led by Lenwë and son Denethor
 [TreeTag]: # {10.04.01}
 Now as has been told, one Lenwë of the host of Olwë forsook the march of the
@@ -215,6 +219,7 @@ knew well that all evil things were fled far away.
 
 # The first battle of the Wars of Beleriand
 [TreeTag]: # {10.05}
+
 ## Ungoliant is stayed in Ered Gorgoroth, and Morgoth builds Thangorodrim in Angband
 [TreeTag]: # {10.05.01}
 But it came to pass at last that the end of bliss was at hand, and the noontide

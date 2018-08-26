@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of Míriel and her son Fëanor
 [TreeTag]: # {06.01}
+
 ## The Noontide of the Blessed Realm of Valinor
 [TreeTag]: # {06.01.01}
 Now the Three Kindreds of the Eldar were gathered at last in Valinor, and
@@ -63,6 +64,7 @@ while he went to Lórien no more.
 
 # Of the relationships of Fëanor
 [TreeTag]: # {06.02}
+
 ## Of Fëanor and the skills he wrought through his maturing
 [TreeTag]: # {06.02.01}
 An his love he gave thereafter to his son; and Fëanor grew swiftly, as if a
@@ -115,6 +117,7 @@ they had not lived the history of the Eldar would have been diminished.
 
 # Of the end of the chaining of Melkor
 [TreeTag]: # {06.03}
+
 ## The end of the three ages of the chaining of Melkor
 [TreeTag]: # {06.03.01}
 Now even while Fëanor and the craftsmen of the Noldor worked with delight,

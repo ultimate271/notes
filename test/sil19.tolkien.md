@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Meta-preface
 [TreeTag]: # {19.01}
+
 ## Introduction to the tale of Beren and Lúthien
 [TreeTag]: # {19.01.01}
 Among the tales of sorrow and of ruin that come down to us from the darkness of
@@ -16,6 +17,7 @@ song.
 
 # The trechery of Gorlim, the defeat of Barahir, and the escape of his son, Beren
 [TreeTag]: # {19.02}
+
 ## Of Barahir, his stubborn fall at Dorthonion, and Tarn Aeluin, the lake where his companions withdrew
 [TreeTag]: # {19.02.01}
 It has been told that Barahir would not for sake Dorthonion, and there Morgoth
@@ -126,6 +128,7 @@ dreadful spirits that he had imprisoned in their bodies.
 
 # Beren travels south and by chance comes upon Lúthien
 [TreeTag]: # {19.03}
+
 ## Beren travels south, over the Ered Gorgoroth, through Dungortheb, and amongst the terrors of Ungoliant and her kind, finding himself at last in Doriath
 [TreeTag]: # {19.03.01}
 All that land was now become filled with evil, and all clean things were
@@ -208,6 +211,7 @@ was brief.
 
 # The conversation between Thingol and Beren, and the request made of Beren by Thingol
 [TreeTag]: # {19.04}
+
 ## Daeron, a minstrel in love with Lúthien, sees her and Beren, and alerts Thingol, who, at his daughter's wishes, brings Beren to Menegroth to be questioned
 [TreeTag]: # {19.04.01}
 But Daeron the minstrel also loved Lúthien, and he espied her meetings with
@@ -333,6 +337,7 @@ of Thingol.
 
 # Beren visits Finrod, who with 10 faithful servents set out on their quest
 [TreeTag]: # {19.05}
+
 ## Beren leaves and finds himself about the highlands of Taur-en-Faroth above Nargothrond
 [TreeTag]: # {19.05.01}
 It is told in the Lay of Leithian that Beren passed through Doriath unhindered,
@@ -436,6 +441,7 @@ from the halls.
 
 # The contest of Sauron and Felagund, in which the group is cast into a great pit
 [TreeTag]: # {19.06}
+
 ## The group sets out, disguising themselves as orcs and coming to Minas Tirith which Sauron had taken
 [TreeTag]: # {19.06.01}
 On an evening of autumn Felagund and Beren set out from Nargothrond with their
@@ -485,6 +491,7 @@ companions; but none betrayed their lord.
 
 # How Celegorm and Curufin find Lúthien and intend to use her to their perverted ways
 [TreeTag]: # {19.07}
+
 ## Lúthien feels the heaviness of Beren's defeat, and telling Daeron, he, instead of helping her, decides to trap her in a house at the shafts of Hírilorn
 [TreeTag]: # {19.07.01}
 In the time when Sauron cast Beren into the pit a weight of horror came upon
@@ -577,6 +584,7 @@ speed, for Huan was swift and tireless.
 
 # How Lúthien saves Beren from the captivity of Sauron in Tol-in-Gaurhoth (Minas Tirith)
 [TreeTag]: # {19.08}
+
 ## Sauron questions the company of Beren and Felagund, and Felagund sacrifices himself in defense of Beren
 [TreeTag]: # {19.08.01}
 In the pits of Sauron Beren and Felagund lay, and all their companions were now
@@ -682,6 +690,7 @@ love was less than before.
 
 # The aftermath at Nargothrond as Celegorm and Curufin leave the throne to Orodreth
 [TreeTag]: # {19.09}
+
 ## The people of Nargothrond sense the treachery of the brothers Celegorm and Curufin, and turn to Orodreth, who shows pity on them lest he bind the curse of Mandos more
 [TreeTag]: # {19.09.01}
 There was tumult in Nargothrond. For thither now returned many Elves that had
@@ -717,6 +726,7 @@ and the distant menace of the Mountains of Terror.
 
 # The brothers Celegorm and Curufin attack Beren and Lúthien in the Forest of Brethil
 [TreeTag]: # {19.10}
+
 ## In the forests of Berthil, Lúthien resolves to keep her fate intertwined with Beren's whatever task he takes
 [TreeTag]: # {19.10.01}
 Now it is told that Beren and Lúthien came in their wandering into the Forests
@@ -778,6 +788,7 @@ while she yet slept upon the grass.
 
 # The encounter at Angband
 [TreeTag]: # {19.11}
+
 ## Beren comes upon Thangorodrim and sings of Lúthien
 [TreeTag]: # {19.11.01}
 He rode northward again with all speed to the Pass of Sirion, and coming to the
@@ -1020,6 +1031,7 @@ again.
 
 # Beren and Lúthien return to Menegroth
 [TreeTag]: # {19.12}
+
 ## They dwell in the woods for a time, but Beren, always remembering his oath to Thingol
 [TreeTag]: # {19.12.01}
 Thereafter Beren was named Erchamion, which is the One-handed; and suffering
@@ -1121,6 +1133,7 @@ of her father.
 
 # The Hunting of the Wolf
 [TreeTag]: # {19.13}
+
 ## However, hearing of the onslaught of Carcharoth, Beren knows his quest is not yet fulfilled
 [TreeTag]: # {19.13.01}
 But now a shadow fell upon the joy of Doriath at the return of Lúthien the
@@ -1191,6 +1204,7 @@ said, 'and my doom full-wrought'; and he spoke no more.
 
 # At the halls of Mandos
 [TreeTag]: # {19.14}
+
 ## They bring Beren, with Huan, back to Menegroth, where Beren passes beyond the western sea
 [TreeTag]: # {19.14.01}
 They bore back Beren Camlost son of Barahir upon a bier of branches with Huan

@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of the first journey of the Eldar to the Land of Aman
 [TreeTag]: # {05.01}
+
 ## Orome brings the Eldar not north but into Beleriand to depart to Aman
 [TreeTag]: # {05.01.01}
 In time the hosts of the Vanyar and the Noldor came to the last western shores
@@ -35,6 +36,7 @@ Isle of Balar, to which afterwards Ossë often came.
 
 # Of the second journey of the Teleri to Aman, and of those that stayed
 [TreeTag]: # {05.02}
+
 ## Osse and Uinen befriend the Teleri under Olwe who didn't make it in time
 [TreeTag]: # {05.02.01}
 But the Teleri remained still in Middle-earth, for they dwelt in East Beleriand
@@ -89,6 +91,7 @@ and a high doom was before him.
 
 # Of the dwellings and buildings of the Eldar in Aman
 [TreeTag]: # {05.03}
+
 ## Of Tol Eressea, the Lonely Isle, that was stayed off the coast of Eldamar
 [TreeTag]: # {05.03.01}
 Now Ossë followed after the host of Olwë, and when they were come to the Bay of
@@ -153,6 +156,7 @@ Valinor.
 
 # The telling of the kinship of the Noldor
 [TreeTag]: # {05.04}
+
 ## Preamble to the telling of the kinship of the Noldor
 [TreeTag]: # {05.04.01}
 The Noldor afterwards came back to Middle-earth, and this tale tells mostly of
@@ -203,6 +207,7 @@ radiance of Laurelin.
 
 # Of the doings of the Eldar in the beginning of their time in Aman
 [TreeTag]: # {05.05}
+
 ## Of the Teleri and how they found the art of ship building
 [TreeTag]: # {05.05.01}
 Here must be told how the Teleri came at last to the land of Aman.  Through a

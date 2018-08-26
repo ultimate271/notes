@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # First encounter of men and elves
 [TreeTag]: # {17.01}
+
 ## Finrod hunts with Maglor and Maedhros to the north of Ossiriand
 [TreeTag]: # {17.01.01}
 When three hundred years and more were gone since the Noldor came to Beleriand,
@@ -66,6 +67,7 @@ their lord, and were ever after loyal to the house of Finarfin.
 
 # Morgoth's secret dealing with men
 [TreeTag]: # {17.02}
+
 ## They begin to speak, and Bëor tells of darkness
 [TreeTag]: # {17.02.01}
 Now the Eldar were beyond all other peoples skilled in tongues; and Felagund
@@ -105,6 +107,7 @@ servants, and those of less might and cunning.
 
 # Of the Haladin
 [TreeTag]: # {17.03}
+
 ## Of the Haladin, who were larger but stayed in the east, led by Marach
 [TreeTag]: # {17.03.01}
 Now Felagund learned from Bëor that there were many other Men of like mind who
@@ -157,6 +160,7 @@ between those peoples.
 
 # Foretelling of Finrod, Fingolfin, and Thingol's dealing with men
 [TreeTag]: # {17.04}
+
 ## More on Felagund's friendship of men, called Atani or Edain
 [TreeTag]: # {17.04.01}
 Felagund himself often returned to visit Men; and many other Elves out of the
@@ -208,6 +212,7 @@ shall spring from that coming shall endure when all Middle-earth is changed.'
 
 # How Bereg of Estolad leaves to the south and exits all tales of Beleriand
 [TreeTag]: # {17.05}
+
 ## Those that stayed in Estolad
 [TreeTag]: # {17.05.01}
 But many Men remained in Estolad, and there was still a mingled people living
@@ -278,6 +283,7 @@ they went back over the mountains into Eriador, and are forgotten.
 
 # Of Morgoth's attacks on the Haladin and how Haleth journies to Brethil
 [TreeTag]: # {17.06}
+
 ## Morgoth launches an attack of orcs from the south of Thargelion
 [TreeTag]: # {17.06.01}
 During this time the Haladin remained in Thargelion and were content.  But
@@ -364,6 +370,7 @@ Haudh-en-Arwen in the Sindarin tongue.
 
 # Conclusion of the coming of men
 [TreeTag]: # {17.07}
+
 ## Summary of the distribution of the Edain
 [TreeTag]: # {17.07.01}
 In this way it came to pass that the Edain dwelt in the lands of the Eldar,

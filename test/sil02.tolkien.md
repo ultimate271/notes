@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Aule creates the dwarves before the time of the coming of the Children
 [TreeTag]: # {02.01}
+
 ## Aule secretly creates the dwarves in his impatience and anticipation
 [TreeTag]: # {02.01.01}
 It is told that in their beginning the Dwarves were made by Aulë in the
@@ -96,6 +97,7 @@ to the Elves, whose mansions were at Khazad-dûm.
 
 # Yavanna, in her love for her creation, speaks with Manwe of Eagles and Ents
 [TreeTag]: # {02.02}
+
 ## Aule tells Yavana of the dwarves, and she declares that they will dislike the trees
 [TreeTag]: # {02.02.01}
 Now when Aulë laboured in the making of the Dwarves he kept this work hidden

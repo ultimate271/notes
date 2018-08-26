@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Of the time before the coming of the Children
 [TreeTag]: # {03.01}
+
 ## The Valar seldom come to middle earth, save Orome and Yavanna, who dwell there in the twilight
 [TreeTag]: # {03.01.01}
 Through long ages the Valar dwelt in bliss in the light of the Trees beyond.
@@ -40,6 +41,7 @@ Angband.
 
 # The preperation of the Valar for the coming of the Children
 [TreeTag]: # {03.02}
+
 ## Yavanna implores the Valar to consider the coming of the Children
 [TreeTag]: # {03.02.01}
 It came to pass that the Valar held council, for they became troubled by the
@@ -85,6 +87,7 @@ swing, Valacirca, the Sickle of the Valar and sign of doom.
 
 # The coming of the Quendi from Cuivienen and the wonder of their births
 [TreeTag]: # {03.03}
+
 ## The firstborn come from Cuiviénen, Water of Awakening
 [TreeTag]: # {03.03.01}
 It is told that even as Varda ended her labours, and they were long, when first
@@ -187,6 +190,7 @@ was the vilest deed of Melkor, and the most hateful to Ilúvatar.
 
 # Of the war of the Valar and the chaining of Melkor
 [TreeTag]: # {03.04}
+
 ## Orome returns to Valinor and tells of the coming of the Elves
 [TreeTag]: # {03.04.01}
 Oromë tarried a while among the Quendi, and then swiftly he rode back over land
@@ -266,6 +270,7 @@ plead again for pardon.
 
 # The Valar's decision to bring the Elves, and the Kings that were chosen as Ambassadors
 [TreeTag]: # {03.05}
+
 ## The Valar, in great debate and against the council of Ulmo, elect to bring the elves that may come to Valinor
 [TreeTag]: # {03.05.01}
 Then again the Valar were gathered in council, and they were divided in debate.
@@ -304,6 +309,7 @@ met never again until many ages were past.
 
 # Of the great march of the Calaquendi
 [TreeTag]: # {03.06}
+
 ## Ingwë and the Vanyar, the Fair Elves, beloved of Manwe and Varda, lead the journey to Valinor
 [TreeTag]: # {03.06.01}
 The Eldar prepared now a great march from their first homes in the east; and

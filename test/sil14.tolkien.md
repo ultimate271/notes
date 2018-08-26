@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # Introduction
 [TreeTag]: # {14.01}
+
 ## Introduction to the blandness of this chapter
 [TreeTag]: # {14.01.01}
 This is the fashion of the lands into which the Noldor came, in the north of
@@ -14,6 +15,7 @@ Beleriand.
 
 # (North) Ered Engrin, Utumno, Angband, Thangorodrim, Ard-galen
 [TreeTag]: # {14.02}
+
 ## The Ered Engrin, the Iron Mountains, around Utunmo, and Angband and Thangorodrim, then Ard-galen, the valley
 [TreeTag]: # {14.02.01}
 In the north of the world Melkor had in the ages past reared Ered Engrin, the
@@ -38,6 +40,7 @@ things even among the pits and broken rocks before the doors of hell.
 
 # (Northwest) Ered Wethrin, Hithlum, Mithrim, Dor-Lomin, Ered-Lomin, Nevrast
 [TreeTag]: # {14.03}
+
 ## Hithlum, west of Thangorodrim, the Ered Lómin west and Ered Wethrin East and South
 [TreeTag]: # {14.03.01}
 To the west of Thangorodrim lay Hísilóme, the Land of Mist, for so it was named
@@ -87,6 +90,7 @@ beside the sea.
 
 # (Northcenter) Dorthonion, Tol Sirion, Minas Tirith
 [TreeTag]: # {14.04}
+
 ## Dorthonion south of Ard-galen, Angrod and Aegnor, vassal of Finrod
 [TreeTag]: # {14.04.01}
 South of Ard-galen the great highland named Dorthonion stretched for sixty
@@ -111,6 +115,7 @@ that fortress mostly to the keeping of Orodreth his brother.
 
 # (West) Nargothorond, rivers Sirion, Teiglin, Narog (out of Irvine), Nenning
 [TreeTag]: # {14.05}
+
 ## The river Sirion, river Teiglin, river Narog, and Forest of Breathil, Nargothorond, Nan-tathren in west Beleriand
 [TreeTag]: # {14.05.01}
 Now the great and fair country of Beleriand lay on either side of the mighty
@@ -148,6 +153,7 @@ fate that they should ever dwell there.
 
 # Bit of summary
 [TreeTag]: # {14.06}
+
 ## Fingolfin, Fingon, Maedhros, and Finrod Felagund are the cheif leaders
 [TreeTag]: # {14.06.01}
 Thus the realm of Finrod was the greatest by far, though he was the youngest of
@@ -159,6 +165,7 @@ by Morgoth.
 
 # (Centernorth) Dimbar, Nan Dungortheb, Ered Gorgoroth, Dor Dimen
 [TreeTag]: # {14.07}
+
 ## East of Sirion, Dimbar, Mindeb, Nan Dungortheb, Ered Gorgoroth, river Esgalduin, Dor Dinen, finally Arossiach, all north of Doriath,
 [TreeTag]: # {14.07.01}
 Upon the left hand of Sirion lay East Beleriand, at its widest a hundred
@@ -185,6 +192,7 @@ north marches of Beleriand, where dwelt the sons of Fëanor.
 
 # (Girdle of Melian) Doriath, Esgalduin, Neldoreth, Region, Menegroth
 [TreeTag]: # {14.08}
+
 ## In Doriath, river Esgalduin, Neldoreth north, Region south, Menegroth, in the Girdle of Melian, where Thingol is king
 [TreeTag]: # {14.08.01}
 Southward lay the guarded woods of Doriath, abode of Thingol the Hidden King,
@@ -202,6 +210,7 @@ wholly under the power of Thingol.
 
 # (Center South) Aelin Uial, Narog, Nargothorond, Andram, Ramdal, Amon Ereb, Taur-im-Duinath
 [TreeTag]: # {14.09}
+
 ## Aelin-uial, falls of Sirion, and Nargothorond (again) about Narog
 [TreeTag]: # {14.09.01}
 In the south-west of Doriath, where Aros flowed into Sirion, lay great pools
@@ -243,6 +252,7 @@ it was named, the Forest between the Rivers.
 
 # (East) Hill of Himring, Gelion, Mount Rerir, Ered Luin, Ossiriand, Tol Galen
 [TreeTag]: # {14.10}
+
 ## Little Gelion (west) from Hill of Himring, and Greater Gelion from Mount Rerir, Ered Luin the blue mountains, six rivers of Ossirand, and Tol Galen
 [TreeTag]: # {14.10.01}
 Gelion was a great river; and he rose in two sources and had at first two
@@ -273,6 +283,7 @@ them from Ossiriand.
 
 # (Northeast) March of Maedhros, Lothlann, Pass of Aglon, Himlad, Maglor's gap, Helevorn, Thargelion
 [TreeTag]: # {14.11}
+
 ## March of Maedhros east of Dorthonion, Lothlonn, Pass of Aglon, where Celegorm and Curufin
 [TreeTag]: # {14.11.01}
 East of Dorthonion the marches of Beleriand were most open to attack, and only

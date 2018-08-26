@@ -4,6 +4,7 @@
 [Author]: # {tolkien}
 # The voyage of Eärendil upon Vingilot
 [TreeTag]: # {24.01}
+
 ## Eärendil, weds Elwing, but is still thirsty for the west
 [TreeTag]: # {24.01.01}
 Bright Eärendil was then lord of the people that dwelt nigh to Sirion's mouths;
@@ -39,6 +40,7 @@ him back as swift as his desire.
 
 # The third kin-slaying of Elves to Elves
 [TreeTag]: # {24.02}
+
 ## Maedhros stays his hand for a bit, but the oath brings about the third kinslaying of elves
 [TreeTag]: # {24.02.01}
 Now when first the tidings came to Maedhros that Elwing yet lived, and dwelt in
@@ -56,6 +58,7 @@ wrongs achieved by the accursed oath.
 
 # How Elwing comes to Eärendil, and their voyage to Valinor
 [TreeTag]: # {24.03}
+
 ## Elwing casts herself into the sea, while Círdan and Gil-galad come help those that were not slain to flee to Balar
 [TreeTag]: # {24.03.01}
 For the sons of Fëanor that yet lived came down suddenly upon the exiles of
@@ -125,6 +128,7 @@ taken from them for ever.
 
 # Eärendil presents his case to the Valar, and the fate of the Halfelven
 [TreeTag]: # {24.04}
+
 ## Eärendil alone comes to Calacirya, but it is empty as the Valar and Eldar are having a feast at Taniquetil
 [TreeTag]: # {24.04.01}
 Then Eärendil said to Elwing: 'Await me here; for one only may bring the
@@ -212,6 +216,7 @@ Night and was lifted up even into the oceans of heaven.
 
 # Of the Journies of Eärendil with the Silmaril, and of Elwing awaiting on the return
 [TreeTag]: # {24.05}
+
 ## The Vingilat is hallowed and brought through Valinor, and Eärendil journies with the Silmaril into the starless voids
 [TreeTag]: # {24.05.01}
 Now fair and marvellous was that vessel made, and it was filled with a wavering
@@ -254,6 +259,7 @@ looked up, and despaired no longer; but Morgoth was filled with doubt.
 
 # The War of Wrath
 [TreeTag]: # {24.06}
+
 ## The host of the Valar with Ingwë and Finarfin and Elwing come upon Morgoth who was not expecting a force from the West
 [TreeTag]: # {24.06.01}
 Yet it is said that Morgoth looked not for the assault that came upon him from
@@ -346,6 +352,7 @@ Sirion was no more.
 
 # Of Maedhros and Maglor and the last fate of the Silmarils
 [TreeTag]: # {24.07}
+
 ## Eönwë summons the Elves of Beleriand to depart from Middle-earth, but Maedhros and Maglor stick to their oath even against the Valar
 [TreeTag]: # {24.07.01}
 Then Eönwë as herald of the Elder King summoned the Elves of Beleriand to
@@ -428,6 +435,7 @@ in the fires of the heart of the world, and one in the deep waters.
 
 # Conclusion of all in the first age
 [TreeTag]: # {24.08}
+
 ## Many Eldar set sail to the West, but without the Silmarils
 [TreeTag]: # {24.08.01}
 In those days there was a great building of ships upon the shores of the
