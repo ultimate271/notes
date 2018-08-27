@@ -1,11 +1,9 @@
 # PART III - CHAPTER VI. A BUSY NIGHT - II
 [Metadata]: # {03.06.02}
 [Descriptor]: # {03.06.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VI. A BUSY NIGHT
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.06.02.01}
 He first went home, and carefully, without haste, packed his trunk. At six
 o'clock in the morning there was a special train from the town. This early
 morning express only ran once a week, and was only a recent experiment. Though

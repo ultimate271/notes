@@ -1,11 +1,15 @@
 # PART I - CHAPTER I. INTRODUCTORY - V
 [Metadata]: # {01.01.05}
 [Descriptor]: # {01.01.05}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {01.01.05.01}
+
+## 
+[Item]: # {Kukolnik}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[TreeTag]: # {01.01.05.01.01}
 She had herself designed the costume for him which he wore for the rest of his
 life. It was elegant and characteristic; a long black frock-coat, buttoned
 almost to the top, but stylishly cut; a soft hat (in summer a straw hat) with a
@@ -32,6 +36,10 @@ the undertaking with a gesture of despair. It sometimes happened that he would
 take De Tocqueville with him into the garden while he had a Paul de Kock in his
 pocket. But these are trivial matters.
 
+### 
+[Character]: # {Varvara Petrovna}
+[Item]: # {Kukolnik}
+[TreeTag]: # {01.01.05.01.01.01}
 I must observe in parenthesis about the portrait of Kukolnik; the engraving had
 first come into the hands of Varvara Petrovna when she was a girl in a
 high-class boarding-school in Moscow. She fell in love with the portrait at
@@ -44,6 +52,10 @@ perhaps it was only on this account that she had designed for Stepan
 Trofimovitch a costume somewhat like the poet's in the engraving. But that, of
 course, is a trifling matter too.
 
+## 
+[Character]: # {Varvara Petrovna}
+[Speaker]: # {Stepan Trofimovitch}
+[TreeTag]: # {01.01.05.01.02}
 For the first years or, more accurately, for the first half of the time he
 spent with Varvara Petrovna, Stepan Trofimovitch was still planning a book and
 every day seriously prepared to write it. But during the later period he must
@@ -63,6 +75,14 @@ and useless. To distract him and at the same time to renew his fame she carried
 him off to Moscow, where she had fashionable acquaintances in the literary and
 scientific world; but it appeared that Moscow too was unsatisfactory.
 
+# 
+[TreeTag]: # {01.01.05.02}
+
+## 
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Location]: # {Skvoreshniki}
+[TreeTag]: # {01.01.05.02.01}
 It was a peculiar time; something new was beginning, quite unlike the
 stagnation of the past, something very strange too, though it was felt
 everywhere, even at Skvoreshniki. Rumours of all sorts reached us. The facts

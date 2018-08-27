@@ -1,11 +1,9 @@
 # PART II - CHAPTER II. NIGHT (continued) - III
 [Metadata]: # {02.02.03}
 [Descriptor]: # {02.02.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER II. NIGHT (continued)
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.02.03.01}
 Marya Timofyevna's room was twice as large as the one occupied by the captain,
 and furnished in the same rough style; but the table in front of the sofa was
 covered with a gay-coloured table-cloth, and on it a lamp was burning. There

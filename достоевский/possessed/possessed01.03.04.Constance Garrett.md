@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - IV
 [Metadata]: # {01.03.04}
 [Descriptor]: # {01.03.04}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {01.03.04.01}
 Why he should be lost owing to Liputin I did not know, and indeed I did not
 attach much significance to the words; I put it all down to his nerves. His
 terror, however, was remarkable, and I made up my mind to keep a careful watch

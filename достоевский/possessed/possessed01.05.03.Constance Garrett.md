@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - III
 [Metadata]: # {01.05.03}
 [Descriptor]: # {01.05.03}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {01.05.03.01}
 "Ach, here!" Praskovya Ivanovna indicated an easy chair near the table and sank
 heavily into it with the assistance of Mavriky Nikolaevitch. "I wouldn't have
 sat down in your house, my lady, if it weren't for my legs," she added in a

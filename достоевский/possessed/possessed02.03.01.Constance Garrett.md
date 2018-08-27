@@ -1,11 +1,9 @@
 # PART II - CHAPTER III. THE DUEL - I
 [Metadata]: # {02.03.01}
 [Descriptor]: # {02.03.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER III. THE DUEL
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.03.01.01}
 THE NEXT DAY, at two o'clock in the afternoon, the duel took place as arranged.
 Things were hastened forward by Gaganov's obstinate desire to fight at all
 costs. He did not understand his adversary's conduct, and was in a fury. For a

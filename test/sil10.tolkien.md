@@ -1,8 +1,12 @@
 # Chapter 10: Of the Sindar
-
+[Metadata]: # {10}
+[Descriptor]: # {10}
+[Author]: # {tolkien}
 # Rewind to the Sindar, notably Elwë and Melian and the birth of Lúthien
+[TreeTag]: # {10.01}
 
 ## Lúthien is born of Elwë and Melian
+[TreeTag]: # {10.01.01}
 Now as has been told the power of Elwë and Melian increased in Middle-earth,
 and all the Elves of Beleriand, from the mariners of Círdan to the wandering
 hunters of the Blue Mountains beyond the River Gelion, owned Elwë as their
@@ -19,8 +23,10 @@ silver fires; and there in the forest of Neldoreth Lúthien was born, and the
 white flowers of niphredil came forth to greet her as stars from the earth.
 
 # Of dwarves and their dwellings and the building of Menegroth
+[TreeTag]: # {10.02}
 
 ## Of the dwellings of the dwarves, whom the Sindar call the Naugrim
+[TreeTag]: # {10.02.01}
 It came to pass during the second age of the captivity of Melkor that Dwarves
 came over the Blue Mountains of Ered Luin into Beleriand.  Themselves they
 named Khazâd, but the Sindar called them Naugrim, the Stunted People, and
@@ -38,6 +44,7 @@ and to the Eldar came but as a name and a rumour from the words of the Dwarves
 of the Blue Mountains.
 
 ## The dwarves and the elves become friends in the early days
+[TreeTag]: # {10.02.02}
 From Nogrod and Belegost the Naugrim came forth into Beleriand; and the Elves
 were filled with amazement, for they had believed themselves to be the only
 living things in Middle-earth that spoke with words or wrought with hands, and
@@ -61,6 +68,7 @@ they had marvellous skill with metals and with stone; but in that ancient time
 iron and copper they loved to work, rather than silver or gold.
 
 ## The elves give the dwarves pearls, the greatest being Nimphelos
+[TreeTag]: # {10.02.03}
 Now Melian had much foresight, after the manner of the Maiar; and when the
 second age of the captivity of Melkor had passed, she counselled Thingol that
 the Peace of Arda would not last for ever. He took thought therefore how he
@@ -78,6 +86,7 @@ foam of the sea; Nimphelos it was named, and the chieftain of the Dwarves of
 Belegost prized it above a mountain of wealth.
 
 ## The dwarves help build Menegroth in Neldoreth
+[TreeTag]: # {10.02.04}
 Therefore the Naugrim laboured long and gladly for Thingol, and devised for him
 mansions after the fashion of their people, delved deep in the earth. Where the
 Esgalduin flowed down, and parted Neldoreth from Region, there rose in the
@@ -89,6 +98,7 @@ living stone, so many and so great that that dwelling was named Menegroth, the
 Thousand Caves.
 
 ## Description of Menegroth
+[TreeTag]: # {10.02.05}
 But the Elves also had part in that labour, and Elves and Dwarves together,
 each with their own skill, there wrought out the visions of Melian, images of
 the wonder and beauty of Valinor beyond the Sea. The pillars of Menegroth were
@@ -104,6 +114,7 @@ that were yet to be. That was the fairest dwelling of any king that has ever
 been east of the Sea.
 
 ## The dwarves are weary of the sea
+[TreeTag]: # {10.02.06}
 And when the building of Menegroth was achieved, and there was peace in the
 realm of Thingol and Melian, the Naugrim yet came ever and anon over the
 mountains and went in traffic about the lands; but they went seldom to the
@@ -111,8 +122,10 @@ Falas, for they hated the sound of the sea and feared to look upon it. To
 Beleriand there came no other rumour or tidings of the world without.
 
 # The beginnings of turmoil
+[TreeTag]: # {10.03}
 
 ## The dwarves begin to see the return of Melkor and his atrocities
+[TreeTag]: # {10.03.01}
 But as the third age of the captivity of Melkor drew on, the Dwarves became
 troubled, and they spoke to King Thingol, saying that the Valar had not rooted
 out utterly the evils of the North, and now the remnant, having long multiplied
@@ -121,6 +134,7 @@ fell beasts,' they said, 'in the land east of the mountains, and your ancient
 kindred that dwell there are flying from the plains to the hills.'
 
 ## The peoples of Beleriand discover wolves and orcs
+[TreeTag]: # {10.03.02}
 And ere long the evil creatures came even to Beleriand, over passes in the
 mountains, or up from the south through the dark forests. Wolves there were, or
 creatures that walked in wolf-shapes, and other fell beings of shadow; and
@@ -131,6 +145,7 @@ then, thinking them perhaps to be Avari who had become evil and savage in the
 wild; in which they guessed all too near, it is said.
 
 ## The dwarves craft weapons and mails in preperation
+[TreeTag]: # {10.03.03}
 Therefore Thingol took thought for arms, which before his people had not
 needed, and these at first the Naugrim smithied for him; for they were greatly
 skilled in such work, though none among them surpassed the craftsmen of Nogrod,
@@ -144,6 +159,7 @@ of mail of linked rings, which was first contrived by the smiths of Belegost,
 their work had no rival.
 
 ## Early forces are warded away with the arms of the dwarves
+[TreeTag]: # {10.03.04}
 At this time therefore the Sindar were well-armed, and they drove off an
 creatures of evil, and had peace again; but Thingol's armouries were stored
 with axes and with spears and swords, and tall helms, and long coats of bright
@@ -152,8 +168,10 @@ but shone ever as if they were new-burnished. And that proved well for Thingol
 in the time that was to come.
 
 # The calm before the storm
+[TreeTag]: # {10.04}
 
 ## Of the wood-elves journey to Ossiriand, led by Lenwë and son Denethor
+[TreeTag]: # {10.04.01}
 Now as has been told, one Lenwë of the host of Olwë forsook the march of the
 Eldar at that time when the Teleri were halted by the shores of the Great River
 upon the borders of the westlands of Middle-earth.  Little is known of the
@@ -171,6 +189,7 @@ There they were welcomed by Thingol, as kin long lost that return, and they
 dwelt in Ossiriand, the Land of Seven Rivers.
 
 ## Daeron, loremaster of Thingol, devises runes, and dwarves learn them
+[TreeTag]: # {10.04.02}
 Of the long years of peace that followed after the coming of Denethor there is
 little tale. In those days, it is said, Daeron the Minstrel, chief loremaster
 of the kingdom of Thingol, devised his Runes; and the Naugrim that came to
@@ -185,6 +204,7 @@ their own record, and only when they are in peril or broken for ever do they
 pass into song.
 
 ## In these days Oromë roams with Valaroma and the elves know it to be safe
+[TreeTag]: # {10.04.03}
 In Beleriand in those days the Elves walked, and the rivers flowed, and the
 stars shone, and the night-flowers gave forth their scents; and the beauty of
 Melian was as the noon, and the beauty of Lúthien was as the dawn in spring. In
@@ -198,8 +218,10 @@ noise of the onrush of Nahar; but when the Valaróma echoed in the hills, they
 knew well that all evil things were fled far away.
 
 # The first battle of the Wars of Beleriand
+[TreeTag]: # {10.05}
 
 ## Ungoliant is stayed in Ered Gorgoroth, and Morgoth builds Thangorodrim in Angband
+[TreeTag]: # {10.05.01}
 But it came to pass at last that the end of bliss was at hand, and the noontide
 of Valinor was drawing to its twilight. For as has been told and as is known to
 all, being written in lore and sung in many songs, Melkor slew the Trees of the
@@ -219,6 +241,7 @@ the gates of Morgoth were but one hundred and fifty leagues distant from the
 bridge of Menegroth: far and yet all too near.
 
 ## Thingol, with help from Ossiriand wins the first battle of the Wars of Beleriand
+[TreeTag]: # {10.05.02}
 Now the Orcs that multiplied in the darkness of the earth grew strong and fell,
 and their dark lord filled them with a lust of rain and death; and they issued
 from Angband's gates under the clouds that Morgoth sent forth, and passed
@@ -239,6 +262,7 @@ the axes of the Naugrim that issued from Mount Dolmed: few indeed returned to
 Angband.
 
 ## Denethor falls in the battle; the Elves that return to Ossiriand are called the Laiquendi
+[TreeTag]: # {10.05.03}
 But the victory of the Elves was dear-bought For those of Ossiriand were
 light-armed, and no match for the Orcs, who were shod with iron and
 iron-shielded and bore great spears with broad blades; and Denethor was cut off
@@ -254,6 +278,7 @@ of leaves. But many went north and entered the guarded realm of Thingol, and
 were merged with his people.
 
 ## The Girdle of Melian is build around Eglador, thereafter known as Doriath
+[TreeTag]: # {10.05.04}
 And when Thingol came again to Menegroth he learned that the Orc-host in the
 west was victorious, and had driven Círdan to the rim of the sea. Therefore he
 withdrew all his people that his summons could reach within the fastness of
@@ -267,9 +292,11 @@ watchful peace; but without there was peril and great fear, and the servants of
 Morgoth roamed at will, save in the walled havens of the Falas.
 
 ## In this time, no word is heard from Aman, and Fëanor arrives at Drengist
+[TreeTag]: # {10.05.05}
 But new tidings were at hand, which none in Middle-earth had foreseen, neither
 Morgoth in his pits nor Melian in Menegroth; for no news came out of Aman
 whether by messenger, or by spirit, or by vision in dream, after the death of
 the Trees. In this same time Fëanor came over the Sea in the white ships of the
 Teleri and landed in the Firth of Drengist, and there burned the ships at
 Losgar.
+

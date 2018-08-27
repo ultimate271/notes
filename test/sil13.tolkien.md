@@ -1,8 +1,12 @@
 # Chapter 13: Of the Return of the Noldor
-
+[Metadata]: # {13}
+[Descriptor]: # {13}
+[Author]: # {tolkien}
 # The second battle of Beleriand, Dagor-nuin-Giliath, where overzealous Fëanor meets his end.
+[TreeTag]: # {13.01}
 
 ## The landing of Fëanor at Lammoth and the burning of the ships at Losgar
+[TreeTag]: # {13.01.01}
 It has been told that Fëanor and his sons came first of the Exiles to
 Middle-earth, and landed in the waste of Lammoth, the Great Echo, upon the
 outer shores of the Firth of Drengist And even as the Noldor set foot upon the
@@ -13,6 +17,7 @@ as a tumult of great wrath, and far away all who heard that sound were filled
 with wonder.
 
 ## Fingolfin and Morgoth both witness the burning of the ships
+[TreeTag]: # {13.01.02}
 Now the flames of that burning were seen not only by Fingolfin, whom Fëanor had
 deserted in Araman, but also by the Orcs and the watchers of Morgoth. No tale
 has told what Morgoth thought in his heart at the tidings that Fëanor, his
@@ -21,6 +26,7 @@ little, for he had as yet no proof of the swords of the Noldor; and soon it was
 seen that he purposed to drive them back into the sea.
 
 ## Fëanor with Círdan fight the Second Battle of Beleriand at Mithrim victoriously
+[TreeTag]: # {13.01.03}
 Under the cold stars before the rising of the Moon the host of Fëanor went up
 the long Firth of Drengist that pierced the Echoing Hills of Ered Lómin, and
 passed thus from the shores into the great land of Hithlum; and they came at
@@ -47,6 +53,7 @@ days that battle lasted, and from it returned of all the hosts that he had
 prepared for the conquest of Beleriand no more than a handful of leaves.
 
 ## Fëanor continues pursuit to Angband in Dor Daedeloth, where Gothmog Lord of Balrogs smites him down
+[TreeTag]: # {13.01.04}
 Yet cause he had for great joy, though it was hidden from him for a while. For
 Fëanor, in his wrath against the Enemy, would not halt, but pressed on behind
 the remnant of the Orcs, thinking so to come at Morgoth himself: and he laughed
@@ -65,6 +72,7 @@ There he would have perished, had not his sons in that moment come up with
 force to his aid; and the Balrogs left him, and departed to Angband.
 
 ## The spirit of Fëanor departs to Mandos on the slopes of Ered Wethrin
+[TreeTag]: # {13.01.05}
 Then his sons raised up their father and bore him back towards Mithrim.  But as
 they drew near to Eithel Sirion and were upon the upward path to the pass over
 the mountains, Fëanor bade them halt; for his wounds were mortal, and he knew
@@ -80,8 +88,10 @@ halls of Mandos.  Thus ended the mightiest of the Noldor, of whose deeds came
 both their greatest renown and their most grievous woe.
 
 # Of Maedhros son of Fëanor's capture by Morgoth and rescue by Fingon son of Fingolfin
+[TreeTag]: # {13.02}
 
 ## The Noldor meet the Grey-elves as friend in Mithrim
+[TreeTag]: # {13.02.01}
 Now in Mithrim there dwelt Grey-elves, folk of Beleriand that had wandered
 north over the mountains, and the Noldor met them with gladness, as kinsfolk
 long sundered; but speech at first was not easy between them, for in their long
@@ -96,6 +106,7 @@ need, believing indeed at first that they came as emissaries of the Valar to
 deliver them.
 
 ## The truce agreement escalates to the capture of Maedhros by the Balrogs
+[TreeTag]: # {13.02.02}
 But even in the hour of the death of Fëanor an embassy came to his sons from
 Morgoth, acknowledging defeat, and offering terms, even to the surrender of a
 Silmaril. Then Maedhros the tall, the eldest son, persuaded his brothers to
@@ -106,6 +117,7 @@ were Balrogs. Maedhros was ambushed, and all his company were slain; but he
 himself was taken alive by the command of Morgoth, and brought to Angband.
 
 ## Maedhros is bound to Thangorodrim by his right hand lest the elves surrender
+[TreeTag]: # {13.02.03}
 Then the brothers of Maedhros drew back, and fortified a great camp in Hithlum;
 but Morgoth held Maedhros as hostage, and sent word that he would not release
 him unless the Noldor would forsake their war, returning into the West, or else
@@ -117,6 +129,7 @@ took Maedhros and hung him from the face of a precipice upon Thangorodrim, and
 he was caught to the rock by the wrist of his right hand in a band of steel.
 
 ## Fingolfin and his host complete their journef of Ice and march unopposed to Dor Daedeloth
+[TreeTag]: # {13.02.04}
 Now rumour came to the camp in Hithlum of the march of Fingolfin and those that
 followed him, who had crossed the Grinding Ice; and all the world lay then in
 wonder at the coming of the Moon. But as the host of Fingolfin marched into
@@ -130,6 +143,7 @@ trumpets shook the towers of Thangorodrim; and Maedhros heard them amid his
 torment and cried aloud, but his voice was lost in the echoes of the stone.
 
 ## Fingolfin, seeing the might of Angbar, wisely falls back and regroups with Fëanor's host at Mithlim
+[TreeTag]: # {13.02.05}
 But Fingolfin, being of other temper than Fëanor, and wary of the wiles of
 Morgoth, withdrew from Dor Daedeloth and turned back towards Mithrim, for he
 had heard tidings that there he should find the sons of Fëanor, and he desired
@@ -150,6 +164,7 @@ abandoned over the Ice of the North; and they would have welcomed them, but
 they dared not, for shame.
 
 ## Morgoth, sensing the discord of the elves, brings forth smoke and vapors over Angband that blow over to Hithlum
+[TreeTag]: # {13.02.06}
 Thus because of the curse that lay upon them the Noldor achieved nothing, while
 Morgoth hesitated, and the dread of light was new and strong upon the Orcs. But
 Morgoth arose from thought, and seeing the division of his foes he laughed. In
@@ -161,6 +176,7 @@ and they fell, and coiled about the fields and hollows, and lay upon the waters
 of Mithrim, drear and poisonous.
 
 ## Fingon, son of Fingolfin, journeys alone into Angband and sings songs of his dear cousin
+[TreeTag]: # {13.02.07}
 Then Fingon the valiant, son of Fingolfin, resolved to heal the feud that
 divided the Noldor, before their Enemy should be ready for war; for the earth
 trembled in the Northlands with the thunder of the forges of Morgoth
@@ -181,6 +197,7 @@ voice rang in the mournful hollows that had never heard before aught save cries
 of fear and woe.
 
 ## Having found Maedhros, and being unable to save him, prepares to deliver him from his torment
+[TreeTag]: # {13.02.08}
 Thus Fingon found what he sought. For suddenly above him far and faint his song
 was taken up, and a voice answering called to him. Maedhros it was that sang
 amid his torment. But Fingon climbed to the foot of the precipice where his
@@ -192,6 +209,7 @@ are dear, speed now this feathered shaft, and recall some pity for the Noldor
 in their need!'
 
 ## Thorondor, King of Eagles, answers the prayers of Fingon, who is able to cut the hand of Maedhros and free him
+[TreeTag]: # {13.02.09}
 His prayer was answered swiftly. For Manwë to whom all birds are dear, and to
 whom they bring news upon Taniquetil from Middle-earth, had sent forth the race
 of Eagles, commanding them to dwell in the crags of the North, and to keep
@@ -207,6 +225,7 @@ but Fingon cut off his hand above the wrist, and Thorondor bore them back to
 Mithrim.
 
 ## Maedhros surrenders the kingship of the house of Finwë to Fingolfin
+[TreeTag]: # {13.02.10}
 There Maedhros in time was healed; for the fire of life was hot within him, and
 his strength was of the ancient world, such as those possessed who were
 nurtured in Valinor. His body recovered from his torment and became hale, but
@@ -217,10 +236,10 @@ Fingolfin and Fëanor was assuaged.  For Maedhros begged forgiveness for the
 desertion in Araman; and he waived his claim to kingship over all the Noldor,
 saying to Fingolfin: 'If there lay no grievance between us, lord, still the
 kingship would rightly come to you, the eldest here of the house of Finwë, and
-not the least wise.' But to this his brothers did not all in their hearts
-agree.
+not the least wise.' But to this his brothers did not all in their hearts agree.
 
 ## The reunited Noldor set vigilant watch around Angband
+[TreeTag]: # {13.02.11}
 Therefore even as Mandos foretold the House of Fëanor were called the
 Dispossessed, because the over-lordship passed from it, the elder, to the house
 of Fingolfin, both in Elendë and in Beleriand, and because also of the loss of
@@ -230,8 +249,10 @@ and they sent forth messengers far and wide to explore the countries of
 Beleriand, and to treat with the people that dwelt there.
 
 # The strife of the Noldor and their arrangement into Beleriand
+[TreeTag]: # {13.03}
 
 ## Thingol welcomes prince Finarfin into Doriath but is cautious of the returning elves
+[TreeTag]: # {13.03.01}
 Now King Thingol welcomed not with a full heart the coming of so many princes
 in might out of the West, eager for new realms; and he would not open his
 kingdom, nor remove its girdle of enchantment, for wise with the wisdom of
@@ -241,6 +262,7 @@ the confines of Doriath; for they could claim close kinship with King Thingol
 himself, since their mother was Eärwen of Alqualondë, Olwë's daughter.
 
 ## Angrod son of Finarfin makes peace with Thingol to dwell in lands apart from Doriath
+[TreeTag]: # {13.03.02}
 Angrod son of Finarfin was the first of the Exiles to come to Menegroth, as
 messenger of his brother Finrod, and he spoke long with the King, telling him
 of the deeds of the Noldor in the north, and of their numbers, and of the
@@ -258,6 +280,7 @@ none shall come to abide but only such as I call as guests, or who seek me in
 great need.'
 
 ## Maedhros welcomes the cold message of King Thingol, deaming him worthy of the title king
+[TreeTag]: # {13.03.03}
 Now the lords of the Noldor held council in Mithrim, and thither came Angrod
 out of Doriath, bearing the message of King Thingol. Cold seemed its welcome to
 the Noldor, and the sons of Fëanor were angered at the words; but Maedhros
@@ -269,6 +292,7 @@ for his neighbours, not the Orcs of Morgoth that we found. Elsewhere it shall
 go as seems good to us."
 
 ## However, Caranthir, also son of Fëanor, accepts this message with talk of anger and rebellion
+[TreeTag]: # {13.03.04}
 But Caranthir, who loved not the sons of Finarfin, and was the harshest of the
 brothers and the most quick to anger, cried aloud: 'Yea more!  Let not the sons
 of Finarfin run hither and thither with their tales to this Dark Elf in his
@@ -277,6 +301,7 @@ indeed to Beleriand, let them not so swiftly forget that their father is a lord
 of the Noldor, though their mother be of other kin.'
 
 ## Maedhros rebukes his brother, choosing to dwell northeast land of Lothlam whilst the house of Fingolfin and Finarfin remained in Hithlum
+[TreeTag]: # {13.03.05}
 Then Angrod was wrathful and went forth from the council. Maedhros indeed
 rebuked Caranthir; but the greater part of the Noldor, of both followings,
 hearing his words were troubled in heart, fearing the fell spirit of the sons
@@ -295,6 +320,7 @@ and would come among them at times for common counsel. Yet he also was bound by
 the oath, though it slept now for a time.
 
 ## Caranthir continues further east to Mount Rerir about the river Gelion, and there meet the Dwarves
+[TreeTag]: # {13.03.06}
 Now the people of Caranthir dwelt furthest east beyond the upper waters of
 Gelion, about Lake Helevorn under Mount Rerir and to the southward; and they
 climbed the heights of Ered Luin and looked eastward in wonder, for wild and
@@ -313,8 +339,10 @@ the dwarf-mines passed first through the hands of Caranthir, and thus great
 riches came to him.
 
 # The many years after the second battle and the continuing arrangement of the elves
+[TreeTag]: # {13.04}
 
 ## Fingolfin holds The Feast of Reuniting, Mereth Aderthad, at Irvin whence the river Narog flows
+[TreeTag]: # {13.04.01}
 When twenty years of the Sun had passed, Fingolfin King of the Noldor made a
 great feast; and it was held in the spring near to the pools of Ivrin, whence
 the swift river Narog rose, for there the lands were green and fair at the feet
@@ -330,6 +358,7 @@ there came but two messengers, Mablung and Daeron, bearing greetings from the
 King.
 
 ## Many friendships and oaths are made at Mereth Aderthad
+[TreeTag]: # {13.04.02}
 At Mereth Aderthad many counsels were taken in good will, and oaths were sworn
 of league and friendship; and it is told that at this feast the tongue of the
 Grey-elves was most spoken even by the Noldor, for they learned swiftly the
@@ -343,6 +372,7 @@ the new Sun and Moon, and all the land was glad; but still the Shadow brooded
 in the north.
 
 ## Turgon son of Fingolfin seeks Finrod at Tol Sirion, and their host has visions of Ulmo at the river Sirion
+[TreeTag]: # {13.04.03}
 And when again thirty years had passed, Turgon son of Fingolfin left Nevrast
 where he dwelt and sought out Finrod his friend upon the island of Tol Sirion,
 and they journeyed southward along the river, being weary for a while of the
@@ -359,6 +389,7 @@ establish a retreat, lest Morgoth should burst from Angband and overthrow the
 armies of the North.
 
 ## Nargothrond is made in the caverns of Narog by Finrod and Galadriel
+[TreeTag]: # {13.04.04}
 Now on a time Finrod and Galadriel his sister were the guests of Thingol their
 kinsman in Doriath. Then Finrod was filled with wonder at the strength and
 majesty of Menegroth, its treasuries and armouries and its many-pillared halls
@@ -380,18 +411,21 @@ as a strand of flax, and whatsoever neck it clasped it sat always with grace
 and loveliness.
 
 ## Finrod is named Felagund, Hewer of Caves, by the dwarves
+[TreeTag]: # {13.04.05}
 There in Nargothrond Finrod made his home with many of his people, and he was
 named in the tongue of the Dwarves Felagund, Hewer of Caves; and that name he
 bore thereafter until his end. But Finrod Felagund was not the first to dwell
 in the caves beside the River Narog.
 
 ## Galadriel stays not in Nargothrond, for her love is found in Celeborn, and in the lore of Melian
+[TreeTag]: # {13.04.06}
 Galadriel his sister went not with him to Nargothrond, for in Doriath dwelt
 Celeborn, kinsman of Thingol, and there was great love between them. Therefore
 she remained in the Hidden Kingdom, and abode with Melian, and of her learned
 great lore and wisdom concerning Middle-earth.
 
 ## Turgon remembers Tirion, and is led by Ulmo to Tumladen by Sirion in the Encircling Mountians
+[TreeTag]: # {13.04.07}
 But Turgon remembered the city set upon a hill, Tirion the fair with its tower
 and tree, and he found not what he sought, but returned to Nevrast, and sat in
 peace in Vinyamar by the shores of the sea. And in the next year Ulmo himself
@@ -403,8 +437,10 @@ there began in his secret counsels to devise the plan of a city after the
 manner of Tirion upon Túna, for which his heart yearned in exile.
 
 # Of the third battle of Beleriand and the 400 years of peace that followed
+[TreeTag]: # {13.05}
 
 ## Orcs pour from Angband and Dagor Aglared, the third battle of Beleriand, is begun
+[TreeTag]: # {13.05.01}
 Now Morgoth, believing the report of his spies that the lords of the Noldor
 were wandering abroad with little thought of war, made trial of the strength
 and watchfulness of his enemies. Once more, with little warning, his might was
@@ -422,6 +458,7 @@ the third great battle of the Wars of Beleriand, and it was named Dagor
 Aglareb, the Glorious Battle.
 
 ## Peace is had for 400 years, while Angband's only tactic is to take alive hostages and receive intel
+[TreeTag]: # {13.05.02}
 A victory it was, and yet a warning; and the princes took heed of it, and
 thereafter drew closer their leaguer, and strengthened and ordered their watch,
 setting the Siege of Angband. which lasted wellnigh four hundred years of the
@@ -446,6 +483,7 @@ Fëanor, and he rejoiced, seeing therein the seed of many dissensions among his
 foes.
 
 ## At 100 years of peace, a futile assualt of orcs on Fingolfin's kin in Hithlum
+[TreeTag]: # {13.05.03}
 When nearly one hundred years had run since the Dagor Aglareb, Morgoth
 endeavoured to take Fingolfin at unawares (for he knew of the vigilance of
 Maedhros); and he sent forth an army into the white north, and they turned west
@@ -460,6 +498,7 @@ Angband, for Morgoth perceived now that the Orcs unaided were no match for the
 Noldor; and he sought in his heart for new counsel.
 
 ## At 200 years of peace, Glaurung, first of the Urulóki makes premature attack. He is stayed and another 200 years of peace is had
+[TreeTag]: # {13.05.04}
 Again after a hundred years Glaurung, the first of the Urulóki, the fire-drakes
 of the North, issued from Angband's gates by night. He was yet young and scarce
 half-grown, for long and slow is the life of the dragons, but the Elves fled
@@ -483,3 +522,4 @@ But the Sindar had the fairer voices and were more skilled in music, save only
 Maglor son of Fëanor, and they loved the woods and the riversides; and some of
 the Grey-elves still wandered far and wide without settled abode, and they sang
 as they went.
+

@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - VI
 [Metadata]: # {02.06.06}
 [Descriptor]: # {02.06.06}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {02.06.06.01}
 Pyotr Stepanovitch went first to Kirillov's. He found him, as usual, alone, and
 at the moment practising gymnastics, that is, standing with his legs apart,
 brandishing his arms above his head in a peculiar way. On the floor lay a ball.

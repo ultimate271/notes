@@ -1,11 +1,9 @@
 # PART III - CHAPTER IV. THE LAST RESOLUTION - II
 [Metadata]: # {03.04.02}
 [Descriptor]: # {03.04.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER IV. THE LAST RESOLUTION
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.04.02.01}
 All our fellows believed that Shatov was going to betray them; but they also
 believed that Pyotr Stepanovitch was playing with them like pawns. And yet they
 knew, too, that in any case they would all meet on the spot next day and that

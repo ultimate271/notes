@@ -1,11 +1,9 @@
 # PART III - CHAPTER I. THE FETE--FIRST PART - IV
 [Metadata]: # {03.01.04}
 [Descriptor]: # {03.01.04}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER I. THE FETE--FIRST PART
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {03.01.04.01}
 I ran out to him behind the scenes once more, and had time to warn him
 excitedly that in my opinion the game was up, that he had better not appear at
 all, but had better go home at once on the excuse of his usual ailment, for

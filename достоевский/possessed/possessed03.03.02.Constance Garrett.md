@@ -1,11 +1,9 @@
 # PART III - CHAPTER III. A ROMANCE ENDED - II
 [Metadata]: # {03.03.02}
 [Descriptor]: # {03.03.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER III. A ROMANCE ENDED
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.03.02.01}
 The room from which Pyotr Stepanovitch had peeped in was a large oval
 vestibule. Alexey Yegorytch had been sitting there before Pyotr Stepanovitch
 came in, but the latter sent him away. Stavrogin closed the door after him and

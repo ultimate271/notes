@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - VI
 [Metadata]: # {03.05.06}
 [Descriptor]: # {03.05.06}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {03.05.06.01}
 The night was passing. Shatov was sent hither and thither, abused, called back.
 Marie was reduced to the most abject terror for life. She screamed that she
 wanted to live, that "she must, she must," and was afraid to die. "I don't want

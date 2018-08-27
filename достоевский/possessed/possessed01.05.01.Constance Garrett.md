@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - I
 [Metadata]: # {01.05.01}
 [Descriptor]: # {01.05.01}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {01.05.01.01}
 VARVARA PETROVNA rang the bell and threw herself into an easy chair by the
 window.
 

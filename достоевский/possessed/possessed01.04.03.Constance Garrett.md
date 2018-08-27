@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - III
 [Metadata]: # {01.04.03}
 [Descriptor]: # {01.04.03}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {01.04.03.01}
 He certainly was queer, but in all this there was a very great deal not clear
 to me. There was something underlying it all. I simply did not believe in this
 publication; then that stupid letter, in which there was an offer, only too

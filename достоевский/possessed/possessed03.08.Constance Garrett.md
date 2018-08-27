@@ -1,10 +1,9 @@
 # PART III - CHAPTER VIII. CONCLUSION
 [Metadata]: # {03.08}
 [Descriptor]: # {03.08}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VIII. CONCLUSION
+[Author]: # {constance garrett}
 # CHAPTER VIII. CONCLUSION
+[TreeTag]: # {03.08.01}
 ALL THE CRIMES AND VILLAINIES THAT had been perpetrated were discovered with
 extraordinary rapidity, much more quickly than Pyotr Stepanovitch had expected.
 To begin with, the luckless Marya Ignatyevna waked up before daybreak on the

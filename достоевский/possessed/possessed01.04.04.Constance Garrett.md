@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - IV
 [Metadata]: # {01.04.04}
 [Descriptor]: # {01.04.04}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {01.04.04.01}
 I did not find him at home till past seven o'clock that evening. To my surprise
 he had visitors with him--Alexey Nilitch, and another gentleman I hardly knew,
 one Shigalov, the brother of Virginsky's wife.
@@ -438,8 +436,8 @@ than anything; he loves me, I thought."
 
 "No, Shatushka, that's a dream.... He can't come in reality. You know the song:
 
-'A new fine house I do not crave,      This tiny cell's enough for me;
-There will I dwell my soul to save      And ever pray to God for thee.'
+'A new fine house I do not crave,      This tiny cell's enough for me; There
+will I dwell my soul to save      And ever pray to God for thee.'
 
 Ach, Shatushka, Shatushka, my dear, why do you never ask me about anything?"
 

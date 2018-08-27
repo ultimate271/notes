@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - V
 [Metadata]: # {02.06.05}
 [Descriptor]: # {02.06.05}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {02.06.05.01}
 It was a busy day for Pyotr Stepanovitch. From Von Lembke he hastened to
 Bogoyavlensky Street, but as he went along Bykovy Street, past the house where
 Karmazinov was staying, he suddenly stopped, grinned, and went into the house.

@@ -1,11 +1,9 @@
 # PART III - CHAPTER IV. THE LAST RESOLUTION - III
 [Metadata]: # {03.04.03}
 [Descriptor]: # {03.04.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER IV. THE LAST RESOLUTION
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.04.03.01}
 Kirillov was sitting on his leather sofa drinking tea, as he always was at that
 hour. He did not get up to meet them, but gave a sort of start and looked at
 the new-comers anxiously.

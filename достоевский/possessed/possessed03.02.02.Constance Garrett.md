@@ -1,11 +1,9 @@
 # PART III - CHAPTER II. THE END OF THE FETE - II
 [Metadata]: # {03.02.02}
 [Descriptor]: # {03.02.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER II. THE END OF THE FETE
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.02.02.01}
 There I was the witness of a revolting scene: the poor woman was deceived to
 her face, and I could do nothing. Indeed, what could I say to her? I had had
 time to reconsider things a little and reflect that I had nothing to go upon

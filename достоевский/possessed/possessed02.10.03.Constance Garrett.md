@@ -1,11 +1,9 @@
 # PART II - CHAPTER X. FILIBUSTERS. A FATAL MORNING - III
 [Metadata]: # {02.10.03}
 [Descriptor]: # {02.10.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER X. FILIBUSTERS. A FATAL MORNING
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.10.03.01}
 In the first place, the whole company who had filled three carriages crowded
 into the waiting-room. There was a special entrance to Yulia Mihailovna's
 apartments on the left as one entered the house; but on this occasion they all

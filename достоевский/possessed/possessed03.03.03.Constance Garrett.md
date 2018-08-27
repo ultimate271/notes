@@ -1,11 +1,9 @@
 # PART III - CHAPTER III. A ROMANCE ENDED - III
 [Metadata]: # {03.03.03}
 [Descriptor]: # {03.03.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER III. A ROMANCE ENDED
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.03.03.01}
 He rushed off to overtake Lizaveta Nikolaevna. She had not got far away, only a
 few steps, from the house. She had been detained by Alexey Yegorytch, who was
 following a step behind her, in a tail coat, and without a hat; his head was

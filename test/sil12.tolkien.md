@@ -1,12 +1,19 @@
 # Chapter 12: Of Men
+[Metadata]: # {12}
+[Descriptor]: # {12}
+[Author]: # {tolkien}
+# Chapter 12: Of Men
+[TreeTag]: # {12.01}
 
 ## The valar rest, and leave the doings of Melkor to the Noldor
+[TreeTag]: # {12.01.01}
 The Valar sat now behind their mountains at peace; and having given light to
 Middle-earth they left it for long untended, and the lordship of Morgoth was
 uncontested save by the valour of the Noldor. Most in mind Ulmo kept the
 exiles, who gathered news of the Earth through all the waters.
 
 ## Of the Years of the Sun
+[TreeTag]: # {12.01.02}
 From this time forth were reckoned the Years of the Sun. Swifter and briefer
 are they than the long Years of the Trees in Valinor. In that time the air of
 Middle-earth became heavy with the breath of growth and mortality, and the
@@ -15,6 +22,7 @@ the soil and in the waters in the Second Spring of Arda, and the Eldar
 increased, and beneath the new Sun Beleriand grew green and fair.
 
 ## Of the first coming of man in Hildórien at the first rising of the sun in the west
+[TreeTag]: # {12.01.03}
 At the first rising of the Sun the Younger Children of Ilúvatar awoke in the
 land of Hildórien in the eastward regions of Middle-earth; but the first Sun
 arose in the West, and the opening eyes of Men were turned towards it, and
@@ -41,6 +49,7 @@ the Elven-race who never set out upon the paths to Valinor, and knew of the
 Valar only as a rumour and a distant name.
 
 ## Of the initial spreading of men
+[TreeTag]: # {12.01.04}
 Morgoth had then not long come back into Middle-earth, and his power went not
 far abroad, and was moreover checked by the sudden coming of great light. There
 was little peril in the lands and hills; and there new things, devised long
@@ -50,6 +59,7 @@ Men spread and wandered, and their joy was the joy of the morning before the
 dew is dry, when every leaf is green.
 
 ## Of the tales to be told
+[TreeTag]: # {12.01.05}
 But the dawn is brief and the day full often belies its promise; and now the
 time drew on to the great wars of the powers of the North, when Noldor and
 Sindar and Men strove against the hosts of Morgoth Bauglir, and went down in
@@ -66,6 +76,7 @@ Melian was of the kindred of Valar, did the Sindar come near to match the
 Calaquendi of the Blessed Realm.
 
 ## Of the unknown fate of men after their death
+[TreeTag]: # {12.01.06}
 Immortal were the Elves, and their wisdom waxed from age to age, and no
 sickness nor pestilence brought death to them. Their bodies indeed were of the
 stuff of Earth, and could be destroyed; and in those days they were more like
@@ -83,6 +94,7 @@ The fate of Men after death, maybe, is not in the hands of the Valar, nor was
 all foretold in the Music of the Ainur.
 
 ## Of the eventual waning of the Elves and Man. First mention of Eärendil and Elwing and Elrond their child
+[TreeTag]: # {12.01.07}
 In after days, when because of the triumph of Morgoth Elves and Men became
 estranged, as be most wished, those of the Elven-race that lived still in
 Middle-earth waned and faded, and Men usurped the sunlight.  Then the Quendi
@@ -94,3 +106,4 @@ themselves akin, and there were some among Men that learned the wisdom of the
 Eldar, and became great and valiant among the captains of the Noldor. And in
 the glory and beauty of the Elves, and in their fate, full share had the
 offspring of elf and mortal, Eärendil, and Elwing, and Elrond their child.
+

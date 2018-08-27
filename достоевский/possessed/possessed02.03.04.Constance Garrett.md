@@ -1,11 +1,9 @@
 # PART II - CHAPTER III. THE DUEL - IV
 [Metadata]: # {02.03.04}
 [Descriptor]: # {02.03.04}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER III. THE DUEL
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {02.03.04.01}
 He learned at once from Alexey Yegorytch that Varvara Petrovna had been very
 glad to hear that Nikolay Vsyevolodovitch had gone out for a ride--the first
 time he had left the house after eight days' illness. She had ordered the

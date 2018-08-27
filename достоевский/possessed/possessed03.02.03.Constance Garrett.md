@@ -1,11 +1,9 @@
 # PART III - CHAPTER II. THE END OF THE FETE - III
 [Metadata]: # {03.02.03}
 [Descriptor]: # {03.02.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER II. THE END OF THE FETE
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.02.03.01}
 All that night, with its almost grotesque incidents, and the terrible
 _dénouement_ that followed in the early morning, still seems to me like a
 hideous nightmare, and is, for me at least, the most painful chapter in my

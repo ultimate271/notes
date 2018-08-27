@@ -1,11 +1,15 @@
 # PART I - CHAPTER I. INTRODUCTORY - IV
 [Metadata]: # {01.01.04}
 [Descriptor]: # {01.01.04}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-IV
-# IV
+[Author]: # {constance garrett}
+# Two anecdotes about Varvara and Stepan
+[TreeTag]: # {01.01.04.01}
+
+## Anecdote about the baron
+[TreeTag]: # {01.01.04.01.01}
+[Speaker]: # {a baron from Petersburg}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Speaker]: # {Varvara Petrovna Stavrogin}
 On one occasion, just at the time when the first rumours of the emancipation of
 the serfs were in the air, when all Russia was exulting and making ready for a
 complete regeneration, Varvara Petrovna was visited by a baron from Petersburg,
@@ -38,16 +42,28 @@ drawing-room Varvara Petrovna was at first silent for two or three minutes, and
 seemed to be looking for something on the table. Then she turned to Stepan
 Trofimovitch, and with pale face and flashing eyes she hissed in a whisper:
 
+### Varvara's words to Stepan
+[TreeTag]: # {01.01.04.01.01.01}
+[Speaker]: # {Varvara Petrovna Stavrogin}
 "I shall never forgive you for that!"
 
+## Aftermath to a friend
+[TreeTag]: # {01.01.04.01.02}
 Next day she met her friend as though nothing had happened, she never referred
 to the incident, but thirteen years afterwards, at a tragic moment, she
 recalled it and reproached him with it, and she turned pale, just as she had
 done thirteen years before. Only twice in the course of her life did she say to
 him:
 
+### Varvara's words to Stepan
+[TreeTag]: # {01.01.04.01.02.01}
+[Speaker]: # {Varvara Petrovna Stavrogin}
 "I shall never forgive you for that!"
 
+## Anecdote in the garden
+[TreeTag]: # {01.01.04.01.03}
+[Place]: # {Skvoreshniki}
+[Character]: # {Lieutenant-General Stavrogin}
 The incident with the baron was the second time, but the first incident was so
 characteristic and had so much influence on the fate of Stepan Trofimovitch
 that I venture to refer to that too.
@@ -112,8 +128,13 @@ tightly together and twitching at the corners. For ten full seconds she looked
 him in the eyes in silence with a firm relentless gaze, and suddenly whispered
 rapidly:
 
+### Varvara's words to Stepan
+[TreeTag]: # {01.01.04.01.03.01}
+[Speaker]: # {Varvara Petrovna Stavrogin}
 "I shall never forgive you for this!"
 
+## Stepan recalls this incident to the narrator
+[TreeTag]: # {01.01.04.01.04}
 When, ten years later, Stepan Trofimovitch, after closing the doors, told me
 this melancholy tale in a whisper, he vowed that he had been so petrified on
 the spot that he had not seen or heard how Varvara Petrovna had disappeared. As

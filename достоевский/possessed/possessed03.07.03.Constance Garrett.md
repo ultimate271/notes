@@ -1,11 +1,9 @@
 # PART III - CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING - III
 [Metadata]: # {03.07.03}
 [Descriptor]: # {03.07.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.07.03.01}
 It was Varvara Petrovna herself. She had arrived, with Darya Pavlovna, in a
 closed carriage drawn by four horses, with two footmen. The marvel had happened
 in the simplest way: Anisim, dying of curiosity, went to Varvara Petrovna's the

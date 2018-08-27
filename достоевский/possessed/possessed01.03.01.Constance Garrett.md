@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - I
 [Metadata]: # {01.03.01}
 [Descriptor]: # {01.03.01}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {01.03.01.01}
 ABOUT A WEEK had passed, and the position had begun to grow more complicated.
 
 I may mention in passing that I suffered a great deal during that unhappy week,

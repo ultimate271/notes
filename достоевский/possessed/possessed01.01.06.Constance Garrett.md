@@ -1,14 +1,18 @@
 # PART I - CHAPTER I. INTRODUCTORY - VI
 [Metadata]: # {01.01.06}
 [Descriptor]: # {01.01.06}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {01.01.06.01}
 They spent almost the whole winter season in Petersburg. But by Lent everything
 burst like a rainbow-coloured soap-bubble.
 
+## 
+[TreeTag]: # {01.01.06.01.01}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Speaker]: # {General Ivan Ivanovitch Drozdov}
+[Character]: # {Lieutenant-General Stavrogin}
 Their dreams were dissipated, and the muddle, far from being cleared up, had
 become even more revoltingly incomprehensible. To begin with, connections with
 the higher spheres were not established, or only on a microscopic scale, and by
@@ -99,6 +103,10 @@ many persons of general's rank certainly have an absurd habit of saying, "I
 have served my Tsar"...just as though they had not the same Tsar as all the
 rest of us, their simple fellow-subjects, but had a special Tsar of their own.
 
+## 
+[TreeTag]: # {01.01.06.01.02}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
 It was impossible, of course, to remain any longer in Petersburg, all the more
 so as Stepan Trofimovitch was overtaken by a complete fiasco. He could not
 resist talking of the claims of art, and they laughed at him more loudly as
@@ -114,6 +122,8 @@ babbled senselessly. She was looking after him all night, giving him
 laurel-drops and repeating to him till daybreak, "You will still be of use; you
 will still make your mark; you will be appreciated ... in another place."
 
+# 
+## 
 Early next morning five literary men called on Varvara Petrovna, three of them
 complete strangers, whom she had never set eyes on before. With a stern air
 they informed her that they had looked into the question of her magazine, and
@@ -128,6 +138,7 @@ sixth part of the net profits. What was most touching about it was that of
 these five men, four certainly were not actuated by any mercenary motive, and
 were simply acting in the interests of the "cause."
 
+## 
 "We came away utterly at a loss," Stepan Trofimovitch used to say afterwards.
 "I couldn't make head or tail of it, and kept muttering, I remember, to the
 rumble of the train:

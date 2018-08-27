@@ -1,8 +1,12 @@
 # Chapter 3: Of the Coming of the Elves and the Captivity of Melkor
-
+[Metadata]: # {03}
+[Descriptor]: # {03}
+[Author]: # {tolkien}
 # Of the time before the coming of the Children
+[TreeTag]: # {03.01}
 
 ## The Valar seldom come to middle earth, save Orome and Yavanna, who dwell there in the twilight
+[TreeTag]: # {03.01.01}
 Through long ages the Valar dwelt in bliss in the light of the Trees beyond.
 The Mountains of Aman, but all Middle-earth lay in a twilight under the stars.
 While the Lamps had shone, growth began there which now was checked, because
@@ -16,6 +20,7 @@ that had arisen in the Spring, so that they should not age, but should wait for
 a time of awakening that yet should be.
 
 ## Melkor builds his strength in the North, amassing Balrogs and foul creatures
+[TreeTag]: # {03.01.02}
 But in the north Melkor built his strength, and he slept not, but watched, and
 laboured; and the evil things that he had perverted walked abroad, and the dark
 and slumbering woods were haunted by monsters and shapes of dread. And in
@@ -28,14 +33,17 @@ and kinds that long troubled the world; and his realm spread now ever southward
 over Middle-earth.
 
 ## Melkor builds Angband, and has Sauron takes hold of it.
+[TreeTag]: # {03.01.03}
 And Melkor made also a fortress and armoury not far from the north-western
 shores of the sea, to resist any assault that might come from Aman. That
 stronghold was commanded by Sauron, lieutenant of Melkor; and it was named
 Angband.
 
 # The preperation of the Valar for the coming of the Children
+[TreeTag]: # {03.02}
 
 ## Yavanna implores the Valar to consider the coming of the Children
+[TreeTag]: # {03.02.01}
 It came to pass that the Valar held council, for they became troubled by the
 tidings that Yavanna and Oromë brought from the Outer Lands; and Yavanna spoke
 before the Valar, saying: 'Ye mighty of Arda, the Vision of Ilúvatar was brief
@@ -47,11 +55,13 @@ walk in darkness while we have light? Shall they call Melkor lord while Manwë
 sits upon Taniquetil?'
 
 ## Tulkas rallies
+[TreeTag]: # {03.02.02}
 And Tulkas cried: 'Nay! Let us make war swiftly! Have we not rested from strife
 overlong, and is not our strength now renewed? Shall one alone contest with us
 for ever?'
 
 ## Mandos speaks of the coming of the Children into darkness
+[TreeTag]: # {03.02.03}
 But at the bidding of Manwë Mandos spoke, and he said: 'In this age the
 Children of Ilúvatar shall come indeed, but they come not yet. Moreover it is
 doom that the Firstborn shall come in the darkness, and shall look first upon
@@ -59,6 +69,7 @@ the stars. Great light shall be for their waning. To Varda ever shall they call
 at need.'
 
 ## Varda Tintallë, the Kindler, called Elentári, Queen of the Stars, makes stars
+[TreeTag]: # {03.02.04}
 Then Varda went forth from the council, and she looked out from the height of
 Taniquetil, and beheld the darkness of Middle-earth beneath the innumerable
 stars, faint and far. Then she began a great labour, greatest of all the works
@@ -75,8 +86,10 @@ north as a challenge to Melkor she set the crown of seven mighty stars to
 swing, Valacirca, the Sickle of the Valar and sign of doom.
 
 # The coming of the Quendi from Cuivienen and the wonder of their births
+[TreeTag]: # {03.03}
 
 ## The firstborn come from Cuiviénen, Water of Awakening
+[TreeTag]: # {03.03.01}
 It is told that even as Varda ended her labours, and they were long, when first
 Menelmacar strode up the sky and the blue fire of Helluin flickered in the
 mists above the borders of the world, in that hour the Children of the Earth
@@ -87,6 +100,7 @@ Therefore they have ever loved the starlight, and have revered Varda Elentári
 above all the Valar.
 
 ## Lore of Cuivienen
+[TreeTag]: # {03.03.02}
 In the changes of the world the shapes of lands and of seas have been broken
 and remade; rivers have not kept their courses, neither have mountains remained
 steadfast; and to Cuiviénen there is no returning.  But it is said among the
@@ -98,6 +112,7 @@ heard by the Elves was the sound of water flowing, and the sound of water
 falling over stone.
 
 ## The elves begin to name things, calling themselves the Quendi
+[TreeTag]: # {03.03.03}
 Long they dwelt in their first home by the water under stars, and they walked
 the Earth in wonder; and they began to make speech and to give names to all
 things that they perceived. Themselves they named the Quendi, signifying those
@@ -105,6 +120,7 @@ that speak with voices; for as yet they had met no other living things that
 spoke or sang.
 
 ## Orome rides eastward, and Nahar senses the singing of the Elves
+[TreeTag]: # {03.03.04}
 And on a time it chanced that Oromë rode eastward in his hunting, and he turned
 north by the shores of Helcar and passed under the shadows of the Orocarni, the
 Mountains of the East. Then on a sudden Nahar set up a great neighing, and
@@ -112,6 +128,7 @@ stood still. And Oromë wondered and sat silent, and it seemed to him that in
 the quiet of the land under the stars he heard afar off many voices singing.
 
 ## Wonderful quote about the real compared to the foreseen
+[TreeTag]: # {03.03.05}
 Thus it was that the Valar found at last, as it were by chance, those whom they
 had so long awaited. And Oromë looking upon the Elves was filled with wonder,
 as though they were beings sudden and marvellous and unforeseen; for so it
@@ -121,6 +138,7 @@ verily into Eä each in its time shall be met at unawares as something new and
 unforetold.
 
 ## On the fairness of the elves and the naming of the Eldar
+[TreeTag]: # {03.03.06}
 In the beginning the Elder Children of Ilúvatar were stronger and greater than
 they have since become; but not more fair, for though the beauty of the Quendi
 in the days of their youth was beyond all other beauty that Ilúvatar has caused
@@ -130,6 +148,7 @@ Eldar, the people of the stars; but that name was after borne only by those who
 followed him upon the westward road.
 
 ## The deceptions of Melkor and steathy doings of his shadows
+[TreeTag]: # {03.03.07}
 Yet many of the Quendi were filled with dread at his coming; and this was the
 doing of Melkor. For by after-knowledge the wise declare that Melkor, ever
 watchful, was first aware of the awakening of the Quendi, and sent shadows and
@@ -146,6 +165,7 @@ servants as riders, or he set lying whispers abroad, for the purpose that the
 Quendi should shun Oromë, if ever they should meet.
 
 ## On the elves first impressions and reaction of Orome
+[TreeTag]: # {03.03.08}
 Thus it was that when Nahar neighed and Oromë indeed came among them, some of
 the Quendi hid themselves, and some fled and were lost. But those that had
 courage, and stayed, perceived swiftly that the Great Rider was no shape out of
@@ -153,6 +173,7 @@ darkness; for the light of Aman was in his face, and all the noblest of the
 Elves were drawn towards it.
 
 ## Of the elves lost to Utumno and the origin of the orcs
+[TreeTag]: # {03.03.09}
 But of those unhappy ones who were ensnared by Melkor little is known of a
 certainty. For who of the living has descended into the pits of Utumno, or has
 explored the darkness of the counsels of Melkor? Yet this is held true by the
@@ -168,8 +189,10 @@ Master whom they served in fear, the maker only of their misery. This it may be
 was the vilest deed of Melkor, and the most hateful to Ilúvatar.
 
 # Of the war of the Valar and the chaining of Melkor
+[TreeTag]: # {03.04}
 
 ## Orome returns to Valinor and tells of the coming of the Elves
+[TreeTag]: # {03.04.01}
 Oromë tarried a while among the Quendi, and then swiftly he rode back over land
 and sea to Valinor and brought the tidings to Valmar; and he spoke of the
 shadows that troubled Cuiviénen. Then the Valar rejoiced, and yet they were in
@@ -178,11 +201,13 @@ for the guarding of the Quendi from the shadow of Melkor. But Oromë returned at
 once to Middle-earth and abode with the Elves.
 
 ## Manwe meditate long and summons the Valar to the Ring of Doom
+[TreeTag]: # {03.04.02}
 Manwë sat long in thought upon Taniquetil, and he sought the counsel of
 Ilúvatar. And coming then down to Valmar he summoned the Valar to the Ring of
 Doom, and thither came even Ulmo from the Outer Sea.
 
 ## Manwe declares war again against Melkor for the sake of the elves
+[TreeTag]: # {03.04.03}
 Then Manwë said to the Valar: 'This is the counsel of Ilúvatar in my heart:
 that we should take up again the mastery of Arda, at whatsoever cost, and
 deliver the Quendi from the shadow of Melkor.' Then Tulkas was glad; but Aulë
@@ -195,6 +220,7 @@ the riding of the might of the West against the North in the beginning of their
 days.
 
 ## Account of the battles in Middle-earth between Melkor and the Valar
+[TreeTag]: # {03.04.04}
 Melkor met the onset of the Valar in the North-west of Middle-earth, and all
 that region was much broken. But the first victory of the hosts of the West was
 swift, and the servants of Melkor fled before them to Utumno. Then the Valar
@@ -215,6 +241,7 @@ exceeding deep, and its pits were filled with fires and with great hosts of the
 servants of Melkor.
 
 ## Utumno is broken and Melkor chained to Angainor that Aule had wrought
+[TreeTag]: # {03.04.05}
 But at the last the gates of Utumno were broken and the halls unroofed, and
 Melkor took refuge in the uttermost pit. Then Tulkas stood forth as champion of
 the Valar and wrestled with him, and cast him upon his face; and he was bound
@@ -222,6 +249,7 @@ with the chain Angainor that Aulë had wrought, and led captive; and the world
 had peace for a long age.
 
 ## However, Angband remains and Sauron they did not find
+[TreeTag]: # {03.04.06}
 Nonetheless the Valar did not discover all the mighty vaults and caverns hidden
 with deceit far under the fortresses of Angband and Utumno. Many evil things
 still lingered there, and others were dispersed and fled into the dark and
@@ -229,6 +257,7 @@ roamed in the waste places of the world, awaiting a more evil hour; and Sauron
 they did not find.
 
 ## Melkor is imprisoned in the halls of Mandos and sentenced to abide three ages long
+[TreeTag]: # {03.04.07}
 But when the Battle was ended and from the ruin of the North great clouds arose
 and hid the stars, the Valar drew Melkor back to Valinor, bound hand and foot,
 and blindfold; and he was brought to the Ring of Doom. There he lay upon his
@@ -240,8 +269,10 @@ abide for three ages long, before his cause should be tried anew, or he should
 plead again for pardon.
 
 # The Valar's decision to bring the Elves, and the Kings that were chosen as Ambassadors
+[TreeTag]: # {03.05}
 
 ## The Valar, in great debate and against the council of Ulmo, elect to bring the elves that may come to Valinor
+[TreeTag]: # {03.05.01}
 Then again the Valar were gathered in council, and they were divided in debate.
 For some, and of those Ulmo was the chief, held that the Quendi should be left
 free to walk as they would in Middle-earth, and with their gifts of skill to
@@ -254,6 +285,7 @@ ever; and Mandos broke his silence, saying: 'So it is doomed.' From this
 summons came many woes that afterwards befell.
 
 ## Orome chooses three of the Wise elves, Ingwë, Finwë, and Elwë, to visit Valinor for a time
+[TreeTag]: # {03.05.02}
 But the Elves were at first unwilling to hearken to the summons, for they had
 as yet seen the Valar only in their wrath as they went to war, save Oromë
 alone; and they were filled with dread. Therefore Oromë was sent again to them,
@@ -265,6 +297,7 @@ back to Cuiviénen, and they spoke before their people, and counselled them to
 heed the summons of the Valar and remove into the West
 
 ## The elves to be known as the Eldar decide to journey; the Avari, the Unwilling, decide to stay
+[TreeTag]: # {03.05.03}
 Then befell the first sundering of the Elves. For the kindred of Ingwë, and the
 most part of the kindreds of Finwë and Elwë, were swayed by the words of their
 lords, and were willing to depart and follow Oromë; and these were known ever
@@ -275,8 +308,10 @@ Avari, the Unwilling, and they were sundered in that time from the Eldar, and
 met never again until many ages were past.
 
 # Of the great march of the Calaquendi
+[TreeTag]: # {03.06}
 
 ## Ingwë and the Vanyar, the Fair Elves, beloved of Manwe and Varda, lead the journey to Valinor
+[TreeTag]: # {03.06.01}
 The Eldar prepared now a great march from their first homes in the east; and
 they were arrayed in three hosts. The smallest host and the first to set forth
 was led by Ingwë, the most high lord of all the Elvish race. He entered into
@@ -286,11 +321,13 @@ people; they are the Fair Elves, the beloved of Manwë and Varda, and few among
 Men have spoken with them.
 
 ## Next, the Noldor, the Deep Elves, people of Finwë, friends of Aule, journey to the lands of Aman
+[TreeTag]: # {03.06.02}
 Next came the Noldor, a name of wisdom, the people of Finwë. They are the Deep
 Elves, the friends of Aulë; and they are renowned in song, for they fought and
 laboured long and grievously in the northern lands of old.
 
 ## Last, the Teleri, of Elwë and Olwë, the Sea-elves, journey towards Valinor
+[TreeTag]: # {03.06.03}
 The greatest host came last, and they are named the Teleri, for they tarried on
 the road, and were not wholly of a mind to pass from the dusk to the light of
 Valinor. In water they had great delight, and those that came at last to the
@@ -300,6 +337,7 @@ waves.  Two lords they had, for their numbers were great: Elwë Singollo (which
 signifies Greymantle) and Olwë his brother.
 
 ## Calaquendi, Elves of the Light, that journied, and Moriquendi, those that never behald the land of Aman
+[TreeTag]: # {03.06.04}
 These were the three kindreds of the Eldalië, who passing at length into the
 uttermost West in the days of the Trees are called the Calaquendi, Elves of the
 Light. But others of the Eldar there were who set out indeed upon the westward
@@ -313,6 +351,7 @@ the Moriquendi, Elves of the Darkness, for they never beheld the Light that was
 before the Sun and Moon.
 
 ## Of the march of the Eldalië that followed Orome
+[TreeTag]: # {03.06.05}
 It is told that when the hosts of the Eldalië departed from Cuiviénen Oromë
 rode at their head upon Nahar, his white horse shod with gold; and passing
 northward about the Sea of Helcar they turned towards the west. Before them
@@ -321,6 +360,7 @@ stars in that region were hidden. Then not a few grew afraid and repented, and
 turned back, and are forgotten.
 
 ## The march goes slowly, and upon Anduin and Hithaeglir, Towers of Mist, some of the Telari remain
+[TreeTag]: # {03.06.06}
 Long and slow was the march of the Eldar into the west, for the leagues of
 Middle-earth were uncounted, and weary and pathless. Nor did the Eldar desire
 to hasten, for they were filled with wonder at all that they saw, and by many
@@ -342,6 +382,7 @@ Oromë was gone forward the Teleri looked upon the shadowy heights and were
 afraid.
 
 ## Lenwë and the Nandor of the Teleri pass south on the east bank of Anduin
+[TreeTag]: # {03.06.07}
 Then one arose in the host of Olwë, which was ever the hindmost on the road;
 Lenwë he was called. He forsook the westward march, and led away a numerous
 people, southwards down the great river, and they passed out of the knowledge
@@ -353,6 +394,7 @@ son of Lenwë, turned again west at last, and led a part of that people over the
 mountains into Beleriand ere the rising of the Moon.
 
 ## The host or Vanyar and Noldor pass over Ered Luin, the Blue Mountains
+[TreeTag]: # {03.06.08}
 At length the Vanyar and the Noldor came over Ered Luin, the Blue Mountains,
 between Eriador and the westernmost land of Middle-earth, which the Elves after
 named Beleriand; and the foremost companies passed over the Vale of Sirion and
@@ -362,6 +404,7 @@ woods and highlands of Beleriand. Then Oromë departed, and returned to Valinor
 to seek the counsel of Manwë, and left them.
 
 ## The Teleri pass over the Misty Mountains, at the urging of Elwe, and the dwell about the rivel Gelion for a time.
+[TreeTag]: # {03.06.09}
 And the host of the Teleri passed over the Misty Mountains, and crossed the
 wide lands of Eriador, being urged on by Elwë Singollo, for he was eager to
 return to Valinor and the Light that he had beheld; and he wished not to be
@@ -369,3 +412,4 @@ sundered from the Noldor, for he had great friendship with Finwë their lord.
 Thus after many years the Teleri also came at last over Ered Luin into the
 eastern regions of Beleriand. There they halted, and dwelt a while beyond the
 River Gelion.
+

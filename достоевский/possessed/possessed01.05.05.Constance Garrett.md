@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - V
 [Metadata]: # {01.05.05}
 [Descriptor]: # {01.05.05}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {01.05.05.01}
 I will permit myself to halt here to sketch in a few hurried strokes this
 person who had so suddenly arrived on the scene.
 

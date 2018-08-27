@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - IV
 [Metadata]: # {01.02.04}
 [Descriptor]: # {01.02.04}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {01.02.04.01}
 Our prince travelled for over three years, so that he was almost forgotten in
 the town. We learned from Stepan Trofimovitch that he had travelled all over
 Europe, that he had even been in Egypt and had visited Jerusalem, and then had

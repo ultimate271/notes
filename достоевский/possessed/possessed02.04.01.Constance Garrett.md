@@ -1,11 +1,9 @@
 # PART II - CHAPTER IV. ALL IN EXPECTATION - I
 [Metadata]: # {02.04.01}
 [Descriptor]: # {02.04.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER IV. ALL IN EXPECTATION
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.04.01.01}
 The impression made on the whole neighbourhood by the story of the duel, which
 was rapidly noised abroad, was particularly remarkable from the unanimity with
 which every one hastened to take up the cudgels for Nikolay Vsyevolodovitch.

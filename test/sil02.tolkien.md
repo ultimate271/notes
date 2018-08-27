@@ -1,8 +1,12 @@
 # Chapter 2: Of Aulë and Yavanna
-
+[Metadata]: # {02}
+[Descriptor]: # {02}
+[Author]: # {tolkien}
 # Aule creates the dwarves before the time of the coming of the Children
+[TreeTag]: # {02.01}
 
 ## Aule secretly creates the dwarves in his impatience and anticipation
+[TreeTag]: # {02.01.01}
 It is told that in their beginning the Dwarves were made by Aulë in the
 darkness of Middle-earth; for so greatly did Aulë desire the coming of the
 Children, to have learners to whom he could teach his lore and his crafts, that
@@ -15,6 +19,7 @@ in secret: and he made first the Seven Fathers of the Dwarves in a hall under
 the mountains in Middle-earth.
 
 ## Iluvatar question Aule of his deeds
+[TreeTag]: # {02.01.02}
 Now Ilúvatar knew what was done, and in the very hour that Aulë's work was
 complete, and he was pleased, and began to instruct the Dwarves in the speech
 that he had devised for them, Ilúvatar spoke to him; and Aulë heard his voice
@@ -26,6 +31,7 @@ moving when thou thinkest to move them, and if thy thought be elsewhere,
 standing idle.  Is that thy desire?'
 
 ## Aule answers, and asks what should be done about it
+[TreeTag]: # {02.01.03}
 Then Aulë answered: 'I did not desire such lordship. I desired things other
 than I am, to love and to teach them, so that they too might perceive the
 beauty of Eä, which thou hast caused to be. For it seemed to me that there is
@@ -40,6 +46,7 @@ made. Do with them what thou wilt. But should I not rather destroy the work of
 my presumption?'
 
 ## Iluvatar allows Aule to keep his creation
+[TreeTag]: # {02.01.04}
 Then Aulë took up a great hammer to smite the Dwarves; and he wept. But
 Ilúvatar had compassion upon Aulë and his desire, because of his humility; and
 the Dwarves shrank from the hammer and wore afraid, and they bowed down their
@@ -51,6 +58,7 @@ his hammer and was glad, and he gave thanks to Ilúvatar, saying: 'May Eru bless
 my work and amend it!'
 
 ## Iluvatar declares the dwarves to sleep before the coming of the Children
+[TreeTag]: # {02.01.05}
 But Ilúvatar spoke again and said: 'Even as I gave being to the thoughts of the
 Ainur at the beginning of the World, so now I have taken up thy desire and
 given to it a place therein; but in no other way will I amend thy handiwork,
@@ -64,11 +72,13 @@ strife shall arise between thine and mine, the children of my adoption and the
 children of my choice.'
 
 ## Aule lays the Seven Fathers of the Dwarves to rest
+[TreeTag]: # {02.01.06}
 Then Aulë took the Seven Fathers of the Dwarves, and laid them to rest in
 far-sundered places; and he returned to Valinor, and waited while the long
 years lengthened.
 
 ## Excerpt about the Dwarves, and introdutcion of Durin and Khazad-dum
+[TreeTag]: # {02.01.07}
 Since they were to come in the days of the power of Melkor, Aulë made the
 Dwarves strong to endure. Therefore they are stone-hard, stubborn, fast in
 friendship and in enmity, and they suffer toil and hanger and hurt of body more
@@ -86,8 +96,10 @@ Durin was the most renowned in after ages, father of that kindred most friendly
 to the Elves, whose mansions were at Khazad-dûm.
 
 # Yavanna, in her love for her creation, speaks with Manwe of Eagles and Ents
+[TreeTag]: # {02.02}
 
 ## Aule tells Yavana of the dwarves, and she declares that they will dislike the trees
+[TreeTag]: # {02.02.01}
 Now when Aulë laboured in the making of the Dwarves he kept this work hidden
 from the other Valar; but at last he opened his mind to Yavanna and told her of
 all that had come to pass. Then Yavanna said to him: 'Eru is merciful. Now I
@@ -99,6 +111,7 @@ will delve in the earth, and the things that grow and live upon the earth they
 will not heed. Many a tree shall feel the bite of their iron without pity.'
 
 ## Aule says that the children will also bring iron to the trees
+[TreeTag]: # {02.02.02}
 But Aulë answered: 'That shall also be true of the Children of Ilúvatar; for
 they will eat and they will build. And though the things of thy realm have
 worth in themselves, and would have worth if no Children were to come, yet Eru
@@ -106,6 +119,7 @@ will give them dominion, and they shall use all that they find in Arda: though
 not, by the purpose of Eru, without respect or without gratitude.'
 
 ## Yavanna asks Manwe about the children having dominion over her labour
+[TreeTag]: # {02.02.03}
 'Not unless Melkor darken their hearts,' said Yavanna. And she was not
 appeased, but grieved in heart, fearing what might be done upon Middle-earth in
 days to come. Therefore she went before Manwë, and she did not betray the
@@ -114,20 +128,24 @@ me, that the Children when they come shall have dominion over all the things of
 my labour, to do as they will therewith?'
 
 ## Manwe replies and questions the origin of Yavanna's question
+[TreeTag]: # {02.02.04}
 'It is true,' said Manwë. 'But why dost thou ask, for thou hadst no need of the
 teaching of Aulë?'
 
 ## Yavanna wisely hides her true origin, but replies that it was heavy on her heart
+[TreeTag]: # {02.02.05}
 Then Yavanna was silent and looked into her own thought. And she answered:
 'Because my heart is anxious, thinking of the days to come.  All my works are
 dear to me. Is it not enough that Melkor should have marred so many? Shall
 nothing that I have devised be free from the dominion of others?'
 
 ## Manwe replies asking Yavanna what she holds most dear of her creations
+[TreeTag]: # {02.02.06}
 'If thou hadst thy will what wouldst thou reserve?' said Manwë. 'Of all thy
 realm what dost thou hold dearest?'
 
 ## Yavanna replies that the trees are her love, as they cannot defend themselves
+[TreeTag]: # {02.02.07}
 'All have their worth,' said Yavanna, 'and each contributes to the worth of the
 others. But the kelvar can flee or defend themselves, whereas the olvar that
 grow cannot. And among these I hold trees dear.  Long in the growing, swift
@@ -137,15 +155,18 @@ might speak on behalf of all things that have roots, and punish those that
 wrong them!'
 
 ## Manwe finds this reply strange
+[TreeTag]: # {02.02.08}
 'This is a strange thought,' said Manwë.
 
 ## Yavanna declares that she created the trees to recieve the gift of rain
+[TreeTag]: # {02.02.09}
 'Yet it was in the Song,' said Yavanna. 'For while thou wert in the heavens and
 with Ulmo built the clouds and poured out the rains, I lifted up the branches
 of great trees to receive them, and some sang to Ilúvatar amid the wind and the
 rain.'
 
 ## Manwe remembers the Music of Iluvatar, but with the perspective of Yavanna
+[TreeTag]: # {02.02.10}
 Then Manwë sat silent, and the thought of Yavanna that she had put into his
 heart grew and unfolded; and it was beheld by Ilúvatar. Then it seemed to Manwë
 that the Song rose once more about him, and he heeded now many things therein
@@ -156,6 +177,7 @@ and from it came forth many wonders that had until then been hidden from him in
 the hearts of the Ainur.
 
 ## Manwe replies to Yavanna, speaking of the eagles
+[TreeTag]: # {02.02.11}
 Then Manwë awoke, and he went down to Yavanna upon Ezellohar, and he sat beside
 her beneath the Two Trees. And Manwë said: 'O Kementári, Eru hath spoken,
 saying: "Do then any of the Valar suppose that I did not hear all the Song,
@@ -171,25 +193,31 @@ heed of Ilúvatar, and before the Children awake there shall go forth with wings
 like the wind the Eagles of the Lords of the West.'
 
 ## Yavanna declares that the eagles should have house in the trees
+[TreeTag]: # {02.02.12}
 Then Yavanna was glad, and she stood up, reaching her arms towards the heavens,
 and she said: 'High shall climb the trees of Kementári, that the Eagles of the
 King may house therein!'
 
 ## Manwe rises also to much greater height than her
+[TreeTag]: # {02.02.13}
 But Manwë rose also, and it seemed that he stood to such a height that his
 voice came down to Yavanna as from the paths of the winds.
 
 ## Manwe disagrees, saying the eagles will dwell in mountains, but the Ents will be shepards of the trees
+[TreeTag]: # {02.02.14}
 'Nay,' he said, 'only the trees of Aulë will be tall enough. In the mountains
 the Eagles shall house, and hear the voices of those who call upon us. But in
 the forests shall walk the Shepherds of the Trees.'
 
 ## Yavanna returns to Aule and tells him that the dwarves will fear the Ents
+[TreeTag]: # {02.02.15}
 Then Manwë and Yavanna parted for that time, and Yavanna returned to Aulë; and
 he was in his smithy, pouring molten metal into a mould. 'Eru is bountiful,'
 she said. 'Now let thy children beware! For there shall walk a power in the
 forests whose wrath they will arouse at their peril.'
 
 ## Aule replies, saying his dwarves will have need of wood still yet
+[TreeTag]: # {02.02.16}
 'Nonetheless they will have need of wood,' said Aulë, and he went on with his
 smith-work.
+

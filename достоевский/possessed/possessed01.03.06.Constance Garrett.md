@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - VI
 [Metadata]: # {01.03.06}
 [Descriptor]: # {01.03.06}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {01.03.06.01}
 "The day before yesterday a servant was suddenly sent to me: 'You are asked to
 call at twelve o'clock,' said he. Can you fancy such a thing? I threw aside my
 work, and precisely at midday yesterday I was ringing at the bell. I was let

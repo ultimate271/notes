@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - VII
 [Metadata]: # {01.02.07}
 [Descriptor]: # {01.02.07}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {01.02.07.01}
 It was true that she would never have let Dasha suffer; on the contrary, she
 considered now that she was acting as her benefactress. The most generous and
 legitimate indignation was glowing in her soul, when, as she put on her shawl,

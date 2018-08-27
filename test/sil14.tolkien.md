@@ -1,8 +1,12 @@
 # Chapter 14: Of Beleriand and Its Realms
-
+[Metadata]: # {14}
+[Descriptor]: # {14}
+[Author]: # {tolkien}
 # Introduction
+[TreeTag]: # {14.01}
 
 ## Introduction to the blandness of this chapter
+[TreeTag]: # {14.01.01}
 This is the fashion of the lands into which the Noldor came, in the north of
 the western regions of Middle-earth, in the ancient days; and here also is told
 of the manner in which the chieftains of the Eldar held their lands and the
@@ -10,8 +14,10 @@ leaguer upon Morgoth after the Dagor Aglareb, the third battle in the Wars of
 Beleriand.
 
 # (North) Ered Engrin, Utumno, Angband, Thangorodrim, Ard-galen
+[TreeTag]: # {14.02}
 
 ## The Ered Engrin, the Iron Mountains, around Utunmo, and Angband and Thangorodrim, then Ard-galen, the valley
+[TreeTag]: # {14.02.01}
 In the north of the world Melkor had in the ages past reared Ered Engrin, the
 Iron Mountains, as a fence to his citadel of Utumno; and they stood upon the
 borders of the regions of everlasting cold, in a great curve from east to west.
@@ -33,8 +39,10 @@ there, and while Angband was besieged and its gates shut there were green
 things even among the pits and broken rocks before the doors of hell.
 
 # (Northwest) Ered Wethrin, Hithlum, Mithrim, Dor-Lomin, Ered-Lomin, Nevrast
+[TreeTag]: # {14.03}
 
 ## Hithlum, west of Thangorodrim, the Ered Lómin west and Ered Wethrin East and South
+[TreeTag]: # {14.03.01}
 To the west of Thangorodrim lay Hísilóme, the Land of Mist, for so it was named
 by the Noldor in their own tongue because of the clouds that Morgoth sent
 thither during their first encampment; Hithlum it became in the tongue of the
@@ -45,6 +53,7 @@ sea; and in the east and south by the great curve of Ered Wethrin, the Shadowy
 Mountains, that looked across Ard-galen and the Vale of Sirion.
 
 ## Fingolfin in Mithrim the lake in Hithlum, and Fingon in Dor-lómin, and Eithel Sirion in the east
+[TreeTag]: # {14.03.02}
 Fingolfin and Fingon his son held Hithlum, and the most part of Fingolfin's
 folk dwelt in Mithrim about the shores of the great lake; to Fingon was
 assigned Dor-lómin, that lay to the west of the Mountains of Mithrim. But their
@@ -56,6 +65,7 @@ came from Valinor, and they were given to Fingolfin by Maedhros in atonement of
 his losses, for they had been carried by ship to Losgar.
 
 ## Nevrast and Turgon, Mount Taras in South-West
+[TreeTag]: # {14.03.03}
 West of Dor-lómin, beyond the Echoing Mountains, which south of the Firth of
 Drengist marched inland, lay Nevrast, that signifies the Hither Shore in the
 Sindarin tongue. That name was given at first to all the coast-lands south of
@@ -79,8 +89,10 @@ and Turgon dwelt long in those halls that he named Vinyamar, under Mount Taras
 beside the sea.
 
 # (Northcenter) Dorthonion, Tol Sirion, Minas Tirith
+[TreeTag]: # {14.04}
 
 ## Dorthonion south of Ard-galen, Angrod and Aegnor, vassal of Finrod
+[TreeTag]: # {14.04.01}
 South of Ard-galen the great highland named Dorthonion stretched for sixty
 leagues from west to east; great pine forests it bore, especially on its
 northern and western sides. By gentle slopes from the 'plain it rose to a bleak
@@ -93,6 +105,7 @@ their people were few, for the land was barren, and the great highlands behind
 were deemed to be a bulwark that Morgoth would not lightly seek to cross.
 
 ## Finrod and Tol Sirion, island in the Pass of Sirion, where Minas Tirith was build, keeping Orodreth
+[TreeTag]: # {14.04.02}
 Between Dorthonion and the Shadowy Mountains there was a narrow vale, whose
 sheer walls were clad with pines; but the vale itself was green, for the River
 Sirion flowed through it, hastening towards Beleriand.  Finrod held the Pass of
@@ -101,8 +114,10 @@ mighty watch-tower, Minas Tirith; but after Nargothrond was made he committed
 that fortress mostly to the keeping of Orodreth his brother.
 
 # (West) Nargothorond, rivers Sirion, Teiglin, Narog (out of Irvine), Nenning
+[TreeTag]: # {14.05}
 
 ## The river Sirion, river Teiglin, river Narog, and Forest of Breathil, Nargothorond, Nan-tathren in west Beleriand
+[TreeTag]: # {14.05.01}
 Now the great and fair country of Beleriand lay on either side of the mighty
 river Sirion, renowned in song, which rose at Eithel Sirion and skirted the
 edge of Ard-galen ere he plunged through the pass, becoming ever fuller with
@@ -119,6 +134,7 @@ lay the marshes and isles of reed about the mouths of Sirion, and the sands of
 his delta empty of all living things save birds of the sea.
 
 ## Rivver Nenning, sea of Eglarest, Brithombar, tower of Barad Nimras, with Finrod and Cirdan
+[TreeTag]: # {14.05.02}
 But the realm of Nargothrond extended also west of Narog to the River Nenning,
 that reached the sea at Eglarest; and Finrod became the overlord of all the
 Elves of Beleriand between Sirion and the sea, save only in the Falas. There
@@ -136,8 +152,10 @@ thinking there to prepare a last refuge, if evil came; but it was not their
 fate that they should ever dwell there.
 
 # Bit of summary
+[TreeTag]: # {14.06}
 
 ## Fingolfin, Fingon, Maedhros, and Finrod Felagund are the cheif leaders
+[TreeTag]: # {14.06.01}
 Thus the realm of Finrod was the greatest by far, though he was the youngest of
 the great lords of the Noldor, Fingolfin, Fingon, and Maedhros, and Finrod
 Felagund. But Fingolfin was held overlord of all the Noldor, and Fingon after
@@ -146,8 +164,10 @@ people were the most hardy and valiant, most feared by the Orcs and most hated
 by Morgoth.
 
 # (Centernorth) Dimbar, Nan Dungortheb, Ered Gorgoroth, Dor Dimen
+[TreeTag]: # {14.07}
 
 ## East of Sirion, Dimbar, Mindeb, Nan Dungortheb, Ered Gorgoroth, river Esgalduin, Dor Dinen, finally Arossiach, all north of Doriath,
+[TreeTag]: # {14.07.01}
 Upon the left hand of Sirion lay East Beleriand, at its widest a hundred
 leagues from Sirion to Gelion and the borders of Ossiriand; and first, between
 Sirion and Mindeb, lay the empty land of Dimbar under the peaks of the
@@ -171,8 +191,10 @@ and crossing the Arossiach (which signifies the Fords of Aros) came to the
 north marches of Beleriand, where dwelt the sons of Fëanor.
 
 # (Girdle of Melian) Doriath, Esgalduin, Neldoreth, Region, Menegroth
+[TreeTag]: # {14.08}
 
 ## In Doriath, river Esgalduin, Neldoreth north, Region south, Menegroth, in the Girdle of Melian, where Thingol is king
+[TreeTag]: # {14.08.01}
 Southward lay the guarded woods of Doriath, abode of Thingol the Hidden King,
 into whose realm none passed save by his will. Its northern and lesser part,
 the Forest of Neldoreth, was bounded east and south by the dark river
@@ -187,8 +209,10 @@ that so some portion of Sirion which she loved in reverence of Ulmo should be
 wholly under the power of Thingol.
 
 # (Center South) Aelin Uial, Narog, Nargothorond, Andram, Ramdal, Amon Ereb, Taur-im-Duinath
+[TreeTag]: # {14.09}
 
 ## Aelin-uial, falls of Sirion, and Nargothorond (again) about Narog
+[TreeTag]: # {14.09.01}
 In the south-west of Doriath, where Aros flowed into Sirion, lay great pools
 and marshes on either side of the river, which halted there in his course and
 strayed in many channels. That region was named Aelin-uial, the Twilight Meres,
@@ -211,6 +235,7 @@ noise and smoke through rocky arches at the foot of the hills which were called
 the Gates of Sirion.
 
 ## Andram, the Long Wall from Nargothrond to Ramdal, Amon Ereb, and Taur-im-Duinath
+[TreeTag]: # {14.09.02}
 This dividing fall was named Andram, the Long Wall, from Nargothrond to Ramdal,
 the Wall's End, in East Beleriand. But in the east it became ever less sheer,
 for the vale of Gelion sloped steadily southward, and Gelion had neither fall
@@ -226,8 +251,10 @@ no folk went, save here and there a few Dark Elves wandering; Taur-im-Duinath
 it was named, the Forest between the Rivers.
 
 # (East) Hill of Himring, Gelion, Mount Rerir, Ered Luin, Ossiriand, Tol Galen
+[TreeTag]: # {14.10}
 
 ## Little Gelion (west) from Hill of Himring, and Greater Gelion from Mount Rerir, Ered Luin the blue mountains, six rivers of Ossirand, and Tol Galen
+[TreeTag]: # {14.10.01}
 Gelion was a great river; and he rose in two sources and had at first two
 branches; Little Gelion that came from the Hill of Himring, and Greater Gelion
 that came from Mount Rerir. From the meeting of his arms he flowed south for
@@ -244,6 +271,7 @@ the island that its waters enclosed was named Tol Galen, the Green Isle. There
 Beren and Lúthien dwelt after their return.
 
 ## Of the Green-elves of Ossiriand, Ered Lindon (Ered Luin)
+[TreeTag]: # {14.10.02}
 In Ossiriand dwelt the Green-elves, in the protection of their rivers; for
 after Sirion Ulmo loved Gelion above all the waters of the western world. The
 woodcraft of the Elves of Ossiriand was such that a stranger might pass through
@@ -254,8 +282,10 @@ of music, and the mountains beyond they named Ered Lindon, for they first saw
 them from Ossiriand.
 
 # (Northeast) March of Maedhros, Lothlann, Pass of Aglon, Himlad, Maglor's gap, Helevorn, Thargelion
+[TreeTag]: # {14.11}
 
 ## March of Maedhros east of Dorthonion, Lothlonn, Pass of Aglon, where Celegorm and Curufin
+[TreeTag]: # {14.11.01}
 East of Dorthonion the marches of Beleriand were most open to attack, and only
 hills of no great height guarded the vale of Gelion from the north. In that
 region, upon the March of Maedhros and in the lands behind, dwelt the sons of
@@ -272,6 +302,7 @@ River Aros that rose in Dorthonion and his tributary Celon that came from
 Himring.
 
 ## Between Gelion was Maglor's gap, lake Helevorn, where Caranthir dwelt, and Thargelion
+[TreeTag]: # {14.11.02}
 Between the arms of Gelion was the ward of Maglor, and here in one place the
 hills failed altogether: there it was that the Orcs came into East Beleriand
 before the Third Battle. Therefore the Noldor held strength of cavalry In the
@@ -287,6 +318,7 @@ here that the Noldor first met the Dwarves. But Thargelion was before called by
 the Grey-elves Talath Rhúnen, the East Vale.
 
 ## Maedhros and the sons of Fëanor in the east
+[TreeTag]: # {14.11.03}
 Thus the sons of Fëanor under Maedhros were the lords of East Beleriand, but
 their people were in that time mostly in the north of the land, and southward
 they rode only to hunt in the greenwoods. But there Amrod and Amras had their
@@ -297,3 +329,4 @@ love of wandering and he came even into Ossiriand, and won the friendship of
 the Green-elves. But none of the Noldor went ever over Ered Lindon, while their
 realm lasted; and little news and late came into Beleriand of what passed in
 the regions of the East.
+

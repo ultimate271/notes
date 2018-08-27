@@ -1,11 +1,9 @@
 # PART II - CHAPTER II. NIGHT (continued) - I
 [Metadata]: # {02.02.01}
 [Descriptor]: # {02.02.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER II. NIGHT (continued)
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.02.01.01}
 HE WALKED THE LENGTH of Bogoyavlensky Street. At last the road began to go
 downhill; his feet slipped in the mud and suddenly there lay open before him a
 wide, misty, as it were empty expanse--the river. The houses were replaced by

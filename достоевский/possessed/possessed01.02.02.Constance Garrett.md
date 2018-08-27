@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - II
 [Metadata]: # {01.02.02}
 [Descriptor]: # {01.02.02}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {01.02.02.01}
 Suddenly, apropos of nothing, our prince was guilty of incredible outrages upon
 various persons and, what was most striking these outrages were utterly unheard
 of, quite inconceivable, unlike anything commonly done, utterly silly and

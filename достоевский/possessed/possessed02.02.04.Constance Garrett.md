@@ -1,11 +1,9 @@
 # PART II - CHAPTER II. NIGHT (continued) - IV
 [Metadata]: # {02.02.04}
 [Descriptor]: # {02.02.04}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER II. NIGHT (continued)
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {02.02.04.01}
 "A knife, a knife," he repeated with uncontrollable anger, striding along
 through the mud and puddles, without picking his way. It is true that at
 moments he had a terrible desire to laugh aloud frantically; but for some

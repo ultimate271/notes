@@ -1,8 +1,12 @@
 # Chapter 23: Of Tuor and the Fall of Gondolin
-
+[Metadata]: # {23}
+[Descriptor]: # {23}
+[Author]: # {tolkien}
 # Of Tuor's escape from Hithlum and the meeting of Ulmo
+[TreeTag]: # {23.01}
 
 ## Tuor's captivity by the easterling Lorgan and his escape to Androth
+[TreeTag]: # {23.01.01}
 It has been told that Huor the brother of Húrin was slain in the Battle of
 Unnumbered Tears; and in the winter of that year Rían his wife bore a child in
 the wilds of Mithrim, and he was named Tuor, and was taken to foster by Annael
@@ -17,6 +21,7 @@ there alone, and did such great hurt to the Easterlings that Lorgan set a price
 upon his head.
 
 ## Tuor comes to the Gate of the Noldor in Nevrast
+[TreeTag]: # {23.01.02}
 But when Tuor had lived thus in solitude as an outlaw for four years, Ulmo set
 it in his heart to depart from the land of his fathers, for he had chosen Tuor
 as the instrument of his designs; and leaving once more the caves of Androth he
@@ -28,6 +33,7 @@ western sea. Thus it was that Tuor's flight from Hithlum was marked by neither
 Man nor Orc, and no knowledge of it came to the ears of Morgoth.
 
 ## Tuor comes to Vinyamar beneath Mount Taras, where he acquires arms of Turgon and where he meets Ulmo, who tells him to seek for Gondolin
+[TreeTag]: # {23.01.03}
 And Tuor came into Nevrast, and looking upon Belegaer the Great Sea he was
 enamoured of it, and the sound of it and the longing for it were ever in his
 heart and ear, and an unquiet was on him that took him at last into the depths
@@ -45,8 +51,10 @@ him depart from that place and seek out the hidden kingdom of Gondolin; and he
 gave Tuor a great cloak, to mantle him in shadow from the eyes of his enemies.
 
 # Tuor meets Voronwë who takes him to Gondolin
+[TreeTag]: # {23.02}
 
 ## Tuor meets Voronwë of Gondolin, who agrees to take him to that secret land
+[TreeTag]: # {23.02.01}
 But in the morning when the storm was passed, Tuor came upon an Elf standing
 beside the walls of Vinyamar; and he was Voronwë, son of Aranwë, of Gondolin,
 who sailed in the last ship that Turgon sent into the West. But when that ship
@@ -60,6 +68,7 @@ upon them out of the north they went warily eastward under the eaves of the
 Mountains of Shadow/
 
 ## They pass through unseen to the Pools of Ivrin
+[TreeTag]: # {23.02.02}
 At length they came in their journeying to the Pools of Ivrin, and looked with
 grief on the defilement wrought there by the passage of Glaurung the Dragon;
 but even as they gazed upon it they saw one going northward in haste, and he
@@ -68,6 +77,7 @@ he was, nor anything of what had befallen in the south; and he passed them by,
 and they said no word.
 
 ## They come to Gondolin with much Pomp and Circumstance
+[TreeTag]: # {23.02.03}
 And at the last by the power that Ulmo set upon them they came to the hidden
 door of Gondolin, and passing down the tunnel they reached the inner gate, and
 were taken by the guard as prisoners. Then they were led up the mighty ravine
@@ -84,8 +94,10 @@ clear there came a sound of answering trumpets blown upon the white walls of
 the city, flushed with the rose of dawn upon the plain.
 
 # Tuor delivers the messages of Ulmo to Turgon
+[TreeTag]: # {23.03}
 
 ## Tuor tells Turgon of the bidding of Ulmo to leave this city
+[TreeTag]: # {23.03.01}
 Thus it was that the son of Huor rode across Tumladen, and came to the gate of
 Gondolin; and passing up the wide stairways of the city he was brought at last
 to the Tower of the King, and looked upon the images of the Trees of Valinor.
@@ -100,6 +112,7 @@ depart, and abandon the fair and mighty city that he had built, and go down
 Sirion to the sea.
 
 ## Turgon reflects on these words, but instead of leaving Gondolin, he blocks it off so that none may leave
+[TreeTag]: # {23.03.02}
 Then Turgon pondered long the counsel of Ulmo, and there came into his mind the
 words that were spoken to him in Vinyamar: 'Love not too well the work of thy
 hands and the devices of thy heart; and remember that the true hope of the
@@ -127,8 +140,10 @@ of the woes without, and vowed to march never at the side of any son of Fëanor;
 and his people he forbade ever to pass the leaguer of the hills.
 
 # Of Idril and Tuor and their son Eärendil
+[TreeTag]: # {23.04}
 
 ## Idril and Tuor are wed after 7 years of service to Gondolin
+[TreeTag]: # {23.04.01}
 And Tuor remained in Gondolin, for its bliss and its beauty and the wisdom of
 its people held him enthralled; and he became mighty in stature and in mind,
 and learned deeply of the lore of the exiled Elves. Then the heart of Idril was
@@ -142,11 +157,13 @@ not forget the words that Huor spoke to him before the host of Gondolin
 departed from the Battle of Unnumbered Tears.
 
 ## The joy of the second union of Elves and Men (because Dior and Nimloth doesn't count I guess)
+[TreeTag]: # {23.04.02}
 Then there was made a great and joyful feast, for Tuor had won the hearts of
 all that people, save only of Maeglin and his secret following; and thus there
 came to pass the second union of Elves and Men.
 
 ## Eärendil is born
+[TreeTag]: # {23.04.03}
 In the spring of the year after was born in Gondolin Eärendil Halfelven, the
 son of Tuor and Idril Celebrindal; and that was five hundred years and three
 since the coming of the Noldor to Middle-earth.  Of surpassing beauty was
@@ -155,8 +172,10 @@ beauty and the wisdom of the Eldar and the strength and hardihood of the Men of
 old; and the Sea spoke ever in his ear and heart, even as with Tuor his father.
 
 # The doings of Morgoth and the foresight of Idril
+[TreeTag]: # {23.05}
 
 ## How Morgoth sought after Gondolin, and Idril created a pass to the north
+[TreeTag]: # {23.05.01}
 Then the days of Gondolin were yet full of joy and peace; and none knew that
 the region wherein the Hidden Kingdom lay had been at last revealed to Morgoth
 by the cries of Húrin, when standing in the wilderness beyond the Encircling
@@ -173,8 +192,10 @@ Amon Gwareth; and she contrived it that the work was known but to few, and no
 whisper of it came to Maeglin's ears.
 
 # The fall of Gondolin
+[TreeTag]: # {23.06}
 
 ## Maeglin's capture and betrayal by Morgoth
+[TreeTag]: # {23.06.01}
 Now on a time, when Eärendil was yet young, Maeglin was lost. For he, as has
 been told, loved mining and quarrying after metals above all other craft; and
 he was master and leader of the Elves who worked in the mountains distant from
@@ -196,6 +217,7 @@ smiling face and evil in his heart, while the darkness gathered ever deeper
 upon Idril.
 
 ## The hosts of Morgoth are loosed on Gondolin
+[TreeTag]: # {23.06.02}
 At last, in the year when Eärendil was seven years old, Morgoth was ready, and
 he loosed upon Gondolin his Balrogs, and his Orcs, and his wolves; and with
 them came dragons of the brood of Glaurung, and they were become now many and
@@ -215,8 +237,10 @@ household, until the tower was overthrown; and mighty was its fall and the fall
 of Turgon in its ruin.
 
 # The flight of Tuor and Idril from Maeglin and the duel of Glorfindel and the Balrog
+[TreeTag]: # {23.07}
 
 ## Tuor saves Idril and Eärendil from Maeglin as they escape the city
+[TreeTag]: # {23.07.01}
 Tuor sought to rescue Idril from the sack of the city, but Maeglin had laid
 hands on her, and on Eärendil; and Tuor fought with Maeglin on the walls, and
 cast him far out, and his body as it fell smote the rocky slopes of Amon
@@ -235,6 +259,7 @@ for the high places were cold and terrible, and they had among them many that
 were wounded, and women and children.
 
 ## How the fight of Glorfindel and the Balrog on Cirith Thoronath was saved by Thorondor
+[TreeTag]: # {23.07.02}
 There was a dreadful pass, Cirith Thoronath it was named, the Eagles' Cleft,
 where beneath the shadow of the highest peaks a narrow path wound its way; on
 the right hand it was walled by a precipice, and on the left a dreadful fall
@@ -246,6 +271,7 @@ the House of the Golden Flower of Gondolin, had not Thorondor come timely to
 their aid.
 
 ## How the eagle saved the body of Glorfindel after that duel
+[TreeTag]: # {23.07.03}
 Many are the songs that have been sung of the duel of Glorfindel with the
 Balrog upon a pinnacle of rock in that high place; and both fell to ruin in the
 abyss. But the eagles coming stooped upon the Orcs, and drove them shrieking
@@ -256,8 +282,10 @@ beside the pass; and a green turf came there, and yellow flowers bloomed upon
 it amid the barrenness of stone, until the world was changed.
 
 # The aftermath of the fall and the unity of the elves at the mouths of Sirion
+[TreeTag]: # {23.08}
 
 ## The journey of Tuor and those that escaped down to the mouths of Sirion where they meet the company of Elwing
+[TreeTag]: # {23.08.01}
 Thus led by Tuor son of Huor the remnant of Gondolin passed over the mountains,
 and came down into the Vale of Sirion; and fleeing southward by weary and
 dangerous marches they came at length to Nan-tathren, the Land of Willows, for
@@ -277,6 +305,7 @@ of the fall of Gondolin and the death of Turgon, Ereinion Gil-galad son of
 Fingon was named High King of the Noldor in Middle-earth.
 
 ## Of the company of elves, from Gondolin, Doriath, and Balar, that Morgoth gave no heed at the mouth of Sirion
+[TreeTag]: # {23.08.02}
 But Morgoth thought that his triumph was fulfilled, recking little of the sons
 of Fëanor, and of their oath, which had harmed him never and turned always to
 his mightiest aid; and in his black thought he laughed, regretting not the one
@@ -290,6 +319,7 @@ of ships, dwelling ever nigh to the coasts of Arvernien, under the shadow of
 Ulmo's hand.
 
 ## Ulmo comes to Valinor in favor of the elves, but Manwë is moved not of his counsels
+[TreeTag]: # {23.08.03}
 And it is said that in that time Ulmo came to Valinor out of the deep waters,
 and spoke there to the Valar of the need of the Elves; and he called on them to
 forgive them, and rescue them from the overmastering might of Morgoth, and win
@@ -298,6 +328,7 @@ when the Two Trees still shone in Valinor. But Manwë moved not; and of the
 counsels of his heart what tale shall tell?
 
 ## The reason for the patience of the Valar
+[TreeTag]: # {23.08.04}
 The wise have said that the hour was not yet come, and that only one speaking
 in person for the cause of both Elves and Men, pleading for pardon on their
 misdeeds and pity on their woes, might move the counsels of the Powers; and the
@@ -307,6 +338,7 @@ ruthless claim. For the light which lit the Silmarils the Valar themselves had
 made.
 
 ## Tuor and Idril set forth on Eärrámë to the west where it is rumored that Tuor dwells in Mandos with the fate of elves
+[TreeTag]: # {23.08.05}
 In those days Tuor felt old age creep upon him, and ever a longing for the
 deeps of the Sea grew stronger in his heart. Therefore he built a great ship,
 and he named it Eärrámë, which is Sea-Wing; and with Idril Celebrindal he set
@@ -314,3 +346,4 @@ sail into the sunset and the West, and came no more into any tale or song. But
 in after days it was sung that Tuor alone of mortal Men was numbered among the
 elder race, and was joined with the Noldor, whom he loved; and his fate is
 sundered from the fate of Men.
+

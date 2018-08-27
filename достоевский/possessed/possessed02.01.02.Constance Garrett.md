@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - II
 [Metadata]: # {02.01.02}
 [Descriptor]: # {02.01.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.01.02.01}
 Pyotr Stepanovitch ran round to see his father twice, but unfortunately I was
 absent on both occasions. He visited him for the first time only on Wednesday,
 that is, not till the fourth day after their first meeting, and then only on

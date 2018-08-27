@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - VI
 [Metadata]: # {01.02.06}
 [Descriptor]: # {01.02.06}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {01.02.06.01}
 I will now enter upon the description of that almost forgotten incident with
 which my story properly speaking begins.
 

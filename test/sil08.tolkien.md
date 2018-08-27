@@ -1,8 +1,12 @@
 # Chapter 8: Of the Darkening of Valinor
-
+[Metadata]: # {08}
+[Descriptor]: # {08}
+[Author]: # {tolkien}
 # Of Melkor's deceptions in flight, and his meeting of Ungoliant
+[TreeTag]: # {08.01}
 
 ## Oromë and Tulkas chase Melkor to the North, but in secret he fled to the south
+[TreeTag]: # {08.01.01}
 When Manwë heard of the ways that Melkor had taken, it seemed plain to him that
 he purposed to escape to his old strongholds in the north of Middle-earth; and
 Oromë and Tulkas went with all speed northward, seeking to overtake him if they
@@ -15,6 +19,7 @@ walk unclad, as could his brethren; though that power he was soon to lose for
 ever.
 
 ## Melkor finds Ungoliant in the south at the borders of Aman in Avathar
+[TreeTag]: # {08.01.02}
 Thus unseen he came at last to the dark region of Avathar. That narrow land lay
 south of the Bay of Eldamar, beneath the eastern feet of the Pelóri, and its
 long and mournful shores stretched away into the south, lightless and
@@ -32,12 +37,14 @@ long unheeded. Thence she had crept towards the light of the Blessed Realm; for
 she hungered for light and hated it.
 
 ## Of Ungoliant, her form as a spider, and her ever hunger to consume the light
+[TreeTag]: # {08.01.03}
 In a ravine she lived, and took shape as a spider of monstrous form, weaving
 her black webs in a cleft of the mountains. There she sucked up all light that
 she could find, and spun it forth again in dark nets of strangling gloom, until
 no light more could come to her abode; and she was famished.
 
 ## Melkor promises great reward from both hands if she were to join in his pursuits
+[TreeTag]: # {08.01.04}
 Now Melkor came to Avathar and sought her out; and he put on again the form
 that he had worn as the tyrant of Utumno: a dark Lord, tall and terrible. In
 that form he remained ever after. There in the black shadows, beyond the sight
@@ -51,6 +58,7 @@ he made this vow, as he ever did; and he laughed in his heart.  Thus did the
 great thief set his lure for the lesser.
 
 ## Ungoliant weaves her webs and brings the duo up and over Hyarmentir
+[TreeTag]: # {08.01.05}
 A cloak of darkness she wove about them when Melkor and Ungoliant set forth; an
 Unlight, in which things seemed to be no more, and which eyes could not pierce,
 for it was void. Then slowly she wrought her webs: rope by rope from cleft to
@@ -70,8 +78,10 @@ and Laurelin. Then Melkor laughed aloud, and leapt swiftly down the long
 western slopes; and Ungoliant was at his side, and her darkness covered them.
 
 # Of the festival during that time
+[TreeTag]: # {08.02}
 
 ## Of the festival that was taking place
+[TreeTag]: # {08.02.01}
 Now it was a time of festival, as Melkor knew well. Though all tides and
 seasons were at the will of the Valar, and in Valinor there was no winter of
 death, nonetheless they dwelt then in the Kingdom of Arda, and that was but a
@@ -82,6 +92,7 @@ the forms of the Children of Ilúvatar, so also did they eat and drink, and
 gather the fruits of Yavanna from the Earth, which under Eru they had made.
 
 ## All of Valinor and Tirion were gathered for the feast, leaving the streets empty
+[TreeTag]: # {08.02.02}
 Therefore Yavanna set times for the flowering and the ripening of all things
 mat grew in Valinor; and at each first gathering of fruits Manwë made a high
 feast for the praising of Eru, when all the peoples of Valinor poured forth
@@ -104,6 +115,7 @@ Rulers of Arda, or the shadow that had fallen on Valinor, for it had not
 touched them, as yet.
 
 ## Fëanor Manwë command to join, but Finwë stayed in Formenos with the Silmarils
+[TreeTag]: # {08.02.03}
 One thing only marred the design of Manwë. Fëanor came indeed, for him alone
 Manwë had commanded to come; but Finwë came not, nor any others of the Noldor
 of Formenos. For said Finwë: 'While the ban lasts upon Fëanor my son, that he
@@ -117,17 +129,21 @@ Fingolfin held forth his hand, saying: 'As I promised, I do now. I release
 thee, and remember no grievance.'
 
 ## Fingolfin makes amend to Fëanor
+[TreeTag]: # {08.02.04}
 Then Fëanor took his hand in silence; but Fingolfin said: 'Half-brother in
 blood, full brother in heart will I be. Thou shalt lead and I will follow. May
 no new grief divide as.'
 
 ## Fëanor responds to Fingolfin
+[TreeTag]: # {08.02.05}
 'I hear thee,' said Fëanor. 'So be it.' But they did not know the meaning that
 their words would bear.
 
 # Of Ungoliant and Melkor's destruction of the Trees of Valinor and their flight therein
+[TreeTag]: # {08.03}
 
 ## Ungoliant and Melkor journey to Ezellohar, Melkor smites the trees while Ungoliant sucks their sap dry
+[TreeTag]: # {08.03.01}
 It is told that even as Fëanor and Fingolfin stood before Manwë there came the
 mingling of the lights, when both Trees were shining, and the silent city of
 Valmar was filled with a radiance of silver and gold.  And in that very hour
@@ -145,6 +161,7 @@ Ungoliant belched forth black vapours as she drank, and swelled to a shape so
 vast and hideous that Melkor was afraid.
 
 ## Of the darkness told in the Aldudénië of Elemmírë of the Vanyar
+[TreeTag]: # {08.03.02}
 So the great darkness fell upon Valinor. Of the deeds of that day much is told
 in the Aldudénië, that Elemmírë of the Vanyar made and is known to all the
 Eldar. Yet no song or tale could contain all the grief and terror that then
@@ -155,6 +172,7 @@ power to pierce the eye, and to enter heart and mind, and strangle the very
 will.
 
 ## Varda witnesses the Shadow soaring from Taniquetil
+[TreeTag]: # {08.03.03}
 Varda looked down from Taniquetil, and beheld the Shadow soaring up in sudden
 towers of gloom; Valmar had foundered in a deep sea of night.  Soon the Holy
 Mountain stood alone, a last island in a world that was drowned. All song
@@ -165,12 +183,14 @@ that hour, and the vast shadows of the sea were rolled against the walls of the
 shore.
 
 ## Manwë also witness the Shadow, and piercing through it sees a Darkness move northward with Melkor and Ungoliant
+[TreeTag]: # {08.03.04}
 But Manwë from his high seat looked out, and his eyes alone pierced through the
 night, until they saw a Darkness beyond dark which they could not penetrate,
 huge but far away, moving now northward with great speed; and he knew that
 Melkor had come and gone.
 
 ## Of Oromë's pursuit, the darkness he meets, and Melkor's escape from Valinor
+[TreeTag]: # {08.03.05}
 Then the pursuit was begun; and the earth shook beneath the horses of the host
 of Oromë, and the fire that was stricken from the hooves of Nahar was the first
 light that returned to Valinor. But so soon as any came up with the Cloud of
@@ -180,3 +200,4 @@ faltered and failed. And Tulkas was as one caught in a black net at night, and
 he stood powerless and beat the air in vain. But when the Darkness had passed,
 it was too late: Melkor had gone whither he would, and his vengeance was
 achieved.
+

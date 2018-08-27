@@ -1,11 +1,9 @@
 # PART II - CHAPTER X. FILIBUSTERS. A FATAL MORNING - I
 [Metadata]: # {02.10.01}
 [Descriptor]: # {02.10.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER X. FILIBUSTERS. A FATAL MORNING
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.10.01.01}
 The adventure that befell us on the way was also a surprising one. But I must
 tell the story in due order. An hour before Stepan Trofimovitch and I came out
 into the street, a crowd of people, the hands from Shpigulins' factory, seventy

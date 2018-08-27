@@ -1,11 +1,9 @@
 # PART III - CHAPTER VI. A BUSY NIGHT - III
 [Metadata]: # {03.06.03}
 [Descriptor]: # {03.06.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VI. A BUSY NIGHT
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.06.03.01}
 Precisely at ten minutes to six Pyotr Stepanovitch and Erkel were walking up
 and down the platform at the railway-station beside a rather long train. Pyotr
 Stepanovitch was setting off and Erkel was saying good-bye to him. The luggage

@@ -1,8 +1,12 @@
 # Chapter 11: Of the Sun and Moon and the Hiding of Valinor
-
+[Metadata]: # {11}
+[Descriptor]: # {11}
+[Author]: # {tolkien}
 # The valar reflect on the doing of Fëanor
+[TreeTag]: # {11.01}
 
 ## The valar contemplate the events, and Manwë reflects on the doings of Fëanor
+[TreeTag]: # {11.01.01}
 It is told that after the flight of Melkor the Valar sat long unmoved upon
 their thrones in the Ring of Doom; but they were not idle, as Fëanor declared
 in the folly of his heart. For the Valar may work many things with thought
@@ -26,11 +30,14 @@ no other. Thus even as Eru spoke to us shall beauty not before conceived be
 brought into Eä, and evil yet be good to have been.'
 
 ## Mandos forshadows Fëanor's defeat
+[TreeTag]: # {11.01.02}
 But Mandos said: 'And yet remain evil. To me shall Fëanor come soon.'
 
 # Of the sun and the moon and the Maiar that drove them
+[TreeTag]: # {11.02}
 
 ## The Valar try not entirely in vain to bring back the trees of Valar
+[TreeTag]: # {11.02.01}
 But when at last the Valar learned that the Noldor had indeed passed out of
 Aman and were come back into Middle-earth, they arose and began to set forth in
 deeds those counsels which they had taken in thought for the redress of the
@@ -42,6 +49,7 @@ song faltered, Telperion bore at last upon a leafless bough one great flower of
 silver, and Laurelin a single trait of gold.
 
 ## The last leaf and fruit of the trees are preserved as is said in the Narsilion
+[TreeTag]: # {11.02.02}
 These Yavanna took; and then the Trees died, and their lifeless stems stand yet
 in Valinor, a memorial of vanished joy. But the flower and the fruit Yavanna
 gave to Aulë, and Manwë hallowed them, and Aulë and his people made vessels to
@@ -53,6 +61,7 @@ upon appointed courses above the girdle of the Earth from the West unto the
 East and to return.
 
 ## The reasoning of the creation of the sun and the moon
+[TreeTag]: # {11.02.03}
 These things the Valar did, recalling in their twilight the darkness of the
 lands of Arda; and they resolved now to illumine Middle-earth and with light to
 hinder the deeds of Melkor. For they remembered the Avari that remained by the
@@ -68,6 +77,7 @@ where the beginning of Men should be, north, south, or east. Therefore the
 Valar sent forth light, but made strong the land of their dwelling.
 
 ## Isil or Rána, the Wayward: the moon made of flower of Telperion, and Anar, or Vása, the Heart of Fire, the sun made of fruit of Laurelin
+[TreeTag]: # {11.02.04}
 Isil the Sheen the Vanyar of old named the Moon, flower of Telperion in
 Valinor; and Anar the Fire-golden, fruit of Laurelin, they named the Sun. But
 the Noldor named them also Rána, the Wayward, and Vása, the Heart of Fire, that
@@ -75,6 +85,7 @@ awakens and consumes; for the Sun was set as a sign for the awakening of Men
 and the waning of the Elves, but the Moon cherishes their memory.
 
 ## Arien to guide the sun, and Tilion to guide the Moon
+[TreeTag]: # {11.02.05}
 The maiden whom the Valar chose from among the Maiar to guide the vessel of the
 Sun was named Arien, and he that steered the island of the Moon was Tilion. In
 the days of the Trees Arien had tended the golden flowers in the gardens of
@@ -92,6 +103,7 @@ worn there, and she was as a naked flame, terrible in the fullness of her
 splendour.
 
 ## Fingolfin sees the first rising of Isil, the moon, upon Arda
+[TreeTag]: # {11.02.06}
 Isil was first wrought and made ready, and first rose into the realm of the
 stars, and was the elder of the new lights, as was Telperion of the Trees. Then
 for a while the world had moonlight, and many things stirred and woke that had
@@ -102,6 +114,7 @@ trumpets and began his march into Middle-earth, and the shadows of his host
 went long and black before them.
 
 ## Melkor shrinks at the first rising of Anar, the sun, upon Arda
+[TreeTag]: # {11.02.07}
 Tilion had traversed the heaven seven times, and thus was in the furthest east,
 when the vessel of Arien was made ready. Then Anar arose in glory, and the
 first dawn of the Sun was like a great fire upon the towers of the Pelóri: the
@@ -111,6 +124,7 @@ uttermost depths of Angband, and withdrew his servants, sending forth great
 reek and dark cloud to hide his land from the light of the Day-star.
 
 ## Of the movements of the sun and moon, and the waywardness of Tilion
+[TreeTag]: # {11.02.08}
 Now Varda purposed that the two vessels should journey in Ilmen and ever be
 aloft, but not together; each should pass from Valinor into the east and
 return, the one issuing from the west as the other turned from the east. Thus
@@ -122,6 +136,7 @@ her splendour, though the flame of Anar scorched him, and the island of the
 Moon was darkened.
 
 ## Something about the sun and moon and Valinor and evening and stuff
+[TreeTag]: # {11.02.09}
 Because of the waywardness of Tilion, therefore, and yet more because of the
 prayers of Lórien and Estë, who said that sleep and rest had been banished from
 the Earth, and the stars were hidden, Varda changed her counsel, and allowed a
@@ -138,6 +153,7 @@ and Valinor was dim, and the Valar mourned then most for the death of Laurelin.
 At dawn the shadows of the Mountains of Defence lay heavy on the Blessed Realm.
 
 ## More bullshit about how the moon is sometimes up in the day.
+[TreeTag]: # {11.02.10}
 Varda commanded the Moon to journey in like manner, and passing under Earth to
 arise in the east, but only after the Sun had descended from heaven. But Tilion
 went with uncertain pace, as yet he goes, and was still drawn towards Arien, as
@@ -146,6 +162,7 @@ at times it will chance that he comes so nigh that his shadow cuts off her
 brightness and there is a darkness amid the day.
 
 ## Even more bullshit about new moons and Tilion
+[TreeTag]: # {11.02.11}
 Therefore by the coming and going of Anar the Valar reckoned the days
 thereafter until the Change of the World. For Tilion tamed seldom in Valinor,
 but more often would pass swiftly over the western land, over Avathar, or
@@ -154,6 +171,7 @@ way alone amid the grots and caverns at the roots of Arda. There he would often
 wander long, and late would return.
 
 ## Conclusion, the light of Valinor lives now only in the Silmarils not the sun and moon
+[TreeTag]: # {11.02.12}
 Still therefore, after the Long Night, the light of Valinor was greater and
 fairer than upon Middle-earth; for the Sun rested there, and the lights of
 heaven drew nearer to Earth in that region. But neither the Sun nor the Moon
@@ -161,8 +179,10 @@ can recall the light that was of old, that came from the Trees before they were
 touched by the poison of Ungoliant That light lives now in the Silmarils alone.
 
 # Of Morgoth's war upon the new lights and the fortification of Valinor
+[TreeTag]: # {11.03}
 
 ## Morgoth hated both new lights, but fears them, fighting them some but mostly creating shadows to hide from them
+[TreeTag]: # {11.03.01}
 But Morgoth hated the new lights, and was for a while confounded by this
 unlooked-for stroke of the Valar. Then he assailed Tilion, sending spirits of
 shadow against him, and there was strife in Ilmen beneath the paths of the
@@ -176,6 +196,7 @@ glance of whose eyes they could not long endure; and the lands near his
 dwelling were shrouded in fumes and great clouds.
 
 ## The Valar fortify the Pelóri leaving only Calacirya as a pass in, also well fortified
+[TreeTag]: # {11.03.02}
 But seeing the assault upon Tilion the Valar were in doubt, fearing what the
 malice and cunning of Morgoth might yet contrive against them.  Being unwilling
 to make war upon him in Middle-earth, they remembered nonetheless the ruin of
@@ -197,6 +218,7 @@ bird nor beast nor elf nor man, nor any creature beside that dwelt in
 Middle-earth, could pass that leaguer.
 
 ## Of Nurtalë Valinóreva, the Hiding of Valinor, and Tol Eressëa of the enchanted isles that were set
+[TreeTag]: # {11.03.03}
 And in that time also, which songs call Nurtalë Valinóreva, the Hiding of
 Valinor, the Enchanted Isles were set, and ail the seas about them were filled
 with shadows and bewilderment. And these isles were strung as a net in the
@@ -209,3 +231,4 @@ and slept until the Change of the World. Thus it was that as Mandos foretold to
 them in Araman the Blessed Realm was shut against the Noldor; and of the many
 messengers that in after days sailed into the West none came ever to Valinor -
 save one only: the mightiest mariner of song.
+

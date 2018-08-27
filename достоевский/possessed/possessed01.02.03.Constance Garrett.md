@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - III
 [Metadata]: # {01.02.03}
 [Descriptor]: # {01.02.03}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {01.02.03.01}
 At last the interview with the governor took place too. Our dear, mild, Ivan
 Ossipovitch had only just returned and only just had time to hear the angry
 complaint from the club. There was no doubt that something must be done, but he

@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - IV
 [Metadata]: # {01.05.04}
 [Descriptor]: # {01.05.04}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {01.05.04.01}
 I have said something of this gentleman's outward appearance. He was a tall,
 curly-haired, thick-set fellow about forty with a purplish, rather bloated and
 flabby face, with cheeks that quivered at every movement of his head, with
@@ -278,8 +276,8 @@ is at the end of this fable, in letters of fire."
 
 "Read your fable."
 
-"Lived a cockroach in the world      Such was his condition,      In a
-glass he chanced to fall      Full of fly-perdition."
+"Lived a cockroach in the world      Such was his condition,      In a glass he
+chanced to fall      Full of fly-perdition."
 
 "Heavens! What does it mean?" cried Varvara Petrovna.
 
@@ -288,10 +286,9 @@ hurriedly with the irritable impatience of an author interrupted in reading.
 "Then it is perdition to the flies, any fool can understand. Don't interrupt,
 don't interrupt. You'll see, you'll see...." He kept waving his arms.
 
-"But he squeezed against the flies,      They woke up and cursed him,
-Raised to Jove their angry cries;      'The glass is full to bursting!'      In
-the middle of the din      Came along Nikifor,      Fine old man, and looking
-in...
+"But he squeezed against the flies,      They woke up and cursed him, Raised to
+Jove their angry cries;      'The glass is full to bursting!'      In the
+middle of the din      Came along Nikifor,      Fine old man, and looking in...
 
 I haven't quite finished it. But no matter, I'll tell it in words," the captain
 rattled on. "Nikifor takes the glass, and in spite of their outcry empties away

@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - V
 [Metadata]: # {01.02.05}
 [Descriptor]: # {01.02.05}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {01.02.05.01}
 Our friend certainly had fallen into not a few bad habits, especially of late.
 He had obviously and rapidly deteriorated; and it was true that he had become
 slovenly. He drank more and had become more tearful and nervous; and had grown

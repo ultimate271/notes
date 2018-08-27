@@ -1,11 +1,9 @@
 # PART III - CHAPTER I. THE FETE--FIRST PART - I
 [Metadata]: # {03.01.01}
 [Descriptor]: # {03.01.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER I. THE FETE--FIRST PART
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.01.01.01}
 The fête took place in spite of all the perplexities of the preceding
 "Shpigulin" day. I believe that even if Lembke had died the previous night, the
 fête would still have taken place next morning--so peculiar was the

@@ -1,11 +1,9 @@
 # PART III - CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING - I
 [Metadata]: # {03.07.01}
 [Descriptor]: # {03.07.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.07.01.01}
 I am persuaded that Stepan Trofimovitch was terribly frightened as he felt the
 time fixed for his insane enterprise drawing near. I am convinced that he
 suffered dreadfully from terror, especially on the night before he

@@ -1,11 +1,9 @@
 # PART II - CHAPTER VII. A MEETING - I
 [Metadata]: # {02.07.01}
 [Descriptor]: # {02.07.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VII. A MEETING
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.07.01.01}
 VIRGINSKY LIVED IN HIS OWN house, or rather his wife's, in Muravyin Street. It
 was a wooden house of one story, and there were no lodgers in it. On the
 pretext of Virginsky's-name-day party, about fifteen guests were assembled; but
