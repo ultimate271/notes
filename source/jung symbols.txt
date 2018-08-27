@@ -32,11 +32,12 @@ v3.1
 
 
 
-INTRODUCTION
+# INTRODUCTION
+[Author]: # {Jung}
 
 
 
-John Freeman
+## John Freeman
 
 
 The origins of this book are sufficiently unusual to be of interest, and they bear a direct relation to its contents and what it sets out to do. So let me tell you just how it came to be written.
@@ -139,7 +140,7 @@ About the Author
 
 
 
-PART 1
+# PART 1
 
 
 
@@ -156,7 +157,7 @@ Three of the four Evangelists (in a relief on Chartres Cathedral) appear as anim
 
 
 
-The importance of dreams
+## The importance of dreams
 
 
 Man uses the spoken or written word to express the meaning of what he wants to convey. His language is full of symbols, but he also often employs signs or images that are not strictly descriptive. Some are mere abbreviations or strings of initials, such as UN, UNICEF, or UNESCO; others are familiar trade marks, the names of patent medicines, badges, or insignia. Although these are meaningless in themselves, they have acquired a recognizable meaning through common usage or deliberate intent. Such things are not symbols. They are signs, and they do no more than denote the objects to which they are attached.
@@ -269,7 +270,7 @@ It is easy to understand why dreamers tend to ignore and even deny the message o
 
 
 
-Past and future in the unconscious
+## Past and future in the unconscious
 
 
 So far, I have been sketching some of the principles on which I approached the problem of dreams, for when we want to investigate man’s faculty to produce symbols, dreams prove to be the most basic and accessible material for this purpose. The two fundamental points in dealing with dreams are these: First, the dream should be treated as a fact, about which one must make no previous assumption except that it somehow makes sense; and second, the dream is a specific expression of the unconscious.
@@ -344,7 +345,7 @@ The 19th-century German chemist Kekule, researching into the molecular structure
 
 
 
-The function of dreams
+## The function of dreams
 
 
 I have gone into some detail about the origins of our dream life, because it is the soil from which most symbols originally grow. Unfortunately, dreams are difficult to understand. As I have already pointed out, a dream is quite unlike a story told by the conscious mind. In everyday life one thinks out what one wants to say, selects the most telling way of saying it, and tries to make one’s remarks logically coherent. For instance, an educated person will seek to avoid a mixed metaphor because it may give a muddled impression of his point. But dreams have a different texture. Images that seem contradictory and ridiculous crowd in on the dreamer, the normal sense of time is lost, and commonplace things can assume a fascinating or threatening aspect.
@@ -445,7 +446,7 @@ Some time before I had this particular last dream of the series, I had placed an
 
 
 
-The analysis of dreams
+## The analysis of dreams
 
 
 I began this essay by noting the difference between a sign and a symbol. The sign is always less than the concept it represents, while a symbol always stands for something more than its obvious and immediate meaning. Symbols, moreover, are natural and spontaneous products. No genius has ever sat down with a pen or a brush in his hand and said: “Now I am going to invent a symbol.” No one can take a more or less rational thought, reached as a logical conclusion or by deliberate intent, and then give it “symbolic” form. No matter what fantastic trappings one may put upon an idea of this kind, it will still remain a sign, linked to the conscious thought behind it, not a symbol that hints at something not yet known. In dreams, symbols occur spontaneously, for dreams happen and are not invented; they are, therefore, the main source of all our knowledge about symbolism.
@@ -482,7 +483,7 @@ The individual is the only reality. The further we move away from the individual
 
 
 
-The problem of types
+## The problem of types
 
 
 In all other branches of science, it is legitimate to apply a hypothesis to an impersonal subject. Psychology, however, inescapably confronts you with the living relations between two individuals, neither of whom can be divested of his subjective personality, nor, indeed, depersonalized in any other way. The analyst and his patient may set out by agreeing to deal with a chosen problem in an impersonal and objective manner; but once they are engaged, their whole personalities are involved in their discussion. At this point, further progress is possible only if mutual agreement can be reached.
@@ -567,7 +568,7 @@ It was clear to me that this dream was telling the young man what he ought to do
 
 
 
-The archetype in dream symbolism
+## The archetype in dream symbolism
 
 
 I have already suggested that dreams serve the purpose of compensation. This assumption means that the dream is a normal psychic phenomenon that transmits unconscious reactions or spontaneous impulses to consciousness. Many dreams can be interpreted with the help of the dreamer, who provides both the associations to and the context of the dream image, by means of which one can look at all its aspects.
@@ -712,7 +713,7 @@ Yet in order to sustain his creed, contemporary man pays the price in a remarkab
 
 
 
-The soul of man
+## The soul of man
 
 
 What we call civilized consciousness has steadily separated itself from the basic instincts. But these instincts have not disappeared. They have merely lost their contact with our consciousness and are thus forced to assert themselves in an indirect fashion. This may be by means of physical symptoms in the case of a neurosis, or by means of incidents of various kinds, like unaccountable moods, unexpected forgetfulness, or mistakes in speech.
@@ -801,7 +802,7 @@ An honest investigator will have to admit that he cannot always do this, but it 
 
 
 
-The role of symbols
+## The role of symbols
 
 
 When the medical psychologist takes an interest in symbols, he is primarily concerned with “natural” symbols, as distinct from “cultural” symbols. The former are derived from the unconscious contents of the psyche, and they therefore represent an enormous number of variations on the essential archetypal images. In many cases they can still be traced back to their archaic roots—i.e., to ideas and images that we meet in the most ancient records and in primitive societies. The cultural symbols on the other hand, are those that have been used to express “eternal truths,” and that are still used in many religions. They have gone through many transformations and even a long process of more or less conscious development, and have thus become collective images accepted by civilized societies.
@@ -868,7 +869,7 @@ This emotional value must be kept in mind and allowed for throughout the whole i
 
 
 
-Healing the split
+## Healing the split
 
 
 Our intellect has created a new world that dominates nature, and has populated it with monstrous machines. The latter are so indubitably useful that we cannot see even a possibility of getting rid of them or our subservience to them. Man is bound to follow the adventurous promptings of his scientific and inventive mind and to admire himself for his splendid achievements. At the same time, his genius shows the uncanny tendency to invent things that become more and more dangerous, because they represent better and better means for wholesale suicide.
@@ -905,7 +906,7 @@ This modern standpoint is surely one-sided and unjust. It does not even accord w
 
 
 
-PART 2
+# PART 2
 
 
 
@@ -922,7 +923,7 @@ A ceremonial mask from the island of New Ireland (New Guinèa)
 
 
 
-The eternal symbols
+## The eternal symbols
 
 
 The ancient history of man is being meaningfully rediscovered today in the symbolic images and myths that have survived ancient man. As archaeologists dig deep into the past, it is not the events of historical time that we learn to treasure but the statues, designs, temples, and languages that tell of old beliefs. Other symbols are revealed to us by the philologists and religious historians, who can translate these beliefs into intelligible modern concepts. These in turn are brought to life by the cultural anthropologists. They can show that the same symbolic patterns can be found in the rituals or myths of small tribal societies still existing, unchanged for centuries, on the outskirts of civilization.
@@ -963,7 +964,7 @@ This crucial link between archaic or primitive myths and the symbols produced by
 
 
 
-Heroes and hero makers
+## Heroes and hero makers
 
 
 The myth of the hero is the most common and the best known myth in the world. We find it in the classical mythology of Greece and Rome, in the Middle Ages, in the Far East, and among contemporary primitive tribes. It also appears in our dreams. It has an obvious dramatic appeal, and a less obvious, but nonetheless profound, psychological importance.
@@ -1110,7 +1111,7 @@ This change, however, does not take place automatically. It requires a period of
 
 
 
-The archetype of initiation
+## The archetype of initiation
 
 
 In a psychological sense the hero image is not to be regarded as identical with the ego proper. It is better described as the symbolic means by which the ego separates itself from the archetypes evoked by the parental images in early childhood. Dr. Jung has suggested that each human being has originally a feeling of wholeness, a powerful and complete sense of the Self. And from the Self—the totality of the psyche—the individualized ego-consciousness emerges as the individual grows up.
@@ -1185,7 +1186,7 @@ Nevertheless, the sacred marriage as an archetypal form has a particularly impor
 
 
 
-Beauty and the Beast
+## Beauty and the Beast
 
 
 Girls in our society share in the masculine hero myths because, like boys, they must also develop a reliable ego-identity and acquire an education. But there is an older layer of the mind that seems to come to the surface in their feelings, with the aim of making them into women, not into imitation men. When this ancient content of the psyche begins to make its appearance, the modern young woman may repress it because it threatens to cut her off from the emancipated equality of friendship and opportunity to compete with men that have become her modern privileges.
@@ -1250,7 +1251,7 @@ The interpretation one could place on this woman’s dream is that she needed to
 
 
 
-Orpheus and the Son of Man
+## Orpheus and the Son of Man
 
 
 “Beauty and the Beast” is a fairy tale with the quality of a wildflower, appearing so unexpectedly and creating in us such a natural sense of wonder that we do not notice for the moment that it belongs to a definite class, genus, and species of plant. The kind of mystery inherent in such a story is given a universal application not only in a larger historical myth, but also in the rituals whereby the myth is expressed or from which it may be derived.
@@ -1341,7 +1342,7 @@ So we see again, in modern life, the tendency to repeat old patterns. Those who 
 
 
 
-Symbols of transcendence
+## Symbols of transcendence
 
 
 The symbols that influence many vary in their purpose. Some men need to be aroused, and experience their initiation in the violence of a Dionysiac “thunder rite.” Others need to be subdued, and they are brought to submission in the ordered design of temple precinct or sacred cave, suggestive of the Apollonian religion of later Greece. A full initiation embraces both themes, as we can see when we look either at the material drawn from ancient texts or at living subjects. But it is quite certain that the fundamental goal of initiation lies in taming the original Trickster-like wildness of the juvenile nature. It therefore has a civilizing or spiritualizing purpose, in spite of the violence of the rites that are required to set this process in motion.
@@ -1436,7 +1437,7 @@ But the rites do not offer this opportunity invariably, or automatically. They r
 
 
 
-PART 3
+# PART 3
 
 
 
@@ -1448,7 +1449,7 @@ M.-L. von Franz
 
 
 
-The pattern of psychic growth
+## The pattern of psychic growth
 
 
 At the beginning of this book Dr. C. G. Jung introduced the reader to the concept of the unconscious, its personal and collective structures, and its symbolic mode of expression. Once one has seen the vital importance (that is, the healing or destructive impact) of the symbols produced by the unconscious, there remains the difficult problem of interpretation. Dr. Jung has shown that everything depends on whether any particular interpretation “clicks” and is meaningful to the individual concerned. In this way he has indicated the possible meaning and function of dream symbolism.
@@ -1513,7 +1514,7 @@ Many people have criticized the Jungian approach for not presenting psychic mate
 
 
 
-The first approach of the unconscious
+## The first approach of the unconscious
 
 
 For most people the years of youth are characterized by a state of gradual awakening in which the individual slowly becomes aware of the world and of himself. Childhood is a period of great emotional intensity, and a child’s earliest dreams often manifest in symbolic form the basic structure of the psyche, indicating how it will later shape the destiny of the individual concerned. For example, Jung once told a group of students about a young woman who was so haunted by anxiety that she committed suicide at the age of 26. As a small child, she had dreamed that “Jack Frost” had entered her room while she was lying in bed and pinched her on the stomach. She woke and discovered that she had pinched herself with her own hand. The dream did not frighten her; she merely remembered that she had had such a dream. But the fact that she did not react emotionally to her strange encounter with the demon of the cold—of congealed life—did not augur well for the future and was itself abnormal. It was with a cold, unfeeling hand that she later put an end to her life. From this single dream it is possible to deduce the tragic fate of the dreamer, which was anticipated by her psyche in childhood.
@@ -1544,7 +1545,7 @@ A woodcut from a 17-century alchemical manuscript depicts a king who has fallen 
 
 
 
-The realization of the shadow
+## The realization of the shadow
 
 
 Whether the unconscious comes up at first in a helpful or a negative form, after a time the need usually arises to re-adapt the conscious attitude in a better way to the unconscious factors—therefore to accept what seems to be “criticism” from the unconscious. Through dreams one becomes acquainted with aspects of one’s own personality that for various reasons one has preferred not to look at too closely. This is what Jung called “the realization of the shadow.” (He used the term “shadow” for this unconscious part of the personality because it actually often appears in dreams in a personified form.)
@@ -1637,7 +1638,7 @@ These new discoveries of depth psychology are bound to make some change in our c
 
 
 
-The anima: the woman within
+## The anima: the woman within
 
 
 Difficult and subtle ethical problems are not invariably brought up by the appearance of the shadow itself. Often another “inner figure” emerges. If the dreamer is a man, he will discover a female personification of his unconscious; and it will be a male figure in the case of a woman. Often this second symbolic figure turns up behind the shadow, bringing up new and different problems. Jung called its male and female forms “animus” and “anima.”
@@ -1738,7 +1739,7 @@ Only the painful (but essentially simple) decision to take one’s fantasies and
 
 
 
-The animus: the man within
+## The animus: the man within
 
 
 The male personification of the unconscious in woman—the animus—exhibits both good and bad aspects, as does the anima in man. But the animus does not so often appear in the form of an erotic fantasy or mood; it is more apt to take the form of a hidden “sacred” conviction. When such a conviction is preached with a loud, insistent, masculine voice or imposed on others by means of brutal emotional scenes, the underlying masculinity in a woman is easily recognized. However, even in a woman who is outwardly very feminine the animus can be an equally hard, inexorable power. One may suddenly find oneself up against something in a woman that is obstinate, cold, and completely inaccessible.
@@ -1799,7 +1800,7 @@ As I mentioned before, the positive side of the animus can personify an enterpri
 
 
 
-The Self: symbols of totality
+## The Self: symbols of totality
 
 
 If an individual has wrestled seriously enough and long enough with the anima (or animus) problem so that he, or she, is no longer partially identified with it, the unconscious again changes its dominant character and appears in a new symbolic form, representing the Self, the innermost nucleus of the psyche. In the dreams of a woman this center is usually personified as a superior female figure—a priestess, sorceress, earth mother, or goddess of nature or love. In the case of a man, it manifests itself as a masculine initiator and guardian (an Indian guru), a wise old man, a spirit of nature, and so forth. Two folk tales illustrate the role that such a figure can play. The first is an Austrian tale:
@@ -1934,7 +1935,7 @@ It may seem that my discussion of synchronicity has led me away from my main the
 
 
 
-The relation to the Self
+## The relation to the Self
 
 
 Nowadays more and more people, especially those who live in large cities, suffer from a terrible emptiness and boredom, as if they are waiting for something that never arrives. Movies and television, spectator sports and political excitements may divert them for a while, but again and again, exhausted and disenchanted, they have to return to the wasteland of their own lives.
@@ -2003,7 +2004,7 @@ The barber with the mirror, who vanishes, symbolizes the gift of reflection that
 
 
 
-The social aspect of the Self
+## The social aspect of the Self
 
 
 Today the enormous growth of population, especially obvious in large cities, inevitably has a depressing effect on us. We think, “Oh, well, I am only so-and-so living at such-and-such an address, like thousands of other people. If a few of them get killed, what difference can it make? There are far too many people in any case.” And when we read in the paper about the deaths of innumerable unknown people who personally mean nothing to us, the feeling that our lives count for nothing is further increased. This is the moment when attention to the unconscious brings the greatest help, for dreams show the dreamer how each detail of his life is interwoven with the most significant realities.
@@ -2122,7 +2123,7 @@ Intellectual chit-chat is thus replaced by meaningful events that occur in the r
 
 
 
-PART 4
+# PART 4
 
 
 
@@ -2139,7 +2140,7 @@ Top of page, the stone alignments at Carnac in Brittany, dating from c. 2000 B.C
 
 
 
-Sacred symbols — the stone and the animal
+## Sacred symbols — the stone and the animal
 
 
 The history of symbolism shows that everything can assume symbolic significance: natural objects (like stones, plants, animals, men, mountains and valleys, sun and moon, wind, water, and fire), or man-made things (like houses, boats, or cars), or even abstract forms (like numbers, or the triangle, the square, and the circle). In fact, the whole cosmos is a potential symbol.
@@ -2228,7 +2229,7 @@ Other contributors to this book have discussed the importance of the stone and a
 
 
 
-The symbol of the circle
+## The symbol of the circle
 
 
 Dr. M.-L. von Franz has explained the circle (or sphere) as a symbol of the Self. It expresses the totality of the psyche in all its aspects, including the relationship between man and the whole of nature. Whether the symbol of the circle appears in primitive sun worship or modern religion, in myths or dreams, in the mandalas drawn by Tibetan monks, in the ground plans of cities, or in the spherical concepts of early astronomers, it always points to the single most vital aspect of life—its ultimate wholeness.
@@ -2357,7 +2358,7 @@ The symbol of the circle has played a curious part in a very different phenomeno
 
 
 
-Modern painting as a symbol
+## Modern painting as a symbol
 
 
 The terms “modern art” and “modern painting” are used in this chapter as the layman uses them. What I will be dealing with, to use Kühn’s term, is modern imaginative painting. Pictures of this kind can be “abstract” (or rather “non-figurative”) but they need not always be so. There will be no attempt to distinguish among such various forms as fauvism, cubism, expressionism, futurism, suprematism, constructivism, orphism, and so on. Any specific allusion to one or the other of these groups will be quite exceptional.
@@ -2402,7 +2403,7 @@ From the psychological standpoint, the two gestures toward the naked object (mat
 
 
 
-The secret soul of things
+## The secret soul of things
 
 
 As we have seen, the starting point of “the concrete” was Duchamp’s famous—or notorious—bottle rack. The bottle rack was not intended to be artistic in itself. Duchamp called himself an “anti-artist.” But it brought to light an element that was to mean a great deal to artists for a long time to come. The name they gave to it was objet trouvé or “ready-made.”
@@ -2503,7 +2504,7 @@ It is now realized that a state of schizophrenia and the artistic vision are not
 
 
 
-The retreat from reality
+## The retreat from reality
 
 
 Franz Marc once said: “The art that is coming will give formal expression to our scientific conviction.” This was a truly prophetic saying. We have traced the influence on artists of Freud’s psychoanalysis and of the discovery (or rediscovery) of the unconscious in the early years of the 20th century. Another important point is the connection between modern art and the results of research in nuclear physics.
@@ -2604,7 +2605,7 @@ To prevent any misunderstanding, it must once more be emphasized that these cons
 
 
 
-Union of opposites
+## Union of opposites
 
 
 There is one more point to be made. The spirit of the age is in constant movement. It is like a river that flows on, invisibly but surely, and given the momentum of life in our century, even 10 years is a long time.
@@ -2643,7 +2644,7 @@ And yet it seems important that the suggestion of a more whole, and therefore mo
 
 
 
-PART 5
+# PART 5
 
 
 
@@ -2660,7 +2661,7 @@ A 17th-century French drawing of “The Palace of Dreams.”
 
 
 
-The beginning of the analysis
+## The beginning of the analysis
 
 
 There is a widespread belief that the methods of Jungian psychology are applicable only to middle-aged people. True, many men and women reach middle age without achieving psychological maturity, and it is therefore necessary to help them through the neglected phases of their development. They have not completed the first part of the process of individuation that Dr. M.-L. von Franz has described. But it is also true that a young person can encounter serious problems as he grows up. If a young person is afraid of life and finds it hard to adjust to reality, he might prefer to dwell in his fantasies or to remain a child. In such a young person (especially if he is introverted) one can sometimes discover unexpected treasures in the unconscious, and by bringing them into consciousness strengthen his ego and give him the psychic energy he needs to grow into a mature person. That is the function of the powerful symbolism of our dreams.
@@ -2695,7 +2696,7 @@ Even years later Henry had not forgotten the bitter hurt and injustice that he h
 
 
 
-The initial dream
+## The initial dream
 
 
 The day after Henry’s first visit to me, he had the following dream:
@@ -2766,7 +2767,7 @@ As an anticipation of the inner development that Henry could hope to achieve thr
 
 
 
-Fear of the unconscious
+## Fear of the unconscious
 
 
 The problems we encountered in Henry’s initial dream showed up in many others—problems like vacillation between masculine activity and feminine passivity, or a tendency to hide behind intellectual asceticism. He feared the world, yet was attracted to it. Fundamentally, he feared the obligations of marriage, which demanded that he form a responsible relationship with a woman. Such an ambivalence is not unusual for someone on the threshold of manhood. Though in terms of age Henry had left that phase behind him, his inner maturity did not match his years. This problem is often met in the introvert, with his fear of reality and outer life.
@@ -2835,7 +2836,7 @@ The longing to withdraw into passivity and introversion, the fear of an unsucces
 
 
 
-The saint and the prostitute
+## The saint and the prostitute
 
 
 Henry’s psychic condition was most impressively depicted in the following dream, which exposed his fear of primitive sensuality and his desire to escape into a kind of asceticism. In it one can see the direction his development was taking. For this reason the dream will be interpreted at greater length.
@@ -2888,7 +2889,7 @@ A coat can often symbolize the outer mask or persona that one presents to the wo
 
 
 
-How the analysis developed
+## How the analysis developed
 
 
 In spite of an initial skepticism and resistance, Henry began to take a lively interest in the inner happenings of his psyche. He was obviously impressed by his dreams. They seemed to compensate for his conscious life in a meaningful way and to give him valuable insights into his ambivalence, his vacillation, and his preference for passivity.
@@ -2923,7 +2924,7 @@ When the humpbacked girl tries to awaken Henry’s feelings by song, or pulls hi
 
 
 
-The oracle dream
+## The oracle dream
 
 
 People who rely totally on their rational thinking and dismiss or repress every manifestation of their psychic life often have an almost inexplicable inclination to superstition. They listen to oracles and prophecies and can be easily hoodwinked or influenced by magicians and conjurers. And because dreams compensate one’s outer life, the emphasis such people put in their intellect is offset by dreams in which they meet the irrational and cannot escape it.
@@ -3004,7 +3005,7 @@ Next, Henry’s conscious, civilized ego is bound and put aside while the primit
 
 
 
-Facing the irrational
+## Facing the irrational
 
 
 Henry’s subsequent behavior clearly showed that the dream (and the fact that his dreams and the oracle book of the I Ching had brought him to face deep and irrational powers within himself) had a very deep effect on him. From then on he listened eagerly to the communications of his unconscious, and the analysis took on a more and more agitated character. The tension that until then had threatened the depths of his psyche with disruption came to the surface. Nevertheless, he courageously held to the growing hope that a satisfactory conclusion would be reached.
@@ -3043,7 +3044,7 @@ Henry could no longer disregard the message of this dream. He realized that one 
 
 
 
-The final dream
+## The final dream
 
 
 A further dream came to confirm irrevocably the insights Henry had gained. After some unimportant short dreams that concerned his everyday life, the last dream (the 50th in the series) appeared with all the wealth of symbols that characterizes the so-called “great dreams.”
@@ -3106,7 +3107,7 @@ Not every case runs such a successful and stirring course, and not every case ca
 
 
 
-CONCLUSION:
+# CONCLUSION:
 
 
 
@@ -3123,7 +3124,7 @@ Sound waves, given off by a vibrating steel disk and made visible in a photograp
 
 
 
-Science and the unconscious
+## Science and the unconscious
 
 
 In the preceding chapters C. G. Jung and some of his associates have tried to make clear the role played by the symbol-creating function in man’s unconscious psyche and to point out some fields of application in this newly discovered area of life. We are still far from understanding the unconscious or the archetypes—those dynamic nuclei of the psyche—in all their implications. All we can see now is that the archetypes have an enormous impact on the individual, forming his emotions and his ethical and mental outlook, influencing his relationships with others, and thus affecting his whole destiny. We can also see that the arrangement of archetypal symbols follows a pattern of wholeness in the individual, and that an appropriate understanding of the symbols can have a healing effect. And we can see that the archetypes can act as creative or destructive forces in our mind: creative when they inspire new ideas, destructive when these same ideas stiffen into conscious prejudices that inhibit further discoveries.
@@ -3206,13 +3207,13 @@ Creative ideas, in my opinion, show their value in that, like keys, they help to
 
 
 
-NOTES
+# NOTES
 
 
 
 
 
-APPROACHING THE UNCONSCIOUS Carl G. Jung
+## APPROACHING THE UNCONSCIOUS Carl G. Jung
 
 
 this page Nietzsche’s cryptomnesia is discussed in Jung’s “On the Psychology of So-called Occult Phenomena,” in Collected Works vol. I. The relevant passage from the ship’s log and the corresponding passage from Nietzsche are as follows:
@@ -3237,7 +3238,7 @@ See also The Collected Works of Carl G. Jung, vols. I-XVIII; London, Routledge &
 
 
 
-ANCIENT MYTHS AND MODERN MAN Joseph L. Henderson
+## ANCIENT MYTHS AND MODERN MAN Joseph L. Henderson
 
 
 this page Concerning the finality of Christ’s resurrection: Christianity is an eschatological religion, meaning it has a final end in view that becomes synonymous with the Last Judgment. Other religions, in which matriarchal elements of tribal culture are preserved (e.g., Orphism), are cyclical, as demonstrated by Eliades in The Myth of the Eternal Return, New York, Bollingen-Pantheon, 1954.
@@ -3284,7 +3285,7 @@ this page For T. S. Eliot’s “The Waste Land,” see his Collected Poems, Lon
 
 
 
-THE PROCESS OF INDIVIDUATION M.-L. von Franz
+## THE PROCESS OF INDIVIDUATION M.-L. von Franz
 
 
 this page A detailed discussion of the meandering pattern of dreams appears in Jung’s Collected Works vol. VIII, p. 23 ff. and pp. 237–300 (especially p. 290). For an example see Jung’s Collected Works vol. XII, part 1. See also Gerhard Adler, Studies in Analytical Psychology, London, 1948.
@@ -3421,7 +3422,7 @@ this page The physicist W. Pauli has described the effects of modern scientific 
 
 
 
-SYMBOLISM IN THE VISUAL ARTS Aniela Jaffé
+## SYMBOLISM IN THE VISUAL ARTS Aniela Jaffé
 
 
 this page Max Ernst’s statement is quoted in C. Giedion-Welcker, Contemporary Sculpture, New York, 1955.
@@ -3556,7 +3557,7 @@ this page For reference to modern art in churches, see W. Schmalenbach, Zur Auss
 
 
 
-SYMBOLS IN AN INDIVIDUAL ANALYSIS Jolande Jacobi
+## SYMBOLS IN AN INDIVIDUAL ANALYSIS Jolande Jacobi
 
 
 this page The Palace of Dreams: a 16th-century illustration to Book XIX of Homer’s Odyssey. In the center niche stands the goddess of sleep holding a bouquet of poppy flowers. On her right is the Gate of Horn (with the head of a horned ox above it); from this gate come true dreams: on her left the Gate of Ivory with an elephant’s head above; from this gate come false dreams. Top left, the goddess of the moon Diana; top right, Night, with the infants Sleep and Death.
@@ -3587,7 +3588,7 @@ this page The primitive belief in the power of bodily secretions is discussed by
 
 
 
-SCIENCE AND THE UNCONSCIOUS M.-L. von Franz
+## SCIENCE AND THE UNCONSCIOUS M.-L. von Franz
 
 
 this page The archetypes as nuclei of the psyche are discussed by W. Pauli in Aufsätze und Vorträge über Physik und Erkenntnis-theorie, Verlag Vieweg Braunschweig, 1961.
@@ -3637,32 +3638,6 @@ this page For further discussion of “primary mathematical intuitions,” see P
 this page Pauli, following Jung, points out that our conscious representations are “ordered” before becoming conscious in Vorträge, p. 122. See also Conseth, l.c.
 
 this page B. L. van der Waerden’s statement is from his Einfall und Ueberlegung, l.c., p. 9.
-
-
-
-
-
-ILLUSTRATION CREDITS
-
-
-Key: (B) bottom; (C) center; (L) left; (M) middle; (R) right; (T) top; and combinations, e.g. (BR) (TL)
-
-
-
-Courtesy Administrationskanzlei des Naturhistorischen Museums Wien, this page (B); Aerofilms and Aero Pictorial, this page (T); Albertina, Vienna, this page (B); Alte Pinakothek, Munich, this page; Ruth Berenson & Norbert Muhlen, George Grosz 1961, Arts Inc., New York, this page (B); Bibliothèque Nationale, Paris, this page (B), this page (T); Peter Birkhäuser, this page; Bodleian Library, Oxford, this page (B); The Bollingen Foundation, New York, this page (BC), this page (B); courtesy the Trustees of the British Museum, this page (B), this page (T), this page (T), this page, this page (T), this page, this page, this page, this page (TR), this page, this page; Camera Press, this page (B); Central Press, this page; courtesy Jean Cocteau, this page (T); Compagnie Aérienne Française, this page (T); Conzett & Huber, Zürich, this page (T), this page, this page; by courtesy of Walt Disney Productions, this page (C); Éditions d’Art, Paris, this page; Éditions Houvet, this page; Jules Feiffer, permission of the artist’s agent, this page; courtesy M.-L. von Franz, this page, this page, this page; French Government Tourist Office, London, this page (T), this page (B) artist Henrard; Galerie Stangl, Munich, this page (T), this page–05 (B); Germanisches National-Museum, Nuremberg, this page; Giraudon, this page (B), this page; Graphis Press, Zürich, this page; William Heinemann Ltd., London, The Twilight of the Gods by Ernest Gann, this page; reproduced by gracious permission of Her Majesty The Queen, this page; from Conze, Heroen und Göttergestalten, this page (T); Ides et Calendes, Neuchâtel, Faces of Bronz, photo Pierre Allard & Phillipe Luzuy, this page; Imperial War Museum, London, this page; Erhard Jacoby, this page; Keystone, this page; Kunsthistorisches Museum, Vienna, this page; Kunstmuseum, Basel, this page; Larousse, Éditeurs, Paris, from La Mythologie by Félix Guirand, this page (B), drawing by I. Bilibin; Leyden University Library, this page; Longmans, Green & Co. Ltd., London, 1922, Mazes and Labyrinths, W. H. Matthews, this page; Macmillan & Co., Ltd., London, Alice’s Adventures in Wonderland (Sir John Tenniel drawing), this page (T); Magnum, this page, this page, this page (B), this page, this page; Mansell Collection, this page (B), this page, this page, this page; Marlborough Fine Art Gallery Ltd., London, this page; © The Medici Society Ltd., this page (T); Metro-Goldwyn-Mayer Inc., this page; courtesy The Metropolitan Museum of Art, New York, this page (The Cloisters Collections Purchase); Modern Times, Charles Chaplin, United Artists Corporation Ltd., this page; Mother Joan of the Angels, Film Polski, 1960, © Contemporary Films Ltd., this page (T); Musée de Cluny, Paris, this page; Musée Fenaille à Rodez, Aveyron, this page (TL); Musée de l’Homme, Paris, this page (BL); Musée du Louvre, Paris, this page, this page; Museum für Völkerkunde, Berlin, this page, The National Museum, Copenhagen, this page (B); Ny Carlsberg Glyptotek, Copenhagen, this page. Palermo Museum, this page; Paul Popper, this page (BR); Planet News, this page; Le Point Cardinal, Paris, this page (TR); P & O Orient Lines, this page; G. P. Putnam’s Sons, New York, 1953, & Spring Books Ltd., London, from A Pictorial History of the Silent Screen by Daniel Blum, this page. Radio Times Hulton Picture Library, this page (T), this page (B); Rathbone Books Ltd., this page (C); Ringier-Bilderdienst AG., this page; courtesy Miss Ariane Rump, this page. Sandoz Ltd., Basel, this page (B); Scala, this page (T), this page (B); Soprintendenza alle Antichità delle Province di Napoli, this page; © S.P.A.D.E.M., Paris, 1964, this page, this page; Staatliche Museen, Berlin-Dahlem, this page (B); Swedish National Travel Association, this page. Tarzan and his Mate (director: Cedric Gibbons), U.S.A., 1934, this page (T); Tate Gallery, London, this page (B); They Came to a City, J. B. Priestly (director: Basil Deardon), Gt. Britain, 1944, this page; © 1935 James Thurber © 1963 Helen Thurber, from Thurber’s Carnival (orig. publ. in The New Yorker), this page. Verlag Hans Huber, this page; Victoria and Albert Museum, London, this page, this page, this page (B); Volkswagen Ltd., this page. Collection of Walker Art Center, Minneapolis, this page (T); courtesy the Wellcome Trust, this page; Worcester Art Museum, Mass., U.S.A., this page (T); Wuthering Heights (director: William Wyler), U.S.A., 1939, this page. Zentralbibliothek, Zurich, this page (B); © Mrs. Hans Zinsser, from G. F. Kunz, The Magic of Jewels and Charms, this page.
-
-Photographers:
-
-Ansel Adams, this page; Douglas Allen, this page; Werner Bischof, this page; Joachim Blauel, this page–05 (B); Mike Busselle, collages 111, montages 199; Robert Capa, this page (B); Cartier-Bresson, this page, this page; Chuzeville, this page; Franco Cianetti, this page (T); Prof. E. J. Cole, this page (B); N. Elswing, this page (B); John Freeman, this page, this page (T), this page; Marcel Gautherot, this page; Leon Herschtritt, this page; Hinz, Basel, this page; Louise Leiris, this page (T); Meyer, this page; Axel Poignant, this page; Prof. Roger Sauter, this page; David Swann, this page, this page (B), this page (B), this page, this page, this page, this page (B), this page (B); Yoshio Watanabe, this page (B); Hans Peter Widmer, this page.
-
-If the publishers have unwittingly infringed copyright in any illustration reproduced they will gladly pay an appropriate fee on being satisfied as to the owner’s title.
-
-
-
-
-
-Carl G. Jung (1875–1961) was the eminent Swiss psychologist and one of the founders of analytic psychology. He practiced in Switzerland from 1909. Among his publications were The Theory of Psychoanalysis, Psychology and Religion, Modern Man in Search of a Soul, Psychological Types, and The Undiscovered Self. His co-writers for this book were four associates whom he considered best equipped to explain his work.
-
 
 
 
