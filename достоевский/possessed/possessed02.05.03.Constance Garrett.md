@@ -1,11 +1,9 @@
 # PART II - CHAPTER V. ON THE EVE OF THE FETE - III
 [Metadata]: # {02.05.03}
 [Descriptor]: # {02.05.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER V. ON THE EVE OF THE FETE
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.05.03.01}
 Almost at the same time, and certainly on the same day, the interview at last
 took place between Stepan Trofimovitch and Varvara Petrovna. She had long had
 this meeting in her mind, and had sent word about it to her former friend, but

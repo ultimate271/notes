@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - V
 [Metadata]: # {03.05.05}
 [Descriptor]: # {03.05.05}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {03.05.05.01}
 He found Kirillov still pacing up and down his room so preoccupied that he had
 forgotten the arrival of Shatov's wife, and heard what he said without
 understanding him.

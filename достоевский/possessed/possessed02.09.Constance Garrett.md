@@ -1,10 +1,9 @@
 # PART II - CHAPTER IX. A RAID AT STEPAN TROFIMOVITCH'S
 [Metadata]: # {02.09}
 [Descriptor]: # {02.09}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER IX. A RAID AT STEPAN TROFIMOVITCH'S
+[Author]: # {constance garrett}
 # CHAPTER IX. A RAID AT STEPAN TROFIMOVITCH'S
+[TreeTag]: # {02.09.01}
 Meanwhile an incident had occurred which astounded me and shattered Stepan
 Trofimovitch. At eight o'clock in the morning Nastasya ran round to me from him
 with the news that her master was "raided." At first I could not make out what

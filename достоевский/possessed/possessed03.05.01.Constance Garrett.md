@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - I
 [Metadata]: # {03.05.01}
 [Descriptor]: # {03.05.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.05.01.01}
 THE CATASTROPHE WITH Liza and the death of Marya Timofyevna made an
 overwhelming impression on Shatov. I have already mentioned that that morning I
 met him in passing; he seemed to me not himself. He told me among other things

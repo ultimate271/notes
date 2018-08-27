@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - VII
 [Metadata]: # {02.01.07}
 [Descriptor]: # {02.01.07}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {02.01.07.01}
 "Do you know," he began, with flashing eyes, almost menacingly, bending right
 forward in his chair, raising the forefinger of his right hand above him
 (obviously unaware that he was doing so), "do you know who are the only

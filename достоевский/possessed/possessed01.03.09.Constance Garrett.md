@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - IX
 [Metadata]: # {01.03.09}
 [Descriptor]: # {01.03.09}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-IX
+[Author]: # {constance garrett}
 # IX
+[TreeTag]: # {01.03.09.01}
 I had only just lifted my leg over the high barrier across the bottom of the
 gateway, when suddenly a strong hand clutched at my chest.
 
@@ -28,9 +26,8 @@ the lantern; he raised his fist, but let it fall again at once.
 
 "I forgive you for your learning! Ignat Lebyadkin--high-ly ed-u-cated....
 
-'A bomb of love with stinging smart      Exploded in Ignaty's heart.
-In anguish dire I weep again      The arm that at Sevastopol      I lost in
-bitter pain!'
+'A bomb of love with stinging smart      Exploded in Ignaty's heart. In anguish
+dire I weep again      The arm that at Sevastopol      I lost in bitter pain!'
 
 Not that I ever was at Sevastopol, or ever lost my arm, but you know what rhyme
 is." He pushed up to me with his ugly, tipsy face.
@@ -40,9 +37,9 @@ tell Lizaveta Nikolaevna to-morrow."
 
 "Lizaveta!" he yelled again. "Stay, don't go!
 
-A variation:      'Among the Amazons a star,      Upon her steed she
-flashes by,      And smiles upon me from afar,      The child of
-aris-to-cra-cy!      To a Starry Amazon.'
+A variation:      'Among the Amazons a star,      Upon her steed she flashes
+by,      And smiles upon me from afar,      The child of aris-to-cra-cy! To a
+Starry Amazon.'
 
 You know that's a hymn. It's a hymn, if you're not an ass! The duffers, they
 don't understand! Stay!"

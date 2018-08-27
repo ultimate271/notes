@@ -1,11 +1,9 @@
 # PART II - CHAPTER III. THE DUEL - III
 [Metadata]: # {02.03.03}
 [Descriptor]: # {02.03.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER III. THE DUEL
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.03.03.01}
 "Why don't you speak?" he called impatiently to Kirillov, when they were not
 far from home.
 

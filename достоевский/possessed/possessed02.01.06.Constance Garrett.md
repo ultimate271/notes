@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - VI
 [Metadata]: # {02.01.06}
 [Descriptor]: # {02.01.06}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {02.01.06.01}
 The door of the empty house in which Shatov was lodging was not closed; but,
 making his way into the passage, Stavrogin found himself in utter darkness, and
 began feeling with his hand for the stairs to the upper story. Suddenly a door

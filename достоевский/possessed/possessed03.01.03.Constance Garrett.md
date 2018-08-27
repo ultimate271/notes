@@ -1,11 +1,9 @@
 # PART III - CHAPTER I. THE FETE--FIRST PART - III
 [Metadata]: # {03.01.03}
 [Descriptor]: # {03.01.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER I. THE FETE--FIRST PART
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.01.03.01}
 There was a feeling in the hall that something was wrong again. Let me state to
 begin with that I have the deepest reverence for genius, but why do our
 geniuses in the decline of their illustrious years behave sometimes exactly

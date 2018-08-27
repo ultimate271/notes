@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - VII
 [Metadata]: # {01.03.07}
 [Descriptor]: # {01.03.07}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {01.03.07.01}
 Stepan Trofimovitch stood a moment reflecting, looked at me as though he did
 not see me, took up his hat and stick and walked quietly out of the room. I
 followed him again, as before. As we went out of the gate, noticing that I was

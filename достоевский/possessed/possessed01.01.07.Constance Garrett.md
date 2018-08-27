@@ -1,11 +1,9 @@
 # PART I - CHAPTER I. INTRODUCTORY - VII
 [Metadata]: # {01.01.07}
 [Descriptor]: # {01.01.07}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {01.01.07.01}
 Immediately on their return from Petersburg Varvara Petrovna sent her friend
 abroad to "recruit"; and, indeed, it was necessary for them to part for a time,
 she felt that. Stepan Trofimovitch was delighted to go.

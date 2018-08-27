@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - V
 [Metadata]: # {01.03.05}
 [Descriptor]: # {01.03.05}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-V
+[Author]: # {constance garrett}
 # V
+[TreeTag]: # {01.03.05.01}
 We were all standing in the doorway. It was the moment when hosts and guests
 hurriedly exchange the last and most cordial words, and then part to their
 mutual gratification.

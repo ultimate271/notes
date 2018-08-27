@@ -1,11 +1,9 @@
 # PART I - CHAPTER I. INTRODUCTORY - IX
 [Metadata]: # {01.01.09}
 [Descriptor]: # {01.01.09}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-IX
+[Author]: # {constance garrett}
 # IX
+[TreeTag]: # {01.01.09.01}
 At one time it was reported about the town that our little circle was a hotbed
 of nihilism, profligacy, and godlessness, and the rumour gained more and more
 strength. And yet we did nothing but indulge in the most harmless, agreeable,

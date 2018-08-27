@@ -1,11 +1,9 @@
 # PART II - CHAPTER III. THE DUEL - II
 [Metadata]: # {02.03.02}
 [Descriptor]: # {02.03.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER III. THE DUEL
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.03.02.01}
 I have hitherto not had occasion to describe his appearance. He was a tall man
 of thirty-three, and well fed, as the common folk express it, almost fat, with
 lank flaxen hair, and with features which might be called handsome. He had

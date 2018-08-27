@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - VIII
 [Metadata]: # {01.02.08}
 [Descriptor]: # {01.02.08}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-VIII
+[Author]: # {constance garrett}
 # VIII
+[TreeTag]: # {01.02.08.01}
 Stepan Trofimovitch's estate, as we used to call it (which consisted of fifty
 souls, reckoning in the old fashion, and bordered on Skvoreshniki), was not
 really his at all, but his first wife's, and so belonged now to his son Pyotr

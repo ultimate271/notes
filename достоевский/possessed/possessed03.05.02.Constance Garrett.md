@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - II
 [Metadata]: # {03.05.02}
 [Descriptor]: # {03.05.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.05.02.01}
 Erkel was a "little fool" who was only lacking in the higher form of reason,
 the ruling power of the intellect; but of the lesser, the subordinate reasoning
 faculties, he had plenty--even to the point of cunning. Fanatically, childishly

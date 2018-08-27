@@ -1,11 +1,9 @@
 # PART III - CHAPTER II. THE END OF THE FETE - I
 [Metadata]: # {03.02.01}
 [Descriptor]: # {03.02.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER II. THE END OF THE FETE
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.02.01.01}
 HE WOULD NOT SEE ME. He had shut himself up and was writing. At my repeated
 knocks and appeals he answered through the door:
 

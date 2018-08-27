@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - VII
 [Metadata]: # {01.05.07}
 [Descriptor]: # {01.05.07}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {01.05.07.01}
 He was cheerful and serene. Perhaps something very pleasant had happened to
 him, of which we knew nothing as yet; but he seemed particularly contented.
 

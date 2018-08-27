@@ -1,11 +1,9 @@
 # PART II - CHAPTER VII. A MEETING - II
 [Metadata]: # {02.07.02}
 [Descriptor]: # {02.07.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VII. A MEETING
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.07.02.01}
 With conspicuous nonchalance Verhovensky lounged in the chair at the upper end
 of the table, almost without greeting anyone. His expression was disdainful and
 even haughty. Stavrogin bowed politely, but in spite of the fact that they were

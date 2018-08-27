@@ -1,11 +1,9 @@
 # PART II - CHAPTER II. NIGHT (continued) - II
 [Metadata]: # {02.02.02}
 [Descriptor]: # {02.02.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER II. NIGHT (continued)
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.02.02.01}
 The house which Nikolay Vsyevolodovitch had reached stood alone in a deserted
 lane between fences, beyond which market gardens stretched, at the very end of
 the town. It was a very solitary little wooden house, which was only just built
@@ -238,8 +236,8 @@ And so I sent it."
 
 However, he drew himself up, stretched out his hand, and began:
 
-"With broken limbs my beauteous queen      Is twice as charming as before,
-And, deep in love as I have been,      To-day I love her even more."
+"With broken limbs my beauteous queen      Is twice as charming as before, And,
+deep in love as I have been,      To-day I love her even more."
 
 "Come, that's enough," said Nikolay Vsyevolodovitch, with a wave of his hand.
 

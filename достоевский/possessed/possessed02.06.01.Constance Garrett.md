@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - I
 [Metadata]: # {02.06.01}
 [Descriptor]: # {02.06.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.06.01.01}
 The date of the fête was definitely fixed, and Von Lembke became more and more
 depressed. He was full of strange and sinister forebodings, and this made Yulia
 Mihailovna seriously uneasy. Indeed, things were not altogether satisfactory.

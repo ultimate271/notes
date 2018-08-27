@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - VI
 [Metadata]: # {01.05.06}
 [Descriptor]: # {01.05.06}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {01.05.06.01}
 It was very little of it talk, however; it was mostly exclamation. I've
 forgotten a little the order in which things happened, for a scene of confusion
 followed. Stepan Trofimovitch uttered some exclamation in French, clasping his
@@ -102,8 +100,8 @@ jobs for them on occasion. It was a regular Bedlam. I'll pass over the
 description of this life in 'corners,' a life to which Nikolay Vsyevolodovitch
 had taken,"
 
-* In the poorer quarters of Russian towns a single room is often      let
-out to several families, each of which occupies a "corner."
+* In the poorer quarters of Russian towns a single room is often      let out
+to several families, each of which occupies a "corner."
 
 "at that time, from eccentricity. I'm only talking of that period, Varvara
 Petrovna; as for 'eccentricity,' that's his own expression. He does not conceal

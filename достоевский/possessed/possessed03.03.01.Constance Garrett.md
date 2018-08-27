@@ -1,11 +1,9 @@
 # PART III - CHAPTER III. A ROMANCE ENDED - I
 [Metadata]: # {03.03.01}
 [Descriptor]: # {03.03.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER III. A ROMANCE ENDED
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.03.01.01}
 FROM THE LARGE BALLROOM of Skvoreshniki (the room in which the last interview
 with Varvara Petrovna and Stepan Trofimovitch had taken place) the fire could
 be plainly seen. At daybreak, soon after five in the morning, Liza was standing

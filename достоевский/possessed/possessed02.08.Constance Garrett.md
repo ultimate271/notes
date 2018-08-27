@@ -1,10 +1,9 @@
 # PART II - CHAPTER VIII. IVAN THE TSAREVITCH
 [Metadata]: # {02.08}
 [Descriptor]: # {02.08}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VIII. IVAN THE TSAREVITCH
+[Author]: # {constance garrett}
 # CHAPTER VIII. IVAN THE TSAREVITCH
+[TreeTag]: # {02.08.01}
 They had gone. Pyotr Stepanovitch was about to rush back to the meeting to
 bring order into chaos, but probably reflecting that it wasn't worth bothering
 about, left everything, and two minutes later was flying after the other two.

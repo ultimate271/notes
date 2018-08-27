@@ -1,11 +1,9 @@
 # PART II - CHAPTER IV. ALL IN EXPECTATION - II
 [Metadata]: # {02.04.02}
 [Descriptor]: # {02.04.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER IV. ALL IN EXPECTATION
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.04.02.01}
 He went to the "old man" straight from Varvara Petrovna's, and he was in such
 haste simply from spite, that he might revenge himself for an insult of which I
 had no idea at that time. The fact is that at their last interview on the

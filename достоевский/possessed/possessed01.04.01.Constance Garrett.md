@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - I
 [Metadata]: # {01.04.01}
 [Descriptor]: # {01.04.01}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {01.04.01.01}
 SHATOV WAS NOT PERVERSE but acted on my note, and called at midday on Lizaveta
 Nikolaevna. We went in almost together; I was also going to make my first call.
 They were all, that is Liza, her mother, and Mavriky Nikolaevitch, sitting in

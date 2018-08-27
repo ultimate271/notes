@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - VIII
 [Metadata]: # {01.05.08}
 [Descriptor]: # {01.05.08}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-VIII
+[Author]: # {constance garrett}
 # VIII
+[TreeTag]: # {01.05.08.01}
 First of all I must mention that, for the last two or three minutes Lizaveta
 Nikolaevna had seemed to be possessed by a new impulse; she was whispering
 something hurriedly to her mother, and to Mavriky Nikolaevitch, who bent down

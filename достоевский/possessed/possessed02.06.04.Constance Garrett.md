@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - IV
 [Metadata]: # {02.06.04}
 [Descriptor]: # {02.06.04}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {02.06.04.01}
 Though Pyotr Stepanovitch was perhaps far from being a stupid man, Fedka the
 convict had said of him truly "that he would make up a man himself and go on
 living with him too." He came away from Lembke fully persuaded that for the

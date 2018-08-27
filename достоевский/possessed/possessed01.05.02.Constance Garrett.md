@@ -1,11 +1,9 @@
 # PART I - CHAPTER V. THE SUBTLE SERPENT - II
 [Metadata]: # {01.05.02}
 [Descriptor]: # {01.05.02}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER V. THE SUBTLE SERPENT
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {01.05.02.01}
 There could be nothing surprising to Praskovya Ivanovna in such a reception.
 Varvara Petrovna had from childhood upwards treated her old school friend
 tyrannically, and under a show of friendship almost contemptuously. And this

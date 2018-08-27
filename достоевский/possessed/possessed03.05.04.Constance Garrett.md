@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - IV
 [Metadata]: # {03.05.04}
 [Descriptor]: # {03.05.04}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {03.05.04.01}
 I may mention that Anna Prohorovna knew nothing of the resolutions that had
 been taken at the meeting the day before. On returning home overwhelmed and
 exhausted, Virginsky had not ventured to tell her of the decision that had been

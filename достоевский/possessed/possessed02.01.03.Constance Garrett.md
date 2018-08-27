@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - III
 [Metadata]: # {02.01.03}
 [Descriptor]: # {02.01.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.01.03.01}
 It was seven o'clock in the evening. Nikolay Vsyevolodovitch was sitting alone
 in his study--the room he had been fond of in old days. It was lofty, carpeted
 with rugs, and contained somewhat heavy old-fashioned furniture. He was sitting

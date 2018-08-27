@@ -1,13 +1,13 @@
 # PART I - CHAPTER I. INTRODUCTORY - I
 [Metadata]: # {01.01.01}
 [Descriptor]: # {01.01.01}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-I
+[Author]: # {constance garrett}
 # Introduction to Stepan
+[TreeTag]: # {01.01.01.01}
 [Actor]: # {Stepan Trofimovitch Verhovensky}
+
 ## Preamble
+[TreeTag]: # {01.01.01.01.01}
 [Character]: # {Stepan Trofimovitch Verhovensky}
 IN UNDERTAKING to describe the recent and strange incidents in our town, till
 lately wrapped in uneventful obscurity, I find myself forced in absence of
@@ -17,7 +17,8 @@ Stepan Trofimovitch Verhovensky. I trust that these details may at least serve
 as an introduction, while my projected story itself will come later.
 
 ## Stepan's role as a persecured patriot
-[Character]: # {Stepan Trofimovitch}
+[TreeTag]: # {01.01.01.01.02}
+[Character]: # {Stepan Trofimovitch Verhovensky}
 [Myth]: # {Gulliver}
 I will say at once that Stepan Trofimovitch had always filled a particular rôle
 among us, that of the progressive patriot, so to say, and he was passionately
@@ -71,10 +72,11 @@ all. But that's very often the case, of course, with men of science among us in
 Russia.
 
 ## About Stepan's poem
+[TreeTag]: # {01.01.01.01.03}
 [Place]: # {Berlin}
 [Place]: # {Moscow}
 [Place]: # {Petersburg}
-[Character]: # {Stepan}
+[Character]: # {Stepan Trofimovitch Verhovensky}
 [Myth]: # {Olympia}
 [Myth]: # {Tower of Babel}
 [Myth]: # {Faust}

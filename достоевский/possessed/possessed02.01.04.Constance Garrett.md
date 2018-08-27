@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - IV
 [Metadata]: # {02.01.04}
 [Descriptor]: # {02.01.04}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {02.01.04.01}
 Perhaps he imagined, as he made his exit, that as soon as he was left alone,
 Nikolay Vsyevolodovitch would begin beating on the wall with his fists, and no
 doubt he would have been glad to see this, if that had been possible. But, if

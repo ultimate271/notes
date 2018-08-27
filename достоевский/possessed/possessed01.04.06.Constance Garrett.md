@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - VII
 [Metadata]: # {01.04.06}
 [Descriptor]: # {01.04.06}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {01.04.06.01}
 This "next day," the very Sunday which was to decide Stepan Trofimovitch's fate
 irrevocably, was one of the most memorable days in my chronicle. It was a day
 of surprises, a day that solved past riddles and suggested new ones, a day of

@@ -1,11 +1,9 @@
 # PART III - CHAPTER V. A WANDERER - III
 [Metadata]: # {03.05.03}
 [Descriptor]: # {03.05.03}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER V. A WANDERER
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {03.05.03.01}
 First of all he went to Kirillov. It was by now about one o'clock in the night.
 Kirillov was standing in the middle of the room.
 

@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - X
 [Metadata]: # {01.03.10}
 [Descriptor]: # {01.03.10}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-X
+[Author]: # {constance garrett}
 # X
+[TreeTag]: # {01.03.10.01}
 Stepan Trofimovitch was awaiting me with hysterical impatience. It was an hour
 since he had returned. I found him in a state resembling intoxication; for the
 first five minutes at least I thought he was drunk. Alas, the visit to the

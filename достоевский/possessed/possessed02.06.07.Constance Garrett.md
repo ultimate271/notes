@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - VII
 [Metadata]: # {02.06.07}
 [Descriptor]: # {02.06.07}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-VII
+[Author]: # {constance garrett}
 # VII
+[TreeTag]: # {02.06.07.01}
 He had probably been very busy that day on all sorts of errands and probably
 with success, which was reflected in the self-satisfied expression of his face
 when at six o'clock that evening he turned up at Stavrogin's. But he was not at

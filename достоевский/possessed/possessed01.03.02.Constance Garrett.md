@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - II
 [Metadata]: # {01.03.02}
 [Descriptor]: # {01.03.02}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {01.03.02.01}
 One morning, on the seventh or eighth day after Stepan Trofimovitch had
 consented to become "engaged," about eleven o'clock, when I was hurrying as
 usual to my afflicted friend, I had an adventure on the way.

@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - III
 [Metadata]: # {01.03.03}
 [Descriptor]: # {01.03.03}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {01.03.03.01}
 But this time to my surprise I found an extraordinary change in him. He pounced
 on me with a sort of avidity, it is true, as soon as I went in, and began
 listening to me, but with such a distracted air that at first he evidently did

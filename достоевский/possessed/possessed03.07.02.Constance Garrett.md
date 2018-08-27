@@ -1,11 +1,9 @@
 # PART III - CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING - II
 [Metadata]: # {03.07.02}
 [Descriptor]: # {03.07.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VII. STEPAN TROFIMOVITCH'S LAST WANDERING
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.07.02.01}
 "You see, my friend... you'll allow me to call myself your friend, n'est-ce
 pas?" Stepan Trofimovitch began hurriedly as soon as the trap started. "You see
 I... _J'aime le peuple, c'est indispensable, mais il me semble que je ne
@@ -348,9 +346,9 @@ Sofya Matveyevna opened the Testament and began reading.
 future fortunes by the book. I want to know what has turned up. Read on from
 there...."
 
-"'And unto the angel of the church of the Laodiceans write: These things
-saith the Amen, the faithful and true witness, the beginning of the   creation
-of God;
+"'And unto the angel of the church of the Laodiceans write: These things saith
+the Amen, the faithful and true witness, the beginning of the   creation of
+God;
 
 "'I know thy works, that thou art neither cold nor hot;   I would thou wert
 cold or hot.
@@ -416,8 +414,8 @@ suffered them.
 "'Then went the devils out of the man and entered into the swine;   and the
 herd ran violently down a steep place into the lake, and were   choked.
 
-"'When they that fed them saw what was done, they fled, and went and   told
-it in the city and in the country.
+"'When they that fed them saw what was done, they fled, and went and   told it
+in the city and in the country.
 
 "'Then they went out to see what was done; and came to Jesus and found   the
 man, out of whom the devils were departed, sitting at the feet of   Jesus,

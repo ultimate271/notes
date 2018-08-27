@@ -1,18 +1,18 @@
 # PART I - CHAPTER I. INTRODUCTORY - II
 [Metadata]: # {01.01.02}
 [Descriptor]: # {01.01.02}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-II
+[Author]: # {constance garrett}
 # Varvara's proposal to Stepan to become a tutor
-[Actor]: # {Stepan Trofimovitch}
+[TreeTag]: # {01.01.02.01}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
 [Actor]: # {Varvara Petrovna Stavrogin}
+
 ## Varvara's proposal and Stepan's romantic history
+[TreeTag]: # {01.01.02.01.01}
 [Character]: # {first wife}
 [Character]: # {second wife}
 [Character]: # {Varvara Petrovna Stavrogin}
-[Character]: # {Stepan Trofimovitch}
+[Character]: # {Stepan Trofimovitch Verhovensky}
 [Place]: # {Paris}
 [Place]: # {Berlin}
 Of course I don't assert that he had never suffered for his convictions at all,
@@ -56,9 +56,10 @@ embraces must be understood only in the most loftily moral sense. The most
 refined and delicate tie united these two beings, both so remarkable, forever.
 
 ## Stepan accepts Varvara's propsition: the attitude Stepan gained after
+[TreeTag]: # {01.01.02.01.02}
 [Myth]: # {Mæcenas}
-[Character]: # {Varvara Petrovna}
-[Character]: # {Stepan Trofimovitch}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Stepan Trofimovitch Verhovensky}
 [Place]: # {Skvoreshniki}
 The post of tutor was the more readily accepted too, as the property--a very
 small one--left to Stepan Trofimovitch by his first wife was close to

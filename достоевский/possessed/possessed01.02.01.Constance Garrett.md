@@ -1,11 +1,9 @@
 # PART I - CHAPTER II. PRINCE HARRY. MATCHMAKING. - I
 [Metadata]: # {01.02.01}
 [Descriptor]: # {01.02.01}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER II. PRINCE HARRY. MATCHMAKING.
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {01.02.01.01}
 THERE WAS ANOTHER being in the world to whom Varvara Petrovna was as much
 attached as she was to Stepan Trofimovitch, her only son, Nikolay
 Vsyevolodovitch Stavrogin. It was to undertake his education that Stepan

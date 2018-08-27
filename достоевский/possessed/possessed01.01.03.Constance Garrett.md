@@ -1,14 +1,14 @@
 # PART I - CHAPTER I. INTRODUCTORY - III
 [Metadata]: # {01.01.03}
 [Descriptor]: # {01.01.03}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-III
+[Author]: # {constance garrett}
 # Oveeciew of relationship between Stepan and Varvara
+[TreeTag]: # {01.01.03.01}
+
 ## Details of their friendship: letters
-[Character]: # {Stepan Trofimovitch}
-[Character]: # {Varvara Petrovna}
+[TreeTag]: # {01.01.03.01.01}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Varvara Petrovna Stavrogin}
 There are strange friendships. The two friends are always ready to fly at one
 another, and go on like that all their lives, and yet they cannot separate.
 Parting, in fact, is utterly impossible. The one who has begun the quarrel and
@@ -68,6 +68,7 @@ of "summer cholera" were, in some cases, the regular consequence of his nervous
 agitations and were an interesting peculiarity of his physical constitution.
 
 ## Varvara's propensity to think of Stepan as a son
+[TreeTag]: # {01.01.03.01.02}
 No doubt Varvara Petrovna did very often hate him. But there was one thing he
 had not discerned up to the end: that was that he had become for her a son, her
 creation, even, one may say, her invention; he had become flesh of her flesh,

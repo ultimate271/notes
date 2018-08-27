@@ -1,11 +1,9 @@
 # PART III - CHAPTER IV. THE LAST RESOLUTION - IV
 [Metadata]: # {03.04.04}
 [Descriptor]: # {03.04.04}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER IV. THE LAST RESOLUTION
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {03.04.04.01}
 He had long had a passport in readiness made out in a false name. It seems a
 wild idea that this prudent little man, the petty despot of his family, who
 was, above all things, a sharp man of business and a capitalist, and who was an

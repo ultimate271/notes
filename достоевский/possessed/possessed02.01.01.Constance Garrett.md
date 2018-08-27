@@ -1,11 +1,9 @@
 # PART II - CHAPTER I. NIGHT - I
 [Metadata]: # {02.01.01}
 [Descriptor]: # {02.01.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER I. NIGHT
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.01.01.01}
 EIGHT DAYS HAD PASSED. Now that it is all over and I am writing a record of it,
 we know all about it; but at the time we knew nothing, and it was natural that
 many things should seem strange to us: Stepan Trofimovitch and I, anyway, shut

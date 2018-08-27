@@ -1,11 +1,9 @@
 # PART I - CHAPTER I. INTRODUCTORY - VIII
 [Metadata]: # {01.01.08}
 [Descriptor]: # {01.01.08}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER I. INTRODUCTORY
-VIII
+[Author]: # {constance garrett}
 # VIII
+[TreeTag]: # {01.01.08.01}
 After this we had a period of stagnation which lasted nine years. The
 hysterical outbreaks and sobbings on my shoulder that recurred at regular
 intervals did not in the least mar our prosperity. I wonder that Stepan

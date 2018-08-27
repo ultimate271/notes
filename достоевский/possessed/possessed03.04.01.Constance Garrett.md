@@ -1,11 +1,9 @@
 # PART III - CHAPTER IV. THE LAST RESOLUTION - I
 [Metadata]: # {03.04.01}
 [Descriptor]: # {03.04.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER IV. THE LAST RESOLUTION
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.04.01.01}
 THAT MORNING MANY people saw Pyotr Stepanovitch. All who saw him remembered
 that he was in a particularly excited state. At two o'clock he went to see
 Gaganov, who had arrived from the country only the day before, and whose house

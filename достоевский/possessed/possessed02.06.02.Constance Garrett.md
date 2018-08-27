@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - II
 [Metadata]: # {02.06.02}
 [Descriptor]: # {02.06.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.06.02.01}
 A combination of circumstances had arisen which Mr. von Lembke was quite unable
 to deal with. In the very district where Pyotr Stepanovitch had been having a
 festive time a sub-lieutenant had been called up to be censured by his

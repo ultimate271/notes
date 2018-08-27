@@ -1,11 +1,9 @@
 # PART II - CHAPTER IV. ALL IN EXPECTATION - III
 [Metadata]: # {02.04.03}
 [Descriptor]: # {02.04.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER IV. ALL IN EXPECTATION
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.04.03.01}
 Outside influences, too, had come into play in the matter, however. Pyotr
 Stepanovitch certainly had some designs on his parent. In my opinion he
 calculated upon reducing the old man to despair, and so to driving him to some

@@ -1,11 +1,9 @@
 # PART I - CHAPTER III. THE SINS OF OTHERS - VIII
 [Metadata]: # {01.03.08}
 [Descriptor]: # {01.03.08}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER III. THE SINS OF OTHERS
-VIII
+[Author]: # {constance garrett}
 # VIII
+[TreeTag]: # {01.03.08.01}
 I did not find Shatov at home. I ran round again, two hours later. He was still
 out. At last, at eight o'clock I went to him again, meaning to leave a note if
 I did not find him; again I failed to find him. His lodging was shut up, and he

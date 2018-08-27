@@ -1,11 +1,9 @@
 # PART II - CHAPTER V. ON THE EVE OF THE FETE - I
 [Metadata]: # {02.05.01}
 [Descriptor]: # {02.05.01}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER V. ON THE EVE OF THE FETE
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {02.05.01.01}
 The date of the fête which Yulia Mihailovna was getting up for the benefit of
 the governesses of our province had been several times fixed and put off. She
 had invariably bustling round her Pyotr Stepanovitch and a little clerk,

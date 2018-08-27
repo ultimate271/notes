@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - VI
 [Metadata]: # {01.04.05}
 [Descriptor]: # {01.04.05}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-VI
+[Author]: # {constance garrett}
 # VI
+[TreeTag]: # {01.04.05.01}
 Shatov stood at the closed door of his room and listened; suddenly he sprang
 back.
 
@@ -16,15 +14,14 @@ Several violent thumps of a fist on the door followed.
 
 "Shatov, Shatov, open!" yelled the captain. "Shatov, friend!
 
-'I have come, to thee to tell thee      That the sun doth r-r-rise apace,
-That the forest glows and tr-r-rembles      In... the fire
-of...his...embrace.      Tell thee I have waked, God damn thee,      Wakened
-under the birch-twigs....'
+'I have come, to thee to tell thee      That the sun doth r-r-rise apace, That
+the forest glows and tr-r-rembles      In... the fire of...his...embrace. Tell
+thee I have waked, God damn thee,      Wakened under the birch-twigs....'
 
 ("As it might be under the birch-rods, ha ha!")
 
-'Every little bird...is...thirsty,      Says I'm going to...have a drink,
-But I don't...know what to drink....'
+'Every little bird...is...thirsty,      Says I'm going to...have a drink, But I
+don't...know what to drink....'
 
 "Damn his stupid curiosity! Shatov, do you understand how good it is to be
 alive!"

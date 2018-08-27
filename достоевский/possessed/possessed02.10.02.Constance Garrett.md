@@ -1,11 +1,9 @@
 # PART II - CHAPTER X. FILIBUSTERS. A FATAL MORNING - II
 [Metadata]: # {02.10.02}
 [Descriptor]: # {02.10.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER X. FILIBUSTERS. A FATAL MORNING
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.10.02.01}
 Lembke suddenly came in with rapid steps, accompanied by the chief of police,
 looked absent-mindedly at us and, taking no notice of us, was about to pass
 into his study on the right, but Stepan Trofimovitch stood before him blocking

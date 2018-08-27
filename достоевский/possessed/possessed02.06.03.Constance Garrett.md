@@ -1,11 +1,9 @@
 # PART II - CHAPTER VI. PYOTR STEPANOVITCH IS BUSY - III
 [Metadata]: # {02.06.03}
 [Descriptor]: # {02.06.03}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER VI. PYOTR STEPANOVITCH IS BUSY
-III
+[Author]: # {constance garrett}
 # III
+[TreeTag]: # {02.06.03.01}
 "What sort of worries? Surely not these trifles?" He nodded towards the
 manifesto. "I can bring you as many of them as you like; I made their
 acquaintance in X province."
@@ -62,17 +60,17 @@ aloud:
 
 "A NOBLE PERSONALITY
 
-"He was not of rank exalted,      He was not of noble birth,      He was
-bred among the people      In the breast of Mother Earth.      But the malice
-of the nobles      And the Tsar's revengeful wrath      Drove him forth to
-grief and torture      On the martyr's chosen path.      He set out to teach
-the people      Freedom, love, equality,      To exhort them to resistance;
-But to flee the penalty      Of the prison, whip and gallows,      To a
-foreign land he went.      While the people waited hoping      From Smolensk to
-far Tashkent,      Waited eager for his coming      To rebel against their
-fate,      To arise and crush the Tsardom      And the nobles' vicious hate,
-To share all the wealth in common,      And the antiquated thrall      Of the
-church, the home and marriage      To abolish once for all."
+"He was not of rank exalted,      He was not of noble birth,      He was bred
+among the people      In the breast of Mother Earth.      But the malice of the
+nobles      And the Tsar's revengeful wrath      Drove him forth to grief and
+torture      On the martyr's chosen path.      He set out to teach the people
+Freedom, love, equality,      To exhort them to resistance; But to flee the
+penalty      Of the prison, whip and gallows,      To a foreign land he went.
+While the people waited hoping      From Smolensk to far Tashkent, Waited eager
+for his coming      To rebel against their fate,      To arise and crush the
+Tsardom      And the nobles' vicious hate, To share all the wealth in common,
+And the antiquated thrall      Of the church, the home and marriage      To
+abolish once for all."
 
 "You got it from that officer, I suppose, eh?" asked Pyotr Stepanovitch.
 
@@ -204,8 +202,7 @@ Lembke unfolded it; it turned out to be a note written six months before from
 here to some address abroad. It was a brief note, only two lines:
 
 "I can't print 'A Noble Personality' here, and in fact I can do nothing; print
-it abroad.
-"Iv. Shatov."
+it abroad. "Iv. Shatov."
 
 Lembke looked intently at Pyotr Stepanovitch. Varvara Petrovna had been right
 in saying that he had at times the expression of a sheep.

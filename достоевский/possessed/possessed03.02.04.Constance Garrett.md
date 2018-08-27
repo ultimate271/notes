@@ -1,11 +1,9 @@
 # PART III - CHAPTER II. THE END OF THE FETE - IV
 [Metadata]: # {03.02.04}
 [Descriptor]: # {03.02.04}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER II. THE END OF THE FETE
-IV
+[Author]: # {constance garrett}
 # IV
+[TreeTag]: # {03.02.04.01}
 The fire frightened the inhabitants of the riverside just because it was
 evidently a case of arson. It was curious that at the first cry of "fire"
 another cry was raised that the Shpigulin men had done it. It is now well known

@@ -1,11 +1,9 @@
 # PART III - CHAPTER VI. A BUSY NIGHT - I
 [Metadata]: # {03.06.01}
 [Descriptor]: # {03.06.01}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER VI. A BUSY NIGHT
-I
+[Author]: # {constance garrett}
 # I
+[TreeTag]: # {03.06.01.01}
 During that day Virginsky had spent two hours in running round to see the
 members of the quintet and to inform them that Shatov would certainly not give
 information, because his wife had come back and given birth to a child, and no

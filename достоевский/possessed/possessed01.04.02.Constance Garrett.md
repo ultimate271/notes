@@ -1,11 +1,9 @@
 # PART I - CHAPTER IV. THE CRIPPLE - II
 [Metadata]: # {01.04.02}
 [Descriptor]: # {01.04.02}
-[Author]: # {Constance Garrett}
-PART I
-CHAPTER IV. THE CRIPPLE
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {01.04.02.01}
 Lizaveta Nikolaevna's business with Shatov turned out, to my surprise, to be
 really only concerned with literature. I had imagined, I don't know why, that
 she had asked him to come with some other object. We, Mavriky Nikolaevitch and
@@ -170,11 +168,11 @@ With no little astonishment I read aloud the following missive:
 
 "Gracious Lady     "Lizaveta Nikolaevna!
 
-"Oh, she's a sweet queen,      Lizaveta Tushin!      When on side-saddle
-she gallops by,      And in the breeze her fair tresses fly!      Or when with
-her mother in church she bows low      And on devout faces a red flush doth
-flow!      Then for the joys of lawful wedlock I aspire,      And follow her
-and her mother with tears of desire.
+"Oh, she's a sweet queen,      Lizaveta Tushin!      When on side-saddle she
+gallops by,      And in the breeze her fair tresses fly!      Or when with her
+mother in church she bows low      And on devout faces a red flush doth flow!
+Then for the joys of lawful wedlock I aspire,      And follow her and her
+mother with tears of desire.
 
 "Composed by an unlearned man in the midst of a discussion.
 

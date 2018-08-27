@@ -1,11 +1,9 @@
 # PART II - CHAPTER V. ON THE EVE OF THE FETE - II
 [Metadata]: # {02.05.02}
 [Descriptor]: # {02.05.02}
-[Author]: # {Constance Garrett}
-PART II
-CHAPTER V. ON THE EVE OF THE FETE
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {02.05.02.01}
 Two days after the incident I have described I met her in a numerous company,
 who were driving out on some expedition in three coaches, surrounded by others
 on horseback. She beckoned to me, stopped her carriage, and pressingly urged me

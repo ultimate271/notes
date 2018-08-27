@@ -1,11 +1,9 @@
 # PART III - CHAPTER I. THE FETE--FIRST PART - II
 [Metadata]: # {03.01.02}
 [Descriptor]: # {03.01.02}
-[Author]: # {Constance Garrett}
-PART III
-CHAPTER I. THE FETE--FIRST PART
-II
+[Author]: # {constance garrett}
 # II
+[TreeTag]: # {03.01.02.01}
 The programme of the fête was divided into two parts: the literary matinée from
 midday till four o'clock, and afterwards a ball from ten o'clock onwards
 through the night. But in this very programme there lay concealed germs of
@@ -333,27 +331,27 @@ was wearing his steward's badge. In a ringing voice he declaimed:
 
 "To the local governesses of the Fatherland from the poet at the fête:
 
-"Governesses all, good morrow,      Triumph on this festive day.
-Retrograde or vowed George-Sander--      Never mind, just frisk away!"
+"Governesses all, good morrow,      Triumph on this festive day. Retrograde or
+vowed George-Sander--      Never mind, just frisk away!"
 
 "But that's Lebyadkin's! Lebyadkin's!" cried several voices. There was laughter
 and even applause, though not from very many.
 
-"Teaching French to wet-nosed children,      You are glad enough to think
-You can catch a worn-out sexton--      Even he is worth a wink!"
+"Teaching French to wet-nosed children,      You are glad enough to think You
+can catch a worn-out sexton--      Even he is worth a wink!"
 
 "Hurrah! hurrah!"
 
-"But in these great days of progress,      Ladies, to your sorrow know,
-You can't even catch a sexton,      If you have not got a 'dot'."
+"But in these great days of progress,      Ladies, to your sorrow know, You
+can't even catch a sexton,      If you have not got a 'dot'."
 
 "To be sure, to be sure, that's realism. You can't hook a husband without a
 'dot'!"
 
-"But, henceforth, since through our feasting      Capital has flowed from
-all,      And we send you forth to conquest      Dancing, dowried from this
-hall--      Retrograde or vowed George-Sander,      Never mind, rejoice you
-may,      You're a governess with a dowry,      Spit on all and frisk away!"
+"But, henceforth, since through our feasting      Capital has flowed from all,
+And we send you forth to conquest      Dancing, dowried from this hall--
+Retrograde or vowed George-Sander,      Never mind, rejoice you may, You're a
+governess with a dowry,      Spit on all and frisk away!"
 
 I must confess I could not believe my ears. The insolence of it was so
 unmistakable that there was no possibility of excusing Liputin on the ground of
