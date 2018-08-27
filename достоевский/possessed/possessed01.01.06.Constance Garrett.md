@@ -9,6 +9,11 @@ VI
 They spent almost the whole winter season in Petersburg. But by Lent everything
 burst like a rainbow-coloured soap-bubble.
 
+## 
+[Character]: # {General Stavrogin}
+[Actor]: # {Stepan Trofimovitch}
+[Speaker]: # {General Ivan Ivanovitch Drozdov}
+[Actor]: # {Varvara Petrovna}
 Their dreams were dissipated, and the muddle, far from being cleared up, had
 become even more revoltingly incomprehensible. To begin with, connections with
 the higher spheres were not established, or only on a microscopic scale, and by
@@ -99,6 +104,10 @@ many persons of general's rank certainly have an absurd habit of saying, "I
 have served my Tsar"...just as though they had not the same Tsar as all the
 rest of us, their simple fellow-subjects, but had a special Tsar of their own.
 
+## 
+[Actor]: # {Varvara Petrovna}
+[Reference]: # {Pushkin}
+[Actor]: # {Stepan Trofimovitch}
 It was impossible, of course, to remain any longer in Petersburg, all the more
 so as Stepan Trofimovitch was overtaken by a complete fiasco. He could not
 resist talking of the claims of art, and they laughed at him more loudly as
