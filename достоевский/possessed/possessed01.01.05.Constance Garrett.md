@@ -6,6 +6,9 @@
 [TreeTag]: # {01.01.05.01}
 
 ## 
+[Item]: # {Kukolnik}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
 [TreeTag]: # {01.01.05.01.01}
 She had herself designed the costume for him which he wore for the rest of his
 life. It was elegant and characteristic; a long black frock-coat, buttoned
@@ -34,6 +37,8 @@ take De Tocqueville with him into the garden while he had a Paul de Kock in his
 pocket. But these are trivial matters.
 
 ### 
+[Character]: # {Varvara Petrovna}
+[Item]: # {Kukolnik}
 [TreeTag]: # {01.01.05.01.01.01}
 I must observe in parenthesis about the portrait of Kukolnik; the engraving had
 first come into the hands of Varvara Petrovna when she was a girl in a
@@ -48,6 +53,8 @@ Trofimovitch a costume somewhat like the poet's in the engraving. But that, of
 course, is a trifling matter too.
 
 ## 
+[Character]: # {Varvara Petrovna}
+[Speaker]: # {Stepan Trofimovitch}
 [TreeTag]: # {01.01.05.01.02}
 For the first years or, more accurately, for the first half of the time he
 spent with Varvara Petrovna, Stepan Trofimovitch was still planning a book and
@@ -72,6 +79,9 @@ scientific world; but it appeared that Moscow too was unsatisfactory.
 [TreeTag]: # {01.01.05.02}
 
 ## 
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Location]: # {Skvoreshniki}
 [TreeTag]: # {01.01.05.02.01}
 It was a peculiar time; something new was beginning, quite unlike the
 stagnation of the past, something very strange too, though it was felt
