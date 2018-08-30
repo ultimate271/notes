@@ -2,8 +2,13 @@
 [Metadata]: # {01.01.08}
 [Descriptor]: # {01.01.08}
 [Author]: # {constance garrett}
-# VIII
+# About the circle of friends that formed
 [TreeTag]: # {01.01.08.01}
+[Character]: # {present governor}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Andreev}
+[Character]: # {Ivan Ossipovitch}
 After this we had a period of stagnation which lasted nine years. The
 hysterical outbreaks and sobbings on my shoulder that recurred at regular
 intervals did not in the least mar our prosperity. I wonder that Stepan
@@ -31,6 +36,10 @@ Andreev. The bill was paid twice a year by Varvara Petrovna, and on the day it
 was paid Stepan Trofimovitch almost invariably suffered from an attack of his
 "summer cholera."
 
+## On Liputin
+[TreeTag]: # {01.01.08.01.01}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Liputin}
 One of the first members of our circle was Liputin, an elderly provincial
 official, and a great liberal, who was reputed in the town to be an atheist. He
 had married for the second time a young and pretty wife with a dowry, and had,
@@ -45,6 +54,16 @@ head of a family. But we liked his wit, his inquiring mind, his peculiar,
 malicious liveliness. Varvara Petrovna disliked him, but he always knew how to
 make up to her.
 
+## On Shatov
+[TreeTag]: # {01.01.08.01.02}
+[Character]: # {Dasha}
+[Character]: # {Pavel Fyodoritch}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Shatov}
+
+### Shotov's upbringing and heritage
+[TreeTag]: # {01.01.08.01.02.01}
 Nor did she care for Shatov, who became one of our circle during the last years
 of this period. Shatov had been a student and had been expelled from the
 university after some disturbance. In his childhood he had been a student of
@@ -73,9 +92,14 @@ always sullen, and never talkative; but from time to time, when his convictions
 were touched upon, he became morbidly irritable and very unrestrained in his
 language.
 
+### Stepan comments on Stepan
+[TreeTag]: # {01.01.08.01.02.02}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
 "One has to tie Shatov up and then argue with him," Stepan Trofimovitch would
 sometimes say in joke, but he liked him.
 
+### Shatov's ideas
+[TreeTag]: # {01.01.08.01.02.03}
 Shatov had radically changed some of his former socialistic convictions abroad
 and had rushed to the opposite extreme. He was one of those idealistic beings
 common in Russia, who are suddenly struck by some overmastering idea which
@@ -90,6 +114,11 @@ shamefaced, expression in his eyes. His hair was always in a wild tangle and
 stood up in a shock which nothing could smooth. He was seven- or
 eight-and-twenty.
 
+### Incident with Shatov and Varvara
+[TreeTag]: # {01.01.08.01.02.04}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Actor]: # {Shatov}
+[Character]: # {Liputin}
 "I no longer wonder that his wife ran away from him," Varvara Petrovna
 enunciated on one occasion after gazing intently at him. He tried to be neat in
 his dress, in spite of his extreme poverty. He refrained again from appealing
@@ -114,6 +143,10 @@ solitude on the outskirts of the town, and did not like any of us to go and see
 him. He used to turn up invariably at Stepan Trofimovitch's evenings, and
 borrowed newspapers and books from him.
 
+## On Virginsky
+[TreeTag]: # {01.01.08.01.03}
+[Character]: # {Madame Virginsky}
+[Character]: # {Virginsky}
 There was another young man who always came, one Virginsky, a clerk in the
 service here, who had something in common with Shatov, though on the surface he
 seemed his complete opposite in every respect. He was a "family man" too. He
@@ -129,6 +162,12 @@ as they were advised to do so. Madame Virginsky practised as a midwife in the
 town. She had lived a long while in Petersburg as a girl. Virginsky himself was
 a man of rare single-heartedness, and I have seldom met more honest fervour.
 
+### Stepan gives his opinions of his some of his circle of friends
+[TreeTag]: # {01.01.08.01.03.01}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Virginsky}
+[Character]: # {Shatov}
+[Character]: # {Liputin}
 "I will never, never, abandon these bright hopes," he used to say to me with
 shining eyes. Of these "bright hopes" he always spoke quietly, in a blissful
 half-whisper, as it were secretly. He was rather tall, but extremely thin and
@@ -147,6 +186,11 @@ he's half-hatched too."
 "You're simply the golden mean which will get on anywhere in its own way."
 Liputin was offended.
 
+### The incident between Virginsky and his wife
+[TreeTag]: # {01.01.08.01.03.02}
+[Actor]: # {Virginsky}
+[Actor]: # {Madame Virginsky}
+[Actor]: # {Lebyadkin}
 The story was told of Virginsky, and it was unhappily only too true, that
 before his wife had spent a year in lawful wedlock with him she announced that
 he was superseded and that she preferred Lebyadkin. This Lebyadkin, a stranger
@@ -182,9 +226,17 @@ never spoke of his home-life to us. On one occasion only, returning with me
 from Stepan Trofimovitch's, he made a remote allusion to his position, but
 clutching my hand at once he cried ardently:
 
+### Virginsky assures that this incident is not a hindrance to the cause.
+[TreeTag]: # {01.01.08.01.03.03}
+[Speaker]: # {Virginsky}
 "It's of no consequence. It's only a personal incident. It's no hindrance to
 the 'cause,' not the slightest!"
 
+## Some other characters
+[TreeTag]: # {01.01.08.01.04}
+[Character]: # {Slontsevsky}
+[Character]: # {Captain Kartusov}
+[Character]: # {Lyamshin}
 Stray guests visited our circle too; a Jew, called Lyamshin, and a Captain
 Kartusov came. An old gentleman of inquiring mind used to come at one time, but
 he died. Liputin brought an exiled Polish priest called Slontsevsky, and for a

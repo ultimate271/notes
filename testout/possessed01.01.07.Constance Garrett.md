@@ -6,10 +6,13 @@ PART I
 CHAPTER I. INTRODUCTORY
 VII
 # VII
+[Actor]: # {Stepan Trofimovitch}
+[Actor]: # {Varvara Petrovna}
 Immediately on their return from Petersburg Varvara Petrovna sent her friend
 abroad to "recruit"; and, indeed, it was necessary for them to part for a time,
 she felt that. Stepan Trofimovitch was delighted to go.
 
+##
 "There I shall revive!" he exclaimed. "There, at last, I shall set to work!"
 But in the first of his letters from Berlin he struck his usual note:
 

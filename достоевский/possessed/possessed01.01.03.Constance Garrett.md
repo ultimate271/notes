@@ -2,13 +2,13 @@
 [Metadata]: # {01.01.03}
 [Descriptor]: # {01.01.03}
 [Author]: # {constance garrett}
-# Oveeciew of relationship between Stepan and Varvara
+# Overview of relationship between Stepan and Varvara
 [TreeTag]: # {01.01.03.01}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Varvara Petrovna Stavrogin}
 
 ## Details of their friendship: letters
 [TreeTag]: # {01.01.03.01.01}
-[Character]: # {Stepan Trofimovitch Verhovensky}
-[Character]: # {Varvara Petrovna Stavrogin}
 There are strange friendships. The two friends are always ready to fly at one
 another, and go on like that all their lives, and yet they cannot separate.
 Parting, in fact, is utterly impossible. The one who has begun the quarrel and

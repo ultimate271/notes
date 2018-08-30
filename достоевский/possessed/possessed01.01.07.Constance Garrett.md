@@ -2,8 +2,10 @@
 [Metadata]: # {01.01.07}
 [Descriptor]: # {01.01.07}
 [Author]: # {constance garrett}
-# VII
+# Varvara sends Stepan away
 [TreeTag]: # {01.01.07.01}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Actor]: # {Varvara Petrovna Stavrogin}
 Immediately on their return from Petersburg Varvara Petrovna sent her friend
 abroad to "recruit"; and, indeed, it was necessary for them to part for a time,
 she felt that. Stepan Trofimovitch was delighted to go.
@@ -11,6 +13,13 @@ she felt that. Stepan Trofimovitch was delighted to go.
 "There I shall revive!" he exclaimed. "There, at last, I shall set to work!"
 But in the first of his letters from Berlin he struck his usual note:
 
+## Stepan first note after the seperation
+[TreeTag]: # {01.01.07.01.01}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Andreev}
+[Character]: # {second wife}
+[Character]: # {first wife}
+[Character]: # {Varvara Petrovna Stavrogin}
 "My heart is broken!" he wrote to Varvara Petrovna. "I can forget nothing!
 Here, in Berlin, everything brings back to me my old past, my first raptures
 and my first agonies. Where is she? Where are they both? Where are you two
@@ -19,6 +28,12 @@ all, where am I, where is my old self, strong as steel, firm as a rock, when
 now some Andreev, our orthodox clown with a beard, _peut briser mon existence
 en deux_"--and so on.
 
+## Excerpt about Stepan's son, and Andreev
+[TreeTag]: # {01.01.07.01.02}
+[Location]: # {Skvoreshniki}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Andreev}
+[Character]: # {Stepan Trofimovitch's son}
 As for Stepan Trofimovitch's son, he had only seen him twice in his life, the
 first time when he was born and the second time lately in Petersburg, where the
 young man was preparing to enter the university. The boy had been all his life,
@@ -38,11 +53,19 @@ Andreev asked leave to defer payment for a month, which he had a right to do,
 since he had brought the first installments of the money almost six months in
 advance to meet Stepan Trofimovitch's special need at the time.
 
+## Varvara's reaction to the first letter
+[TreeTag]: # {01.01.07.01.03}
 Varvara Petrovna read this first letter greedily, and underlining in pencil the
 exclamation: "Where are they both?" numbered it and put it away in a drawer. He
 had, of course, referred to his two deceased wives. The second letter she
 received from Berlin was in a different strain:
 
+## Stepan's second letter
+[TreeTag]: # {01.01.07.01.04}
+[Actor]: # {Varvara Petrovna Stavrogin}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Lizaveta Nikolaevna}
+[Character]: # {Dundasov Family}
 "I am working twelve hours out of the twenty-four." ("Eleven would be enough,"
 muttered Varvara Petrovna.) "I'm rummaging in the libraries, collating,
 copying, rushing about. I've visited the professors. I have renewed my
@@ -61,6 +84,9 @@ I think of it with a smile. Crossing the frontier I felt myself in safety, a
 sensation, strange and new, for the first time after so many years"--and so on
 and so on.
 
+## Varvara's reaction to the second letter
+[TreeTag]: # {01.01.07.01.05}
+[Speaker]: # {Varvara Petrovna Stavrogin}
 "Come, it's all nonsense!" Varvara Petrovna commented, folding up that letter
 too. "If he's up till daybreak with his Athenian nights, he isn't at his books
 for twelve hours a day. Was he drunk when he wrote it? That Dundasov woman
@@ -72,6 +98,10 @@ proverbs and traditional sayings into French in the most stupid way, though no
 doubt he was able to understand and translate them better. But he did it from a
 feeling that it was chic, and thought it witty.
 
+## Stepan returns to Shvoreshniki
+[TreeTag]: # {01.01.07.01.06}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Location]: # {Skvoreshniki}
 But he did not amuse himself for long. He could not hold out for four months,
 and was soon flying back to Skvoreshniki. His last letters consisted of nothing
 but outpourings of the most sentimental love for his absent friend, and were

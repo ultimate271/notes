@@ -25,8 +25,28 @@
 01.01.06.01	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.01\})@=
 01.01.06.01.01	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.01.01\})@=
 01.01.06.01.02	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.01.02\})@=
+01.01.06.02	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.02\})@=
+01.01.06.02.01	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.02.01\})@=
+01.01.06.02.02	possessed01.01.06.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.06.02.02\})@=
 01.01.07.01	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01\})@=
+01.01.07.01.01	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.01\})@=
+01.01.07.01.02	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.02\})@=
+01.01.07.01.03	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.03\})@=
+01.01.07.01.04	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.04\})@=
+01.01.07.01.05	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.05\})@=
+01.01.07.01.06	possessed01.01.07.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.07.01.06\})@=
 01.01.08.01	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01\})@=
+01.01.08.01.01	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.01\})@=
+01.01.08.01.02	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.02\})@=
+01.01.08.01.02.01	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.02.01\})@=
+01.01.08.01.02.02	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.02.02\})@=
+01.01.08.01.02.03	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.02.03\})@=
+01.01.08.01.02.04	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.02.04\})@=
+01.01.08.01.03	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.03\})@=
+01.01.08.01.03.01	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.03.01\})@=
+01.01.08.01.03.02	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.03.02\})@=
+01.01.08.01.03.03	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.03.03\})@=
+01.01.08.01.04	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.04\})@=
 01.01.09.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01\})@=
 01.02.01.01	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01\})@=
 01.02.02.01	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01\})@=
@@ -144,3 +164,20 @@ a baron from Petersburg	possessednotes.md	/\v^# a baron from Petersburg$
 Lieutenant-General Stavrogin	possessednotes.md	/\v^# Lieutenant-General Stavrogin$
 General Stavrogin	possessednotes.md	/\v^# Lieutenant-General Stavrogin$
 General Ivan Ivanovitch Drozdov	possessednotes.md	/\v^# General Ivan Ivanovitch Drozdov$
+Kukolnik	possessednotes.md	/\v^# Kukolnik$
+Andreev	possessednotes.md	/\v^# Andreev$
+Stepan Trofimovitch's son	possessednotes.md	/\v^# Stepan Trofimovitch's son$
+Lizaveta Nikolaevna	possessednotes.md	/\v^# Lizaveta Nikolaevna$
+Dundasov family	possessednotes.md	/\v^# Dundasov family$
+present governor	possessednotes.md	/\v^# present governor$
+Ivan Ossipovitch	possessednotes.md	/\v^# Ivan Ossipovitch$
+Liputin	possessednotes.md	/\v^# Liputin$
+Dasha	possessednotes.md	/\v^# Dasha$
+Pavel Fyodoritch	possessednotes.md	/\v^# Pavel Fyodoritch$
+Shatov	possessednotes.md	/\v^# Shatov$
+Madame Virginsky	possessednotes.md	/\v^# Madame Virginsky$
+Virginsky	possessednotes.md	/\v^# Virginsky$
+Lebyadkin	possessednotes.md	/\v^# Lebyadkin$
+Slontsevsky	possessednotes.md	/\v^# Slontsevsky$
+Captain Kartusov	possessednotes.md	/\v^# Captain Kartusov$
+Lyamshin	possessednotes.md	/\v^# Lyamshin$

@@ -4,12 +4,12 @@
 [Author]: # {constance garrett}
 # Two anecdotes about Varvara and Stepan
 [TreeTag]: # {01.01.04.01}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Actor]: # {Varvara Petrovna Stavrogin}
 
 ## Anecdote about the baron
 [TreeTag]: # {01.01.04.01.01}
-[Speaker]: # {a baron from Petersburg}
-[Speaker]: # {Stepan Trofimovitch Verhovensky}
-[Speaker]: # {Varvara Petrovna Stavrogin}
+[Actor]: # {a baron from Petersburg}
 On one occasion, just at the time when the first rumours of the emancipation of
 the serfs were in the air, when all Russia was exulting and making ready for a
 complete regeneration, Varvara Petrovna was visited by a baron from Petersburg,
