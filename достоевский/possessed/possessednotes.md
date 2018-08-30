@@ -284,6 +284,7 @@ Pavel Fyodoritch
 # Shatov
 [Reference]: # {Character}
 Poor member of {Stepan Trofimovitch Verhovensky}'s circle of friends
+Believes in God "On principle" 
 ## Tags
 Shatov
 ## Actor in
