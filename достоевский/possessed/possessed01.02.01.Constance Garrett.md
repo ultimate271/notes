@@ -2,8 +2,13 @@
 [Metadata]: # {01.02.01}
 [Descriptor]: # {01.02.01}
 [Author]: # {constance garrett}
-# I
+# About Varvara's son, Nikolay
+[Character]: # {General Stavrogin}
+[Character]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Character]: # {Stepan Trofimovitch}
+[Character]: # {Varvara Petrovna}
 [TreeTag]: # {01.02.01.01}
+## The relationship of Nikolay as a child with Stepan
 THERE WAS ANOTHER being in the world to whom Varvara Petrovna was as much
 attached as she was to Stepan Trofimovitch, her only son, Nikolay
 Vsyevolodovitch Stavrogin. It was to undertake his education that Stepan
@@ -37,6 +42,9 @@ connoisseurs who prize this yearning more than the most complete satisfaction
 of it, if such were possible.) But in any case it was just as well that the
 pupil and the preceptor were, though none too soon, parted.
 
+## Of Nikolay's upbringing, into riotous behavior
+[Event]: # {two duels}
+[Reference]: # {Prince Harry}
 For the first two years the lad used to come home from the lyceum for the
 holidays. While Varvara Petrovna and Stepan Trofimovitch were staying in
 Petersburg he was sometimes present at the literary evenings at his mother's,
@@ -81,6 +89,8 @@ case ended in his being degraded to the ranks, deprived of the rights of a
 nobleman, and transferred to an infantry line regiment, and he only escaped
 worse punishment by special favour.
 
+## After taking up a sort of exiled life in Petersburg, Nikolay is beckoned by his mother to visit Skvoreshniki
+[Location]: # {Skvoreshniki}
 In 1863 he somehow succeeded in distinguishing himself; he received a cross,
 was promoted to be a non-commissioned officer, and rose rapidly to the rank of
 an officer. During this period Varvara Petrovna despatched perhaps hundreds of
@@ -138,6 +148,8 @@ etiquette. He was related, on his father's side, to the governor, and was
 received by the latter as a near kinsman. But a few months passed and the wild
 beast showed his claws.
 
+### Varvara's effect and history with the governor Ivan Ossipovitch
+[Character]: # {Ivan Ossipovitch}
 I may observe by the way, in parenthesis, that Ivan Ossipovitch, our dear mild
 governor, was rather like an old woman, though he was of good family and highly
 connected--which explains the fact that he remained so long among us, though he
@@ -162,6 +174,7 @@ woman, or more jestingly, "My prosaic friend." I need hardly say he only
 ventured on such jests in an extremely respectful form, and on rare, and
 carefully chosen, occasions.
 
+## About Varvara's intense relationship to her son
 All of us in her intimate circle felt--Stepan Trofimovitch more acutely than
 any of us--that her son had come to her almost, as it were, as a new hope, and
 even as a sort of new aspiration. Her passion for her son dated from the time
