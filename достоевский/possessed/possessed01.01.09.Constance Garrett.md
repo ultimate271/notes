@@ -12,9 +12,10 @@ the "higher liberal," that is, a liberal without any definite aim, is only
 possible in Russia.
 
 ## About the circle of friends, and the times they shared
-[Character]: # {Varvara Petrovna}
+[TreeTag]: # {01.01.09.01.01}
 [Actor]: # {Lyamshin}
-[Actor]: # {Stepan Trofimovitch}
+[Actor]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Varvara Petrovna Stavrogin}
 Stepan Trofimovitch, like every witty man, needed a listener, and, besides
 that, he needed the consciousness that he was fulfilling the lofty duty of
 disseminating ideas. And finally he had to have someone to drink champagne
@@ -51,10 +52,12 @@ habit of muttering to himself well-known, though rather far-fetched, lines
 which must have been written by some liberal landowner of the past:
 
 ### Stepan mutters to himself
+[TreeTag]: # {01.01.09.01.01.01}
 [Speaker]: # {Stepan Trofimovitch Verhovensky}
 _"The peasant with his axe is coming,_ _Something terrible will happen."_
 
 ### Varvara overhears him
+[TreeTag]: # {01.01.09.01.01.02}
 [Speaker]: # {Varvara Petrovna Stavrogin}
 Something of that sort, I don't remember the exact words. Varvara Petrovna
 overheard him on one occasion, and crying, "Nonsense, nonsense!" she went out
@@ -62,7 +65,8 @@ of the room in a rage. Liputin, who happened to be present, observed
 malignantly to Stepan Trofimovitch:
 
 ### Liputin's response to the muttering
-[Speaker]: # {Stepan Trofimovitch}
+[TreeTag]: # {01.01.09.01.01.03}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
 [Speaker]: # {Liputin}
 "It'll be a pity if their former serfs really do some mischief to _messieurs
 les_ landowners to celebrate the occasion," and he drew his forefinger round
@@ -74,6 +78,7 @@ general. We shall never be capable of organising anything even without our
 heads, though our heads hinder our understanding more than anything."
 
 ## Stepan comments on the peasants
+[TreeTag]: # {01.01.09.01.02}
 I may observe that many people among us anticipated that something
 extraordinary, such as Liputin predicted, would take place on the day of the
 emancipation, and those who held this view were the so-called "authorities" on
@@ -85,7 +90,8 @@ reappeared on Stepan Trofimovitch's lips. In our presence he delivered himself
 of some noteworthy thoughts on the character of the Russian in general, and the
 Russian peasant in particular.
 
-### 
+### Stepan speaks of his lowly opinion of peasents
+[TreeTag]: # {01.01.09.01.02.01}
 [Speaker]: # {Stepan Trofimovitch Verhovensky}
 "Like hasty people we have been in too great a hurry with our peasants," he
 said in conclusion of a series of remarkable utterances. "We have made them the
@@ -99,7 +105,8 @@ the peasants in Russia for one Rachel. It's high time to look things in the
 face more soberly, and not to mix up our national rustic pitch with _bouquet de
 l'Impératrice._"
 
-### 
+### Liputin's response about the peseants
+[TreeTag]: # {01.01.09.01.02.02}
 [Speaker]: # {Liputin}
 Liputin agreed at once, but remarked that one had to perjure oneself and praise
 the peasant all the same for the sake of being progressive, that even ladies in
@@ -108,6 +115,7 @@ from Paris to their bailiffs that they were, henceforward, to treat the
 peasants as humanely as possible.
 
 ## Commentary on the nationalism based on the Anton Petrov affair
+[TreeTag]: # {01.01.09.01.03}
 [Event]: # {Anton Petrov affair}
 [Character]: # {Anton Petrov}
 [Place]: # {Skvoreshniki}
@@ -116,7 +124,8 @@ Petrov affair had reached us, that there was some disturbance in our province
 too, only about ten miles from Skvoreshniki, so that a detachment of soldiers
 was sent down in a hurry.
 
-### Stepan 
+### Stepan freaks out about the uprising
+[TreeTag]: # {01.01.09.01.03.01}
 This time Stepan Trofimovitch was so much upset that he even frightened us. He
 cried out at the club that more troops were needed, that they ought to be
 telegraphed for from another province; he rushed off to the governor to protest
@@ -129,7 +138,8 @@ Three years later, as every one knows, people were beginning to talk of
 nationalism, and "public opinion" first came upon the scene. Stepan
 Trofimovitch laughed a great deal.
 
-### 
+### Stepan mocks the dawn of the nationalism
+[TreeTag]: # {01.01.09.01.03.02}
 [Speaker]: # {Stepan Trofimovitch Verhovensky}
 "My friends," he instructed us, "if our nationalism has 'dawned' as they keep
 repeating in the papers--it's still at school, at some German 'Peterschule,'
@@ -160,20 +170,17 @@ faith in it. Now I have lost faith in it, but I sound the alarm still, and
 shall sound it to the tomb. I will pull at the bell-ropes until they toll for
 my own requiem!"
 
-#### 
+#### The group of friends applauds Stepan's speech
+[TreeTag]: # {01.01.09.01.03.02.01}
 Alas! We could do nothing but assent. We applauded our teacher and with what
 warmth, indeed! And, after all, my friends, don't we still hear to-day, every
 hour, at every step, the same "charming," "clever," "liberal," old Russian
 nonsense? Our teacher believed in God.
 
-### 
-[Reference]: # {Gogol}
-[Reference]: # {Byelinsky}
-[Reference]: # {George Sand}
-[Reference]: # {Greek}
-[Reference]: # {Goethe}
-[Character]: # {Shatov}
+### Stepan's notion of Christianity in reference to Byelinksy and Gogol
+[TreeTag]: # {01.01.09.01.03.03}
 [Speaker]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Shatov}
 [Character]: # {Nastasya}
 "I can't understand why they make me out an infidel here," he used to say
 sometimes. "I believe in God, _mais distinguons_, I believe in Him as a Being
@@ -198,7 +205,8 @@ from them when they ought, and did not filch certain ideas from them. Could
 Byelinsky have sought salvation in Lenten oil, or peas with radish!..." But at
 this point Shatov interposed.
 
-### 
+### Shatov and Stepan get into a shouting match about the peasents
+[TreeTag]: # {01.01.09.01.03.04}
 [Speaker]: # {Stepan Trofimovitch Verhovensky}
 [Speaker]: # {Shatov}
 "Those men of yours never loved the people, they didn't suffer for them, and
@@ -226,9 +234,12 @@ faith of their fathers, and become atheistic or indifferent. I'm speaking the
 truth! This is a fact which will be realised. That's why all of you and all of
 us now are either beastly atheists or careless, dissolute imbeciles, and
 nothing more. And you too, Stepan Trofimovitch, I don't make an exception of
-you at all! In fact, it is on your account I am speaking, let me tell you
-that!"
+you at all! In fact, it is on your account I am speaking, let me tell you that!"
 
+### Shatov feigns to leave upset, but returns as he always does
+[TreeTag]: # {01.01.09.01.03.05}
+[Actor]: # {Shatov}
+[Speaker]: # {Stepan Trofimovitch Verhovensky}
 As a rule, after uttering such monologues (which happened to him pretty
 frequently) Shatov snatched up his cap and rushed to the door, in the full
 conviction that everything was now over, and that he had cut short all friendly

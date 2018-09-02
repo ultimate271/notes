@@ -48,8 +48,34 @@
 01.01.08.01.03.03	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.03.03\})@=
 01.01.08.01.04	possessed01.01.08.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.08.01.04\})@=
 01.01.09.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01\})@=
+01.01.09.01.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.01\})@=
+01.01.09.01.01.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.01.01\})@=
+01.01.09.01.01.02	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.01.02\})@=
+01.01.09.01.01.03	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.01.03\})@=
+01.01.09.01.02	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.02\})@=
+01.01.09.01.02.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.02.01\})@=
+01.01.09.01.02.02	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.02.02\})@=
+01.01.09.01.03	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03\})@=
+01.01.09.01.03.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.01\})@=
+01.01.09.01.03.02	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.02\})@=
+01.01.09.01.03.02.01	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.02.01\})@=
+01.01.09.01.03.03	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.03\})@=
+01.01.09.01.03.04	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.04\})@=
+01.01.09.01.03.05	possessed01.01.09.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.01.09.01.03.05\})@=
 01.02.01.01	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01\})@=
+01.02.01.01.01	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01.01\})@=
+01.02.01.01.02	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01.02\})@=
+01.02.01.01.03	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01.03\})@=
+01.02.01.01.03.01	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01.03.01\})@=
+01.02.01.01.04	possessed01.02.01.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.01.01.04\})@=
 01.02.02.01	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01\})@=
+01.02.02.01.01	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01.01\})@=
+01.02.02.01.01.01	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01.01.01\})@=
+01.02.02.01.02	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01.02\})@=
+01.02.02.01.03	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.01.03\})@=
+01.02.02.02	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.02\})@=
+01.02.02.02.01	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.02.01\})@=
+01.02.02.02.02	possessed01.02.02.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.02.02.02\})@=
 01.02.03.01	possessed01.02.03.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.03.01\})@=
 01.02.04.01	possessed01.02.04.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.04.01\})@=
 01.02.05.01	possessed01.02.05.constance garrett.md	/\v^#.*(\n*\[TreeTag\]: # \{01.02.05.01\})@=
@@ -164,14 +190,14 @@ a baron from Petersburg	possessednotes.md	/\v^# a baron from Petersburg$
 Lieutenant-General Stavrogin	possessednotes.md	/\v^# Lieutenant-General Stavrogin$
 General Stavrogin	possessednotes.md	/\v^# Lieutenant-General Stavrogin$
 General Ivan Ivanovitch Drozdov	possessednotes.md	/\v^# General Ivan Ivanovitch Drozdov$
-Kukolnik	possessednotes.md	/\v^# Kukolnik$
 Andreev	possessednotes.md	/\v^# Andreev$
 Stepan Trofimovitch's son	possessednotes.md	/\v^# Stepan Trofimovitch's son$
 Lizaveta Nikolaevna	possessednotes.md	/\v^# Lizaveta Nikolaevna$
-Dundasov family	possessednotes.md	/\v^# Dundasov family$
-present governor	possessednotes.md	/\v^# present governor$
+Dundasov Family	possessednotes.md	/\v^# Dundasov Family$
 Ivan Ossipovitch	possessednotes.md	/\v^# Ivan Ossipovitch$
+present governor	possessednotes.md	/\v^# Ivan Ossipovitch$
 Liputin	possessednotes.md	/\v^# Liputin$
+Sergay Vassilyevitch Liputin	possessednotes.md	/\v^# Liputin$
 Dasha	possessednotes.md	/\v^# Dasha$
 Pavel Fyodoritch	possessednotes.md	/\v^# Pavel Fyodoritch$
 Shatov	possessednotes.md	/\v^# Shatov$
@@ -181,3 +207,15 @@ Lebyadkin	possessednotes.md	/\v^# Lebyadkin$
 Slontsevsky	possessednotes.md	/\v^# Slontsevsky$
 Captain Kartusov	possessednotes.md	/\v^# Captain Kartusov$
 Lyamshin	possessednotes.md	/\v^# Lyamshin$
+Portrait of Kukolnik	possessednotes.md	/\v^# Portrait of Kukolnik$
+Anton Petrov affair	possessednotes.md	/\v^# Anton Petrov affair$
+Anton Petrov	possessednotes.md	/\v^# Anton Petrov$
+Nastasya	possessednotes.md	/\v^# Nastasya$
+Nikolay Vsyevolodovitch Stavrogin	possessednotes.md	/\v^# Nikolay Vsyevolodovitch Stavrogin$
+Nikolay Vsyevolodovitch	possessednotes.md	/\v^# Nikolay Vsyevolodovitch Stavrogin$
+Nikolay	possessednotes.md	/\v^# Nikolay Vsyevolodovitch Stavrogin$
+two duels	possessednotes.md	/\v^# two duels$
+Pyotr Pavlovitch Gaganov	possessednotes.md	/\v^# Pyotr Pavlovitch Gaganov$
+Circle of Friends	possessednotes.md	/\v^# Circle of Friends$
+Madame Liputin	possessednotes.md	/\v^# Madame Liputin$
+Agafya	possessednotes.md	/\v^# Agafya$

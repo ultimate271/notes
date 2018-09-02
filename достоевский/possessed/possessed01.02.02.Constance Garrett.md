@@ -2,8 +2,14 @@
 [Metadata]: # {01.02.02}
 [Descriptor]: # {01.02.02}
 [Author]: # {constance garrett}
-# II
+# The incedent of Nikolay dragging Pyotr by the nose
 [TreeTag]: # {01.02.02.01}
+[Actor]: # {Nikolay Vsyevolodovitch Stavrogin}
+
+## Nikolay leads Pyotr by the nose in a very out of manner way
+[TreeTag]: # {01.02.02.01.01}
+[Actor]: # {Pyotr Pavlovitch Gaganov}
+[Character]: # {Circle of Friends}
 Suddenly, apropos of nothing, our prince was guilty of incredible outrages upon
 various persons and, what was most striking these outrages were utterly unheard
 of, quite inconceivable, unlike anything commonly done, utterly silly and
@@ -31,14 +37,22 @@ suddenly, as it were, to sink into thought again--so at least it was
 reported--frowned, went firmly up to the affronted Pyotr Pavlovitch, and with
 evident vexation said in a rapid mutter:
 
+### Nikolay carelessly apoligizes for the whole thing
+[TreeTag]: # {01.02.02.01.01.01}
+[Speaker]: # {Nikolay Vsyevolodovitch Stavrogin}
 "You must forgive me, of course... I really don't know what suddenly came over
 me... it's silly."
 
 The carelessness of his apology was almost equivalent to a fresh insult. The
 outcry was greater than ever. Nikolay Vsyevolodovitch shrugged his shoulders
-and went away. All this was very stupid, to say nothing of its gross
-indecency--
+and went away. All this was very stupid, to say nothing of its gross indecency--
 
+## They consider the repercutions of this action, but don't come to any real conclusion
+[TreeTag]: # {01.02.02.01.02}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Character]: # {Ivan Ossipovitch}
+[Character]: # {Circle of Friends}
 A calculated and premeditated indecency as it seemed at first sight--and
 therefore a premeditated and utterly brutal insult to our whole society. So it
 was taken to be by every one. We began by promptly and unanimously striking
@@ -69,6 +83,11 @@ years later, in reply to a discreet question from me about the incident at the
 club, Nikolay Vsyevolodovitch answered, frowning: "I wasn't quite well at the
 time." But there is no need to anticipate events.
 
+## Varvara's premonitions of Nikolay's doings, and her lack of ability to address them
+[TreeTag]: # {01.02.02.01.03}
+[Character]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Character]: # {Stepan Trofimovitch Verhovensky}
+[Character]: # {Varvara Petrovna Stavrogin}
 The general outburst of hatred with which every one fell upon the "ruffian and
 duelling bully from the capital" also struck me as curious. They insisted on
 seeing an insolent design and deliberate intention to insult our whole society
@@ -95,6 +114,11 @@ perpetrated another scandal. It was of a more harmless and ordinary character
 than the first. Yet, owing to the state of the public mind, it increased the
 outcry in the town.
 
+# Liputin hosts a party and invites Nikolay
+[TreeTag]: # {01.02.02.02}
+[Actor]: # {Liputin}
+[Character]: # {Varvara Petrovna Stavrogin}
+[Character]: # {Nikolay Vsyevolodovitch Stavrogin}
 Our friend Liputin turned up and called on Nikolay Vsyevolodovitch immediately
 after the latter's interview with his mother, and earnestly begged for the
 honour of his company at a little party he was giving for his wife's birthday
@@ -109,6 +133,10 @@ genuinely believing that that was the proper way to treat stewards at the club,
 and that it was very well done. Nikolay Vsyevolodovitch smiled and promised to
 come.
 
+## Nikolay kisses Madame Liputin on the lips profusely at the party
+[TreeTag]: # {01.02.02.02.01}
+[Actor]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Actor]: # {Madame Liputin}
 A great number of guests had assembled. The company was not very presentable,
 but very sprightly. Liputin, vain and envious, only entertained visitors twice
 a year, but on those occasions he did it without stint. The most honoured of
@@ -129,6 +157,12 @@ stairs, bowing. But next day a rather amusing sequel followed this
 comparatively harmless prank--a sequel from which Liputin gained some credit,
 and of which he took the fullest possible advantage.
 
+## Sergay sends his servent Agafya to make a curious encounter to Nikolay
+[TreeTag]: # {01.02.02.02.02}
+[Speaker]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Speaker]: # {Agafya}
+[Character]: # {Liputin}
+[Place]: # {Skvoreshniki}
 At ten o'clock in the morning Liputin's servant Agafya, an easy-mannered,
 lively, rosy-cheeked peasant woman of thirty, made her appearance at
 Stavrogin's house, with a message for Nikolay Vsyevolodovitch. She insisted on

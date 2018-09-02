@@ -19,7 +19,6 @@ as an introduction, while my projected story itself will come later.
 ## Stepan's role as a persecured patriot
 [TreeTag]: # {01.01.01.01.02}
 [Character]: # {Stepan Trofimovitch Verhovensky}
-[Reference]: # {Gulliver}
 I will say at once that Stepan Trofimovitch had always filled a particular rôle
 among us, that of the progressive patriot, so to say, and he was passionately
 fond of playing the part--so much so that I really believe he could not have

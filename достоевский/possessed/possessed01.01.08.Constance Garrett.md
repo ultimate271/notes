@@ -4,7 +4,7 @@
 [Author]: # {constance garrett}
 # About the circle of friends that formed
 [TreeTag]: # {01.01.08.01}
-[Character]: # {present governor}
+[Character]: # {Ivan Ossipovitch}
 [Character]: # {Stepan Trofimovitch Verhovensky}
 [Character]: # {Varvara Petrovna Stavrogin}
 [Character]: # {Andreev}
