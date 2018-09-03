@@ -1,151 +1,7 @@
-﻿The Project Gutenberg EBook of The Outline of History: Being a Plain
-History of Life and Mankind, by Herbert George Wells
+﻿# Outilne of History
+[Author]: # {Wells}
 
-This eBook is for the use of anyone anywhere at no cost and with
-almost no restrictions whatsoever.  You may copy it, give it away or
-re-use it under the terms of the Project Gutenberg License included
-with this eBook or online at www.gutenberg.org/license
-
-
-Title: The Outline of History: Being a Plain History of Life and Mankind
-
-Author: Herbert George Wells
-
-Editor: Ernest Barker
-        H.H. Johnston
-        E. Ray Lankester
-        Gilbert Murray
-
-Release Date: April 12, 2014 [EBook #45368]
-
-Language: English
-
-Character set encoding: UTF-8
-
-*** START OF THIS PROJECT GUTENBERG EBOOK THE OUTLINE OF HISTORY ***
-
-
-
-
-Produced by Chuck Greif, Adam Buchbinder and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-book was produced from scanned images of public domain
-material from the Google Print project.)
-
-
-
-
-
-
-                        THE OUTLINE OF HISTORY
-
-Mr. WELLS has also written the following novels:
-
-  LOVE AND MR. LEWISHAM
-  KIPPS
-  MR. POLLY
-  THE WHEELS OF CHANCE
-  THE NEW MACHIAVELLI
-  ANN VERONICA
-  TONO BUNGAY
-  MARRIAGE
-  BEALBY
-  THE PASSIONATE FRIENDS
-  THE WIFE OF SIR ISAAC HARMAN
-  THE RESEARCH MAGNIFICENT
-  MR. BRITLING SEES IT THROUGH
-  THE SOUL OF A BISHOP
-  JOAN AND PETER
-  THE UNDYING FIRE
-
-¶ The following fantastic and imaginative romances:
-
-  THE WAR OF THE WORLDS
-  THE TIME MACHINE
-  THE WONDERFUL VISIT
-  THE ISLAND OF DR. MOREAU
-  THE SEA LADY
-  THE SLEEPER AWAKES
-  THE FOOD OF THE GODS
-  THE WAR IN THE AIR
-  THE FIRST MEN IN THE MOON
-  IN THE DAYS OF THE COMET
-  THE WORLD SET FREE
-
-     And numerous Short Stories now collected in One Volume under the
-     title of
-
-THE COUNTRY OF THE BLIND
-
-¶ A Series of books on Social, Religious, and Political questions:
-
-  ANTICIPATIONS (1900)
-  MANKIND IN THE MAKING
-  FIRST AND LAST THINGS
-  NEW WORLDS FOR OLD
-  A MODERN UTOPIA
-  THE FUTURE IN AMERICA
-  AN ENGLISHMAN LOOKS AT THE
-  WORLD
-  WHAT IS COMING?
-  WAR AND THE FUTURE
-  IN THE FOURTH YEAR
-  GOD THE INVISIBLE KING
-
-¶ And two little books about children’s play, called
-
-FLOOR GAMES and LITTLE WARS
-
-
-
-
-                            THE OUTLINE OF
-                                HISTORY
-
-               Being a Plain History of Life and Mankind
-
-                                  BY
-
-                              H. G. WELLS
-
-             WRITTEN WITH THE ADVICE AND EDITORIAL HELP OF
-
-                          MR. ERNEST BARKER,
-               SIR H. H. JOHNSTON, SIR E. RAY LANKESTER
-                     AND PROFESSOR GILBERT MURRAY
-
-                          AND ILLUSTRATED BY
-
-                            J. F. HORRABIN
-
-                               VOLUME I
-
-                               New York
-                         THE MACMILLAN COMPANY
-                                 1920
-
-                         _All rights reserved_
-
-                           COPYRIGHT, 1920,
-
-                       BY THE MACMILLAN COMPANY.
-
-                           COPYRIGHT, 1920,
-
-                            BY H. G. WELLS.
-
-          Set up and electrotyped. Published November, 1920.
-
-                             NORWOOD PRESS
-
-                J. S. Cushing Co.--Berwick & Smith Co.
-
-                        Norwood, Mass., U.S.A.
-
-
-
-
-INTRODUCTION
+# INTRODUCTION
 
 “_A philosophy of the history of the human race, worthy of its name,
 must begin with the heavens and descend to the earth, must be charged
@@ -1047,7 +903,7 @@ Yuan Chwang’s Route from China to India                              643
 
 
 
-BOOK I
+# BOOK I
 
 THE MAKING OF OUR WORLD
 
@@ -1059,7 +915,7 @@ THE OUTLINE OF HISTORY
 
 
 
-I
+## I
 
 THE EARTH IN SPACE AND TIME
 
@@ -1200,7 +1056,7 @@ nearer and brighter in those days and had a changing face.[3]
 
 
 
-II
+## II
 
 THE RECORD OF THE ROCKS
 
@@ -1208,7 +1064,7 @@ THE RECORD OF THE ROCKS
 § 1. _The First Living Things._ § 2. _How Old Is the World?_
 
 
-§ 1
+### § 1
 
 We do not know how life began upon the earth.[4]
 
@@ -1394,7 +1250,7 @@ serious and sustained deciphering of these long-neglected early pages of
 his world’s history.
 
 
-§ 2
+### § 2
 
 [Illustration: graph of eras]
 
@@ -1434,7 +1290,7 @@ these void immensities.
 
 
 
-III
+## III
 
 NATURAL SELECTION AND THE CHANGES OF SPECIES
 
@@ -1629,14 +1485,14 @@ stony wilderness without a trace of life.
 
 
 
-IV
+## IV
 
 THE INVASION OF THE DRY LAND BY LIFE
 
 § 1. _Life and Water._ § 2. _The Earliest Animals._
 
 
-§ 1
+### § 1
 
 Wherever the shore line ran there was life, and that life went on in and
 by and with water as its home, its medium, and its fundamental
@@ -1709,7 +1565,7 @@ new plants began to swarm away from the sea and over the lower lands,
 still keeping to swamp and lagoon and watercourse as they spread.
 
 
-§ 2
+### § 2
 
 And after the plants came the animal life.
 
@@ -1806,7 +1662,7 @@ beginning.
 
 
 
-V
+## V
 
 CHANGES IN THE WORLD’S CLIMATE
 
@@ -1815,7 +1671,7 @@ CHANGES IN THE WORLD’S CLIMATE
      Change._
 
 
-§ 1
+### § 1
 
 The Record of the Rocks is like a great book that has been carelessly
 misused. All its pages are torn, worn, and defaced, and many are
@@ -1985,7 +1841,7 @@ reckon with more precision, so that our race will make its plans
 thousands of years ahead to meet the coming changes.
 
 
-§ 2
+### § 2
 
 Another entirely different cause of changes in the general climate of
 the earth may be due to variations in the heat of the sun. We do not yet
@@ -2000,7 +1856,7 @@ speaking upon the scale of things astronomical, it has certainly not
 cooled very much.
 
 
-§ 3
+### § 3
 
 A third great group of causes influencing climate are to be found in the
 forces within the world itself. Throughout the long history of the earth
@@ -2063,7 +1919,7 @@ of these astronomical, telluric, and geographical influences life has no
 rest. As its conditions change it must change or perish.
 
 
-§ 4
+### § 4
 
 And while we are enumerating the forces that change climate and the
 conditions of terrestrial life, we may perhaps look ahead a little and
@@ -2104,7 +1960,7 @@ to an extent at which as yet we can only guess.
 
 
 
-VI
+## VI
 
 THE AGE OF REPTILES
 
@@ -2113,7 +1969,7 @@ THE AGE OF REPTILES
      Appearance of Fur and Feathers._
 
 
-§ 1
+### § 1
 
 We know that for hundreds of thousands of years the wetness and warmth,
 the shallow lagoon conditions that made possible the vast accumulations
@@ -2235,7 +2091,7 @@ elephant would be a far less astounding idea. Much more probably it
 waded half submerged in pursuit of the herbivorous river saurians.
 
 
-§ 2
+### § 2
 
 One special development of the dinosaurian type of reptile was a light,
 hopping, climbing group of creatures which developed a bat-like web
@@ -2256,7 +2112,7 @@ with feathers projecting from its hind edge. And these Pterodactyls had
 no feathers.
 
 
-§ 3
+### § 3
 
 Far less prevalent at this time were certain other truly birdlike
 creatures, of which the earlier sorts also hopped and clambered and the
@@ -2286,7 +2142,7 @@ their tail feathers set in a short compact bony rump; the _Archæopteryx_
 had a long bony tail with a row of feathers along each side.
 
 
-§ 4
+### § 4
 
 [Illustration: Archæopteryx
 
@@ -2356,7 +2212,7 @@ mammals, as conditions became more genial again, developed and spread to
 fill the vacant world.
 
 
-§ 5
+### § 5
 
 Were there mammals in the Mesozoic period?
 
@@ -2441,7 +2297,7 @@ of that time.[16]
 
 
 
-VII
+## VII
 
 THE AGE OF MAMMALS
 
@@ -2450,7 +2306,7 @@ THE AGE OF MAMMALS
      5. _Chronology of the Ice Age._
 
 
-§ 1
+### § 1
 
 The third great division of the geological record, the Cainozoic, opens
 with a world already physically very like the world we live in to-day.
@@ -2496,7 +2352,7 @@ covered in ice. Thereafter to our own time came a period of partial
 recovery.
 
 
-§ 2
+### § 2
 
 In the forests and following the grass over the Eocene plains there
 appeared for the first time a variety and abundance of mammals. Before
@@ -2593,7 +2449,7 @@ perception, of which even man to-day only begins to appreciate the
 significance.
 
 
-§ 3
+### § 3
 
 A number of types of mammal already appear in the Eocene. Some are
 differentiating in one direction, and some in another, some are
@@ -2645,7 +2501,7 @@ which it handled fruits and beat nuts upon the rocks and perhaps caught
 up sticks and stones to smite its fellows. It was our ancestor.
 
 
-§ 4
+### § 4
 
 Through millions of simian generations the spinning world circled about
 the sun; slowly its orbit, which may have been nearly circular during
@@ -2695,7 +2551,7 @@ that are like the forms of men. The Age of Mammals culminated in ice and
 hardship and man.
 
 
-§ 5
+### § 5
 
 Guesses about the duration of the great age of cold are still vague, but
 in the Time diagram on page 60 we follow H. F. Osborn in accepting as
@@ -2716,14 +2572,14 @@ Pliocene]
 
 
 
-BOOK II
+# BOOK II
 
 THE MAKING OF MEN
 
 
 
 
-VIII
+## VIII
 
 THE ANCESTRY OF MAN[20]
 
@@ -2732,7 +2588,7 @@ THE ANCESTRY OF MAN[20]
      Piltdown Sub-man._ § 5. _The Riddle of the Piltdown Remains._
 
 
-§ 1
+### § 1
 
 The origin of man is still very obscure. It is commonly asserted that he
 is “descended” from some man-like ape such as the chimpanzee, the
@@ -2839,7 +2695,7 @@ Mesozoic ancestry from which we are descended.[22]
 
 
 
-§ 2
+### § 2
 
 Among the earliest evidences of some creature, either human or at least
 more man-like than any living ape upon earth, are a number of flints and
@@ -2884,7 +2740,7 @@ tiger, and finished up the bodies on which the latter had gorged
 itself.[25]
 
 
-§ 3
+### § 3
 
 After this first glimpse of something at least sub-human in the record
 of geology, there is not another fragment of human or man-like bone yet
@@ -2915,7 +2771,7 @@ have had a very big body and large forelimbs. He may have been a woolly
 strange-looking creature.
 
 
-§ 4
+### § 4
 
 We must turn over the Record for, it may be, another 100,000 years for
 the next remains of anything human or sub-human. Then in a deposit
@@ -2985,7 +2841,7 @@ make it possible that the clumsier and heavier _Homo Heidelbergensis_, a
 thousand centuries before him, was of his blood and race.
 
 
-§ 5
+### § 5
 
 Upon this question of the Piltdown jaw-bone, it may be of interest to
 quote here a letter to the writer from Sir Ray Lankester, discussing the
@@ -3056,7 +2912,7 @@ different from the _Eoanthropus_ jaw.”
 
 
 
-IX
+## IX
 
 THE NEANDERTHAL MEN, AN EXTINCT RACE
 
@@ -3066,7 +2922,7 @@ THE NEANDERTHAL MEN, AN EXTINCT RACE
      First Men._ § 3. _The Last Palæolithic Men._
 
 
-§ 1
+### § 1
 
 In the time of the Third Interglacial period the outline of Europe and
 western Asia was very different from what it is to-day. Vast areas to
@@ -3162,7 +3018,7 @@ on another line. It may be they did not speak at all, or very sparingly.
 They had nothing that we should call a language.
 
 
-§ 2
+### § 2
 
 In Worthington Smith’s _Man the Primeval Savage_ there is a very vividly
 written description of early Palæolithic life, from which much of the
@@ -3318,7 +3174,7 @@ Its thick skull imprisoned its brain, and to the end it was low-browed
 and brutish.
 
 
-§ 3
+### § 3
 
 When the Dutch discovered Tasmania, they found a detached human race not
 very greatly advanced beyond this Lower Palæolithic stage. But over most
@@ -3343,7 +3199,7 @@ of our own race, came drifting into the European area.
 
 
 
-X
+## X
 
 THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
 
@@ -3355,7 +3211,7 @@ THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
      in America._
 
 
-§ 1
+### § 1
 
 The Neanderthal type of man prevailed in Europe at least for tens of
 thousands of years. For ages that make all history seem a thing of
@@ -3589,7 +3445,7 @@ in some way ceremonial or under what circumstances they were seen, we
 are now altogether at a loss to imagine.
 
 
-§ 2
+### § 2
 
 Archæologists distinguish at present three chief stages in the history
 of these newer Palæolithic men in Europe, and we must name these stages
@@ -3654,7 +3510,7 @@ ourselves and the very earliest beginnings of recorded history, passed
 off the European stage.
 
 
-§ 3
+### § 3
 
 There is a disposition on the part of many writers to exaggerate the
 intellectual and physical qualities of these later Palæolithic men and
@@ -3746,7 +3602,7 @@ predominant strain, in the Mongolian and American races.[40]
 
 
 
-§ 4
+### § 4
 
 It was about 12,000 or fewer years ago that, with the spread of forests
 and a great change of the fauna, the long prevalence of the hunting life
@@ -3796,7 +3652,7 @@ Ireland or Scotland. Man, when he entered these countries, was
 apparently already at the Neolithic stage of social development.
 
 
-§ 5
+### § 5
 
 Nor is there any convincing evidence of man in America before the end of
 the Pleistocene.[43] The same relaxation of the climate that permitted
@@ -3818,7 +3674,7 @@ America. The old world was the nursery of the sub-races of mankind.
 
 
 
-XI
+## XI
 
 NEOLITHIC MAN IN EUROPE[45]
 
@@ -3828,7 +3684,7 @@ NEOLITHIC MAN IN EUROPE[45]
      Mediterranean Valley._
 
 
-§ 1
+### § 1
 
 THE Neolithic phase of human affairs began in Europe about 10,000 or
 12,000 years ago. But probably men had reached the Neolithic stage
@@ -3933,7 +3789,7 @@ or at most 12,000 years ago, of which the Neolithic Period was the
 beginning, and which is still going on.
 
 
-§ 2
+### § 2
 
 We do not know yet the region in which the ancestors of the white and
 whitish Neolithic peoples worked their way up from the Palæolithic stage
@@ -3960,7 +3816,7 @@ level of many of the Polynesian islanders of the last century, and they
 were the most advanced peoples in the world.
 
 
-§ 3
+### § 3
 
 It will be of interest here to give a brief account of the life of the
 European Neolithic people before the appearance of metals. We get our
@@ -4155,7 +4011,7 @@ graminiferous grasses for his cattle might easily come to beat out the
 grain for himself.
 
 
-§ 4
+### § 4
 
 How did man learn to sow in order that he might reap?
 
@@ -4212,7 +4068,7 @@ critical examination, and to his works the reader must go for the
 indefatigable expansion of this idea.
 
 
-§ 5
+### § 5
 
 All these early beginnings must have taken place far back in time, and
 in regions of the world that have still to be effectively explored by
@@ -4241,7 +4097,7 @@ passed into each other by insensible degrees. Men got what they wanted
 by such means as they could.[59]
 
 
-§ 6
+### § 6
 
 So far we have been telling of a history without events, a history of
 ages and periods and stages in development. But before we conclude this
@@ -4346,7 +4202,7 @@ occurred.
 
 
 
-XII
+## XII
 
 EARLY THOUGHT[62]
 
@@ -4356,7 +4212,7 @@ EARLY THOUGHT[62]
      Religion._
 
 
-§ 1
+### § 1
 
 Before we go on to tell how 6000 or 7000 years ago men began to gather
 into the first towns and to develop something more than the loose-knit
@@ -4453,7 +4309,7 @@ minds of their predecessors are now deep and intricate grooves worn
 throughout the intervening centuries generation by generation.
 
 
-§ 2
+### § 2
 
 Certain very fundamental things there may have been in men’s minds long
 before the coming of speech. Chief among these must have been fear of
@@ -4486,7 +4342,7 @@ development.[64]
 
 
 
-§ 3
+### § 3
 
 Another idea probably arose early out of the mysterious visitation of
 infectious diseases, and that was the idea of uncleanness and of being
@@ -4531,7 +4387,7 @@ propitious, and from that to the idea of making things propitious by
 ceremonies is an easy step.[66]
 
 
-§ 4
+### § 4
 
 Out of such ideas and a jumble of kindred ones grew the first
 quasi-religious elements in human life. With every development of speech
@@ -4602,7 +4458,7 @@ the mountains, and where the sun went when it set, and what was above
 the clouds.
 
 
-§ 5
+### § 5
 
 The capacity for telling things increased with their vocabulary. The
 simple individual fancies, the unsystematic fetish tricks and
@@ -4643,7 +4499,7 @@ far beyond the regions where the snake is of serious practical
 importance in human life.
 
 
-§ 6
+### § 6
 
 With the beginnings of agriculture a fresh set of ideas arose in men’s
 minds. We have already indicated how easily and naturally men may have
@@ -4764,7 +4620,7 @@ the slime of the tidal beaches.
 
 
 
-XIII
+## XIII
 
 THE RACES OF MANKIND
 
@@ -4773,7 +4629,7 @@ THE RACES OF MANKIND
      How Existing Races may be Related to Each Other._
 
 
-§ 1
+### § 1
 
 It is necessary now to discuss plainly what is meant by a phrase, used
 often very carelessly, “The Races of Mankind.”
@@ -4913,7 +4769,7 @@ from the view of a biologist is an animal species in a state of arrested
 differentiation and possible readmixture.
 
 
-§ 2
+### § 2
 
 It is only in the last fifty or sixty years that the varieties of men
 came to be regarded in this light, as a tangle of differentiations
@@ -4954,7 +4810,7 @@ divisions, and they disregard the perpetual mixing where the main groups
 overlap.
 
 
-§ 3
+### § 3
 
 [Illustration: Negro types]
 
@@ -5017,7 +4873,7 @@ Showing probable range of the main races before the dawn of history.
 Mountain barriers are indicated thus [symbol] Sea barriers [symbol]]
 
 
-§ 4
+### § 4
 
 This Mediterranean or Iberian race certainly had a wider range in early
 times, and was a less specialized and distinctive race than the Nordic.
@@ -5093,7 +4949,7 @@ Semitic nomads of the Arabian desert seem also to have had a heliolithic
 stage.
 
 
-§ 5
+### § 5
 
 It may clear up the necessarily rather confused discussion of this
 chapter to give a summary of the views expressed here in a diagram.
@@ -5118,7 +4974,7 @@ RELATIONSHIP of HUMAN RACES
 
 
 
-XIV
+## XIV
 
 THE LANGUAGES OF MANKIND
 
@@ -5129,7 +4985,7 @@ THE LANGUAGES OF MANKIND
      Languages may be Related._
 
 
-§ 1
+### § 1
 
 It is improbable that there was ever such a thing as a common human
 language. We know nothing of the language of Palæolithic man; we do not
@@ -5163,7 +5019,7 @@ grammatical forms and the expression of abstract ideas may have come
 very late in human history, perhaps only 400 or 500 generations ago.
 
 
-§ 2
+### § 2
 
 The students of languages (philologists) tell us that they are unable to
 trace with certainty any common features in all the languages of
@@ -5236,7 +5092,7 @@ the Balkans to Afghanistan.[82] North-west of it a region of swamps and
 lagoons reached to the Baltic.
 
 
-§ 3
+### § 3
 
 Next to Aryan, philologists distinguish another group of languages which
 seem to have been made quite separately from the Aryan languages, the
@@ -5265,7 +5121,7 @@ Caucasians; but while the original Aryan speakers seem to have been of
 Nordic race, the original Semites were rather of the Mediterranean type.
 
 
-§ 4
+### § 4
 
 Philologists speak with less unanimity of a third group of languages,
 the HAMITIC, which some declare to be distinct from, and others allied
@@ -5322,7 +5178,7 @@ physiognomy; they seem, like their characteristic languages, to be more
 marked and specialized than the Hamitic-speaking peoples.
 
 
-§ 5
+### § 5
 
 Across to the north-east of the Aryan and Semitic areas there must once
 have spread a further distinct language system which is now represented
@@ -5336,7 +5192,7 @@ Mr. K. Hirai, has attempted to show that Japanese and Aryan may have had
 a common parent tongue.[83])
 
 
-§ 6
+### § 6
 
 A fifth region of language formation was south-eastern Asia, where there
 still prevails a group of languages consisting of monosyllables without
@@ -5360,7 +5216,7 @@ to the European on this account, and vice versa, because of the
 different nature of the expressions.
 
 
-§ 7
+### § 7
 
 In addition the following other great language families are
 distinguished by the philologist. All the American-Indian languages,
@@ -5471,7 +5327,7 @@ of knowledge that spread the crude patterns and use of various
 implements, and the seeds of a primitive agriculture about the world.
 
 
-§ 8
+### § 8
 
 The fundamental tongues of these nine main language groups we have noted
 were not by any means all the human speech beginnings of the Neolithic
@@ -5564,7 +5420,7 @@ the meaning to be understood.”
 Champollion.)]
 
 
-§ 9
+### § 9
 
 In reading this chapter it is well to remember how laborious and
 difficult are the tasks of comparative philology, and how necessary it
@@ -5585,14 +5441,14 @@ tongues.
 
 
 
-BOOK III
+# BOOK III
 
 THE DAWN OF HISTORY
 
 
 
 
-XV
+## XV
 
 THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES
 
@@ -5600,7 +5456,7 @@ THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES
      Life._ § 3. _Early Aryan Daily Life._
 
 
-§ 1
+### § 1
 
 We have spoken of the Aryan language as probably arising in the region
 of the Danube and South Russia and spreading from that region of origin.
@@ -5669,7 +5525,7 @@ between 3000 and 1000 B.C. and conquered dark Dravidian peoples who were
 then in possession of that land.
 
 
-§ 2
+### § 2
 
 What sort of life did these prehistoric Aryans lead, these Nordic Aryans
 who were the chief ancestors of most Europeans and most white Americans
@@ -5902,7 +5758,7 @@ of the main adventures in it is the looting of the treasures of a barrow
 already ancient in those days.
 
 
-§ 3
+### § 3
 
 The Greek epics reveal the early Greeks with no knowledge of iron,
 without writing, and before any Greek-founded cities existed in the land
@@ -6130,7 +5986,7 @@ deals in spells and prophecy.
 
 
 
-XVI
+## XVI
 
 THE FIRST CIVILIZATIONS
 
@@ -6142,7 +5998,7 @@ THE FIRST CIVILIZATIONS
      6. _While the Civilizations were Growing._
 
 
-§ 1
+### § 1
 
 When the Aryan way of speech and life was beginning to spread to the
 east and west of the region in which it began, and breaking up as it
@@ -6516,7 +6372,7 @@ pages of man’s history with the succession of countless generations to
 which the time diagrams given on pages 14, 60, and 89 bear witness.
 
 
-§ 3
+### § 3
 
 The story of the Nile valley from the dawn of its traceable history
 until the time of Alexander the Great is not very dissimilar from that
@@ -6661,7 +6517,7 @@ of other nations, as increasing facilities of communication drew the
 peoples of the world into closer and closer interaction.
 
 
-§ 4
+### § 4
 
 The history we need to tell here of India is simpler even than this
 brief record of Egypt. Somewhere about the time of Hammurabi or later, a
@@ -6677,7 +6533,7 @@ that separates the Punjab from the Ganges valley. But with this bare
 statement we will for a time leave the history of India.
 
 
-§ 5
+### § 5
 
 [Illustration: The Cradle of CHINESE CIVILIZATION]
 
@@ -6817,7 +6673,7 @@ suffice for our account of China. We shall return to the distinctive
 characters of its civilization later.
 
 
-§ 6
+### § 6
 
 And in these thousands of years during which man was making his way step
 by step from the barbarism of the heliolithic culture to civilization at
@@ -6905,7 +6761,7 @@ of one another. America was 6000 years behind the Old World.
 
 
 
-XVII
+## XVII
 
 SEA PEOPLES AND TRADING PEOPLES
 
@@ -6914,7 +6770,7 @@ SEA PEOPLES AND TRADING PEOPLES
      _Early Traders._ § 5. _Early Travellers._
 
 
-§ 1
+### § 1
 
 The first boats were made very early indeed in the Neolithic stage of
 culture by riverside and lakeside peoples. They were no more than trees
@@ -7022,7 +6878,7 @@ in Crete.[124]
 
 
 
-§ 2
+### § 2
 
 These early Cretans were of unknown race, but probably of a race akin to
 the Iberians of Spain and Western Europe and the dark whites of Asia
@@ -7150,7 +7006,7 @@ fought the Romans. Alexander the Great formed plans for her conquest;
 but he died, as we shall tell later, before he could carry them out.
 
 
-§ 3
+### § 3
 
 At her zenith Carthage probably had the hitherto unheard-of population
 of a million. This population was largely industrial, and her woven
@@ -7194,7 +7050,7 @@ years to complete their voyage. Each year they landed, and sowed and
 harvested a crop of wheat before going on.
 
 
-§ 4
+### § 4
 
 The great trading cities of the Phœnicians are the most striking of
 the early manifestations of the peculiar and characteristic gift of the
@@ -7265,7 +7121,7 @@ have had no money at all; they did their business by barter. Early
 Egyptian paintings show this going on.[129]
 
 
-§ 5
+### § 5
 
 When one realizes the absence of small money or of any conveniently
 portable means of exchange in the pre-Alexandrian world, one perceives
@@ -7311,7 +7167,7 @@ they will understand them altogether.
 
 
 
-XVIII
+## XVIII
 
 WRITING
 
@@ -7319,7 +7175,7 @@ WRITING
      Writing._ § 4. _The Place of Writing in Human Life._
 
 
-§ 1
+### § 1
 
 In the five preceding chapters (XIII to XVII) we have sketched in broad
 outline the development of the chief human communities from the
@@ -7453,7 +7309,7 @@ China to-day politically, socially, and individually a vast pool of
 backward people rather than the foremost power in the whole world.[133]
 
 
-§ 2
+### § 2
 
 But while the Chinese mind thus made for itself an instrument which is
 probably too elaborate in structure, too laborious in use, and too
@@ -7491,7 +7347,7 @@ and the Near East generally; there are vestiges of it in some of the
 letters of our alphabet to-day.
 
 
-§ 3
+### § 3
 
 But, meanwhile, in Egypt and upon the Mediterranean coast another system
 of writing grew up. Its beginnings are probably to be found in the
@@ -7526,7 +7382,7 @@ the vowels. They began to write for record, to help and fix their bardic
 tradition....
 
 
-§ 4
+### § 4
 
 So it was by a series of very natural steps that writing grew out of the
 life of man. At first and for long ages it was the interest and the
@@ -7628,7 +7484,7 @@ to-day is only in the beginning of knowledge.
 
 
 
-XIX
+## XIX
 
 GODS AND STARS, PRIESTS AND KINGS
 
@@ -7639,7 +7495,7 @@ GODS AND STARS, PRIESTS AND KINGS
      _Shi Hwang-ti Destroys the Books._
 
 
-§ 1
+### § 1
 
 We have already told what there is to tell of the social life of the
 Aryan tribes when they were settling down to the beginnings of civilized
@@ -7710,7 +7566,7 @@ fact, come now to a new stage in the history of mankind, the temple
 stage.
 
 
-§ 2
+### § 2
 
 In all these temples there was a shrine; dominating the shrine there was
 commonly a great figure, usually of some monstrous half-animal form,
@@ -7904,7 +7760,7 @@ The Egyptian priests had mapped out the stars into the constellations,
 and divided up the zodiac into twelve signs, by 3000 B.C. ...
 
 
-§ 4
+### § 4
 
 This clear evidence of astronomical inquiry and of a development of
 astronomical ideas is the most obvious, but only the most obvious,
@@ -8033,7 +7889,7 @@ fundamental struggle in political affairs are all that we can note here
 between 4000 B.C. and the days of Alexander.
 
 
-§ 6
+### § 6
 
 In the early days of Sumeria and Akkadia the city-kings were priests and
 medicine-men rather than kings, and it was only when foreign conquerors
@@ -8279,7 +8135,7 @@ So it was that the priests of Egypt conquered their conqueror, and an
 Aryan monarch first became a god....[146]
 
 
-§ 8
+### § 8
 
 The struggle of priest and king in China cannot be discussed here at any
 length. It was different again, as in Egypt it was different from
@@ -8311,7 +8167,7 @@ texts of the classics.
 
 
 
-XX
+## XX
 
 SERFS, SLAVES, SOCIAL CLASSES, AND FREE INDIVIDUALS
 
@@ -8322,7 +8178,7 @@ SERFS, SLAVES, SOCIAL CLASSES, AND FREE INDIVIDUALS
      Summary of Five Thousand Years._
 
 
-§ 1
+### § 1
 
 We have been sketching in the last four chapters the growth of civilized
 states out of the primitive Neolithic agriculture that began in
@@ -8402,7 +8258,7 @@ never shake themselves loose from the desire for leading and
 protection.[148]
 
 
-§ 2
+### § 2
 
 [Illustration: Egyptian peasants seized for non-payment of taxes ...
 (Pyramid Age)]
@@ -8497,7 +8353,7 @@ patch cultivation of the labourer-serf in the case of some staple
 products....
 
 
-§ 3
+### § 3
 
 So, in a few paragraphs, we trace the development of the simple social
 structure of the early Sumerian cities to the complex city crowds, the
@@ -8591,7 +8447,7 @@ Of that free intelligence we shall have more to say when in a subsequent
 chapter we tell of the Greeks.
 
 
-§ 4
+### § 4
 
 We may summarize the discussion of the last two chapters here by making
 a list of the chief elements in this complicated accumulation of human
@@ -8727,7 +8583,7 @@ revolution of the nineteenth century A.D., a new idea and a new
 possibility in human affairs.
 
 
-§ 5
+### § 5
 
 Let us, before we leave this discussion of the social classes that were
 developing in these first civilizations, devote a little attention to
@@ -8835,7 +8691,7 @@ than to the British or French.... But before we come to that conflict,
 we must traverse a long history of many centuries.
 
 
-§ 6
+### § 6
 
 If now we turn eastward from this main development of civilization in
 the world between Central Asia and the Atlantic, to the social
@@ -8909,7 +8765,7 @@ the vitality and persistence of the Brahmins and of their caste
 ideas....
 
 
-§ 7
+### § 7
 
 In China we find a social system travelling along yet another and only a
 very roughly parallel line to that followed by the Indian and Western
@@ -8988,7 +8844,7 @@ difference, that the same thing did not happen to the same extent in
 China.
 
 
-§ 8
+### § 8
 
 In these last six chapters we have traced in outline the whole process
 by which, in the course of 5000 or 6000 years--that is to say, in
@@ -9061,14 +8917,14 @@ now to examine any of these stitches.
 
 
 
-BOOK IV
+# BOOK IV
 
 JUDEA, GREECE, AND INDIA
 
 
 
 
-XXI
+## XXI
 
 THE HEBREW SCRIPTURES AND THE PROPHETS[157]
 
@@ -9077,7 +8933,7 @@ THE HEBREW SCRIPTURES AND THE PROPHETS[157]
      Importance of the Hebrew Prophets._
 
 
-§ 1
+### § 1
 
 We are now in a position to place in their proper relationship to this
 general outline of human history the Israelites, and the most remarkable
@@ -9353,7 +9209,7 @@ all the nations; and that our king may judge us, and go out before us,
 and fight our battles.’” (I Sam., chap. viii.)
 
 
-§ 2
+### § 2
 
 But the nature and position of their land was against the Hebrews, and
 their first king Saul was no more successful than their judges. The long
@@ -9566,7 +9422,7 @@ moral and intellectual consequences of primary importance to all
 mankind.
 
 
-§ 3
+### § 3
 
 The Jews who returned, after an interval of more than two generations,
 to Jerusalem from Babylonia in the time of Cyrus were a very different
@@ -9647,7 +9503,7 @@ also great Arabian accessions. In South Russia, as we shall note later,
 there were even Mongolian Jews.
 
 
-§ 4
+### § 4
 
 The historical books from Genesis to Nehemiah, upon which the idea of
 the promise to the chosen people had been imposed later, were no doubt
@@ -9752,7 +9608,7 @@ peace had come into the world.[168]
 
 
 
-XXII
+## XXII
 
 THE GREEKS AND THE PERSIANS[169]
 
@@ -9764,7 +9620,7 @@ Battle of Marathon._ § 9. _Thermopylæ and Salamis._ § 10. _Platæa and
 Mycale._
 
 
-§ 1
+### § 1
 
 And now our history must go back again to those Aryan-speaking peoples
 of whose early beginnings we have given an account in Chapters XIV and
@@ -9894,7 +9750,7 @@ great numbers of people could master them and make a record for later
 ages.[172]
 
 
-§ 2
+### § 2
 
 Now this Greek civilization that we find growing up in South Italy and
 Greece and Asia Minor in the seventh century B.C., is a civilization
@@ -10008,7 +9864,7 @@ this, half or more were slaves and strangers, and two-thirds of the free
 body women and children.
 
 
-§ 3
+### § 3
 
 The government of these city states varied very widely in its nature. As
 they settled down after their conquests the Greeks retained for a time
@@ -10280,7 +10136,7 @@ in possession of the ancient civilizations of Assyria, Babylonia, and
 about to subjugate Egypt.
 
 
-§ 4
+### § 4
 
 We have had occasion to mention the kingdom of Lydia, and it may be well
 to give a short note here upon the Lydians before proceeding with our
@@ -10341,7 +10197,7 @@ development.... So much we may note of Lydia by way of preface to the
 next section.
 
 
-§ 5
+### § 5
 
 Now while one series of Aryan-speaking invaders had developed along the
 lines we have described in Greece, Magna Græcia, and around the shores
@@ -10448,7 +10304,7 @@ to India. Nabonidus, the last of the Babylonian rulers, was, as we have
 already told, digging up old records and building temples in Babylonia.
 
 
-§ 6
+### § 6
 
 But one monarch in the world was alive to the threat of the new power
 that lay in the hands of Cyrus. This was Crœsus, the Lydian king. His
@@ -10663,7 +10519,7 @@ B.C.), probably as we have already suggested, with the connivance of the
 priests of Bel.
 
 
-§ 7
+### § 7
 
 Cyrus was succeeded by his son Cambyses, who took an army into Egypt
 (525 B.C.). There was a battle in the delta, in which Greek mercenaries
@@ -10840,7 +10696,7 @@ the Persians with a fleet by means of which one Greek island after
 another was subjugated.
 
 
-§ 8
+### § 8
 
 The first attack upon Greece proper was made in 490 B.C. It was a sea
 attack upon Athens, with a force long and carefully prepared for the
@@ -10889,7 +10745,7 @@ afterwards they departed home, commending the Athenians and the work
 which they had done.”
 
 
-§ 9
+### § 9
 
 So Greece, unified for a while by fear, gained her first victory over
 Persia. The news came to Darius simultaneously with the news of a
@@ -11091,7 +10947,7 @@ water there died many of those in the army who had remained safe till
 then. The rest arrived with Xerxes at Sardis.”
 
 
-§ 10
+### § 10
 
 The rest of the Persian army remained in Thessaly under the command of
 Mardonius, and for a year he maintained an aggressive campaign against
@@ -11185,7 +11041,7 @@ be very easy to conquer.
 
 
 
-XXIII
+## XXIII
 
 GREEK THOUGHT AND LITERATURE[182]
 
@@ -11196,7 +11052,7 @@ GREEK THOUGHT AND LITERATURE[182]
      of Greek Thought._
 
 
-§ 1
+### § 1
 
 Greek history for the next forty years after Platæa and Mycale is a
 story of comparative peace and tranquillity. There were wars, but they
@@ -11462,7 +11318,7 @@ was the movement of a small group of people exceptionally placed and
 gifted.
 
 
-§ 2
+### § 2
 
 Another leading figure in this Athenian movement, a figure still more
 out of harmony with the life around him, and quite as much an original
@@ -11508,7 +11364,7 @@ His death is described with great beauty in the dialogue of Plato called
 by the name of Phædo.
 
 
-§ 3
+### § 3
 
 The preceding section raised an interesting discussion between Professor
 Gilbert Murray and the writer upon the character and quality of the
@@ -11575,7 +11431,7 @@ faults of a superior South Sea Islander than like the viler side of the
 ‘crowd’ to-day.”
 
 
-§ 4
+### § 4
 
 The most characteristic feature of the opening years of this brilliant
 century and a half (475 to 325 B.C.) of Greek intellectual life was the
@@ -11638,7 +11494,7 @@ came some eighteen years later; Euripides was four years old when
 building were drawing to a close.[187]
 
 
-§ 5
+### § 5
 
 The influence of Socrates also began to bear fruit after the days of
 Pericles and Aspasia. This old questioner, at whose touch faith,
@@ -11714,7 +11570,7 @@ theoretically and practically of absolute monarchy as shown in the
 organization of the Persian Empire.”[188]
 
 
-§ 6
+### § 6
 
 Plato taught in the Academy. To him in his old age came a certain
 good-looking youngster from Stagira in Macedonia, Aristotle, who was the
@@ -11782,7 +11638,7 @@ and that only for a few generations. Fifty years after Aristotle’s death
 the Lyceum had already dwindled to insignificance.
 
 
-§ 7
+### § 7
 
 The general drift of thought in the concluding years of the fourth
 century B.C. was not with Aristotle, nor towards the laborious and
@@ -11818,7 +11674,7 @@ And meanwhile the stream of events flowed on, with a reciprocal
 indifference to philosophy.
 
 
-§ 8
+### § 8
 
 If the Greek classics are to be read with any benefit by modern men,
 they must be read as the work of men like ourselves. Regard must be had
@@ -12002,7 +11858,7 @@ his early death while men were still dazzled by its immensity.
 
 
 
-XXIV
+## XXIV
 
 THE CAREER OF ALEXANDER THE GREAT[195]
 
@@ -12013,7 +11869,7 @@ THE CAREER OF ALEXANDER THE GREAT[195]
      a Portent of World Unity._
 
 
-§ 1
+### § 1
 
 The true hero of the story of Alexander is not so much Alexander as his
 father Philip. The author of a piece does not shine in the limelight as
@@ -12185,7 +12041,7 @@ activity. In 336 B.C. his advanced guard crossed into Asia....
 But he never followed with his main force. He was assassinated.
 
 
-§ 2
+### § 2
 
 It is necessary now to tell something of the domestic life of King
 Philip. The lives of both Philip and his son were pervaded by the
@@ -12327,7 +12183,7 @@ dutiful disposition in sending her always a large share of the plunder
 he made.
 
 
-§ 3
+### § 3
 
 These stories have to be told because history cannot be understood
 without them. Here was the great world of men between India and the
@@ -12608,7 +12464,7 @@ the great palace of the king of kings. This he afterwards declared was
 the revenge of Greece for the burning of Athens by Xerxes.
 
 
-§ 4
+### § 4
 
 And now begins a new phase in the story of Alexander. For the next seven
 years he wandered with an army chiefly of Macedonians in the north and
@@ -12745,7 +12601,7 @@ with Indian history and social life that still needs to be made
 accessible to European readers.
 
 
-§ 5
+### § 5
 
 [Illustration: Alexander the Great
 
@@ -12921,7 +12777,7 @@ was shed upon his death by these disinterments. Finally Olympias was
 killed in Macedonia by the friends of those she had slain.
 
 
-§ 6
+### § 6
 
 [Illustration: Tetradrachm with head of Seleucus I.]
 
@@ -12960,7 +12816,7 @@ Greek; then gradually barbarism fell again like a curtain between the
 Western civilizations and India.[201]
 
 
-§ 7
+### § 7
 
 Amidst all these shattered fragments of the burst bubble of Hellenic
 empire one small state stands out and demands at least a brief section
@@ -12994,7 +12850,7 @@ Roman republic the heir to his kingdom, which became then the Roman
 province of “Asia.”
 
 
-§ 8
+### § 8
 
 Nearly all historians are disposed to regard the career of Alexander the
 Great as marking an epoch in human affairs. It drew together all the
@@ -13079,7 +12935,7 @@ a new direction to human affairs.
 
 
 
-XXV
+## XXV
 
 SCIENCE AND RELIGION AT ALEXANDRIA[203]
 
@@ -13087,7 +12943,7 @@ SCIENCE AND RELIGION AT ALEXANDRIA[203]
      § 3. _Alexandria as a Factory of Religions._
 
 
-§ 1
+### § 1
 
 One of the most prosperous fragments of the brief world empire of
 Alexander the Great was Egypt, which fell to the share of the Ptolemy
@@ -13317,7 +13173,7 @@ honestly, and easily available to the ordinary men and women who are the
 substance of mankind.
 
 
-§ 2
+### § 2
 
 At first the mental activities of Alexandria centred upon the Museum,
 and were mainly scientific. Philosophy, which in a more vigorous age had
@@ -13341,7 +13197,7 @@ third, interesting as the thought and influence of these men were, the
 scale of this outline will not permit us to treat.
 
 
-§ 3
+### § 3
 
 If Alexandria was late to develop a distinctive philosophy, she was
 early prominent as a great factory and exchange of religious ideas.
@@ -13477,7 +13333,7 @@ theocrasia in the second and first centuries before Christ.[210]
 
 
 
-XXVI
+## XXVI
 
 THE RISE AND SPREAD OF BUDDHISM[211]
 
@@ -13487,7 +13343,7 @@ THE RISE AND SPREAD OF BUDDHISM[211]
      Corruptions of Buddhism._ § 7. _The Present Range of Buddhism._
 
 
-§ 1
+### § 1
 
 It is interesting to turn from the mental and moral activities of Athens
 and Alexandria, and the growth of human ideas in the Mediterranean
@@ -13674,7 +13530,7 @@ all night in profound thought, and then he rose up to impart his vision
 to the world.
 
 
-§ 2
+### § 2
 
 Such is the plain story of Gautama as we gather it from a comparison of
 early writings. But common men must have their cheap marvels and
@@ -13743,7 +13599,7 @@ the Four Truths, and so on, but this enumeration was a mnemonic
 necessity in an undocumented world.
 
 
-§ 3
+### § 3
 
 The fundamental teaching of Gautama, as it is now being made plain to us
 by the study of original sources, is clear and simple and in the
@@ -13878,7 +13734,7 @@ reality of the innumerable and often grotesque gods who were worshipped
 in India at that time. It passed them by.
 
 
-§ 4
+### § 4
 
 From the very first this new teaching was misconceived. One corruption
 was perhaps inherent in its teaching. Because the world of men had as
@@ -14092,7 +13948,7 @@ memory to-day than have ever heard the names of Constantine or
 Charlemagne.
 
 
-§ 5
+### § 5
 
 It is thought that the vast benefactions of Asoka finally corrupted
 Buddhism by attracting to its Order great numbers of mercenary and
@@ -14240,7 +14096,7 @@ the stern unity of things.
 
 
 
-§ 6
+### § 6
 
 The intolerance of the Jewish mind did keep its essential faith clear
 and clean. The theological disregard of the great Eastern teachers,
@@ -14303,7 +14159,7 @@ divine leadership to serve divine ends, it remained in comparison with
 Buddhism bright and expectant, like a cared-for sword.
 
 
-§ 7
+### § 7
 
 For some time Buddhism flourished in India. But Brahminism, with its
 many gods and its endless variety of cults, always flourished by its
@@ -14334,14 +14190,14 @@ peoples.
 
 
 
-BOOK V
+# BOOK V
 
 THE RISE AND COLLAPSE OF THE ROMAN EMPIRE
 
 
 
 
-XXVII
+## XXVII
 
 THE TWO WESTERN REPUBLICS[224]
 
@@ -14353,7 +14209,7 @@ THE TWO WESTERN REPUBLICS[224]
      Republic with a Modern State._
 
 
-§ 1
+### § 1
 
 It is now necessary to take up the history of the two great republics of
 the Western Mediterranean, Rome and Carthage, and to tell how Rome
@@ -15006,7 +14862,7 @@ allowed to enter the city while in command of the troops), it assembled
 in the Campus Martius outside the walls.
 
 
-§ 3
+### § 3
 
 It has been necessary to deal rather fully with the political structure
 of the Roman republic because of its immense importance to this day.
@@ -15032,7 +14888,7 @@ confident that a sea ascendancy that had lasted two centuries must be in
 the very nature of things.
 
 
-§ 4
+### § 4
 
 It would be interesting, and not altogether idle, to speculate what
 might have happened to mankind if Rome and Carthage could have settled
@@ -15158,7 +15014,7 @@ provinces of the older empires. And, in addition, Carthage paid a war
 indemnity of 3200 talents (£788,000).
 
 
-§ 5
+### § 5
 
 [Illustration: Roman As (bronze, 4th Cent. B.C. Half size.)]
 
@@ -15299,7 +15155,7 @@ Two great peoples, both very necessary to the world’s development, fell
 foul of one another, and at last Rome succeeded in murdering Carthage.
 
 
-§ 6
+### § 6
 
 We can only tell very briefly here of the particulars of the Second and
 Third Punic Wars. We have told how Hamilcar began to organize Spain, and
@@ -15477,7 +15333,7 @@ the Censor, necessarily made their country a mean ally and a cowardly
 victor.
 
 
-§ 7
+### § 7
 
 The history of Rome for the fifty-six years that elapsed between the
 battle of Zama and the last act of the tragedy, the Third Punic War,
@@ -15629,7 +15485,7 @@ monopolies, Corinth. They had a justification, for Corinth had been in
 arms against them, but it was an inadequate justification.
 
 
-§ 8
+### § 8
 
 We must note here, in a brief section, a change in the military system
 of Rome, after the Second Punic War, that was of enormous importance in
@@ -15675,7 +15531,7 @@ in Rome to court the plebeians; after that time they began to court the
 legions.
 
 
-§ 9
+### § 9
 
 The history of the Roman Republic thus far, is in many respects much
 more modern in flavour, especially to the American or Western European
@@ -15835,7 +15691,7 @@ these two evil things dwindled and disappeared.[245]
 
 
 
-XXVIII
+## XXVIII
 
 FROM TIBERIUS GRACCHUS TO THE GOD EMPEROR IN ROME
 
@@ -15846,7 +15702,7 @@ FROM TIBERIUS GRACCHUS TO THE GOD EMPEROR IN ROME
      Republic Failed._
 
 
-§ 1
+### § 1
 
 We have already twice likened the self-governing community of Rome to a
 “Neanderthal” variety of the modern “democratic” civilized state, and we
@@ -15969,7 +15825,7 @@ lairs and weapon heaps. History has still to become a record of human
 dignity.
 
 
-§ 2
+### § 2
 
 Another respect in which the Roman system was a crude anticipation of
 our own, and different from any preceding political system we have
@@ -16049,7 +15905,7 @@ which is the preparatory condition for all great revolutionary
 movements.
 
 
-§ 3
+### § 3
 
 The first conspicuous leader to appeal to the gathering revolutionary
 feeling in Italy was Tiberius Gracchus. He looks more like an honest man
@@ -16263,7 +16119,7 @@ himself up to abominable vices, and so presently died, eaten up with
 some disgusting disease produced by debauchery.[250]
 
 
-§ 4
+### § 4
 
 Political life in Italy was not so much tranquillized as stunned by the
 massacres and confiscations of Marius and Sulla. The scale upon which
@@ -16377,7 +16233,7 @@ was to weaken and so restore to barbarism the far wider conquests of
 Hellenic civilization.
 
 
-§ 5
+### § 5
 
 But among the politicians of Italy in the first century B.C. there were
 no maps of Germany and Russia, Africa and central Asia, and no
@@ -16513,7 +16369,7 @@ their houses were attacked, and they had to hide and fly for their
 lives.
 
 
-§ 6
+### § 6
 
 But the trend of things was overwhelmingly towards monarchy. For
 thirteen years more the struggle of personalities went on. One single
@@ -16638,7 +16494,7 @@ restored republic and its new _princeps_ the balance of power was
 overwhelmingly on the side of the latter.”[255]
 
 
-§ 7
+### § 7
 
 In this manner it was that Roman republicanism ended in a _princeps_ or
 ruling prince, and the first great experiment in a self-governing
@@ -16769,7 +16625,7 @@ or juvenile monarchs that overtook such types in Rome.
 
 
 
-XXIX
+## XXIX
 
 THE CÆSARS BETWEEN THE SEA AND THE GREAT PLAINS OF THE OLD WORLD[256]
 
@@ -16779,7 +16635,7 @@ THE CÆSARS BETWEEN THE SEA AND THE GREAT PLAINS OF THE OLD WORLD[256]
      crumples up._ § 6. _The Eastern (revived Hellenic) Empire._
 
 
-§ 1
+### § 1
 
 Western writers are apt, through their patriotic predispositions, to
 overestimate the organization, civilizing work, and security of the
@@ -16994,7 +16850,7 @@ something of the conditions of human life in the Roman Empire during its
 two centuries of prosperity.
 
 
-§ 2
+### § 2
 
 The impatient reader of history may be disposed to count the two
 centuries of order between 27 B.C. and 180 A.D. as among the wasted
@@ -17358,7 +17214,7 @@ faced persecution and torment. But of the origins and quality of
 Christianity we will tell more fully in a later chapter.
 
 
-§ 3
+### § 3
 
 We have already shown reason for our statement that the Roman imperial
 system was a very unsound political growth indeed. It is absurd to write
@@ -17774,7 +17630,7 @@ personal dignity perhaps, and certainly with a more intimate contact
 with wind and sky.
 
 
-§ 5
+### § 5
 
 The first serious irruptions of the German tribes into the Roman Empire
 began in the third century with the decay of the central power.[268] We
@@ -18017,7 +17873,7 @@ and collapse that the great slave-holding “world-ascendancy” of the
 God-Cæsars and the rich men of Rome came to an end.
 
 
-§ 6
+### § 6
 
 But though throughout the whole of Western Europe and North Africa the
 Roman imperial system had collapsed, though credit had vanished, luxury
@@ -18160,14 +18016,14 @@ no real Cæsar ever looked upon), Kaisar-i-Hind.
 
 
 
-BOOK VI
+# BOOK VI
 
 CHRISTIANITY AND ISLAM
 
 
 
 
-XXX
+## XXX
 
 THE BEGINNINGS, THE RISE, AND THE DIVISIONS OF CHRISTIANITY
 
@@ -18180,7 +18036,7 @@ THE BEGINNINGS, THE RISE, AND THE DIVISIONS OF CHRISTIANITY
      A.D. 500._ § 10. _The Salvation of Learning by Christianity._
 
 
-§ 1
+### § 1
 
 Before we can understand the qualities of Christianity, which must now
 play a large part in our history, and which opened men’s eyes to fresh
@@ -18292,7 +18148,7 @@ in the Jewish mind. This was Jesus of Nazareth, the seed rather than the
 founder of Christianity.
 
 
-§ 2
+### § 2
 
 The audience to which this book will first be presented will be largely
 an audience of Christians, with perhaps a sprinkling of Jewish readers,
@@ -18630,7 +18486,7 @@ small hearts?[282]
 
 
 
-§ 3
+### § 3
 
 Yet be it noted that while there was much in the real teachings of Jesus
 that a rich man or a priest or a trader or an imperial official or any
@@ -18724,7 +18580,7 @@ disavow a religious purpose altogether, the lines of the outline remain
 the same.
 
 
-§ 4
+### § 4
 
 In the year 30 A.D.,[285] while Tiberius, the second emperor, was
 Emperor of Rome and Pontius Pilate was procurator of Judea, a little
@@ -19062,7 +18918,7 @@ front against gladiatorial shows and against slavery, and against the
 degrading worship of idols and of the god-Cæsar.
 
 
-§ 6
+### § 6
 
 So far as it challenged the divinity of Cæsar and the characteristic
 institutions of the empire, Christianity is to be regarded as a
@@ -19204,7 +19060,7 @@ as a Christian.[294]
 
 
 
-§ 7
+### § 7
 
 The figure of Constantine the Great is at least as cardinal in history
 as that of Alexander the Great or Augustus Cæsar. We know very little of
@@ -19295,7 +19151,7 @@ church at Alexandria would have excommunicated Arius, he obliged it to
 readmit him to communion.
 
 
-§ 8
+### § 8
 
 This date, 325 A.D., is a very convenient date in our history. It is the
 date of the first complete general (“œcumenical”) council of the
@@ -19448,7 +19304,7 @@ failure of this great idea of a divine world government to realize
 itself in practice.
 
 
-§ 9
+### § 9
 
 We have already given an account in the previous chapter of the chief
 irruptions of the barbarian races. We may now, with the help of a map,
@@ -19578,7 +19434,7 @@ by their industry, placing themselves under the protection of some
 adjacent noble.
 
 
-§ 10
+### § 10
 
 A very important share in the social recrystallization that went on in
 the sixth and seventh centuries after the breakdown and fusion of the
@@ -19729,7 +19585,7 @@ more of that splendid literature than it had a mind to do.
 
 
 
-XXXI
+## XXXI
 
 SEVEN CENTURIES IN ASIA (CIRCA 50 B.C. TO A.D. 650)
 
@@ -19741,7 +19597,7 @@ SEVEN CENTURIES IN ASIA (CIRCA 50 B.C. TO A.D. 650)
      Chwang._
 
 
-§ 1
+### § 1
 
 In the preceding two chapters we have concentrated our attention chiefly
 on the collapse in the comparatively short space of four centuries of
@@ -19813,7 +19669,7 @@ great Persian defeat at Nineveh (627), it is necessary to sketch very
 briefly the history of Persia from the Parthian days.
 
 
-§ 2
+### § 2
 
 We have already drawn a comparison between the brief four centuries of
 Roman imperialism and the obstinate vitality of the imperialism of the
@@ -19912,7 +19768,7 @@ old boundaries; and the true cross was sent back to Heraclius, who
 replaced it in Jerusalem with much pomp and ceremony.
 
 
-§ 3
+### § 3
 
 So we give briefly the leading events in the history of the Persian as
 of the Byzantine Empire. What is more interesting for us and less easy
@@ -20042,7 +19898,7 @@ ploughed and harrowed by the Persian armies; the great cities had been
 plundered and sacked.”
 
 
-§ 4
+### § 4
 
 It was while Heraclius was engaged in restoring order in this already
 desolated Syria after the death of Chosroes II and before the final
@@ -20076,7 +19932,7 @@ Medina, he was very angry. “Even so, O Lord!” he cried; “rend Thou his
 kingdom from him.” (A.D. 628.)
 
 
-§ 5
+### § 5
 
 But before we go on to tell of the rise of Islam in the world, it will
 be well to complete our survey of the condition of Asia in the dawn of
@@ -20170,7 +20026,7 @@ Persia with Nestorian Christianity and orthodox Zoroastrianism
 (Mazdaism) for some centuries.
 
 
-§ 6
+### § 6
 
 It becomes fairly evident that in the fifth and sixth centuries A.D. not
 merely Persia, but the regions that are now Turkestan and Afghanistan
@@ -20430,7 +20286,7 @@ Canton--a mosque which survives to this day. It is one of the oldest
 mosques in the world.
 
 
-§ 8
+### § 8
 
 The urbanity, the culture, and the power of China under the early Tang
 rulers are in so vivid a contrast with the decay, disorder, and
@@ -21402,7 +21258,7 @@ Time-chart A.D. 1220-A.D. 1920                                       603
 
 
 
-BOOK VI (_Continued_)
+# BOOK VI (_Continued_)
 
 CHRISTIANITY AND ISLAM (_Continued_)
 
@@ -21414,7 +21270,7 @@ THE OUTLINE OF HISTORY
 
 
 
-XXXII
+## XXXII
 
 MUHAMMAD AND ISLAM[319]
 
@@ -21425,7 +21281,7 @@ MUHAMMAD AND ISLAM[319]
      the Abbasids._ § 8. _The Intellectual Life of Arab Islam._
 
 
-§ 1
+### § 1
 
 We have already described how in A.D. 628 the courts of Heraclius, of
 Kavadh, and of Tai-tsung were visited by Arab envoys sent from a certain
@@ -21529,7 +21385,7 @@ there were Jewish settlements near by. It was inevitable that Mecca and
 Medina should be in a state of rivalry and bickering feud.
 
 
-§ 2
+### § 2
 
 It was in Mecca about the year A.D. 570 that Muhammad, the founder of
 Islam, was born. He was born in considerable poverty, and even by the
@@ -21667,7 +21523,7 @@ received with great enthusiasm on September 20, 622. It was the end of
 his probation and the beginning of his power.[323]
 
 
-§ 3
+### § 3
 
 Until the Hegira, until he was fifty-one, the character of the founder
 of Islam is a matter of speculation and dispute. Thereafter he is in the
@@ -21880,7 +21736,7 @@ eases the afflicted heart,” he said. “Though it neither profits nor
 injures the dead, yet it is a comfort to the living.”
 
 
-§ 4
+### § 4
 
 But the personal quality of Muhammad is one thing and the quality of
 Islam, the religion he founded, is quite another. Muhammad was not
@@ -21988,7 +21844,7 @@ altars or chanting of priests, Muhammad had brought home those
 attractive doctrines to the hearts of mankind.
 
 
-§ 5
+### § 5
 
 The true embodiment of the spirit of Islam was not Muhammad, but his
 close friend and supporter Abu Bekr. There can be little doubt that if
@@ -22165,7 +22021,7 @@ those Persian emperors, and descend to hell even as they have
 done?”[327]
 
 
-§ 6
+### § 6
 
 Abu Bekr and Omar I are the two master figures in the history of Islam.
 It is not within our scope here to describe the wars by which in a
@@ -22412,7 +22268,7 @@ There was, it is interesting to note, a rising on behalf of the Omayyads
 in Khorasan which was assisted by the Chinese emperor.
 
 
-§ 7
+### § 7
 
 But the descendants of Ali were not destined to share in this triumph
 for long. The Abbasids were adventurers and rulers of an older school
@@ -22542,7 +22398,7 @@ had been rather border-bickering than sustained war. It became only a
 bitter fanatical struggle again in the eleventh century.
 
 
-§ 8
+### § 8
 
 But before we go on to tell of the Turks and the Crusaders, the great
 wars that began between Christendom and Islam, and which have left a
@@ -22722,7 +22578,7 @@ affairs than they have ever been before in the world’s history.
 
 
 
-XXXIII
+## XXXIII
 
 CHRISTENDOM AND THE CRUSADES
 
@@ -22738,7 +22594,7 @@ CHRISTENDOM AND THE CRUSADES
      Papacy._ § 14. _A List of Leading Popes._
 
 
-§ 1
+### § 1
 
 Let us turn again now from this intellectual renascence in the cradle of
 the ancient civilizations to the affairs of the Western world. We have
@@ -22800,7 +22656,7 @@ shall now have much to tell; but first we must give some account of the
 new system of social groupings out of which it arose.
 
 
-§ 2
+### § 2
 
 It is necessary that the reader should have a definite idea of the
 social condition of western Europe in the eighth century. It was not a
@@ -22912,7 +22768,7 @@ had failed and vanished and private law had come in to fill the vacuum.
 Public duty had become private obligation.
 
 
-§ 3
+### § 3
 
 We have already mentioned various kingdoms of the barbarian tribes who
 set up a more or less flimsy dominion over this or that area amidst the
@@ -22989,7 +22845,7 @@ lying down to sleep among the stone coffins that had held the bones of
 their Merovingian kings.
 
 
-§ 4
+### § 4
 
 The populations over which Charles Martel and King Pepin ruled were at
 very different levels of civilization in different districts. To the
@@ -23157,7 +23013,7 @@ Charlemagne with his neighbours to the south and east, and to the
 imperial tradition.
 
 
-§ 5
+### § 5
 
 [Illustration: EUROPE at the death of CHARLEMAGNE--814.]
 
@@ -23284,7 +23140,7 @@ tradition, the tradition of the aristocratic republic, hostile to both
 Emperor and Pope.
 
 
-§ 6
+### § 6
 
 In spite of the fact that we have a life of him written by his
 contemporary, Eginhard,[341] the character and personality of
@@ -23373,7 +23229,7 @@ Christian properties in his dominions. Some historians declare
 explicitly that there was a treaty to that effect.[344]
 
 
-§ 7
+### § 7
 
 The Empire of Charlemagne did not outlive his son and successor, Louis
 the Pious. It fell apart into its main constituents. The Latinized
@@ -23454,7 +23310,7 @@ Spirit of Islam generation by generation produced its crop of courage,
 integrity, and kindliness.
 
 
-§ 8
+### § 8
 
 While the Holy Roman Empire and the kingdoms of France and England were
 thus appearing amidst the extreme political fragmentation of the
@@ -23679,7 +23535,7 @@ in what is now Anatolia. In a little while they were in possession of
 the fortress of Nicæa over against the capital.
 
 
-§ 9
+### § 9
 
 We have already told of the attack of the Normans upon the Byzantine
 Empire from the west, and of the battle of Durazzo (1081); and we have
@@ -23810,7 +23666,7 @@ something new that has come into the world, a new clear connection of
 the common interest with the consciousness of the common man.
 
 
-§ 10
+### § 10
 
 From the very first this flaming enthusiasm was mixed with baser
 elements. There was the cold and calculated scheme of the free and
@@ -24170,7 +24026,7 @@ mankind that what we are given to administer we presently imagine we
 own.
 
 
-§ 12
+### § 12
 
 The Emperor Frederick II is a very convenient example of the sort of
 doubter and rebel the thirteenth century could produce. It may be
@@ -24531,7 +24387,7 @@ was carried out at the command of Pope Martin V by Bishop Fleming in
 the official act of the church.
 
 
-§ 14
+### § 14
 
 The history of the papacy is confusing to the general reader because of
 the multitude and abundance of the Popes. They mostly began to reign as
@@ -24704,7 +24560,7 @@ ineffective electoral methods.
 
 
 
-BOOK VII
+# BOOK VII
 
 THE MONGOL EMPIRES OF THE LAND WAYS AND THE NEW EMPIRES OF THE SEA
 WAYS
@@ -24712,7 +24568,7 @@ WAYS
 
 
 
-XXXIV
+## XXXIV
 
 THE GREAT EMPIRE OF JENGIS KHAN AND HIS SUCCESSORS
 
@@ -24727,7 +24583,7 @@ THE GREAT EMPIRE OF JENGIS KHAN AND HIS SUCCESSORS
      Empire of India._ § 5F. _The Mongols and the Gipsies._
 
 
-§ 1
+### § 1
 
 We have to tell now of the last and greatest of all the raids of
 nomadism upon the civilizations of the East and West. We have traced in
@@ -24817,7 +24673,7 @@ consolidate his power among the nomads in the country between Lakes
 Balkash and Baikal in the beginning of the thirteenth century.
 
 
-§ 2
+### § 2
 
 The career of conquest of Jengis Khan and his immediate successors
 astounded the world, and probably astounded no one more than these
@@ -24988,7 +24844,7 @@ Mongolian energy in Western Asia was destined to create a still more
 enduring monarchy in India.
 
 
-§ 3
+### § 3
 
 Now this story of Mongolian conquests is surely the most remarkable in
 all history. The conquests of Alexander the Great cannot compare with
@@ -25184,7 +25040,7 @@ the European romance of the fifteenth century, echoes with the names in
 Marco Polo’s story, with Cathay and Cambulac and the like.
 
 
-§ 4
+### § 4
 
 These travels of Marco Polo were only the beginning of a very
 considerable intercourse. That intercourse was to bring many
@@ -25354,7 +25210,7 @@ warfare with the empire he was in alliance with the French. Under him
 the Ottoman power reached its zenith.
 
 
-§ 5
+### § 5
 
 Let us now very briefly run over the subsequent development of the main
 masses of the empire of the Great Khan. In no case did Christianity
@@ -25748,7 +25604,7 @@ the steppes as well as on the ploughlands.
 
 
 
-XXXV
+## XXXV
 
 THE RENASCENCE OF WESTERN CIVILIZATION[371]
 
@@ -25765,7 +25621,7 @@ THE RENASCENCE OF WESTERN CIVILIZATION[371]
      Prince Wills it._ § 11C. _The Intellectual Under-tow._
 
 
-§ 1
+### § 1
 
 Judged by the map, the three centuries from the beginning of the
 thirteenth to the end of the fifteenth century were an age of recession
@@ -26023,7 +25879,7 @@ compatible with the co-operations and wealth and security of
 civilization.
 
 
-§ 2
+### § 2
 
 But though it is certain that the Catholic Church, through its
 propagandas, its popular appeals, its schools and universities, opened
@@ -26210,7 +26066,7 @@ from the general Catholic practice, which held good until the German
 Reformation in the sixteenth century.
 
 
-§ 3
+### § 3
 
 The split among the Hussites was largely due to the drift of the
 extremer section towards a primitive communism, which alarmed the
@@ -26381,7 +26237,7 @@ end, as all our days and years end, with a recapitulation of our hopes
 and fears--and a note of interrogation.
 
 
-§ 4
+### § 4
 
 The development of free discussion in Europe during this age of
 fermentation was enormously stimulated by the appearance of printed
@@ -26436,7 +26292,7 @@ use, and made exact and vigorous. They became at last as capable of the
 burden of philosophical discussion as Greek or Latin.
 
 
-§ 5
+### § 5
 
 Here we devote a section to certain elementary statements about the
 movement in men’s religious ideas during the fifteenth and sixteenth
@@ -26673,7 +26529,7 @@ traditional reliance upon the faithful Habsburgs against its quarrel
 with republican France.
 
 
-§ 6
+### § 6
 
 The reader must not suppose that the destructive criticism of the
 Catholic Church and of Catholic Christianity, and the printing and study
@@ -27012,7 +26868,7 @@ with more and more collective energy and vigour, lit up our vision of
 the universe, and increased our power over the conditions of our lives.
 
 
-§ 7
+### § 7
 
 We have dealt thus fully with the beginnings of science in the Middle
 Ages because of its ultimate importance in human affairs. In the long
@@ -27212,7 +27068,7 @@ Raphael (died 1520). Of the scientific speculation of Leonardo we have
 already had occasion to speak.
 
 
-§ 8
+### § 8
 
 In 1453, as we have related, Constantinople fell. Throughout the next
 century the Turkish pressure upon Europe was heavy and continuous. The
@@ -27509,7 +27365,7 @@ central, and their welfare and participation is necessary to the
 permanent peace of mankind.
 
 
-§ 9
+### § 9
 
 And now let us consider the political consequences of this vast release
 and expansion of European ideas in the fourteenth and fifteenth
@@ -27645,7 +27501,7 @@ destinies greater than this game they played against one another.
 [Illustration: SWITZERLAND, _showing principal Passes and Routes_]
 
 
-§ 10
+### § 10
 
 It is interesting to note that this Swiss infantry which had so
 impressed Machiavelli was no part of the princely system of Europe. At
@@ -28074,14 +27930,14 @@ came into conflict.
 
 
 
-BOOK VIII
+# BOOK VIII
 
 THE AGE OF THE GREAT POWERS
 
 
 
 
-XXXVI
+## XXXVI
 
 PRINCES, PARLIAMENTS, AND POWERS
 
@@ -28095,7 +27951,7 @@ PRINCES, PARLIAMENTS, AND POWERS
      1780._ § 12. _The Social Truce Draws to an End._
 
 
-§ 1
+### § 1
 
 In the preceding chapter we have traced the beginnings of a new
 civilization, the civilization of the “modern” type which becomes at the
@@ -28186,7 +28042,7 @@ monarch. It was upon these questions that they joined issue with the
 Crown.
 
 
-§ 2
+### § 2
 
 The open struggle of the private property owner against the aggressions
 of the “Prince” begins in England far back in the twelfth century.[406]
@@ -28553,7 +28409,7 @@ these sovereigns have all in various degrees exercised an influence
 which is none the less important because it is indefinable.
 
 
-§ 3
+### § 3
 
 The breaking away of the Netherlands from absolutist monarchy was on the
 face of it much more of a religious and national affair and much less
@@ -28699,7 +28555,7 @@ English, and the American revolution, of which latter we have presently
 to tell, “form but a single chapter in the great volume of human fate.”
 
 
-§ 4
+### § 4
 
 Upon no part of Europe did the collapse of the idea of a unified
 Christendom bring more disastrous consequences than to Germany.
@@ -28808,7 +28664,7 @@ facts, the separation from the empire and the complete independence of
 both Holland and Switzerland.
 
 
-§ 5
+### § 5
 
 We have opened this chapter with the stories of two countries. Britain
 and the Netherlands, in which the resistance of the private citizen to
@@ -29007,7 +28863,7 @@ been swept out of the world and the skies clear again for the great
 peace of the federation of mankind.
 
 
-§ 6
+### § 6
 
 We have seen how the idea of a world-rule and a community of mankind
 first came into human affairs, and we have traced how the failure of the
@@ -29198,7 +29054,7 @@ challenge is in all our minds like dawn breaking slowly, shining between
 the shutters of a disordered room.
 
 
-§ 7
+### § 7
 
 The seventeenth century in Europe was the century of Louis XIV; he and
 French ascendancy and Versailles are the central motif of the story. The
@@ -29298,7 +29154,7 @@ submerged creature beneath the political and military net that held her
 down. She rose again in 1918, at the end of the Great War.
 
 
-§ 8
+### § 8
 
 We have given some account of the ascendancy of France in Europe, the
 swift decay of the sappy growth of Spanish power and its separation from
@@ -29413,7 +29269,7 @@ military organization that was to be of great use to them a little
 later.
 
 
-§ 9
+### § 9
 
 [Illustration: Britain, France & Spain in America, 175O.]
 
@@ -29527,7 +29383,7 @@ therefore, to exert any effective supervision and control over the
 company’s proceedings.
 
 
-§ 10
+### § 10
 
 [Illustration: INDIA in 1750]
 
@@ -29608,7 +29464,7 @@ China; her art is a special development of Chinese art, her writing an
 adaptation of the Chinese script.
 
 
-§ 11
+### § 11
 
 In these preceding ten sections we have been dealing with an age of
 division, of separated nationalities. We have already described this
@@ -30135,7 +29991,7 @@ within an easy walk perhaps of his door.
 
 
 
-XXXVII
+## XXXVII
 
 THE NEW DEMOCRATIC REPUBLICS OF AMERICA AND FRANCE
 
@@ -30216,7 +30072,7 @@ king and ministers of Great Britain in their diplomatic game against the
 rest of mankind.[419]
 
 
-§ 2
+### § 2
 
 The extent of the British colonies in America in the early half of the
 eighteenth century is shown in the accompanying map.[420] The darker
@@ -30380,7 +30236,7 @@ their third common antagonist--the crown and government of their mother
 land.
 
 
-§ 3
+### § 3
 
 We have noted in the previous chapter how the governing class of Great
 Britain steadily acquired the land and destroyed the liberty of the
@@ -30570,7 +30426,7 @@ Boston, the colonial levies took up their quarters in Cambridge and
 prepared to blockade the city.
 
 
-§ 4
+### § 4
 
 So the war began. It was not a war that promised a conclusive end. The
 colonists had no one vulnerable capital; they were dispersed over a
@@ -30646,7 +30502,7 @@ men from Concord to Boston. The Treaty of Peace was finally signed at
 Paris in September.
 
 
-§ 5
+### § 5
 
 From the point of view of human history, the way in which the Thirteen
 States became independent is of far less importance than the fact that
@@ -30851,7 +30707,7 @@ then underwent considerable revision, and Washington upon the Potomac
 was selected as the Federal capital.
 
 
-§ 6
+### § 6
 
 In an earlier chapter we have described the Roman republic, and its
 mixture of modern features with dark superstition and primordial
@@ -31196,7 +31052,7 @@ of the nobleman’s château. Men talked--and felt they were merely
 talking. Anything might be said, because nothing would ever happen.
 
 
-§ 8
+### § 8
 
 The first jar to this sense of the secure continuity of life in France
 came in 1787. Louis XVI (1774-92) was a dull, ill-educated monarch, and
@@ -31287,7 +31143,7 @@ party fled abroad. The National Assembly found itself called upon to
 create a new political and social system for a new age.[438]
 
 
-§ 9
+### § 9
 
 The French National Assembly was far less fortunate in the circumstances
 of its task than the American Congress. The latter had half a continent
@@ -31574,7 +31430,7 @@ of taxes, and divided up the church lands according to their local
 appetites.
 
 
-§ 10
+### § 10
 
 It is quite possible that with the loyal support of the crown and a
 reasonable patriotism on the part of the nobility, the National
@@ -31911,7 +31767,7 @@ kings of Europe would challenge us,” he roared. “We throw them the head
 of a king!”
 
 
-§ 11
+### § 11
 
 And now followed a strange phase in the history of the French people.
 There arose a great flame of enthusiasm for France and the Republic.
@@ -32115,7 +31971,7 @@ The Terror was at an end. From first to last there had been condemned
 and executed about four thousand people.
 
 
-§ 12
+### § 12
 
 It witnesses to the immense vitality and the profound rightness of the
 flood of new ideals and intentions that the French Revolution had
@@ -32212,7 +32068,7 @@ French-centred. One discovers it still as vigorous under the Directorate
 as if there had been no revolution.
 
 
-§ 13
+### § 13
 
 The ebb of this tide of Revolution in the world, this tide which had
 created the great Republic of America and threatened to submerge all
@@ -32516,7 +32372,7 @@ policy disrobed, and--there is no Millennium.
 
 
 
-XXXVIII
+## XXXVIII
 
 THE CAREER OF NAPOLEON BONAPARTE[448]
 
@@ -32526,7 +32382,7 @@ THE CAREER OF NAPOLEON BONAPARTE[448]
      Cult of the Napoleonic._ § 7. _The Map of Europe in 1815._
 
 
-§ 1
+### § 1
 
 And now we come to one of the most illuminating figures in modern
 history, the figure of an adventurer and a wrecker, whose story seems to
@@ -32565,7 +32421,7 @@ the new French régime in Corsica. For some years, until the fall of
 Robespierre, he remained a Jacobin.
 
 
-§ 2
+### § 2
 
 He soon gained the reputation of a useful and capable officer, and it
 was through Robespierre’s younger brother that he got his first chance
@@ -32747,7 +32603,7 @@ France put herself absolutely in Bonaparte’s hands, and prepared to be
 peaceful, happy, and glorious.
 
 
-§ 3
+### § 3
 
 Now surely here was opportunity such as never came to man before. Here
 was a position in which a man might well bow himself in fear of himself,
@@ -32950,7 +32806,7 @@ savings.”
 [Illustration: Napoleon as Emperor]
 
 
-§ 4
+### § 4
 
 We will not detail the steps by which Napoleon became Emperor. His
 coronation was the most extraordinary revival of stale history that it
@@ -33221,7 +33077,7 @@ In Provence, on his way out of the country, his life was endangered by a
 royalist mob.
 
 
-§ 5
+### § 5
 
 [Illustration: The TRAIL of NAPOLEON]
 
@@ -33353,7 +33209,7 @@ asserting the revolution and France. A cult of him as of something
 mystically heroic grew up after his death.[453]
 
 
-§ 6
+### § 6
 
 In the long perspectives of history the cult of Napoleon, and his
 peculiar effect upon certain types of mind, is of far more interest and
@@ -33673,7 +33529,7 @@ political map was to assert itself in Italy and Germany.
 
 
 
-XXXIX
+## XXXIX
 
 THE REALITIES AND IMAGINATIONS OF THE NINETEENTH CENTURY[457]
 
@@ -33689,7 +33545,7 @@ THE REALITIES AND IMAGINATIONS OF THE NINETEENTH CENTURY[457]
      Empire in 1914._
 
 
-§ 1
+### § 1
 
 The career and personality of Napoleon I bulks disproportionately in the
 nineteenth century histories. He was of little significance to the broad
@@ -34008,7 +33864,7 @@ necessarily waited upon the development of the mechanical revolution,
 and they are still only in their opening stage to-day.
 
 
-§ 2
+### § 2
 
 There is a tendency in many histories to confuse together what we have
 here called the _mechanical revolution_, which was an entirely new thing
@@ -34228,7 +34084,7 @@ expropriated mass against the appropriating few, as foretell it, is
 being more and more justified by events.[462]
 
 
-§ 3
+### § 3
 
 To trace any broad outlines in the fermentation of ideas that went on
 during the mechanical and industrial revolution of the nineteenth
@@ -34310,7 +34166,7 @@ period, corresponding to the period 1815-30. Our 1830 and our 1848 are
 still to come and show us where we stand.
 
 
-§ 4
+### § 4
 
 We have traced throughout this history the gradual restriction of the
 idea of property from the first unlimited claim of the strong man to
@@ -34609,7 +34465,7 @@ unsatisfactory methods in use in the Atlantic democracies. Non-workers
 have no representation in this new Russian state.
 
 
-§ 5
+### § 5
 
 We are all socialists nowadays, said Sir William Harcourt years ago, and
 that is loosely true to-day. There can be few people who fail to realize
@@ -35162,7 +35018,7 @@ obvious. We cannot tell what seeds of the future may not be germinating
 already amidst our present confusions.
 
 
-§ 7
+### § 7
 
 The vast changes we have been recording in the range of human power and
 intercourse constitute the fundamental realities of nineteenth-century
@@ -35421,7 +35277,7 @@ all the routines of ordinary life was not realized until it was too
 late.
 
 
-§ 8
+### § 8
 
 After the middle of the nineteenth century, this world of new powers and
 old ideas, this fermenting new wine in the old bottles of diplomacy,
@@ -35829,7 +35685,7 @@ with new and greater imperatives, and these nineteenth-century statesmen
 were but pretending to control events.
 
 
-§ 9
+### § 9
 
 We have suggested that in the political history of Europe between 1848
 and 1878, the mechanical revolution was not yet producing any very
@@ -36147,7 +36003,7 @@ and peculiar form of Christianity, which had successfully maintained its
 independence against Italy at the Battle of Adowa in 1896.
 
 
-§ 10
+### § 10
 
 It is difficult to believe that any large number of people really
 accepted this headlong painting of the map of Africa in European colours
@@ -36277,7 +36133,7 @@ be at one with the United States of America and a pacified and
 reconciled Europe in upholding the organized peace of the world.
 
 
-§ 11
+### § 11
 
 The pioneer country, however, in the recovery of the Asiatic peoples was
 not China, but Japan. We have outrun our story in telling of China.
@@ -36432,7 +36288,7 @@ beginning to drop his “Burthen” in eastern Asia. For some years,
 however, Germany remained in uneasy possession of Kiau-Chau.
 
 
-§ 12
+### § 12
 
 We have already noted how the enterprise of Italy in Abyssinia had been
 checked at the terrible battle of Adowa (1896), in which over 3000
@@ -36471,7 +36327,7 @@ to do with us?”
 (A question whose answer still lies beyond the frontiers of history.)
 
 
-§ 13
+### § 13
 
 We may note here briefly the very various nature of the constituents of
 the British Empire in 1914. It was and is a quite unique political
@@ -36578,7 +36434,7 @@ world yet to readjust this arrangement.[488]
 
 
 
-XL
+## XL
 
 THE INTERNATIONAL CATASTROPHE OF 1914[489]
 
@@ -36596,7 +36452,7 @@ THE INTERNATIONAL CATASTROPHE OF 1914[489]
      15. _The State of Men’s Minds in 1920._
 
 
-§ 1
+### § 1
 
 For thirty-six years after the Treaty of San Stefano and the Berlin
 Conference, Europe maintained an uneasy peace within its borders; there
@@ -36666,7 +36522,7 @@ attended it, they tried to make what they conceived to be some use of
 it.
 
 
-§ 2
+### § 2
 
 The peace of Frankfort had left Germany Prussianized and united, the
 most formidable of all the Great Powers of Europe. France was humiliated
@@ -36986,7 +36842,7 @@ country was taut and excited like an athletic competitor at the end of
 his training.
 
 
-§ 3
+### § 3
 
 Throughout the period of the armed peace Germany was making the pace and
 setting the tone for the rest of Europe. The influence of her new
@@ -37446,7 +37302,7 @@ disappointment. Let the British and their pet Ulstermen do as they
 would, said the Irish....
 
 
-§ 4
+### § 4
 
 Our studies of modern imperialism in Germany and Britain bring out
 certain forces common to the two countries, and we shall find these same
@@ -37505,7 +37361,7 @@ crush Bulgaria. Turkey recovered Adrianople. The greater imperialisms of
 Austria, Russia, and Italy watched that conflict and one another....
 
 
-§ 5
+### § 5
 
 While all the world to the west of her was changing rapidly, Russia
 throughout the nineteenth century changed very slowly indeed. At the end
@@ -37550,7 +37406,7 @@ any other country lay the possibilities of a fundamental
 revolution.[496]
 
 
-§ 6
+### § 6
 
 When we turn from these European Great Powers, with their inheritance of
 foreign offices and national policies, to the United States of America,
@@ -37710,7 +37566,7 @@ were its relations with the world beyond its borders.[498]
 
 
 
-§ 7
+### § 7
 
 We have been at some pains to examine the state of mind of Europe and of
 America in regard to international relations in the years that led up to
@@ -38250,7 +38106,7 @@ it gave their antagonists no alternative but a fight to a conclusive
 end.
 
 
-§ 9
+### § 9
 
 Early in 1917 Russia collapsed.
 
@@ -38478,7 +38334,7 @@ Nearly everyone had lost too much and suffered too much to rejoice with
 any fervour.[511]
 
 
-§ 10
+### § 10
 
 The world in the year after the great war was like a man who has had
 some vital surgical operation very roughly performed, and who is not yet
@@ -39410,7 +39266,7 @@ the League of Nations is the first insufficient and unsatisfactory
 sketch.
 
 
-§ 12
+### § 12
 
 This homunculus in a bottle which it was hoped might become at last Man
 ruling the Earth, this League of Nations as it was embodied in the
@@ -39528,7 +39384,7 @@ of the proposed settlement.
 [Illustration: GERMANY after the PEACE TREATY of 1919]
 
 
-§ 13
+### § 13
 
 The main terms of the Treaties of 1919-20 with which the Conference of
 Paris concluded its labours can be stated much more vividly by a few
@@ -39654,7 +39510,7 @@ discomforting garment of treaties that has been flung for a while over
 the naked distresses of our world.
 
 
-§ 14
+### § 14
 
 The failure to produce a more satisfactory world settlement in 1919-20
 was, we have suggested, a symptom of an almost universal intellectual
@@ -39823,7 +39679,7 @@ profounder than such authorities as Sir Louis Jackson suspect.[527]
 
 
 
-§ 15
+### § 15
 
 This _Outline_ of our history would not be complete without at least a
 few words by way of a stock-taking of the state of mind in which we
@@ -39948,14 +39804,14 @@ at its end. What will be the next stage in history?
 
 
 
-BOOK IX
+# BOOK IX
 
 THE NEXT STAGE IN HISTORY
 
 
 
 
-XLI
+## XLI
 
 THE POSSIBLE UNIFICATION OF THE WORLD INTO ONE COMMUNITY OF KNOWLEDGE
 AND WILL
@@ -39967,7 +39823,7 @@ AND WILL
      Stages Beyond._
 
 
-§ 1
+### § 1
 
 We have brought this _Outline of History_ up to our own times, but we
 have brought it to no conclusion. It breaks off at a dramatic phase of
@@ -40102,7 +39958,7 @@ things possible and easy that in these present days of exhaustion seem
 almost too difficult to desire.[528]
 
 
-§ 2
+### § 2
 
 If we suppose a sufficient righteousness and intelligence in men to
 produce presently, from the tremendous lessons of history, an effective
@@ -40219,7 +40075,7 @@ now for the welfare and survival of the individuals who are under their
 sway nor of the states and towns and associations in which they prevail.
 
 
-§ 3
+### § 3
 
 Our _Outline of History_ has been ill written if it has failed to convey
 our conviction of the character of the state towards which the world is
@@ -40295,7 +40151,7 @@ requires that a currency shall be used, safeguarded or proof against the
 contrivances and manipulations of clever, dishonest men.
 
 
-§ 4
+### § 4
 
 There can be little question that the attainment of a federation of all
 humanity, together with a sufficient measure of social justice, to
@@ -40539,7 +40395,7 @@ true measure and transitoriness of all the conflicts, deprivations, and
 miseries of this present period of painful and yet hopeful change.
 
 
-§ 5
+### § 5
 
 History is and must always be no more than an account of beginnings. We
 can venture to prophesy that the next chapters to be written will tell,
@@ -40561,6 +40417,7 @@ footstool, and stretch out its realm amidst the stars.
 
 
 
+# Fine
 TIME CHARTS
 
 AND
