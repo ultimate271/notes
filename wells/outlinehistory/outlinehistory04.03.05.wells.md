@@ -2,9 +2,14 @@
 [Metadata]: # {04.03.05}
 [Descriptor]: # {04.03.05}
 [Author]: # {wells}
-BOOK III
-XVII
-§ 5
+THE DAWN OF HISTORY
+
+SEA PEOPLES AND TRADING PEOPLES
+
+§ 1. _The Earliest Ships and Sailors._ § 2. _The Ægean Cities      before
+History._ § 3. _The First Voyages of Exploration._ § 4.      _Early Traders._ §
+5. _Early Travellers._
+
 # § 5
 When one realizes the absence of small money or of any conveniently portable
 means of exchange in the pre-Alexandrian world, one perceives how impossible

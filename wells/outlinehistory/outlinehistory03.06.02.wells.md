@@ -2,9 +2,14 @@
 [Metadata]: # {03.06.02}
 [Descriptor]: # {03.06.02}
 [Author]: # {wells}
-BOOK II
-XIII
-§ 2
+THE MAKING OF MEN
+
+THE RACES OF MANKIND
+
+_§1. Is Mankind Still Differentiating? §2. The Main Races of      Mankind.
+§3. Was There an Alpine Race? §4. The Brunet Peoples. §5.      How Existing
+Races may be Related to Each Other._
+
 # § 2
 It is only in the last fifty or sixty years that the varieties of men came to
 be regarded in this light, as a tangle of differentiations recently arrested or

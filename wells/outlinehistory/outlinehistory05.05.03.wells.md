@@ -2,9 +2,13 @@
 [Metadata]: # {05.05.03}
 [Descriptor]: # {05.05.03}
 [Author]: # {wells}
-BOOK IV
-XXV
-§ 3
+JUDEA, GREECE, AND INDIA
+
+SCIENCE AND RELIGION AT ALEXANDRIA[203]
+
+§ 1. _The Science of Alexandria._ § 2. _Philosophy of Alexandria._      §
+3. _Alexandria as a Factory of Religions._
+
 # § 3
 If Alexandria was late to develop a distinctive philosophy, she was early
 prominent as a great factory and exchange of religious ideas.

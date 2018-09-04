@@ -2,9 +2,14 @@
 [Metadata]: # {05.01.02}
 [Descriptor]: # {05.01.02}
 [Author]: # {wells}
-BOOK IV
-XXI
-§ 2
+JUDEA, GREECE, AND INDIA
+
+THE HEBREW SCRIPTURES AND THE PROPHETS[157]
+
+§ 1. _The Place of the Israelites in History._ § 2. _Saul, David,      and
+Solomon._ § 3. _The Jews a People of Mixed Origin._ § 4. _The      Importance
+of the Hebrew Prophets._
+
 # § 2
 But the nature and position of their land was against the Hebrews, and their
 first king Saul was no more successful than their judges. The long intrigues of

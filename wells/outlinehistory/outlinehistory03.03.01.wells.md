@@ -2,9 +2,16 @@
 [Metadata]: # {03.03.01}
 [Descriptor]: # {03.03.01}
 [Author]: # {wells}
-BOOK II
-X
-§ 1
+THE MAKING OF MEN
+
+THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
+
+(Later Palæolithic Age)
+
+§ 1. _The Coming of Men Like Ourselves._ § 2. _Subdivision of the
+Later Palæolithic._ § 3. _The Earliest True Men Were Splendid      Savages._ §
+4. _Hunters Give Place to Herdsmen._ § 5. _No Sub-men      in America._
+
 # § 1
 The Neanderthal type of man prevailed in Europe at least for tens of thousands
 of years. For ages that make all history seem a thing of yesterday, these

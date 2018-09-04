@@ -2,9 +2,14 @@
 [Metadata]: # {05.01.04}
 [Descriptor]: # {05.01.04}
 [Author]: # {wells}
-BOOK IV
-XXI
-§ 4
+JUDEA, GREECE, AND INDIA
+
+THE HEBREW SCRIPTURES AND THE PROPHETS[157]
+
+§ 1. _The Place of the Israelites in History._ § 2. _Saul, David,      and
+Solomon._ § 3. _The Jews a People of Mixed Origin._ § 4. _The      Importance
+of the Hebrew Prophets._
+
 # § 4
 The historical books from Genesis to Nehemiah, upon which the idea of the
 promise to the chosen people had been imposed later, were no doubt the backbone

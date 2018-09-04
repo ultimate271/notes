@@ -2,9 +2,13 @@
 [Metadata]: # {04.04.04}
 [Descriptor]: # {04.04.04}
 [Author]: # {wells}
-BOOK III
-XVIII
-§ 4
+THE DAWN OF HISTORY
+
+WRITING
+
+§ 1. _Picture Writing._ § 2. _Syllable Writing._ § 3. _Alphabet
+Writing._ § 4. _The Place of Writing in Human Life._
+
 # § 4
 So it was by a series of very natural steps that writing grew out of the life
 of man. At first and for long ages it was the interest and the secret of only a

@@ -2,9 +2,14 @@
 [Metadata]: # {03.06.04}
 [Descriptor]: # {03.06.04}
 [Author]: # {wells}
-BOOK II
-XIII
-§ 4
+THE MAKING OF MEN
+
+THE RACES OF MANKIND
+
+_§1. Is Mankind Still Differentiating? §2. The Main Races of      Mankind.
+§3. Was There an Alpine Race? §4. The Brunet Peoples. §5.      How Existing
+Races may be Related to Each Other._
+
 # § 4
 This Mediterranean or Iberian race certainly had a wider range in early times,
 and was a less specialized and distinctive race than the Nordic. It is very

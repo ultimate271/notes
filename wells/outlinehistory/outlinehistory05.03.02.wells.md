@@ -2,9 +2,15 @@
 [Metadata]: # {05.03.02}
 [Descriptor]: # {05.03.02}
 [Author]: # {wells}
-BOOK IV
-XXIII
-§ 2
+JUDEA, GREECE, AND INDIA
+
+GREEK THOUGHT AND LITERATURE[182]
+
+§ 1. _The Athens of Pericles._ § 2. _Socrates._ § 3. _What was the
+Quality of the Common Athenians?_ § 4. _Greek Tragedy and Comedy._      § 5.
+_Plato and the Academy._ § 6. _Aristotle and the Lyceum._ § 7.      _Philosophy
+becomes Unworldly._ § 8. _The Quality and Limitations      of Greek Thought._
+
 # § 2
 Another leading figure in this Athenian movement, a figure still more out of
 harmony with the life around him, and quite as much an original source and

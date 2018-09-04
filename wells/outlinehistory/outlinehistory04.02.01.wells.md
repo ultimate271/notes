@@ -2,9 +2,17 @@
 [Metadata]: # {04.02.01}
 [Descriptor]: # {04.02.01}
 [Author]: # {wells}
-BOOK III
-XVI
-§ 1
+THE DAWN OF HISTORY
+
+THE FIRST CIVILIZATIONS
+
+§ 1. _Early Cities and Early Nomads._ § 2A. _The Riddle of the
+Sumerians._ § 2B. _The Empire of Sargon the First._ § 2C. _The      Empire of
+Hammurabi._ § 2D. _The Assyrians and their Empire._ § 2E.      _The Chaldean
+Empire._ § 3. _The Early History of Egypt._ § 4. _The      Early Civilization
+of India._ § 5. _The Early History of China._ §      6. _While the
+Civilizations were Growing._
+
 # § 1
 When the Aryan way of speech and life was beginning to spread to the east and
 west of the region in which it began, and breaking up as it spread into a

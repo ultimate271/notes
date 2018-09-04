@@ -2,9 +2,15 @@
 [Metadata]: # {03.02.03}
 [Descriptor]: # {03.02.03}
 [Author]: # {wells}
-BOOK II
-IX
-§ 3
+THE MAKING OF MEN
+
+THE NEANDERTHAL MEN, AN EXTINCT RACE
+
+(The Early Palæolithic Age[29])
+
+§ 1. _The World 50,000 Years Ago._ § 2. _The Daily Life of the      First
+Men._ § 3. _The Last Palæolithic Men._
+
 # § 3
 When the Dutch discovered Tasmania, they found a detached human race not very
 greatly advanced beyond this Lower Palæolithic stage. But over most of the

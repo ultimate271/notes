@@ -2,9 +2,16 @@
 [Metadata]: # {07.02.02}
 [Descriptor]: # {07.02.02}
 [Author]: # {wells}
-BOOK VI
-XXXI
-§ 2
+CHRISTIANITY AND ISLAM
+
+SEVEN CENTURIES IN ASIA (CIRCA 50 B.C. TO A.D. 650)
+
+§ 1. _Justinian the Great._ § 2. _The Sassanid Empire in Persia._ §
+3. _The Decay of Syria under the Sassanids._ § 4. _The First      Message from
+Islam._ § 5. _Zoroaster and Mani._ § 6. _Hunnish      Peoples in Central Asia
+and India._ § 7. _The Great Age of China._      § 8. _Intellectual Fetters of
+China._ § 9. _The Travels of Yuan      Chwang._
+
 # § 2
 We have already drawn a comparison between the brief four centuries of Roman
 imperialism and the obstinate vitality of the imperialism of the

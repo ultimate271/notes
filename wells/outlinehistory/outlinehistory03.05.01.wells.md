@@ -2,9 +2,14 @@
 [Metadata]: # {03.05.01}
 [Descriptor]: # {03.05.01}
 [Author]: # {wells}
-BOOK II
-XII
-§ 1
+THE MAKING OF MEN
+
+EARLY THOUGHT[62]
+
+§ 1. _Primitive Philosophy._ § 2. _The Old Man in Religion._ § 3.
+_Fear and Hope in Religion._ § 4. _Stars and Seasons._ § 5.      _Story-telling
+and Myth-making._ § 6. _Complex Origins of      Religion._
+
 # § 1
 Before we go on to tell how 6000 or 7000 years ago men began to gather into the
 first towns and to develop something more than the loose-knit tribes that had

@@ -2,9 +2,15 @@
 [Metadata]: # {04.06.03}
 [Descriptor]: # {04.06.03}
 [Author]: # {wells}
-BOOK III
-XX
-§ 3
+THE DAWN OF HISTORY
+
+SERFS, SLAVES, SOCIAL CLASSES, AND FREE INDIVIDUALS
+
+§ 1. _The Common Man in Ancient Times._ § 2. _The Earliest Slaves._      §
+3. _The first “Independent” Persons._ § 4. _Social Classes Three      Thousand
+Years Ago._ § 5. _Classes Hardening into Castes._ § 6.      _Caste in India._ §
+7. _The System of the Mandarins._ § 8. _A      Summary of Five Thousand Years._
+
 # § 3
 So, in a few paragraphs, we trace the development of the simple social
 structure of the early Sumerian cities to the complex city crowds, the

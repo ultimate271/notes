@@ -2,9 +2,16 @@
 [Metadata]: # {05.02.04}
 [Descriptor]: # {05.02.04}
 [Author]: # {wells}
-BOOK IV
-XXII
-§ 4
+JUDEA, GREECE, AND INDIA
+
+THE GREEKS AND THE PERSIANS[169]
+
+§ 1. _The Hellenic Peoples._ § 2. _Distinctive Features of Hellenic
+Civilization._ § 3. _Monarchy, Aristocracy, and Democracy in Greece._ § 4. _The
+Kingdom of Lydia._ § 5. _The Rise of the Persians in the East._ § 6. _The Story
+of Crœsus._ § 7. _Darius Invades Russia._ § 8. _The Battle of Marathon._ § 9.
+_Thermopylæ and Salamis._ § 10. _Platæa and Mycale._
+
 # § 4
 We have had occasion to mention the kingdom of Lydia, and it may be well to
 give a short note here upon the Lydians before proceeding with our story. The

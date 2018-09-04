@@ -2,9 +2,16 @@
 [Metadata]: # {06.01.07}
 [Descriptor]: # {06.01.07}
 [Author]: # {wells}
-BOOK V
-XXVII
-§ 8
+THE RISE AND COLLAPSE OF THE ROMAN EMPIRE
+
+THE TWO WESTERN REPUBLICS[224]
+
+§ 1. _The Beginnings of the Latins._ § 2. _A New Sort of State._ §      3.
+_The Carthaginian Republic of Rich Men._ § 4. _The First Punic      War._ § 5.
+_Cato the Elder and the Spirit of Cato._ § 6. _The      Second Punic War._ § 7.
+_The Third Punic War._ § 8. _How the Punic      War Undermined Roman Liberty._
+§ 9. _Comparison of the Roman      Republic with a Modern State._
+
 # § 8
 We must note here, in a brief section, a change in the military system of Rome,
 after the Second Punic War, that was of enormous importance in her later

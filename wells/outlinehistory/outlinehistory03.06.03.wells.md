@@ -2,9 +2,14 @@
 [Metadata]: # {03.06.03}
 [Descriptor]: # {03.06.03}
 [Author]: # {wells}
-BOOK II
-XIII
-§ 3
+THE MAKING OF MEN
+
+THE RACES OF MANKIND
+
+_§1. Is Mankind Still Differentiating? §2. The Main Races of      Mankind.
+§3. Was There an Alpine Race? §4. The Brunet Peoples. §5.      How Existing
+Races may be Related to Each Other._
+
 # § 3
 [Illustration: Negro types]
 

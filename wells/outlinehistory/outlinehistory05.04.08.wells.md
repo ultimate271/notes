@@ -2,9 +2,16 @@
 [Metadata]: # {05.04.08}
 [Descriptor]: # {05.04.08}
 [Author]: # {wells}
-BOOK IV
-XXIV
-§ 8
+JUDEA, GREECE, AND INDIA
+
+THE CAREER OF ALEXANDER THE GREAT[195]
+
+§ 1. _Philip of Macedonia._ § 2. _The Murder of King Philip._ § 3.
+_Alexander’s First Conquests._ § 4. _The Wanderings of Alexander._      § 5.
+_Was Alexander Indeed Great?_ § 6. _The Successors of      Alexander._ § 7.
+_Pergamum a Refuge of Culture._ § 8. _Alexander as      a Portent of World
+Unity._
+
 # § 8
 Nearly all historians are disposed to regard the career of Alexander the Great
 as marking an epoch in human affairs. It drew together all the known world,

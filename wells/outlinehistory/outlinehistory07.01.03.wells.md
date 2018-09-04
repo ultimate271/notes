@@ -2,9 +2,17 @@
 [Metadata]: # {07.01.03}
 [Descriptor]: # {07.01.03}
 [Author]: # {wells}
-BOOK VI
-XXX
-§ 3
+CHRISTIANITY AND ISLAM
+
+THE BEGINNINGS, THE RISE, AND THE DIVISIONS OF CHRISTIANITY
+
+§ 1. _Judea at the Christian Era._ § 2. _The Teachings of Jesus of
+Nazareth._ § 3. _The New Universal Religions._ § 4. _The      Crucifixion of
+Jesus of Nazareth._ § 5. _Doctrines added to the      Teachings of Jesus._ § 6.
+_The Struggles and Persecutions of      Christianity._ § 7. _Constantine the
+Great._ § 8. _The      Establishment of Official Christianity._ § 9. _The Map
+of Europe,      A.D. 500._ § 10. _The Salvation of Learning by Christianity._
+
 # § 3
 Yet be it noted that while there was much in the real teachings of Jesus that a
 rich man or a priest or a trader or an imperial official or any ordinary

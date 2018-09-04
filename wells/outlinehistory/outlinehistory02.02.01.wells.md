@@ -2,9 +2,18 @@
 [Metadata]: # {02.02.01}
 [Descriptor]: # {02.02.01}
 [Author]: # {wells}
-BOOK I
-II
-§ 1
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE RECORD OF THE ROCKS
+
+
+§ 1. _The First Living Things._ § 2. _How Old Is the World?_
+
 # § 1
 We do not know how life began upon the earth.[4]
 

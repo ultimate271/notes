@@ -2,9 +2,25 @@
 [Metadata]: # {08.02.10}
 [Descriptor]: # {08.02.10}
 [Author]: # {wells}
-BOOK VI (_Continued_)
-XXXIII
-§ 10
+CHRISTIANITY AND ISLAM (_Continued_)
+
+
+
+
+THE OUTLINE OF HISTORY
+
+CHRISTENDOM AND THE CRUSADES
+
+§ 1. _The Western World at its Lowest Ebb._ § 2. _The Feudal      System._
+§ 3. _The Frankish Kingdom of the Merovingians._ § 4. _The
+Christianization of the Western Barbarians._ § 5. _Charlemagne      becomes
+Emperor of the West._ § 6. _The Personality of      Charlemagne._ § 7. _The
+French and the Germans become Distinct._ §      8. _The Normans, the Saracens,
+the Hungarians, and the Seljuk      Turks._ § 9. _How Constantinople Appealed
+to Rome._ § 10. _The      Crusades._ § 11. _The Crusades a Test of
+Christianity._ § 12. _The      Emperor Frederick II._ § 13. _Defects and
+Limitations of the      Papacy._ § 14. _A List of Leading Popes._
+
 # § 10
 From the very first this flaming enthusiasm was mixed with baser elements.
 There was the cold and calculated scheme of the free and ambitious Latin Church

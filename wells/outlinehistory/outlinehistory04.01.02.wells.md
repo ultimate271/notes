@@ -2,9 +2,13 @@
 [Metadata]: # {04.01.02}
 [Descriptor]: # {04.01.02}
 [Author]: # {wells}
-BOOK III
-XV
-§ 2
+THE DAWN OF HISTORY
+
+THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES
+
+§ 1. _The Spreading of the Aryan-Speakers._ § 2. _Primitive Aryan
+Life._ § 3. _Early Aryan Daily Life._
+
 # § 2
 What sort of life did these prehistoric Aryans lead, these Nordic Aryans who
 were the chief ancestors of most Europeans and most white Americans and

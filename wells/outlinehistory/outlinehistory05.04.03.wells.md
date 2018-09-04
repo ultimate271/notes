@@ -2,9 +2,16 @@
 [Metadata]: # {05.04.03}
 [Descriptor]: # {05.04.03}
 [Author]: # {wells}
-BOOK IV
-XXIV
-§ 3
+JUDEA, GREECE, AND INDIA
+
+THE CAREER OF ALEXANDER THE GREAT[195]
+
+§ 1. _Philip of Macedonia._ § 2. _The Murder of King Philip._ § 3.
+_Alexander’s First Conquests._ § 4. _The Wanderings of Alexander._      § 5.
+_Was Alexander Indeed Great?_ § 6. _The Successors of      Alexander._ § 7.
+_Pergamum a Refuge of Culture._ § 8. _Alexander as      a Portent of World
+Unity._
+
 # § 3
 These stories have to be told because history cannot be understood without
 them. Here was the great world of men between India and the Adriatic ready for

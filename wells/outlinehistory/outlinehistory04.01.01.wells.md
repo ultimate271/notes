@@ -2,9 +2,13 @@
 [Metadata]: # {04.01.01}
 [Descriptor]: # {04.01.01}
 [Author]: # {wells}
-BOOK III
-XV
-§ 1
+THE DAWN OF HISTORY
+
+THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES
+
+§ 1. _The Spreading of the Aryan-Speakers._ § 2. _Primitive Aryan
+Life._ § 3. _Early Aryan Daily Life._
+
 # § 1
 We have spoken of the Aryan language as probably arising in the region of the
 Danube and South Russia and spreading from that region of origin. We say

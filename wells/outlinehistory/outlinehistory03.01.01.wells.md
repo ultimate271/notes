@@ -2,9 +2,14 @@
 [Metadata]: # {03.01.01}
 [Descriptor]: # {03.01.01}
 [Author]: # {wells}
-BOOK II
-VIII
-§ 1
+THE MAKING OF MEN
+
+THE ANCESTRY OF MAN[20]
+
+§ 1. _Man Descended from a Walking Ape._ § 2. _First Traces of
+Man-like Creatures._ § 3. _The Heidelberg Sub-man._ § 4. _The      Piltdown
+Sub-man._ § 5. _The Riddle of the Piltdown Remains._
+
 # § 1
 The origin of man is still very obscure. It is commonly asserted that he is
 “descended” from some man-like ape such as the chimpanzee, the orang-utang, or

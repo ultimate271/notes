@@ -2,9 +2,13 @@
 [Metadata]: # {04.04.01}
 [Descriptor]: # {04.04.01}
 [Author]: # {wells}
-BOOK III
-XVIII
-§ 1
+THE DAWN OF HISTORY
+
+WRITING
+
+§ 1. _Picture Writing._ § 2. _Syllable Writing._ § 3. _Alphabet
+Writing._ § 4. _The Place of Writing in Human Life._
+
 # § 1
 In the five preceding chapters (XIII to XVII) we have sketched in broad outline
 the development of the chief human communities from the primitive beginnings of

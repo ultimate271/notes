@@ -2,9 +2,13 @@
 [Metadata]: # {04.01.03}
 [Descriptor]: # {04.01.03}
 [Author]: # {wells}
-BOOK III
-XV
-§ 3
+THE DAWN OF HISTORY
+
+THE ARYAN-SPEAKING PEOPLES IN PREHISTORIC TIMES
+
+§ 1. _The Spreading of the Aryan-Speakers._ § 2. _Primitive Aryan
+Life._ § 3. _Early Aryan Daily Life._
+
 # § 3
 The Greek epics reveal the early Greeks with no knowledge of iron, without
 writing, and before any Greek-founded cities existed in the land into which

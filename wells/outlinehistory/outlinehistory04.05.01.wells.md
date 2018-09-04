@@ -2,9 +2,16 @@
 [Metadata]: # {04.05.01}
 [Descriptor]: # {04.05.01}
 [Author]: # {wells}
-BOOK III
-XIX
-§ 1
+THE DAWN OF HISTORY
+
+GODS AND STARS, PRIESTS AND KINGS
+
+§ 1. _Nomadic and Settled Religion._ § 2. _The Priest Comes into
+History._ § 3. _Priests and the Stars._ § 4. _Priests and the Dawn      of
+Learning._ § 5. _King against Priest._ § 6. _How Bel-Marduk      Struggled
+against the Kings._ § 7. _The God-Kings of Egypt._ § 8.      _Shi Hwang-ti
+Destroys the Books._
+
 # § 1
 We have already told what there is to tell of the social life of the Aryan
 tribes when they were settling down to the beginnings of civilized life; we

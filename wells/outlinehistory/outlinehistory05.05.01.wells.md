@@ -2,9 +2,13 @@
 [Metadata]: # {05.05.01}
 [Descriptor]: # {05.05.01}
 [Author]: # {wells}
-BOOK IV
-XXV
-§ 1
+JUDEA, GREECE, AND INDIA
+
+SCIENCE AND RELIGION AT ALEXANDRIA[203]
+
+§ 1. _The Science of Alexandria._ § 2. _Philosophy of Alexandria._      §
+3. _Alexandria as a Factory of Religions._
+
 # § 1
 One of the most prosperous fragments of the brief world empire of Alexander the
 Great was Egypt, which fell to the share of the Ptolemy whose name we have

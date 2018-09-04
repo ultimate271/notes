@@ -2,9 +2,14 @@
 [Metadata]: # {03.05.06}
 [Descriptor]: # {03.05.06}
 [Author]: # {wells}
-BOOK II
-XII
-§ 6
+THE MAKING OF MEN
+
+EARLY THOUGHT[62]
+
+§ 1. _Primitive Philosophy._ § 2. _The Old Man in Religion._ § 3.
+_Fear and Hope in Religion._ § 4. _Stars and Seasons._ § 5.      _Story-telling
+and Myth-making._ § 6. _Complex Origins of      Religion._
+
 # § 6
 With the beginnings of agriculture a fresh set of ideas arose in men’s minds.
 We have already indicated how easily and naturally men may have come to

@@ -2,9 +2,15 @@
 [Metadata]: # {05.03.07}
 [Descriptor]: # {05.03.07}
 [Author]: # {wells}
-BOOK IV
-XXIII
-§ 7
+JUDEA, GREECE, AND INDIA
+
+GREEK THOUGHT AND LITERATURE[182]
+
+§ 1. _The Athens of Pericles._ § 2. _Socrates._ § 3. _What was the
+Quality of the Common Athenians?_ § 4. _Greek Tragedy and Comedy._      § 5.
+_Plato and the Academy._ § 6. _Aristotle and the Lyceum._ § 7.      _Philosophy
+becomes Unworldly._ § 8. _The Quality and Limitations      of Greek Thought._
+
 # § 7
 The general drift of thought in the concluding years of the fourth century B.C.
 was not with Aristotle, nor towards the laborious and necessary accumulation of

@@ -2,9 +2,19 @@
 [Metadata]: # {02.06.03}
 [Descriptor]: # {02.06.03}
 [Author]: # {wells}
-BOOK I
-VI
-§ 3
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF REPTILES
+
+§ 1. _The Age of Lowland Life._ § 2. _Flying Dragons._ § 3. _The
+First Birds._ § 4. _An Age of Hardship and Death._ § 5. _The First
+Appearance of Fur and Feathers._
+
 # § 3
 Far less prevalent at this time were certain other truly birdlike creatures, of
 which the earlier sorts also hopped and clambered and the later sorts skimmed

@@ -2,9 +2,16 @@
 [Metadata]: # {05.02.06}
 [Descriptor]: # {05.02.06}
 [Author]: # {wells}
-BOOK IV
-XXII
-§ 6
+JUDEA, GREECE, AND INDIA
+
+THE GREEKS AND THE PERSIANS[169]
+
+§ 1. _The Hellenic Peoples._ § 2. _Distinctive Features of Hellenic
+Civilization._ § 3. _Monarchy, Aristocracy, and Democracy in Greece._ § 4. _The
+Kingdom of Lydia._ § 5. _The Rise of the Persians in the East._ § 6. _The Story
+of Crœsus._ § 7. _Darius Invades Russia._ § 8. _The Battle of Marathon._ § 9.
+_Thermopylæ and Salamis._ § 10. _Platæa and Mycale._
+
 # § 6
 But one monarch in the world was alive to the threat of the new power that lay
 in the hands of Cyrus. This was Crœsus, the Lydian king. His son had been

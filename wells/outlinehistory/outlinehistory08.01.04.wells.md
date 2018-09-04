@@ -2,9 +2,21 @@
 [Metadata]: # {08.01.04}
 [Descriptor]: # {08.01.04}
 [Author]: # {wells}
-BOOK VI (_Continued_)
-XXXII
-§ 4
+CHRISTIANITY AND ISLAM (_Continued_)
+
+
+
+
+THE OUTLINE OF HISTORY
+
+MUHAMMAD AND ISLAM[319]
+
+§ 1. _Arabia before Muhammad._ § 2. _Life of Muhammad to the      Hegira._
+§ 3. _Muhammad becomes a Fighting Prophet._ § 4. _The      Teachings of Islam._
+§ 5. _The Caliphs Abu Bekr and Omar._ § 6.      _The Great Days of the
+Omayyads._ § 7. _The Decay of Islam under      the Abbasids._ § 8. _The
+Intellectual Life of Arab Islam._
+
 # § 4
 But the personal quality of Muhammad is one thing and the quality of Islam, the
 religion he founded, is quite another. Muhammad was not pitted against Jesus or

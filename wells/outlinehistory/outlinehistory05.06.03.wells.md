@@ -2,9 +2,15 @@
 [Metadata]: # {05.06.03}
 [Descriptor]: # {05.06.03}
 [Author]: # {wells}
-BOOK IV
-XXVI
-§ 3
+JUDEA, GREECE, AND INDIA
+
+THE RISE AND SPREAD OF BUDDHISM[211]
+
+§ 1. _The Story of Gautama._ § 2. _Teaching and Legend in      Conflict._
+§ 3. _The Gospel of Gautama Buddha._ § 4. _Buddhism and      Asoka._[212] § 5.
+_Two Great Chinese Teachers._ § 6. _The      Corruptions of Buddhism._ § 7.
+_The Present Range of Buddhism._
+
 # § 3
 The fundamental teaching of Gautama, as it is now being made plain to us by the
 study of original sources, is clear and simple and in the closest harmony with

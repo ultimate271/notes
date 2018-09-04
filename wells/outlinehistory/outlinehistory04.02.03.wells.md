@@ -2,9 +2,17 @@
 [Metadata]: # {04.02.03}
 [Descriptor]: # {04.02.03}
 [Author]: # {wells}
-BOOK III
-XVI
-§ 4
+THE DAWN OF HISTORY
+
+THE FIRST CIVILIZATIONS
+
+§ 1. _Early Cities and Early Nomads._ § 2A. _The Riddle of the
+Sumerians._ § 2B. _The Empire of Sargon the First._ § 2C. _The      Empire of
+Hammurabi._ § 2D. _The Assyrians and their Empire._ § 2E.      _The Chaldean
+Empire._ § 3. _The Early History of Egypt._ § 4. _The      Early Civilization
+of India._ § 5. _The Early History of China._ §      6. _While the
+Civilizations were Growing._
+
 # § 4
 The history we need to tell here of India is simpler even than this brief
 record of Egypt. Somewhere about the time of Hammurabi or later, a branch of

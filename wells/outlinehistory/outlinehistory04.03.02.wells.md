@@ -2,9 +2,14 @@
 [Metadata]: # {04.03.02}
 [Descriptor]: # {04.03.02}
 [Author]: # {wells}
-BOOK III
-XVII
-§ 2
+THE DAWN OF HISTORY
+
+SEA PEOPLES AND TRADING PEOPLES
+
+§ 1. _The Earliest Ships and Sailors._ § 2. _The Ægean Cities      before
+History._ § 3. _The First Voyages of Exploration._ § 4.      _Early Traders._ §
+5. _Early Travellers._
+
 # § 2
 These early Cretans were of unknown race, but probably of a race akin to the
 Iberians of Spain and Western Europe and the dark whites of Asia Minor and

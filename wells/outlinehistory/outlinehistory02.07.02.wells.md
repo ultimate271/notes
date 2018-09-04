@@ -2,9 +2,19 @@
 [Metadata]: # {02.07.02}
 [Descriptor]: # {02.07.02}
 [Author]: # {wells}
-BOOK I
-VII
-§ 2
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF MAMMALS
+
+§ 1. _A New Age of Light._ § 2. _Tradition Comes into the World._ §
+3. _An Age of Brain Growth._ § 4. _The World Grows Hard Again._ §      5.
+_Chronology of the Ice Age._
+
 # § 2
 In the forests and following the grass over the Eocene plains there appeared
 for the first time a variety and abundance of mammals. Before we proceed to any

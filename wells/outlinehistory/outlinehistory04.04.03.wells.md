@@ -2,9 +2,13 @@
 [Metadata]: # {04.04.03}
 [Descriptor]: # {04.04.03}
 [Author]: # {wells}
-BOOK III
-XVIII
-§ 3
+THE DAWN OF HISTORY
+
+WRITING
+
+§ 1. _Picture Writing._ § 2. _Syllable Writing._ § 3. _Alphabet
+Writing._ § 4. _The Place of Writing in Human Life._
+
 # § 3
 But, meanwhile, in Egypt and upon the Mediterranean coast another system of
 writing grew up. Its beginnings are probably to be found in the priestly

@@ -2,9 +2,14 @@
 [Metadata]: # {03.01.04}
 [Descriptor]: # {03.01.04}
 [Author]: # {wells}
-BOOK II
-VIII
-§ 4
+THE MAKING OF MEN
+
+THE ANCESTRY OF MAN[20]
+
+§ 1. _Man Descended from a Walking Ape._ § 2. _First Traces of
+Man-like Creatures._ § 3. _The Heidelberg Sub-man._ § 4. _The      Piltdown
+Sub-man._ § 5. _The Riddle of the Piltdown Remains._
+
 # § 4
 We must turn over the Record for, it may be, another 100,000 years for the next
 remains of anything human or sub-human. Then in a deposit ascribed to the Third

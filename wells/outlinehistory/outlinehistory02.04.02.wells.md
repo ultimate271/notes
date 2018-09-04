@@ -2,9 +2,17 @@
 [Metadata]: # {02.04.02}
 [Descriptor]: # {02.04.02}
 [Author]: # {wells}
-BOOK I
-IV
-§ 2
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE INVASION OF THE DRY LAND BY LIFE
+
+§ 1. _Life and Water._ § 2. _The Earliest Animals._
+
 # § 2
 And after the plants came the animal life.
 

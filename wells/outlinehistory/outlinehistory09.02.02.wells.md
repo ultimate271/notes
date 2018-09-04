@@ -2,9 +2,21 @@
 [Metadata]: # {09.02.02}
 [Descriptor]: # {09.02.02}
 [Author]: # {wells}
-BOOK VII
-XXXV
-§ 2
+THE MONGOL EMPIRES OF THE LAND WAYS AND THE NEW EMPIRES OF THE SEA WAYS
+
+THE RENASCENCE OF WESTERN CIVILIZATION[371]
+
+(LAND WAYS GIVE PLACE TO SEA WAYS)
+
+§ 1. _Christianity and Popular Education._ § 2. _Europe begins to
+Think for Itself._ § 3. _The Great Plague and the Dawn of      Communism._ § 4.
+_How Paper Liberated the Human Mind._ § 5.      _Protestantism of the Princes
+and Protestantism of the Peoples._ §      6. _The Reawakening of Science._ § 7.
+_The New Growth of European      Towns._ § 8. _America Comes into History._ §
+9. _What Machiavelli      Thought of the World._ § 10. _The Republic of
+Switzerland._ § 11A.      _The Life of the Emperor Charles V._ § 11B.
+_Protestants if the      Prince Wills it._ § 11C. _The Intellectual Under-tow._
+
 # § 2
 But though it is certain that the Catholic Church, through its propagandas, its
 popular appeals, its schools and universities, opened up the prospect of the

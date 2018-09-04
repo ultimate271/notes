@@ -2,9 +2,18 @@
 [Metadata]: # {10.01.01}
 [Descriptor]: # {10.01.01}
 [Author]: # {wells}
-BOOK VIII
-XXXVI
-§ 1
+THE AGE OF THE GREAT POWERS
+
+PRINCES, PARLIAMENTS, AND POWERS
+
+§ 1. _Princes and Foreign Policy._ § 2. _The English Republic._ §      3.
+_The Dutch Republic._ § 4. _The Break-up and Disorder of      Germany._ § 5.
+_The Splendours of Grand Monarchy in Europe._ § 6.      _The Growth of the Idea
+of Great Powers._ § 7. _The Crowned      Republic of Poland and Its Fate._ § 8.
+_The First Scramble for      Empire Overseas._ § 9. _Britain Dominates India._
+§ 10. _Russia’s      Ride to the Pacific._ §11. _What Gibbon Thought of the
+World in      1780._ § 12. _The Social Truce Draws to an End._
+
 # § 1
 In the preceding chapter we have traced the beginnings of a new civilization,
 the civilization of the “modern” type which becomes at the present time

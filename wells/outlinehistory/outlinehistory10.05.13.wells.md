@@ -2,9 +2,22 @@
 [Metadata]: # {10.05.13}
 [Descriptor]: # {10.05.13}
 [Author]: # {wells}
-BOOK VIII
-XL
-§ 15
+THE AGE OF THE GREAT POWERS
+
+THE INTERNATIONAL CATASTROPHE OF 1914[489]
+
+§ 1. _The Armed Peace before the Great War._ § 2. _Imperial      Germany._
+§ 3. _The Spirit of Imperialism in Britain and Ireland._      § 4. _Imperialism
+in France, Italy, and the Balkans._ § 5. _Russia      a Grand Monarchy._ § 6.
+_The United States and the Imperial Idea._      § 7. _The Immediate Causes of
+the Great War._ § 8. _A Summary of      the Great War up to 1917._ § 9. _The
+Great War from the Russian      Collapse to the Armistice._ § 10. _The
+Political, Economical, and      Social Disorganization Caused by the War._ §
+11. _President Wilson      and the Problems of Versailles._ § 12. _Summary of
+the First      Covenant of the League of Nations._ § 13. _A General Outline of
+the      Treaties of 1919 and 1920._ § 14. _A Forecast of the “Next War.”_ §
+15. _The State of Men’s Minds in 1920._
+
 # § 15
 This _Outline_ of our history would not be complete without at least a few
 words by way of a stock-taking of the state of mind in which we leave mankind

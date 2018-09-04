@@ -2,9 +2,16 @@
 [Metadata]: # {03.07.06}
 [Descriptor]: # {03.07.06}
 [Author]: # {wells}
-BOOK II
-XIV
-§ 6
+THE MAKING OF MEN
+
+THE LANGUAGES OF MANKIND
+
+§ 1. _No one Primitive Language._ § 2. _The Aryan Languages._ § 3.
+_The Semitic Languages._ § 4. _The Hamitic Languages._ § 5. _The      Ural
+Altaic Languages._ § 6. _The Chinese Languages._ § 7. _Other      Language
+Groups._ § 8. _Submerged and Lost Languages._ § 9. _How      Languages may be
+Related._
+
 # § 6
 A fifth region of language formation was south-eastern Asia, where there still
 prevails a group of languages consisting of monosyllables without any

@@ -2,9 +2,15 @@
 [Metadata]: # {05.06.04}
 [Descriptor]: # {05.06.04}
 [Author]: # {wells}
-BOOK IV
-XXVI
-§ 4
+JUDEA, GREECE, AND INDIA
+
+THE RISE AND SPREAD OF BUDDHISM[211]
+
+§ 1. _The Story of Gautama._ § 2. _Teaching and Legend in      Conflict._
+§ 3. _The Gospel of Gautama Buddha._ § 4. _Buddhism and      Asoka._[212] § 5.
+_Two Great Chinese Teachers._ § 6. _The      Corruptions of Buddhism._ § 7.
+_The Present Range of Buddhism._
+
 # § 4
 From the very first this new teaching was misconceived. One corruption was
 perhaps inherent in its teaching. Because the world of men had as yet no sense

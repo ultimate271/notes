@@ -2,9 +2,17 @@
 [Metadata]: # {02.04.01}
 [Descriptor]: # {02.04.01}
 [Author]: # {wells}
-BOOK I
-IV
-§ 1
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE INVASION OF THE DRY LAND BY LIFE
+
+§ 1. _Life and Water._ § 2. _The Earliest Animals._
+
 # § 1
 Wherever the shore line ran there was life, and that life went on in and by and
 with water as its home, its medium, and its fundamental necessity.

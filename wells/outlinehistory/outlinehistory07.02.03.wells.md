@@ -2,9 +2,16 @@
 [Metadata]: # {07.02.03}
 [Descriptor]: # {07.02.03}
 [Author]: # {wells}
-BOOK VI
-XXXI
-§ 3
+CHRISTIANITY AND ISLAM
+
+SEVEN CENTURIES IN ASIA (CIRCA 50 B.C. TO A.D. 650)
+
+§ 1. _Justinian the Great._ § 2. _The Sassanid Empire in Persia._ §
+3. _The Decay of Syria under the Sassanids._ § 4. _The First      Message from
+Islam._ § 5. _Zoroaster and Mani._ § 6. _Hunnish      Peoples in Central Asia
+and India._ § 7. _The Great Age of China._      § 8. _Intellectual Fetters of
+China._ § 9. _The Travels of Yuan      Chwang._
+
 # § 3
 So we give briefly the leading events in the history of the Persian as of the
 Byzantine Empire. What is more interesting for us and less easy to give are the

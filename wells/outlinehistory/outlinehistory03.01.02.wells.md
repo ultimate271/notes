@@ -2,9 +2,14 @@
 [Metadata]: # {03.01.02}
 [Descriptor]: # {03.01.02}
 [Author]: # {wells}
-BOOK II
-VIII
-§ 2
+THE MAKING OF MEN
+
+THE ANCESTRY OF MAN[20]
+
+§ 1. _Man Descended from a Walking Ape._ § 2. _First Traces of
+Man-like Creatures._ § 3. _The Heidelberg Sub-man._ § 4. _The      Piltdown
+Sub-man._ § 5. _The Riddle of the Piltdown Remains._
+
 # § 2
 Among the earliest evidences of some creature, either human or at least more
 man-like than any living ape upon earth, are a number of flints and stones very

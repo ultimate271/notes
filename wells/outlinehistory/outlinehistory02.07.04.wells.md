@@ -2,9 +2,19 @@
 [Metadata]: # {02.07.04}
 [Descriptor]: # {02.07.04}
 [Author]: # {wells}
-BOOK I
-VII
-§ 4
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF MAMMALS
+
+§ 1. _A New Age of Light._ § 2. _Tradition Comes into the World._ §
+3. _An Age of Brain Growth._ § 4. _The World Grows Hard Again._ §      5.
+_Chronology of the Ice Age._
+
 # § 4
 Through millions of simian generations the spinning world circled about the
 sun; slowly its orbit, which may have been nearly circular during the equable

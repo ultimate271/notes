@@ -2,9 +2,16 @@
 [Metadata]: # {03.07.07}
 [Descriptor]: # {03.07.07}
 [Author]: # {wells}
-BOOK II
-XIV
-§ 7
+THE MAKING OF MEN
+
+THE LANGUAGES OF MANKIND
+
+§ 1. _No one Primitive Language._ § 2. _The Aryan Languages._ § 3.
+_The Semitic Languages._ § 4. _The Hamitic Languages._ § 5. _The      Ural
+Altaic Languages._ § 6. _The Chinese Languages._ § 7. _Other      Language
+Groups._ § 8. _Submerged and Lost Languages._ § 9. _How      Languages may be
+Related._
+
 # § 7
 In addition the following other great language families are distinguished by
 the philologist. All the American-Indian languages, which vary widely among

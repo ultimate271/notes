@@ -2,9 +2,15 @@
 [Metadata]: # {04.06.06}
 [Descriptor]: # {04.06.06}
 [Author]: # {wells}
-BOOK III
-XX
-§ 6
+THE DAWN OF HISTORY
+
+SERFS, SLAVES, SOCIAL CLASSES, AND FREE INDIVIDUALS
+
+§ 1. _The Common Man in Ancient Times._ § 2. _The Earliest Slaves._      §
+3. _The first “Independent” Persons._ § 4. _Social Classes Three      Thousand
+Years Ago._ § 5. _Classes Hardening into Castes._ § 6.      _Caste in India._ §
+7. _The System of the Mandarins._ § 8. _A      Summary of Five Thousand Years._
+
 # § 6
 If now we turn eastward from this main development of civilization in the world
 between Central Asia and the Atlantic, to the social development of India in

@@ -2,9 +2,15 @@
 [Metadata]: # {03.02.01}
 [Descriptor]: # {03.02.01}
 [Author]: # {wells}
-BOOK II
-IX
-§ 1
+THE MAKING OF MEN
+
+THE NEANDERTHAL MEN, AN EXTINCT RACE
+
+(The Early Palæolithic Age[29])
+
+§ 1. _The World 50,000 Years Ago._ § 2. _The Daily Life of the      First
+Men._ § 3. _The Last Palæolithic Men._
+
 # § 1
 In the time of the Third Interglacial period the outline of Europe and western
 Asia was very different from what it is to-day. Vast areas to the west and

@@ -2,9 +2,14 @@
 [Metadata]: # {03.05.05}
 [Descriptor]: # {03.05.05}
 [Author]: # {wells}
-BOOK II
-XII
-§ 5
+THE MAKING OF MEN
+
+EARLY THOUGHT[62]
+
+§ 1. _Primitive Philosophy._ § 2. _The Old Man in Religion._ § 3.
+_Fear and Hope in Religion._ § 4. _Stars and Seasons._ § 5.      _Story-telling
+and Myth-making._ § 6. _Complex Origins of      Religion._
+
 # § 5
 The capacity for telling things increased with their vocabulary. The simple
 individual fancies, the unsystematic fetish tricks and fundamental tabus of

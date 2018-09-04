@@ -2,9 +2,15 @@
 [Metadata]: # {06.02.01}
 [Descriptor]: # {06.02.01}
 [Author]: # {wells}
-BOOK V
-XXVIII
-§ 1
+THE RISE AND COLLAPSE OF THE ROMAN EMPIRE
+
+FROM TIBERIUS GRACCHUS TO THE GOD EMPEROR IN ROME
+
+§ 1. _The Science of Thwarting the Common Man._ § 2. _Finance in      the
+Roman State._ § 3. _The Last Years of Republican Politics._ §      4. _The Era
+of the Adventurer Generals._ § 5. _The End of the      Republic._ § 6. _The
+Coming of the Princeps._ § 7. _Why the Roman      Republic Failed._
+
 # § 1
 We have already twice likened the self-governing community of Rome to a
 “Neanderthal” variety of the modern “democratic” civilized state, and we shall

@@ -2,9 +2,14 @@
 [Metadata]: # {03.01.03}
 [Descriptor]: # {03.01.03}
 [Author]: # {wells}
-BOOK II
-VIII
-§ 3
+THE MAKING OF MEN
+
+THE ANCESTRY OF MAN[20]
+
+§ 1. _Man Descended from a Walking Ape._ § 2. _First Traces of
+Man-like Creatures._ § 3. _The Heidelberg Sub-man._ § 4. _The      Piltdown
+Sub-man._ § 5. _The Riddle of the Piltdown Remains._
+
 # § 3
 After this first glimpse of something at least sub-human in the record of
 geology, there is not another fragment of human or man-like bone yet known from

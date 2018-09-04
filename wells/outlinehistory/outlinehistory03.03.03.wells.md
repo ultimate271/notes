@@ -2,9 +2,16 @@
 [Metadata]: # {03.03.03}
 [Descriptor]: # {03.03.03}
 [Author]: # {wells}
-BOOK II
-X
-§ 3
+THE MAKING OF MEN
+
+THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
+
+(Later Palæolithic Age)
+
+§ 1. _The Coming of Men Like Ourselves._ § 2. _Subdivision of the
+Later Palæolithic._ § 3. _The Earliest True Men Were Splendid      Savages._ §
+4. _Hunters Give Place to Herdsmen._ § 5. _No Sub-men      in America._
+
 # § 3
 There is a disposition on the part of many writers to exaggerate the
 intellectual and physical qualities of these later Palæolithic men and make a

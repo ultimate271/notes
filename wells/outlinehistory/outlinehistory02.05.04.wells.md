@@ -2,9 +2,19 @@
 [Metadata]: # {02.05.04}
 [Descriptor]: # {02.05.04}
 [Author]: # {wells}
-BOOK I
-V
-§ 4
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+CHANGES IN THE WORLD’S CLIMATE
+
+§ 1. _Why Life Must Change Continually._ § 2. _The Sun a Steadfast
+Star._ § 3. _Changes from Within the Earth._ § 4. _Life May Control
+Change._
+
 # § 4
 And while we are enumerating the forces that change climate and the conditions
 of terrestrial life, we may perhaps look ahead a little and add a fourth set of

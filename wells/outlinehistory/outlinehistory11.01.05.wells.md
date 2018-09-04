@@ -2,9 +2,15 @@
 [Metadata]: # {11.01.05}
 [Descriptor]: # {11.01.05}
 [Author]: # {wells}
-BOOK IX
-XLI
-§ 5
+THE NEXT STAGE IN HISTORY
+
+THE POSSIBLE UNIFICATION OF THE WORLD INTO ONE COMMUNITY OF KNOWLEDGE AND WILL
+
+§1. _The Possible Unification of Men’s Wills in Political Matters._
+§2. _How a Federal World Government may come about._ §3. _Some      Fundamental
+Characteristics of a Modern World State._ §4. _What      this World might be
+were it under one Law and Justice._ §5. _The      Stages Beyond._
+
 # § 5
 History is and must always be no more than an account of beginnings. We can
 venture to prophesy that the next chapters to be written will tell, though

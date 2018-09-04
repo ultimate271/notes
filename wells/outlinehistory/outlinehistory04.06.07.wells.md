@@ -2,9 +2,15 @@
 [Metadata]: # {04.06.07}
 [Descriptor]: # {04.06.07}
 [Author]: # {wells}
-BOOK III
-XX
-§ 7
+THE DAWN OF HISTORY
+
+SERFS, SLAVES, SOCIAL CLASSES, AND FREE INDIVIDUALS
+
+§ 1. _The Common Man in Ancient Times._ § 2. _The Earliest Slaves._      §
+3. _The first “Independent” Persons._ § 4. _Social Classes Three      Thousand
+Years Ago._ § 5. _Classes Hardening into Castes._ § 6.      _Caste in India._ §
+7. _The System of the Mandarins._ § 8. _A      Summary of Five Thousand Years._
+
 # § 7
 In China we find a social system travelling along yet another and only a very
 roughly parallel line to that followed by the Indian and Western civilizations.

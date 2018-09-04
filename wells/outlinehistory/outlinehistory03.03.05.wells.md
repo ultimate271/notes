@@ -2,9 +2,16 @@
 [Metadata]: # {03.03.05}
 [Descriptor]: # {03.03.05}
 [Author]: # {wells}
-BOOK II
-X
-§ 5
+THE MAKING OF MEN
+
+THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
+
+(Later Palæolithic Age)
+
+§ 1. _The Coming of Men Like Ourselves._ § 2. _Subdivision of the
+Later Palæolithic._ § 3. _The Earliest True Men Were Splendid      Savages._ §
+4. _Hunters Give Place to Herdsmen._ § 5. _No Sub-men      in America._
+
 # § 5
 Nor is there any convincing evidence of man in America before the end of the
 Pleistocene.[43] The same relaxation of the climate that permitted the retreat

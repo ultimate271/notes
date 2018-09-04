@@ -2,9 +2,14 @@
 [Metadata]: # {04.03.03}
 [Descriptor]: # {04.03.03}
 [Author]: # {wells}
-BOOK III
-XVII
-§ 3
+THE DAWN OF HISTORY
+
+SEA PEOPLES AND TRADING PEOPLES
+
+§ 1. _The Earliest Ships and Sailors._ § 2. _The Ægean Cities      before
+History._ § 3. _The First Voyages of Exploration._ § 4.      _Early Traders._ §
+5. _Early Travellers._
+
 # § 3
 At her zenith Carthage probably had the hitherto unheard-of population of a
 million. This population was largely industrial, and her woven goods were

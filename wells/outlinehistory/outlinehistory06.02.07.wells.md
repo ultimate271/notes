@@ -2,9 +2,15 @@
 [Metadata]: # {06.02.07}
 [Descriptor]: # {06.02.07}
 [Author]: # {wells}
-BOOK V
-XXVIII
-§ 7
+THE RISE AND COLLAPSE OF THE ROMAN EMPIRE
+
+FROM TIBERIUS GRACCHUS TO THE GOD EMPEROR IN ROME
+
+§ 1. _The Science of Thwarting the Common Man._ § 2. _Finance in      the
+Roman State._ § 3. _The Last Years of Republican Politics._ §      4. _The Era
+of the Adventurer Generals._ § 5. _The End of the      Republic._ § 6. _The
+Coming of the Princeps._ § 7. _Why the Roman      Republic Failed._
+
 # § 7
 In this manner it was that Roman republicanism ended in a _princeps_ or ruling
 prince, and the first great experiment in a self-governing community on a scale

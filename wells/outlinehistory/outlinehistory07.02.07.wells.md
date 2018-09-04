@@ -2,9 +2,16 @@
 [Metadata]: # {07.02.07}
 [Descriptor]: # {07.02.07}
 [Author]: # {wells}
-BOOK VI
-XXXI
-§ 8
+CHRISTIANITY AND ISLAM
+
+SEVEN CENTURIES IN ASIA (CIRCA 50 B.C. TO A.D. 650)
+
+§ 1. _Justinian the Great._ § 2. _The Sassanid Empire in Persia._ §
+3. _The Decay of Syria under the Sassanids._ § 4. _The First      Message from
+Islam._ § 5. _Zoroaster and Mani._ § 6. _Hunnish      Peoples in Central Asia
+and India._ § 7. _The Great Age of China._      § 8. _Intellectual Fetters of
+China._ § 9. _The Travels of Yuan      Chwang._
+
 # § 8
 The urbanity, the culture, and the power of China under the early Tang rulers
 are in so vivid a contrast with the decay, disorder, and divisions of the

@@ -2,9 +2,19 @@
 [Metadata]: # {02.05.03}
 [Descriptor]: # {02.05.03}
 [Author]: # {wells}
-BOOK I
-V
-§ 3
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+CHANGES IN THE WORLD’S CLIMATE
+
+§ 1. _Why Life Must Change Continually._ § 2. _The Sun a Steadfast
+Star._ § 3. _Changes from Within the Earth._ § 4. _Life May Control
+Change._
+
 # § 3
 A third great group of causes influencing climate are to be found in the forces
 within the world itself. Throughout the long history of the earth there has

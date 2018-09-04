@@ -2,9 +2,16 @@
 [Metadata]: # {04.05.03}
 [Descriptor]: # {04.05.03}
 [Author]: # {wells}
-BOOK III
-XIX
-§ 4
+THE DAWN OF HISTORY
+
+GODS AND STARS, PRIESTS AND KINGS
+
+§ 1. _Nomadic and Settled Religion._ § 2. _The Priest Comes into
+History._ § 3. _Priests and the Stars._ § 4. _Priests and the Dawn      of
+Learning._ § 5. _King against Priest._ § 6. _How Bel-Marduk      Struggled
+against the Kings._ § 7. _The God-Kings of Egypt._ § 8.      _Shi Hwang-ti
+Destroys the Books._
+
 # § 4
 This clear evidence of astronomical inquiry and of a development of
 astronomical ideas is the most obvious, but only the most obvious, evidence of

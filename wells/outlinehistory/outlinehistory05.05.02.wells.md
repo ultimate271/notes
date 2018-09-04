@@ -2,9 +2,13 @@
 [Metadata]: # {05.05.02}
 [Descriptor]: # {05.05.02}
 [Author]: # {wells}
-BOOK IV
-XXV
-§ 2
+JUDEA, GREECE, AND INDIA
+
+SCIENCE AND RELIGION AT ALEXANDRIA[203]
+
+§ 1. _The Science of Alexandria._ § 2. _Philosophy of Alexandria._      §
+3. _Alexandria as a Factory of Religions._
+
 # § 2
 At first the mental activities of Alexandria centred upon the Museum, and were
 mainly scientific. Philosophy, which in a more vigorous age had been a doctrine

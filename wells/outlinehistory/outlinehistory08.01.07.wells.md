@@ -2,9 +2,21 @@
 [Metadata]: # {08.01.07}
 [Descriptor]: # {08.01.07}
 [Author]: # {wells}
-BOOK VI (_Continued_)
-XXXII
-§ 7
+CHRISTIANITY AND ISLAM (_Continued_)
+
+
+
+
+THE OUTLINE OF HISTORY
+
+MUHAMMAD AND ISLAM[319]
+
+§ 1. _Arabia before Muhammad._ § 2. _Life of Muhammad to the      Hegira._
+§ 3. _Muhammad becomes a Fighting Prophet._ § 4. _The      Teachings of Islam._
+§ 5. _The Caliphs Abu Bekr and Omar._ § 6.      _The Great Days of the
+Omayyads._ § 7. _The Decay of Islam under      the Abbasids._ § 8. _The
+Intellectual Life of Arab Islam._
+
 # § 7
 But the descendants of Ali were not destined to share in this triumph for long.
 The Abbasids were adventurers and rulers of an older school than Islam. Now

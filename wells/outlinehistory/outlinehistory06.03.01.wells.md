@@ -2,9 +2,15 @@
 [Metadata]: # {06.03.01}
 [Descriptor]: # {06.03.01}
 [Author]: # {wells}
-BOOK V
-XXIX
-§ 1
+THE RISE AND COLLAPSE OF THE ROMAN EMPIRE
+
+THE CÆSARS BETWEEN THE SEA AND THE GREAT PLAINS OF THE OLD WORLD[256]
+
+§ 1. _A Short Catalogue of Emperors._ § 2. _Roman Civilization at      its
+Zenith._ § 3. _Limitations of the Roman Mind._ § 4. _The Stir      of the Great
+Plains._ § 5. _The Western (true Roman) Empire      crumples up._ § 6. _The
+Eastern (revived Hellenic) Empire._
+
 # § 1
 Western writers are apt, through their patriotic predispositions, to
 overestimate the organization, civilizing work, and security of the absolute

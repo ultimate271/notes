@@ -2,9 +2,19 @@
 [Metadata]: # {02.07.01}
 [Descriptor]: # {02.07.01}
 [Author]: # {wells}
-BOOK I
-VII
-§ 1
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF MAMMALS
+
+§ 1. _A New Age of Light._ § 2. _Tradition Comes into the World._ §
+3. _An Age of Brain Growth._ § 4. _The World Grows Hard Again._ §      5.
+_Chronology of the Ice Age._
+
 # § 1
 The third great division of the geological record, the Cainozoic, opens with a
 world already physically very like the world we live in to-day. Probably the

@@ -2,9 +2,18 @@
 [Metadata]: # {02.02.02}
 [Descriptor]: # {02.02.02}
 [Author]: # {wells}
-BOOK I
-II
-§ 2
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE RECORD OF THE ROCKS
+
+
+§ 1. _The First Living Things._ § 2. _How Old Is the World?_
+
 # § 2
 [Illustration: graph of eras]
 

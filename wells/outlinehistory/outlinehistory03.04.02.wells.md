@@ -2,9 +2,15 @@
 [Metadata]: # {03.04.02}
 [Descriptor]: # {03.04.02}
 [Author]: # {wells}
-BOOK II
-XI
-§ 2
+THE MAKING OF MEN
+
+NEOLITHIC MAN IN EUROPE[45]
+
+§ 1. _The Age of Cultivation Begins._ § 2. _Where Did the Neolithic
+Culture Arise?_ § 3. _Everyday Neolithic Life._ § 4. _How Did      Sowing
+Begin?_ § 5. _Primitive Trade._ § 6. _The Flooding of the      Mediterranean
+Valley._
+
 # § 2
 We do not know yet the region in which the ancestors of the white and whitish
 Neolithic peoples worked their way up from the Palæolithic stage of human

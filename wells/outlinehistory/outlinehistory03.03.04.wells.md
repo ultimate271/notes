@@ -2,9 +2,16 @@
 [Metadata]: # {03.03.04}
 [Descriptor]: # {03.03.04}
 [Author]: # {wells}
-BOOK II
-X
-§ 4
+THE MAKING OF MEN
+
+THE LATER POSTGLACIAL PALÆOLITHIC MEN, THE FIRST TRUE MEN
+
+(Later Palæolithic Age)
+
+§ 1. _The Coming of Men Like Ourselves._ § 2. _Subdivision of the
+Later Palæolithic._ § 3. _The Earliest True Men Were Splendid      Savages._ §
+4. _Hunters Give Place to Herdsmen._ § 5. _No Sub-men      in America._
+
 # § 4
 It was about 12,000 or fewer years ago that, with the spread of forests and a
 great change of the fauna, the long prevalence of the hunting life in Europe

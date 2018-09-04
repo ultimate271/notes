@@ -2,9 +2,19 @@
 [Metadata]: # {02.07.05}
 [Descriptor]: # {02.07.05}
 [Author]: # {wells}
-BOOK I
-VII
-§ 5
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF MAMMALS
+
+§ 1. _A New Age of Light._ § 2. _Tradition Comes into the World._ §
+3. _An Age of Brain Growth._ § 4. _The World Grows Hard Again._ §      5.
+_Chronology of the Ice Age._
+
 # § 5
 Guesses about the duration of the great age of cold are still vague, but in the
 Time diagram on page 60 we follow H. F. Osborn in accepting as our guides the

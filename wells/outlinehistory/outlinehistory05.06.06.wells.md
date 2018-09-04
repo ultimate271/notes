@@ -2,9 +2,15 @@
 [Metadata]: # {05.06.06}
 [Descriptor]: # {05.06.06}
 [Author]: # {wells}
-BOOK IV
-XXVI
-§ 6
+JUDEA, GREECE, AND INDIA
+
+THE RISE AND SPREAD OF BUDDHISM[211]
+
+§ 1. _The Story of Gautama._ § 2. _Teaching and Legend in      Conflict._
+§ 3. _The Gospel of Gautama Buddha._ § 4. _Buddhism and      Asoka._[212] § 5.
+_Two Great Chinese Teachers._ § 6. _The      Corruptions of Buddhism._ § 7.
+_The Present Range of Buddhism._
+
 # § 6
 The intolerance of the Jewish mind did keep its essential faith clear and
 clean. The theological disregard of the great Eastern teachers, neither

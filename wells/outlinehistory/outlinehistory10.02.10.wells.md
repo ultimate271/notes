@@ -2,9 +2,80 @@
 [Metadata]: # {10.02.10}
 [Descriptor]: # {10.02.10}
 [Author]: # {wells}
-BOOK VIII
-XXXVII
-§ 12
+THE AGE OF THE GREAT POWERS
+
+THE NEW DEMOCRATIC REPUBLICS OF AMERICA AND FRANCE
+
+§ 1. _Inconveniences of the Great Power System._ § 2. _The Thirteen
+Colonies before Their Revolt._ § 3. _Civil War is Forced upon the
+Colonies._ § 4. _The War of Independence._ § 5. _The Constitution      of the
+United States._ § 6. _Primitive Features of the United      States
+Constitution._ § 7. _Revolutionary Ideas in France._ § 8.      _The Revolution
+of the Year 1789._ § 9. _The French “Crowned      Republic” of ‘89-91._ § 10.
+_The Revolutions of the Jacobins._ §      11. _The Jacobin Republic, 1792-94._
+§ 12. _The Directory._ § 13.      _The Pause in Reconstruction and the Dawn of
+Modern Socialism._
+
+
+§ 1[418]
+
+When Gibbon, nearly a century and a half ago, was congratulating the world of
+refined and educated people that the age of great political and social
+catastrophes was past, he was neglecting many signs which we--in the wisdom of
+accomplished facts--could have told him portended far heavier jolts and
+dislocations than any he foresaw. We have told how the struggle of the
+sixteenth and seventeenth-century princes for ascendancies and advantages
+developed into a more cunning and complicated struggle of foreign offices,
+masquerading as idealized “Great Powers,” as the eighteenth century wore on.
+The intricate and pretentious art of diplomacy developed. The “Prince” ceased
+to be a single and secretive Machiavellian schemer, and became merely the
+crowned symbol of a Machiavellian scheme. Prussia, Russia, and Austria fell
+upon and divided Poland. France was baffled in profound schemes against Spain.
+Britain circumvented the “designs of France” in America and acquired Canada,
+and got the better of France in India. And then a remarkable thing occurred, a
+thing very shocking to European diplomacy. The British colonies in America
+flatly refused to have further part or lot in this game of “Great Powers.” They
+objected that they had no voice and no great interest in these European schemes
+and conflicts, and they refused to bear any portion of the burthen of taxation
+these foreign policies entailed.
+
+Of course this decision did not flash out complete and finished from the
+American mind at the beginning of these troubles. In America in the eighteenth
+century, just as in England in the seventeenth, there was an entire
+willingness, indeed a desire on the part of ordinary men, to leave foreign
+affairs in the hands of the king and his ministers. But there was an equally
+strong desire on the part of ordinary men to be neither taxed nor interfered
+with in their ordinary pursuits. These are incompatible wishes. Common men
+cannot shirk world politics and at the same time enjoy private freedom; but it
+has taken them countless generations to learn this. The first impulse in the
+American revolt against the government in Great Britain was therefore simply a
+resentment against the taxation and interference that followed necessarily from
+“foreign policy” without any clear recognition of what was involved in that
+objection. It was only when the revolt was consummated that the people of the
+American colonies recognized at all clearly that they had repudiated the Great
+Power view of life. The sentence in which that repudiation was expressed was
+Washington’s injunction to “avoid entangling alliances.” From his time until
+the year 1917 the united colonies of Great Britain in North America, liberated
+and independent as the United States of America, stood apart altogether from
+the blood-stained intrigues and conflicts of the European foreign offices. Soon
+after (1810-1823) they were able to extend their principle of detachment to the
+rest of the continent, and to make all the New World “out of bounds” for the
+scheming expansionists of the old. When at length, in 1917, they were obliged
+to re-enter the arena of world politics, it was to bring the new spirit and new
+aims their aloofness had enabled them to develop into the tangle of
+international relationships. They were not, however, the first to stand aloof.
+Since the treaty of Westphalia (1648), the confederated states of Switzerland,
+in their mountain fastnesses, had sustained their right to exclusion from the
+schemes of kings and empires.
+
+But since the North American peoples are now to play an increasingly important
+part in our history, it will be well to devote a little more attention than we
+have hitherto given to their development. We have already glanced at this story
+in § 8 of the preceding chapter. We will now tell a little more fully--though
+still in the barest outline--what these colonies were, whose recalcitrance was
+so disconcerting to the king and ministers of Great Britain in their diplomatic
+game against the rest of mankind.[419]
+
 # § 12
 It witnesses to the immense vitality and the profound rightness of the flood of
 new ideals and intentions that the French Revolution had released into the

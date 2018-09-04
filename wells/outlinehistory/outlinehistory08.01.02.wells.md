@@ -2,9 +2,21 @@
 [Metadata]: # {08.01.02}
 [Descriptor]: # {08.01.02}
 [Author]: # {wells}
-BOOK VI (_Continued_)
-XXXII
-§ 2
+CHRISTIANITY AND ISLAM (_Continued_)
+
+
+
+
+THE OUTLINE OF HISTORY
+
+MUHAMMAD AND ISLAM[319]
+
+§ 1. _Arabia before Muhammad._ § 2. _Life of Muhammad to the      Hegira._
+§ 3. _Muhammad becomes a Fighting Prophet._ § 4. _The      Teachings of Islam._
+§ 5. _The Caliphs Abu Bekr and Omar._ § 6.      _The Great Days of the
+Omayyads._ § 7. _The Decay of Islam under      the Abbasids._ § 8. _The
+Intellectual Life of Arab Islam._
+
 # § 2
 It was in Mecca about the year A.D. 570 that Muhammad, the founder of Islam,
 was born. He was born in considerable poverty, and even by the standards of the

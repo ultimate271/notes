@@ -2,9 +2,16 @@
 [Metadata]: # {03.07.04}
 [Descriptor]: # {03.07.04}
 [Author]: # {wells}
-BOOK II
-XIV
-§ 4
+THE MAKING OF MEN
+
+THE LANGUAGES OF MANKIND
+
+§ 1. _No one Primitive Language._ § 2. _The Aryan Languages._ § 3.
+_The Semitic Languages._ § 4. _The Hamitic Languages._ § 5. _The      Ural
+Altaic Languages._ § 6. _The Chinese Languages._ § 7. _Other      Language
+Groups._ § 8. _Submerged and Lost Languages._ § 9. _How      Languages may be
+Related._
+
 # § 4
 Philologists speak with less unanimity of a third group of languages, the
 HAMITIC, which some declare to be distinct from, and others allied to, the

@@ -2,9 +2,16 @@
 [Metadata]: # {03.07.02}
 [Descriptor]: # {03.07.02}
 [Author]: # {wells}
-BOOK II
-XIV
-§ 2
+THE MAKING OF MEN
+
+THE LANGUAGES OF MANKIND
+
+§ 1. _No one Primitive Language._ § 2. _The Aryan Languages._ § 3.
+_The Semitic Languages._ § 4. _The Hamitic Languages._ § 5. _The      Ural
+Altaic Languages._ § 6. _The Chinese Languages._ § 7. _Other      Language
+Groups._ § 8. _Submerged and Lost Languages._ § 9. _How      Languages may be
+Related._
+
 # § 2
 The students of languages (philologists) tell us that they are unable to trace
 with certainty any common features in all the languages of mankind. They cannot

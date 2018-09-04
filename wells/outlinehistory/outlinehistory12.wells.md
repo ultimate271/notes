@@ -2,7 +2,6 @@
 [Metadata]: # {12}
 [Descriptor]: # {12}
 [Author]: # {wells}
-Fine
 # Fine
 TIME CHARTS
 

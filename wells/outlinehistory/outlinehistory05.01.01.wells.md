@@ -2,9 +2,14 @@
 [Metadata]: # {05.01.01}
 [Descriptor]: # {05.01.01}
 [Author]: # {wells}
-BOOK IV
-XXI
-§ 1
+JUDEA, GREECE, AND INDIA
+
+THE HEBREW SCRIPTURES AND THE PROPHETS[157]
+
+§ 1. _The Place of the Israelites in History._ § 2. _Saul, David,      and
+Solomon._ § 3. _The Jews a People of Mixed Origin._ § 4. _The      Importance
+of the Hebrew Prophets._
+
 # § 1
 We are now in a position to place in their proper relationship to this general
 outline of human history the Israelites, and the most remarkable collection of

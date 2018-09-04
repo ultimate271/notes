@@ -2,9 +2,19 @@
 [Metadata]: # {02.07.03}
 [Descriptor]: # {02.07.03}
 [Author]: # {wells}
-BOOK I
-VII
-§ 3
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+THE AGE OF MAMMALS
+
+§ 1. _A New Age of Light._ § 2. _Tradition Comes into the World._ §
+3. _An Age of Brain Growth._ § 4. _The World Grows Hard Again._ §      5.
+_Chronology of the Ice Age._
+
 # § 3
 A number of types of mammal already appear in the Eocene. Some are
 differentiating in one direction, and some in another, some are perfecting

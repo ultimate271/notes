@@ -2,9 +2,14 @@
 [Metadata]: # {05.01.03}
 [Descriptor]: # {05.01.03}
 [Author]: # {wells}
-BOOK IV
-XXI
-§ 3
+JUDEA, GREECE, AND INDIA
+
+THE HEBREW SCRIPTURES AND THE PROPHETS[157]
+
+§ 1. _The Place of the Israelites in History._ § 2. _Saul, David,      and
+Solomon._ § 3. _The Jews a People of Mixed Origin._ § 4. _The      Importance
+of the Hebrew Prophets._
+
 # § 3
 The Jews who returned, after an interval of more than two generations, to
 Jerusalem from Babylonia in the time of Cyrus were a very different people from

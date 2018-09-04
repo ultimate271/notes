@@ -2,9 +2,19 @@
 [Metadata]: # {02.05.01}
 [Descriptor]: # {02.05.01}
 [Author]: # {wells}
-BOOK I
-V
-§ 1
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+CHANGES IN THE WORLD’S CLIMATE
+
+§ 1. _Why Life Must Change Continually._ § 2. _The Sun a Steadfast
+Star._ § 3. _Changes from Within the Earth._ § 4. _Life May Control
+Change._
+
 # § 1
 The Record of the Rocks is like a great book that has been carelessly misused.
 All its pages are torn, worn, and defaced, and many are altogether missing. The

@@ -2,8 +2,13 @@
 [Metadata]: # {02.03}
 [Descriptor]: # {02.03}
 [Author]: # {wells}
-BOOK I
-III
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
 # III
 NATURAL SELECTION AND THE CHANGES OF SPECIES
 

@@ -2,9 +2,21 @@
 [Metadata]: # {08.01.01}
 [Descriptor]: # {08.01.01}
 [Author]: # {wells}
-BOOK VI (_Continued_)
-XXXII
-§ 1
+CHRISTIANITY AND ISLAM (_Continued_)
+
+
+
+
+THE OUTLINE OF HISTORY
+
+MUHAMMAD AND ISLAM[319]
+
+§ 1. _Arabia before Muhammad._ § 2. _Life of Muhammad to the      Hegira._
+§ 3. _Muhammad becomes a Fighting Prophet._ § 4. _The      Teachings of Islam._
+§ 5. _The Caliphs Abu Bekr and Omar._ § 6.      _The Great Days of the
+Omayyads._ § 7. _The Decay of Islam under      the Abbasids._ § 8. _The
+Intellectual Life of Arab Islam._
+
 # § 1
 We have already described how in A.D. 628 the courts of Heraclius, of Kavadh,
 and of Tai-tsung were visited by Arab envoys sent from a certain Muhammad, “The

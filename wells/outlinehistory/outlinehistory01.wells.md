@@ -2,7 +2,6 @@
 [Metadata]: # {01}
 [Descriptor]: # {01}
 [Author]: # {wells}
-INTRODUCTION
 # INTRODUCTION
 “_A philosophy of the history of the human race, worthy of its name, must begin
 with the heavens and descend to the earth, must be charged with the conviction

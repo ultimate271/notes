@@ -2,9 +2,14 @@
 [Metadata]: # {03.05.04}
 [Descriptor]: # {03.05.04}
 [Author]: # {wells}
-BOOK II
-XII
-§ 4
+THE MAKING OF MEN
+
+EARLY THOUGHT[62]
+
+§ 1. _Primitive Philosophy._ § 2. _The Old Man in Religion._ § 3.
+_Fear and Hope in Religion._ § 4. _Stars and Seasons._ § 5.      _Story-telling
+and Myth-making._ § 6. _Complex Origins of      Religion._
+
 # § 4
 Out of such ideas and a jumble of kindred ones grew the first quasi-religious
 elements in human life. With every development of speech it became possible to

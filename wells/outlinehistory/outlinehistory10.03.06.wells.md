@@ -2,9 +2,15 @@
 [Metadata]: # {10.03.06}
 [Descriptor]: # {10.03.06}
 [Author]: # {wells}
-BOOK VIII
-XXXVIII
-§ 6
+THE AGE OF THE GREAT POWERS
+
+THE CAREER OF NAPOLEON BONAPARTE[448]
+
+§ 1. _The Bonaparte Family in Corsica._ § 2. _Bonaparte as a
+Republican General._ § 3. _Napoleon First Consul, 1799-1804._ § 4.
+_Napoleon I, Emperor, 1804-14._ § 5. _The Hundred Days._ § 6. _The      Cult of
+the Napoleonic._ § 7. _The Map of Europe in 1815._
+
 # § 6
 In the long perspectives of history the cult of Napoleon, and his peculiar
 effect upon certain types of mind, is of far more interest and far more

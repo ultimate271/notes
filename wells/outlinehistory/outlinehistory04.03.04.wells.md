@@ -2,9 +2,14 @@
 [Metadata]: # {04.03.04}
 [Descriptor]: # {04.03.04}
 [Author]: # {wells}
-BOOK III
-XVII
-§ 4
+THE DAWN OF HISTORY
+
+SEA PEOPLES AND TRADING PEOPLES
+
+§ 1. _The Earliest Ships and Sailors._ § 2. _The Ægean Cities      before
+History._ § 3. _The First Voyages of Exploration._ § 4.      _Early Traders._ §
+5. _Early Travellers._
+
 # § 4
 The great trading cities of the Phœnicians are the most striking of the early
 manifestations of the peculiar and characteristic gift of the Semitic peoples

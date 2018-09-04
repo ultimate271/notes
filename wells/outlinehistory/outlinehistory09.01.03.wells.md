@@ -2,9 +2,20 @@
 [Metadata]: # {09.01.03}
 [Descriptor]: # {09.01.03}
 [Author]: # {wells}
-BOOK VII
-XXXIV
-§ 3
+THE MONGOL EMPIRES OF THE LAND WAYS AND THE NEW EMPIRES OF THE SEA WAYS
+
+THE GREAT EMPIRE OF JENGIS KHAN AND HIS SUCCESSORS
+
+(THE AGE OF THE LAND WAYS)
+
+§ 1. _Asia at the end of the Twelfth Century._ § 2. _The Rise and
+Victories of the Mongols._ § 3. _The Travels of Marco Polo._ § 4.      _The
+Ottoman Turks and Constantinople._ § 5. _Why the Mongols were      not
+Christianized._ § 5A. _Kublai Khan founds the Yuan Dynasty._ §      5B. _The
+Mongols Revert to Tribalism._ § 5C. _The Kipchak Empire      and the Tsar of
+Muscovy._ § 5D. _Timurlane._ § 5E. _The Mongol      Empire of India._ § 5F.
+_The Mongols and the Gipsies._
+
 # § 3
 Now this story of Mongolian conquests is surely the most remarkable in all
 history. The conquests of Alexander the Great cannot compare with them in

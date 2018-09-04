@@ -2,9 +2,13 @@
 [Metadata]: # {04.04.02}
 [Descriptor]: # {04.04.02}
 [Author]: # {wells}
-BOOK III
-XVIII
-§ 2
+THE DAWN OF HISTORY
+
+WRITING
+
+§ 1. _Picture Writing._ § 2. _Syllable Writing._ § 3. _Alphabet
+Writing._ § 4. _The Place of Writing in Human Life._
+
 # § 2
 But while the Chinese mind thus made for itself an instrument which is probably
 too elaborate in structure, too laborious in use, and too inflexible in its

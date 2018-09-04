@@ -2,9 +2,15 @@
 [Metadata]: # {03.02.02}
 [Descriptor]: # {03.02.02}
 [Author]: # {wells}
-BOOK II
-IX
-§ 2
+THE MAKING OF MEN
+
+THE NEANDERTHAL MEN, AN EXTINCT RACE
+
+(The Early Palæolithic Age[29])
+
+§ 1. _The World 50,000 Years Ago._ § 2. _The Daily Life of the      First
+Men._ § 3. _The Last Palæolithic Men._
+
 # § 2
 In Worthington Smith’s _Man the Primeval Savage_ there is a very vividly
 written description of early Palæolithic life, from which much of the following

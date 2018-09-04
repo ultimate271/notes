@@ -2,9 +2,19 @@
 [Metadata]: # {02.05.02}
 [Descriptor]: # {02.05.02}
 [Author]: # {wells}
-BOOK I
-V
-§ 2
+THE MAKING OF OUR WORLD
+
+
+
+
+THE OUTLINE OF HISTORY
+
+CHANGES IN THE WORLD’S CLIMATE
+
+§ 1. _Why Life Must Change Continually._ § 2. _The Sun a Steadfast
+Star._ § 3. _Changes from Within the Earth._ § 4. _Life May Control
+Change._
+
 # § 2
 Another entirely different cause of changes in the general climate of the earth
 may be due to variations in the heat of the sun. We do not yet understand what

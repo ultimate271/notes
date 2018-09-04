@@ -2,9 +2,15 @@
 [Metadata]: # {03.04.06}
 [Descriptor]: # {03.04.06}
 [Author]: # {wells}
-BOOK II
-XI
-§ 6
+THE MAKING OF MEN
+
+NEOLITHIC MAN IN EUROPE[45]
+
+§ 1. _The Age of Cultivation Begins._ § 2. _Where Did the Neolithic
+Culture Arise?_ § 3. _Everyday Neolithic Life._ § 4. _How Did      Sowing
+Begin?_ § 5. _Primitive Trade._ § 6. _The Flooding of the      Mediterranean
+Valley._
+
 # § 6
 So far we have been telling of a history without events, a history of ages and
 periods and stages in development. But before we conclude this portion of the

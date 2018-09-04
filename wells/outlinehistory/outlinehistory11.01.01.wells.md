@@ -2,9 +2,15 @@
 [Metadata]: # {11.01.01}
 [Descriptor]: # {11.01.01}
 [Author]: # {wells}
-BOOK IX
-XLI
-§ 1
+THE NEXT STAGE IN HISTORY
+
+THE POSSIBLE UNIFICATION OF THE WORLD INTO ONE COMMUNITY OF KNOWLEDGE AND WILL
+
+§1. _The Possible Unification of Men’s Wills in Political Matters._
+§2. _How a Federal World Government may come about._ §3. _Some      Fundamental
+Characteristics of a Modern World State._ §4. _What      this World might be
+were it under one Law and Justice._ §5. _The      Stages Beyond._
+
 # § 1
 We have brought this _Outline of History_ up to our own times, but we have
 brought it to no conclusion. It breaks off at a dramatic phase of expectation.
