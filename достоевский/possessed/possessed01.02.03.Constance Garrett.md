@@ -2,7 +2,11 @@
 [Metadata]: # {01.02.03}
 [Descriptor]: # {01.02.03}
 [Author]: # {constance garrett}
-# III
+# Nikolay bites Ivan on the ear
+[Actor]: # {a stout and sturdy colonel}
+[Actor]: # {Alyosha Telyatnikov}
+[Actor]: # {Nikolay Vsyevolodovitch Stavrogin}
+[Actor]: # {Ivan Ossipovitch}
 [TreeTag]: # {01.02.03.01}
 At last the interview with the governor took place too. Our dear, mild, Ivan
 Ossipovitch had only just returned and only just had time to hear the angry
@@ -25,6 +29,8 @@ muddled. Nikolay looked anything but cordial, not at all as a relation should.
 He was pale and sat looking down and continually moving his eyebrows as though
 trying to control acute pain.
 
+## Ivan inquires of Nikolay's behavior
+[Speaker]: # {Ivan Ossipovitch}
 "You have a kind heart and a generous one, Nicolas," the old man put in among
 other things, "you're a man of great culture, you've grown up in the highest
 circles, and here too your behaviour has hitherto been a model, which has been
@@ -39,6 +45,8 @@ delirium?"
 Nikolay listened with vexation and impatience. All at once there was a gleam of
 something sly and mocking in his eyes.
 
+## Nikolay feigns to reveal the information, but bites the governor instead
+[Speaker]: # {Nikolay Vsyevolodovitch Stavrogin}
 "I'll tell you what drives me to it," he said sullenly, and looking round him
 he bent down to Ivan Ossipovitch's ear. The refined Alyosha Telyatnikov moved
 three steps farther away towards the window, and the colonel coughed over the
@@ -49,6 +57,8 @@ of telling him some interesting secret, Nikolay had seized the upper part of
 his ear between his teeth and was nipping it rather hard. He shuddered, and
 breath failed him.
 
+## The governor recoils
+[Speaker]: # {Ivan Ossipovitch}
 "Nicolas, this is beyond a joke!" he moaned mechanically in a voice not his
 own.
 
@@ -61,6 +71,8 @@ to wait. Nikolay noticed this perhaps, and bit the harder.
 "Nicolas! Nicolas!" his victim moaned again, "come... you've had your joke,
 that's enough!"
 
+## The governor puts Nikolay in jail: Varvara comes to see but is turned away
+[Actor]: # {Varvara Petrovna}
 In another moment the poor governor would certainly have died of terror; but
 the monster had mercy on him, and let go his ear. The old man's deadly terror
 lasted for a full minute, and it was followed by a sort of fit. Within half an
@@ -73,6 +85,8 @@ nervous irritation to discuss the matter with him at once, she was refused
 admittance, whereupon, without getting out of the carriage, she returned home,
 unable to believe her senses.
 
+# Nikolay is found to be suffering from brain disease
+## Nikolay goes into a frenzy in the cell
 And at last everything was explained! At two o'clock in the morning the
 prisoner, who had till then been calm and had even slept, suddenly became
 noisy, began furiously beating on the door with his fists,--with unnatural
@@ -82,6 +96,7 @@ keys and ordered the cell to be opened that they might rush in and bind the
 maniac, it appeared that he was suffering from acute brain fever. He was taken
 home to his mother.
 
+## About the disease
 Everything was explained at once. All our three doctors gave it as their
 opinion that the patient might well have been in a delirious state for three
 days before, and that though he might have apparently been in possession of
@@ -95,6 +110,11 @@ were ashamed and wondered how it was they had failed to "see the elephant" and
 had missed the only explanation of all these marvels: there were, of course,
 sceptics among them, but they could not long maintain their position.
 
+# Nikolay apologizes for his behavior
+[Speaker]: # {Liputin}
+[Speaker]: # {Nikolay Vsyevolodovitch Stavrogin}
+## Nikolay, at the bidding of his mother, goes around apologizing to people
+[Actor]: # {Varvara Petrovna}
 Nikolay was in bed for more than two months. A famous doctor was summoned from
 Moscow for a consultation; the whole town called on Varvara Petrovna. She
 forgave them. When in the spring Nikolay had completely recovered and assented
@@ -112,6 +132,8 @@ true that some of us retained the conviction that the scamp had simply been
 making fun of us, and that the illness was neither here nor there. He went to
 see Liputin too.
 
+## Written out dialogue of the apology to Liputin
+[Character]: # {Agafya}
 "Tell me," he said, "how could you guess beforehand what I should say about
 your sense and prime Agafya with an answer to it?"
 
@@ -146,6 +168,8 @@ rude to me."
 
 Liputin shrank into himself more than ever.
 
+## Nikolay comments of some of Fourier's works on Liputin's desk
+[Reference]: # {Fourier}
 "Bah, bah! What do I see?" cried Nicolas, noticing a volume of Considérant in
 the most conspicuous place on the table. "You don't mean to say you're a
 Fourierist! I'm afraid you must be! And isn't this too borrowing from the
@@ -158,6 +182,8 @@ republic and harmony of mankind, let me tell you! Not simply from the French!"
 
 "Foo! hang it all! There's no such language!" laughed Nikolay.
 
+## Aftermath and commentary about Nikolay's reaction to the book of Fourier
+[Reference]: # {Fourier}
 Sometimes a trifle will catch the attention and exclusively absorb it for a
 time. Most of what I have to tell of young Stavrogin will come later. But I
 will note now as a curious fact that of all the impressions made on him by his
