@@ -1,15 +1,7 @@
-# BOOK IV
+BOOK IV
 
-# Argument
-[Character]: # {Diomed}
-[Character]: # {Sthenelus}
-[Character]: # {Ulysses}
-[Character]: # {Machaon}
-[Character]: # {Agamemnon}
-[Character]: # {Menelaus}
-[Character]: # {Fandarus}
-[Character]: # {Minerva}
-[Place]: # {Olympus}
+Argument
+
   A quarrel in Olympus--Minerva goes down and persuades Fandarus
   to violate the oaths by wounding Menelaus with an arrow--Agamemnon
   makes a speech and sends for Machaon--He then
@@ -18,23 +10,6 @@
   Sthenelus, and the two hosts then engage, with great slaughter
   on either side.
 
-# Jove Juno and Minerva discuss breaking the oath at olympus
-[Location]: # {Olympus}
-[Actor]: # {Hebe}
-[Actor]: # {Juno}
-[Actor]: # {Menelaus}
-[Actor]: # {Jove}
-## Jove taunts Juno and Minerva
-[Character]: # {Priam}
-[Character]: # {Helen}
-[Character]: # {Alexandrus}
-[Character]: # {Venus}
-[Place]: # {Alalcomene}
-[Place]: # {Argos}
-[Character]: # {Menelaus}
-[Character]: # {Saturn}
-[Place]: # {Troy}
-[Speaker]: # {Jove}
 Now the gods were sitting with Jove in council upon the golden floor
 while Hebe went round pouring out nectar for them to drink, and as they
 pledged one another in their cups of gold they looked down upon the
@@ -49,10 +24,6 @@ we set them fighting anew or make peace between them? If you will agree
 to this last Menelaus can take back Helen and the city of Priam may
 remain still inhabited."
 
-## Juno responds to Joves taunts
-[Speaker]: # {Minerva}
-[Character]: # {Priam}
-[Speaker]: # {Juno}
 Minerva and Juno muttered their discontent as they sat side by side
 hatching mischief for the Trojans. Minerva scowled at her father, for
 she was in a furious passion with him, and said nothing, but Juno could
@@ -62,10 +33,6 @@ the sweat that I have sweated, to say nothing of my horses, while
 getting the people together against Priam and his children? Do as you
 will, but we other gods shall not all of us approve your counsel."
 
-## Jove threatens Juno
-[Character]: # {Ilius}
-[Character]: # {Priam}
-[Speaker]: # {Jove}
 Jove was angry and answered, "My dear, what harm have Priam and his
 sons done you that you are so hotly bent on sacking the city of Ilius?
 Will nothing do for you but you must within their walls and eat Priam
@@ -79,13 +46,6 @@ of heaven, there was none that I so much respected as Ilius with Priam
 and his whole people. Equitable feasts were never wanting about my
 altar, nor the savour of burning fat, which is honour due to ourselves."
 
-## Juno appeals to Jove to allow Minerva to take part in the fight
-[Character]: # {Minerva}
-[Character]: # {Saturn}
-[Place]: # {Mycenae}
-[Place]: # {Sparta}
-[Place]: # {Argos}
-[Speaker]: # {Juno}
 "My own three favourite cities," answered Juno, "are Argos, Sparta, and
 Mycenae. Sack them whenever you may be displeased with them. I shall
 not defend them and I shall not care. Even if I did, and tried to stay
@@ -99,17 +59,10 @@ and take part in the fight at once, and let her contrive that the
 Trojans shall be the first to break their oaths and set upon the
 Achaeans."
 
-## Jove instructs Minerva to break the oath
-[Character]: # {Trojan}
-[Character]: # {Achaean}
-[Character]: # {Minerva}
-[Speaker]: # {Jove}
 The sire of gods and men heeded her words, and said to Minerva, "Go at
 once into the Trojan and Achaean hosts, and contrive that the Trojans
 shall be the first to break their oaths and set upon the Achaeans."
 
-# 
-## 
 This was what Minerva was already eager to do, so down she darted from
 the topmost summits of Olympus. She shot through the sky as some
 brilliant meteor which the son of scheming Saturn has sent as a sign to
