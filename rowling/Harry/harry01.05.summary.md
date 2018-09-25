@@ -47,4 +47,4 @@ wand that Voldemort got was the wand that chose Harry.
 
 # Conclusion
 Hagrid and Harry part. Hagrid gives Harry his ticket to Hogwarts, and Harry is
-aprehensive about living up to his expectations.
+aprehensive about living up to people's expectations.
