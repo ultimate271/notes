@@ -1,3 +1,4 @@
+# Harry practices some Quidditch with his new Nimbus 2000
 The next day, the group recoils from their experience with the dog. Neville is
 scared, and Hermione isn't speaking to them.
 
@@ -8,6 +9,7 @@ McGonagall gave it to Harry.
 Harry meet's Oliver Wood in the Quiditch field to practice with the new broom.
 Wood teaches Harry the rules of Quidditch.
 
+# Incident with the Troll in the womens restroom
 Two months go by. One day in Charms, they learn how to make something levitate,
 and Hermione shows up Ron, who then rebuffs her. It's rumored that Hermione was
 crying in the girls room, perhaps because of Ron's comments.
