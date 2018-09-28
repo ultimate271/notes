@@ -21,8 +21,8 @@ As they sneak, the see Snape going towards the third floor.
 As they follow Snape, they hear the troll. They lock it from following them,
 but then later, they hear a scream from the girls bathroom. After going back
 and saving Hermione in a rather humourous mismatch of distraction and antics,
-the three of them get caught by McGonagall, Snape, Quirrell, and Dumbledore.
-Hermione lies about what happened to get Harry and Ron out of trouble. Hermione
-is deducted 5 points and Harry and Ron are given 5 points to Gryffindor.
+the three of them get caught by McGonagall, Snape, Quirrell.  Hermione lies
+about what happened to get Harry and Ron out of trouble. Hermione is deducted 5
+points and Harry and Ron are given 5 points to Gryffindor.
 
 Hermione becomes friends with the two thereafter.
