@@ -115,18 +115,21 @@ present the definition of that term, and do this for all of the terms that I
 want to use. This has the benefit of being succint, but has the danger, best I
 can see, of being still ambiguous. It's also dreadfully boring, and I am of the
 opinion that philosophy fails if the one partaking in the philosophy becomes
-bored. So instead, I want to explore the concepts of being that we as humans
-all share, and I want to label the concepts that we discover along the way with
-terms that, hopefully, most closely resemble those concepts. I want to do it in
-this way to remain as unambiguous as possible. I want to lead a journey that
-goes through the realm of our existance, and when a certain idea or concept
-comes up, an idea or concept which will be hopefully shared by those who might
-go along with this journey, I want to label that concept, so that the label can
-be used from then on to talk about that concept. In this way I hope to be less
-ambiguous, and also I hope to be more interesting. Because what is the purpose
-of philosophy if the philosopher does not provoke thought?  From this, we can
-then go on to talk about the philosphical ideas, with little in the way of
-confusion about what exactly is meant by the idea.
+bored.
+
+So, I want to explore the concepts of being that we as humans all share, and I
+want to label the concepts that we discover along the way with terms that,
+hopefully, most closely resemble those concepts. I want to do it in this way to
+remain as unambiguous as possible. I want to lead a journey that goes through
+the realm of our existance, an inward journey that can be followed as
+unambiguously as possible, and when a certain idea or concept comes up, an
+idea or concept which will be hopefully shared by those who might go along with
+this journey, I want to label that concept, so that the label can be used from
+then on to talk about that concept. In this way I hope to be less ambiguous,
+and also I hope to be more interesting. Because what is the purpose of
+philosophy if the philosopher does not provoke thought?  From this, we can then
+go on to talk about the philosphical ideas, with little in the way of confusion
+about what exactly is meant by the idea.
 
 So what does this journey look like? What sort of journey to I wish to partake
 in?
@@ -155,24 +158,27 @@ promise of a means with which to start a mode of thought that could lead to a
 greater understanding of these sorts of questions is the justification of what
 is to come.
 
-So the beginning to our journey, the beginning of any line of thought which
-leads to a potential greater understanding of these sorts of questions, is to
-start with this question. What do we know?
+So I want to try and begin our journey, and to find the beginning of the
+journey, I want to ask a question which to me seems to hit the best place to
+begin.
+
+What do we know?
 
 Now, at this point, we have already run into a problem. What is meant by "know"
 and even still, what is meant by "we" or "I"? This is the issue of definitions
-that I am quite honestly not truly able to get around. Already, at the starting
+that I am quite honestly not truly able to get around. Even before the starting
 point of our journey, we have to define a term before we can experience that
 term. But enough. Let's instead try and answer that question, and in this way
 we can get to our starting point.
 
-So many people would claim to know that the world is round. They would also
-claim to know their name, what country they live in, and what year it is. These
-are things that, when you ask a four year old if she knows how old she is, she
-will hold up four fingers and say "I'm four" in a potentially adorable voice.
-This is not the sort of knowledge I wish to talk. These are the sorts of things
-that we know "beyond a reasonable doubt", to use law terminology. I instead ask
-the question, what do we know, inculding the reasonable doubt?
+So many people would claim to know a multitude of things. They know that the
+world is round they know their name, what country they live in, and what year
+it is. These are things that, when you ask a four year old if she knows how old
+she is, she will hold up four fingers and say "I'm four" in a potentially
+adorable voice.  This is not the sort of knowledge I wish to talk. These are
+the sorts of things that we know "beyond a reasonable doubt", to use law
+terminology. I instead ask the question, what do we know within the reasonable
+doubt?
 
 I want to make the distinction about which way I am going here. A Chirstian in
 his kitchen would know beyond a reasonable doubt that the pot he is holding is
@@ -181,7 +187,7 @@ lord." But this is more of a claim of belief. The knowledge of the cast iron
 pan is more concrete than the belief of Christ.
 
 I wish to go the other way. I wish to say, "is there something that is greater
-than your knowledge of the pan is made of cast iron? Is there something you
+than your knowledge that the pan is made of cast iron? Is there something you
 can say that you have knowledge of more than you have knowledge of the
 existance of the pan in your hand?"
 
@@ -278,3 +284,167 @@ question, what does it mean to have a valid experience vs an invalid
 experience? But that is my whole point. I am not making any sort of claim to
 the validity of the experience, merely that the experience exists. Validity is
 a different notion, one that is inside the reasonable doubt.
+
+One last notion is that this statement does not include any claim about our
+ability to control or manipulate this experience. I am not saying that our
+experience is controled by our "free will" and that through the application of
+this free will, we are able to influence the experience that we have. The "I
+have experience" claim has no bearing on the claim that free will exists. We
+are not, at this starting point, making any claim about free will, but instead
+making claims about the existance of experience.
+
+So now that we have made some negative claims about this assertion of
+experience, I want to talk about what exactly is meant by this claim of
+experience. This is best talking about in showing all the ways in which people
+have experience.
+
+The first and most obvious notion of "experience" is talking about the
+sensations of the senses. This example has the benefit of being the easiest to
+understand, but it is also the easiest to misunderstand as well. This notion of
+experience is the simply observation that, when you put your hand into some
+warm water, your hand feels warm. The hand feeling warm is a part of the
+experience.
+
+So here is where I don't want to be misunderstood. This does not suppose that
+since the hand feels warm, there must be a pot, and it must have warm water in
+it, and the warmness of the water is being transfered into the nerve endings of
+the hand, and that's where the sensation of warmness comes from. It is possible
+to say, going back to the brain in a vat experiment, that really there is a
+simulated world that is feeding the feeling of warmth from the water of the pot
+to your brain, and that if so programmed, it could perhaps supply a different
+sensation to your brain when you place your hand in the warm water, but it
+wasn't programmed like that so you feel the warmth of it.
+
+But that's the whole point. The point is, in either case, in the more sane
+sense of thinking about the world as something "real" and then in the contrary
+case of the world being virtual, there is a sense of warmth that is being
+experienced. The experience of the hand being warm is what I mean when I say
+that "there is experience", namely, in this case, the experience of the hand
+being warm.
+
+Now, I want to talk about other examples of experience, because while the
+experience of physical sensation is one of the more promonent ways in which
+this experience is felt, there are other things as well.
+
+The sort of dual example of this is the dream. When someone sleeps at night,
+they may act out any variety of dreams. They could be falling, they could be
+flying, running from someone who wants to kill them, or running to try and kill
+someone. The locale could be anything from a familiar house to an entire
+landscape that the dreamer has never been before. The basis in reality could be
+the most real, or the most fantastic. Regardless of the exact nature of the
+dream, the experience of the dream is something that you can point to and say,
+"that is an experience."
+
+Again, I am not making any claim about the origin of the dream. Certain Greek's
+in Hellenic times may have supposed that their dreams were visions sent by
+Zeus or Apollo, and that the gods were attempting to give them some omen
+through the vision of the dream. It has also been said that the dream is simply
+the brains way of responding to random firings of neurons in the night. I am
+not making any sort of claim one way or the other about the nature of where the
+dream comes from, in the same way that I am not make a claim about where the
+warmth of the water comes from. I am simply saying that the experience of the
+dream exists.
+
+So again, I want to emphasize, the fact there is such a thing as human
+experince does not indicate anything about what the human experience is nested
+in, if anything. But it is at this point, at this statement, that there is
+experience, that I want to begin our journey.
+
+Before we go on, I want to mention one last thing about this human experience,
+and that has to do with the conception of what it means with it's relation to
+time.
+
+So to this point, we have not talked about time, and in fact, similar to the
+notion of free will, the notion of "I have experience" and rather, what that
+experience is, does not insist upon any notion of time. However, what I do want
+to say is, it might be more accurate, in some sense, to say something like, "I
+have experience of the present moment". Of course, this requires further
+understanding of what "the present moment" means, but what I am getting at is
+this. Suppose you had the experience of placing your hand in the warm water,
+and then you took your hand out of the warm water. Then you get out of the
+kitchen, sit in your chair, and you think about what that felt like. Well, at
+this present moment, your experience has to do with the recollection of the
+experience of placing your hand in the warm water. Your experience is the
+recollection. So in that sense, it is no longer correct to say that "I have the
+experience of placing my hand in the warm water." It is only correct to say,
+"Right now, my experience is the process of remembering the placement of my
+hand in the warm water."
+
+This goes back to the point about the validity of experience. I am not making a
+claim about the validity of the memory, I am only making a claim that the
+experience of recollection exists. And as such, I am not making any claim about
+time existing, in the same way I am not making any claim about space existing,
+or even a material world. All I am saying with this statement is that the
+fundamental starting point that I want to start our journey at is that "there
+is experience."
+
+So the first thing to talk about is what we should call this human experience.
+There are many things that we could use to talk about it. Knowledge, feeling,
+consciousness, awareness, and I'm sure many others. But all of these things
+can have some sort of a priori meaning attached to them. When talking about
+Consciousness, many people will give some sort of supernatural origin to it,
+and think about it in those terms. When talking about awareness, we talk about
+that aspect of our experience that has to do with being alert of our
+surroundings.
+
+I think, there is no word which talks about this notion of the "experience that
+we have even with the reasonable doubt." The experience that, no matter what
+else we have in the world. Even the word "experience" is too much, because the
+notion of experience is tied up with the concept of "having experience" or
+"being experienced" in something.
+
+Some other notions about experience, perhaps more ethereal in nature, are thing
+such as the "soul" or the "spirit" or the "body" or the "mind". All of these
+things are interconnected, but they all have the problem that in one context,
+in one way of framing the world, the soul will mean one thing, and in another
+way of framing the world, the soul will mean something else, something that
+contradicts the first one. It gets to the point that using any of these words
+without the proper framing of what you mean when you use it could mean so many
+different and contradicting things that you really can't mean anything by using
+the words alone and you must supply the context for your use of these words.
+
+It goes even deeper than that though, because many feel so strongly about what
+these words mean to them, that even if the context is supplied for one persons
+meaning and use of a certain word, the other will still apply the context that
+they wish to apply to it, and in this way, the distinctions and points that
+the first is trying to make will be lost despite his best efforts to make
+himself unambiguously clear.
+
+There's a part of me that wants to make up a word for this notion that I am
+talking about. It seems peculiar to me that this concept that seems to me to be
+at the very center of any sane way of thinking about the world as we know it
+doesn't have an unambiguous name. It's perhaps even tragic, that the thing that
+is the only thing that we can truely know doesn't have a name which is
+unambiguous.
+
+So this is the terminology that I use, and that I think is the most fitting. I
+call this thing, the thing that is the only thing that we can truly know, this
+human experience, that exists irrespective of how it gets created, I call, the
+"Inner".
+
+Now, of course, giving it a name like "Inner" is leading. It suggests that
+there must be an "Outer". And it does suggest that, and indeed, that is the
+next thing to talk about. But I want to pump the brakes here for a moment.
+
+The reason I call this the "Inner" is because it is, to me, best what
+represents this notion of "the only true knowledge". And it could be argued
+that this is the introverted perspective, and that the bias of the introvert is
+speaking when it calls the "Inner" the only true knowledge. But again, I must
+emphasize, we are merely saying that the Inner exists, and such a supposition
+seems to me to be the most sure supposition that anyone could make. There are
+other supposistions that could be made, something about the nature of reality,
+or something about the origin of our existance, or any other starting off
+point, but I want to make this one because, beyond any doubt, it is known that
+the human being has experience.
+
+But I must be clear. To say that the Inner is the only really true knowledge
+can be dreadfully misleading. I must give this word of caution at this point.
+Such a notion can lead a man to insanity. To think that "Diving inward" is the
+only way to discover what is "entirely true" is supremely misguided. I only
+call this thing the "inner" to give it a name which seems most appropiate to
+me. To draw the association between "inner" and "the only undeniable knowledge"
+and then to try and explore the inner to attempt to discover knowledge is using
+again the a priori notion of inner and knowledge to this notion. It's a
+prejudiced understanding of whatever other associations a human might have with
+the word knowledge that seeks to discover something more here. I merely use
+these words as terms to describe the concepts that we have so far.
