@@ -891,3 +891,257 @@ experience, and that the human has absolute knowledge of it. We call this the
 nucleous is the claim that the inner is the only thing that we can have
 absolute knowledge of. Our confidence in this claim is a degree off of the
 absoluteness of our first claim, but still seems reasonable.
+
+--
+
+So at this point on the journey, we have defined the "Inner" and we have come
+to accept the notion that "The inner is the only thing that we can have
+absolute knowledge of." We now want to move on to the next step of our journey.
+
+Of course, the next step here is, since we have decided to call this notion the
+inner, we want to make the claim that "there is an outer." But before I do
+that, I want to explore the notion of the inner a little deeper to justify this
+claim.
+
+The easiest way to do that is to think about what the inner is like. The best
+way to do this is to go back to the sensory deprivation chamber.
+
+So in the sensory deprivation chamber, if it's ideal, there will be nothing
+that will influence what goes on in the inner besides the memories of past
+experience. The thoughts and feelings that go on will be entirely based upon
+the "imagination," and whatever the imagination is, it is surely a part of the
+inner.
+
+But now, let's modify the thought experiment a little bit. Lets have someone in
+a sensory deprivation chamber, so that there is no sensation or sense involved
+at all, except for a small rod. This rod is attached to a timer, and every ten
+seconds, the rod will protrude down, touch the individual on the hand, and
+retract.
+
+When this happens, the person in the chamber will feel the rod on his hand.
+They will feel the sensation of it touching them.
+
+Now, is it correct to think about this sensation of the rod as also a part of
+the "imagination?" Most surely not, it seems to me. Most people would say, "The
+rod comes from the real world, and the interaction of that real world with the
+hand is what produces the sensation felt by the hand." But we need to be
+cautious so as not to make fanciful jumps. Just because something "Seems
+obvious" does not mean that it is the direction that we want to take our line
+of thought. We are not here for intuititions, we instead wish to formulate what
+we want to say in the most exact way that we can.
+
+So now we are going about another idea. We have already explored the notion of
+absolute knowledge, and we have said, "the only thing that we have absolute
+knowledge of as human beings is the inner." Now, we want to ask, "even though
+that is all we can have absolute knowledge of, is there something else that
+exists? In other words, is the inner the only thing that exists, or is there
+something else that exists?"
+
+At this point, it's worthwhile to go back again to our discussion about the
+sensory deprivation chamber. In this chamber, we have had two sorts of "inner
+experiences." The first is what people would call "the imagination." Now, we
+have not very much explored what this imagination might be, whether it's
+something that is created by a "free will" that has the ability to conjure up
+these images as it desires, and draws them up as they please, or whether or not
+the imagination is only a product of our memories and doings in the world, that
+the imags seen are somehow generated and presented to us as something like a
+movie and that the "imaginer" is only there to observe the imagination.
+
+Regardless of either stance, we would like to be able to draw a distinction
+between the "imagination" and "the sensation felt on by the hand with the rod".
+In the situation where there is a free will, this distinction is easy to draw.
+We make the distinction of the "imaginative experience" is that which the free
+will is able to conjure up, where as teh "actual experience" is that which is
+felt by the inner regardless of what the free will would "like to experience."
+In other words, no matter how great the persons will is, there are some things
+that are a part of the experience of the inner that are generated irrespective
+of the desires of the one experiencing them.
+
+In the case where we dismiss the idea of free will, we are left with a trickier
+notion of this distinction between imagination and the actual experience. We
+could say that the feeling of the rod is in the same domain as the imagined
+experience, or we could say the conjuring of a fantastical fairy world is a
+part of the actual experience. Both of these interpretations leave something to
+be desired. In this view, the "imagined" and "actual" experiences are merely a
+part of the same class, and these terms are just labels that are added to aid
+in the description of the variety of experience that was felt. These things are
+more of a spectrum of experience to say something was more or less like an
+actual or imagined experience. But under this view, we would have to say that
+every experience is actual, since "to imagine" something is to suppose that
+there is something doing the imagining, which assumes some notion of the "free
+will" wihch is the thing that does the imagining. But if there is not a "will"
+that does the imagining, then every experience is the product of some outer
+world where actual things happen, and every aspect of our inner is the product
+of our abilty to perceive that outer world. But we are getting ahead of
+ourselves here.
+
+In either case, our question still remains. Are we going to suppose that
+there exists something other than the inner?
+
+Now, at this point, we are armed with the capability to express our viewpoint.
+We wish to take the reducto ad absurdum case again. We wish to say, "The inner
+is the only thing that exists," and see where taking this statement leads us.
+
+Now, the first thing to take note of is that this does not contradict our first
+points. In fact, it goes with them quite well. The progression goes, "The inner
+is something we have absolute knowledge of, it's the only thing we have
+absolute knowledge of, and it's the only thing that exists." It feels quite
+like a sequential series of points, each leading to the next. Of course, there
+is nothing about the first statements that concludes the last statement, but
+the point is, we don't have any initial contradictions.
+
+So now we have to ask ourselves, if the inner is truly the only thing that
+exists, how do we explain this distinction between the "imagined" and "actual"
+experiences? Or, in other words, does it make any sense to even talk about an
+"actual" experience under this viewpoint? In this sense, if nothing else
+exists, then every experience is a part of this segment that we call the
+"imagined world". For their to be an actual experience, there has to be
+something that supplies that actual experience, and if nothing else exists
+besides the inner, then the inner is the only thing that can supply
+experiences.
+
+This leaves us at a very strange sort of crossroads. We are left to say, "The
+inner is the only thing that exists, and everything you feel or see or touch is
+a part of the inner." In other words, under this stance, we must take the
+viewpoint that every aspect of the world is generated by the imaginiation.
+
+Now, we must take pause here. This is such a far out notion that it must be
+taken seriously despite the knee jerk reaction to just say, "Well of course
+not, are you going to argue that my child, my wife, my family, my house, my
+friends, and everything that I know to be true is simply a product of my
+imagination? That's absurd."
+
+And I'm not here to say that it's not absurd. I'm here to simply investigate
+what that would mean.
+
+What this would mean is, all of the things that you take to be experiences that
+you have of "the real world" are really experiences that have been given to you
+by your imagination. In fact, it's a sort of strange notion to think that the
+imagination is something that could actually exist here. It almost seems self
+defeating in that we could weasel our way out by saying that the imagination is
+not a part of the inner in this view, that really the imagination is something
+that is not a part of the human experience. Such is the resistance to this idea
+that we have to create some way to get ourselves out of it. But the imagination
+is a part of the inner, almost by definition, where we are really running
+astray is in the idea of the imagination creating experiences.
+
+So, taking this viewpoint, we still have to say, "Well, even if this is true,
+and the only thing that truely exists is the inner, there still is a
+distinction of those parts of the experience that seems to have no origin."
+That is, when you go into a sensory deprivation tank, and you imagine a
+fantastical fairy world, you can say, "That is an aspect of my imagination
+which I conjured up," but when you place you're hand on a hot stove, you are
+inclined to say, "That is an aspect of the imagination which I did not conjure
+up, and would much rather not have been a part of."
+
+So in this sense, the strongest objection to this notion is this. "If
+everything that exists, and all of my experience, is simply part of my
+imagination, then why is it that I have experiences which are ever unpleasent?
+Armed with this knowledge, shouldn't I be able to create whatever sort of
+reality I want? Should I not be able to go outside, and jump off of the balcony
+and begin to fly if I decide to imagine reality in that way? Could I not just
+will away my scars and pains when I am subject to a car accident, and simply
+imagine them away, back to a place where I have a perfectly young body? If the
+only that exists is the inner, why can't I do these things?"
+
+The only reasonable answer, besides the answer that we have reduced this to
+absurdity at this point (which you might say we have but I would rather go as
+deeply as I can with this idea), is that there is some aspect of the inner
+which is misunderstood by you. In other words, the whole realm of experience is
+a part of the inner, but you have not wholly mastered the ability to imagine
+the inner, and as such, there are things that you imagine that are so similar
+to having actual experience that you are so unfamiliar with, that it seems as
+though there is some other force at work, but really it is just your
+misunderstanding of the inner which is causing you to experience "reality" as
+you are. Under this viewpoint, all you need to do is "fully embrace your inner
+self" and coming to this point of total self actualization, you will be able to
+control and morph reality to your fullest capability. Or at least, that would
+seem to be the case.
+
+It could also be the case that there is some aspect of the inner that is
+inherently un-understandable. That is, there will always be some aspect of your
+experience that will "spawn as if from some unknown source". But still, under
+this view point, it would seem since you are able to imagine fantastical worlds
+while laying in a sensory deprivation tank, and since there is no proper
+distinction between the imagined and the actual, and the actual in this view
+must really just be some other aspect of the imagined, then the path to
+enlightenment in this view would be to "discover why it is that you have
+imagined there to be a reality in the way that it is."
+
+Another interesting point that you have to accept in this sort of viewpoint is
+that, since the inner is the only thing that exists, you are the only person
+that exists, and every other person, whether you perceive them to have their
+own "inner" or not, is simply a construct that you have created in your
+imagination that you hallucinate so vividly that you take them to be real. In
+fact, the term hallcunate isn't particularly meaningful in this way, because to
+hallucinate implies that there is some reality, and taht you are seeing
+something other than that reality, whereas in this sense, I am saying that you
+are simply having perception in such a way that you are tricking yourself into
+thinking that there is a reality, and that this reality is actually just an
+aspect of your own fantastical imagination. Under this viewpoint, then, this
+entire philosophical discussion is really just another way in which your
+imagination is presenting you with something that you think to be real, but is
+actually some aspect of your inner that is simply manipulating your perception
+in such a way to cause you to think that you are experiencing these ideas
+through the means of someone elses work, but really it's the work of your own
+consciousness which is generating the experience of reading these words, and it
+is doing so in such a way so that you think that you are reading someone elses
+words, but really it creating that someone else (me) and the words that I have
+said simply as a presupposition to the experience of reading these words.
+
+And another thing I want to say is that there is a distinction between the
+proposition I am making here and the brain in the vat experiment. The brain in
+the vat says that "there is a real world, but the world that we experience is
+some virtual world that is being created by the real world which is feeding
+it's input into our brain, thus deceiving us about the nature of the real
+world. But the current proposition we are talking about, about the real world
+not even existing, is something else. What this says is, "Any notion about the
+outer world existing is completely wrong, and everything that you experience is
+merely the activation of your senses.
+
+I also want to say something here as well. A question that might come up in
+this whole disscussion about the inner being the only thing that exists is,
+where did the inner come from? If the sense of experience is the only thing
+that truly exists, why does it exist at all? But this is a conundrum either
+way. In either case, we are left with the question of "why does the inner exist
+at all?" In fact, in the case that there is a real world, we have the
+additional problem of "why does the real world exist at all?" In other words,
+the question of "why is there something rather than nothing," is an entirely
+orthagonal problem to the question of "is there something other than our
+perception?" And that's a rather tricky question, perhaps even the trickiest
+question of all, and it's in the pursuit of that trickiest question that we
+have any sense of being at all. But again, we are very much getting ahead of
+ourselves, at this point we are barely able to wrap ourselves around the notion
+of what exists much less why it exists.
+
+So now, at this point, we have quite explored this concept that the inner could
+be the only thing that actually exists, and that any thing else existing is
+simply a way of our inner of tricking us into thinking that there is a such
+thing as a real world that exists outside of the human experience.
+
+So at this juncture I want to make a point, which is something that will be a
+common theme that will occur at every step along our journey. We would like to
+be able to say, "We can know, without any doubt, that proposition X is true."
+But at this point, if we are to accept the claim of the uniqueness of the inner
+as we have defined it as the only thing we can have absolute knowledge of, then
+every other claim from here on we will have to say we do not have absolute
+knowledge of. We would very much like to be able to say, "This notion of there
+not being a reality is wrong." But if we take the proposition that "the inner
+is the only thing to which we can have true knowledge" to be an anchor on which
+to base our thought, then we have to say, "We can never know whether or not
+there exists a real world."
+
+So we hit this impasse again. We could take the rather unenlightened and
+foolhardy approach of saying, "Well, since we can't know for absolute certain
+that there even exists a reality, we at this point are done with our
+philosphical concerns. Since philosophy is concerned with discovering the truth
+(or some my argue this case), and we have discovered that the truth is in some
+way fundamentally unknowable under this line of thinking, we are tempted to
+say, "Well, we have reached the end of philosophy, we have discovered
+everything we can truly know about the truth, and everything else is merely
+speculation. Your speculation is as good as mine, and anyone that claims to
+have a greater speculation is speaking lies."
+
+This is the imbeciles way of approaching this problem. He says, "We can never
+truly know anything past our own experience, our inner, so any forray into that
+world is baseless." And at face value, there seems to be a point here. But 
