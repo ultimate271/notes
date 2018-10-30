@@ -107,8 +107,8 @@ before me. But suppose I do enslave myself. To what master should I give my
 service to? Perhaps my striving for philosophy in this way is only the manner
 in which I discover my subserviance. But regardless of whether this is journey
 of freedom or a journey of enslavement, in either case some starting point is
-neccessary. So where I want to start is in defining the terms that I want to
-use.
+neccessary. But before we start, I want to talk about about defining the terms
+that I want to use.
 
 What is the best manner to go about this? I could present a term, and then
 present the definition of that term, and do this for all of the terms that I
@@ -130,6 +130,29 @@ and also I hope to be more interesting. Because what is the purpose of
 philosophy if the philosopher does not provoke thought?  From this, we can then
 go on to talk about the philosphical ideas, with little in the way of confusion
 about what exactly is meant by the idea.
+
+I also want to try and avoid, as best I can, those terms that take many
+ambiguous meanings. So to say that something is simply true in my mind really
+says nothing, because the word "true" takes on so much connotation. The athiest
+might say that the only truth is that which can be proved scientifically, a
+pragmatist would say that something is true only if it has value to the one
+discovering the truth, and an agnostic might say that truth is merely an
+illusion. All of these meanings of truth mean nothing without a context for
+what truth means, and even if that contextual definition is spelled out, some
+feel so strongly in their conviction that their preconceived notion of truth is
+"the right way to define it" that they will take statements such as these and
+warp them to their definition of the word.
+
+This is true of many terms. Free will, consciousness, the soul, the spirit,
+God, diety, the self, reality, time and space, the universe, feeling,
+perception, suffering, faith, and many more, all have this quality that certain
+individuals have strong convictions of the "correct" definition of these words,
+that any dissucission, even a discussion that involves explicitly defining
+these terms in context, will become warped by these a priori assumptions.
+
+So instead of merely trying to define these terms, I wish to go on a journey,
+and through this journey, reveal a way of thinking that can hopefully be shared
+by all.
 
 So what does this journey look like? What sort of journey to I wish to partake
 in?
@@ -277,9 +300,9 @@ the form of existance, we are not making any claims about form in this claim.
 We are also not making any claims about the validity of experience. That is to
 say, things like hallucinations, premonitions, deja vu, religious experience,
 and other things of that sort are all part of experience, along with the more
-contemparary notion that "I put my hand on the hot stove and it felt hot", but
-just because they all fall under experience does not speak to the validity of
-the experience. I feel this point is a little tricky, because then it begs the
+contemparary notion that "I put my hand on the hot stove and it felt hot", all
+fall under the realm of experience but do not speak to the validity of that
+experience. I feel this point is a little tricky, because then it begs the
 question, what does it mean to have a valid experience vs an invalid
 experience? But that is my whole point. I am not making any sort of claim to
 the validity of the experience, merely that the experience exists. Validity is
@@ -378,7 +401,7 @@ experienced"
 So again, I want to emphasize, the fact there is such a thing as human
 experince does not indicate anything about what the human experience is nested
 in, if anything. But it is at this point, at this statement, that "experience
-exists".
+exists", that I wish to begin.
 
 Before we go on, I want to mention one last thing about this human experience,
 and that has to do with the conception of what it means with it's relation to
@@ -464,16 +487,31 @@ Now, of course, giving it a name like "Inner" is leading. It suggests that
 there must be an "Outer". And it does suggest that, and indeed, that is the
 next thing to talk about. But I want to pump the brakes here for a moment.
 
-The reason I call this the "Inner" is because it is, to me, best what
-represents this notion of "the only true knowledge". And it could be argued
-that this is the introverted perspective, and that the bias of the introvert is
-speaking when it calls the "Inner" the only true knowledge. But again, I must
-emphasize, we are merely saying that the Inner exists, and such a supposition
-seems to me to be the most sure supposition that anyone could make. There are
-other supposistions that could be made, something about the nature of reality,
-or something about the origin of our existance, or any other starting off
-point, but I want to make this one because, beyond any doubt, it is known that
-the human being has experience.
+The reason I call this the "Inner" is because this notion of "the human
+experience" is, in a way, trapped inside of the person who is having the
+experience. We, as human beings, have come up with ways to talk about our
+particular brand of human experience, and we explain it and talk about it with
+others. I may say, "I touched the window and it felt cold," and the other human
+being has an idea of what the word cold means. But my experience of what cold
+feels like could be different than the other person's experience. We posit that
+the experiences are probably similar in some way, but we can only communicate
+in that way using these terms and labels. We never truly connect with someone
+in the way of "feeling what they feel." We can have empathy, but my empathy to
+you is different than actually feeling what you feel. Since each human's
+experience is unique to themself, and it cannot (as best I can tell) be "popped
+open" and experienced by someone else "in the raw", it is for this reason that
+I call it the "inner", because it exists "within the human having the
+experience" and no where else.
+
+This inner is, to me, what best represents this notion of "the only true
+knowledge". And it could be argued that this is the introverted perspective,
+and that the bias of the introvert is speaking when it calls the "Inner" the
+only true knowledge. But again, I must emphasize, we are merely saying that the
+Inner exists, and such a supposition seems to me to be the most sure
+supposition that anyone could make. There are other supposistions that could be
+made, something about the nature of reality, or something about the origin of
+our existance, or any other starting off point, but I want to make this one
+because, beyond any doubt, it is known that the human being has experience.
 
 But I must be clear. To say that the Inner is the only really true knowledge
 can be dreadfully misleading. I must give this word of caution at this point.
@@ -524,7 +562,7 @@ knowledge of the inner." It's a tricky distinction, because in talking about
 the inner, it is tempting to describe it as "those things which we have
 absolute knowledge of" but I don't want to define it this way. Instead, I want
 to define it as the concept of human experience, and then I want to make claim
-we have absoulte knowledge of the inner." So it's a definition, and then a
+"we have absoulte knowledge of the inner." So it's a definition, and then a
 claim. And I hope I am doing a good job in justifying that claim. I wish to
 bring up all objections to that claim, and clarify that the objections either
 miss the mark on what is meant by inner, or miss the mark in that they are not
@@ -592,7 +630,13 @@ we think about absolute knowledge, and as far as I can tell this is the most
 irrefutable claim that we can make. But the next claim, the claim about the
 uniqueness of the inner as the only thing that we have absolute knowledge of,
 is something of an extension out from that. It says, "this is how I wish to
-proceed with our thinking. This is our next stop on the journey"
+proceed with our thinking. This is our next stop on the journey" And as we
+continue on with our journey, our claims will become further and further from
+this nucleous, but at every point, we will aim to justify our steps along the
+journey as best we can, and each point will become more and more "food for
+thought" as we go on. If we restricted ourselves to talk only about the things
+to which we have absolute knowledge on, we would not have very much interesting
+to talk about.
 
 So, to raise the confidence in our uniqueness claim, I wish to make the
 opposite claim, that "there is something else besides the inner that we can
@@ -607,7 +651,7 @@ uniqueness claim as the next stop on our journey.
 
 So first let's return to the example of placing your hand on the stove, and
 feeling heat. One may argue, "When I place my hand on the stove, I feel "the
-heat of the inner", which must mean that there is some "outer notion" of that
+heat of the inner, which must mean that there is some "outer notion" of that
 heat." So we are claiming that the "real heat" is something that we have
 absolute knowledge of.
 
@@ -622,7 +666,7 @@ sharpness to which the temperature changes when you move across space) of that
 temperature. When there is a high enough change in the temperature between my
 hand and the stove, my nerves are able to detect that, and then they send that
 information as "heat sensation" to the inner. In this way, we have defined what
-"real heat" is.
+"real heat" is, it is the gradient of the temperature field.
 
 The second way to look at this is to talk about the atom theory of
 thermodynamics. The atom theory says that there are atoms that are in constant
@@ -633,7 +677,8 @@ and the kinetic energy of the hand atoms. When the stove atoms collide with the
 hand atoms, the difference in the kinetic energy of the these two types of
 atoms is felt by the nerves in the hand, and through the increase of the
 kinetic energy of the hand atoms, the heat is felt and experienced by the
-inner. In this way, we have defined what "real heat" is.
+inner. In this way, we have defined what "real heat" is, it is the exchange of
+kinetic energy between molecules.
 
 Now, I must ask, which of these two theories is correct? This question
 illustrates the point. In both theories, to the extent that we are able to make
@@ -663,14 +708,14 @@ makes me really have to double check my words). But I am saying that we don't
 know, without prejudice, whether there is or isn't a "correct" notion of the
 way to think about "real heat". If we take the stance that, "There is no
 correct notion of heat," then we are done and we say that we don't have
-absolute knowledge about the "real heat", and if we take the stance that "There
-is a correct notion of heat, but we just can't know it," then we don't have
-absolute knowledge of what the heat is, because that is built in to the
-statement. In both cases, there is something that we don't have absolute
-knowledge of about the heat that we perhaps suppose that we have absolute
-knowledge of. And notice, I don't have to choose which choice I took, I only
-had to show that in both cases, we don't have absolute knowledge about the
-"real heat"
+absolute knowledge about the "real heat", because "real heat" isn't a thing,
+and if we take the stance that "There is a correct notion of heat, but we just
+can't know it," then we don't have absolute knowledge of what the heat is,
+because that is built in to the statement. In both cases, there is something
+that we don't have absolute knowledge of about the heat that we perhaps suppose
+that we have absolute knowledge of. And notice, I don't have to choose which
+choice I took, I only had to show that in both cases, we don't have absolute
+knowledge about the "real heat"
 
 And there still might be more objection to the second clause of the claim.
 Someone might want to say, "There is a correct notion of heat, and we can
@@ -792,8 +837,8 @@ could then come up with defintions of addition, subtraction, multiplication,
 and so on, which would be set theoretic notions, but defined in a way to be
 consistent with how our intuition for how numbers should behave would go. 
 
-So if mathematics is real, or not part of the inner, this would be the way of
-defining numbers.
+So if mathematics is real, or to speak more esoterically, if numbers are real,
+that is, not part of the inner, this would be the way of defining numbers.
 
 But then we have another way of describing numbers. We can use the lambda
 calculus to encode the real numbers.
