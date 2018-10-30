@@ -345,10 +345,40 @@ dream comes from, in the same way that I am not make a claim about where the
 warmth of the water comes from. I am simply saying that the experience of the
 dream exists.
 
+One last example, one that is useful for thought experiments down the line, is
+the notion of the sensory deprivation chamber. A sensory deprivation chamber is
+a chamber that is so designed to remove an sensory input to a human being. In
+this chamber, one does not experience light, or sound, or heat, or taste. It
+could be argued that one feels the water, and any noise the water may make, but
+this a flaw of the chamber. The point is, one can imagine the most well
+constructed sensory deprivation chamber, one that perfectly supresses all
+sensory input. In such a chamber, the mind is allowed to wander. People might
+have hallucinations, visual or otherwise, and the experince one has in there
+would be a part of this experience I am talking about. Someone could imagine a
+world as fantastic as they can imagine, with fantastic fairy tale beasts with
+dieties and gods, and one could imagine themself walking through this world as
+if it were true. They could go into imagined houses, and talk to imagined
+residents of those houses. The limit to experience here is only up to the
+creative capacity of the person who partakes in this experience.
+
+This fantastical world is a part of the experience. Again, we are not making
+the claim that this world is in any way "real" or "valid", but we are merely
+saying that, when someone gets into that chamber, they have these experiences.
+
+Another example similar to this one is the use of psychodelics. Under the
+influence of Psilocybin, or DMT, or any other psychoactive substance, one could
+have any number of trancendent or otherwise mind altering experiences. Now,
+there could be many theories about what is actually happening there, whether or
+not there is an actual soul that is somehow being transported to an actual
+"otherworld", or whether or not such experiences are the result of neurons
+being fired in reaction to the effects of the psychoactive chemicals. Whatever
+the source of the experience is, it is still a fact that "something is being
+experienced"
+
 So again, I want to emphasize, the fact there is such a thing as human
 experince does not indicate anything about what the human experience is nested
-in, if anything. But it is at this point, at this statement, that there is
-experience, that I want to begin our journey.
+in, if anything. But it is at this point, at this statement, that "experience
+exists".
 
 Before we go on, I want to mention one last thing about this human experience,
 and that has to do with the conception of what it means with it's relation to
@@ -389,9 +419,10 @@ surroundings.
 
 I think, there is no word which talks about this notion of the "experience that
 we have even with the reasonable doubt." The experience that, no matter what
-else we have in the world. Even the word "experience" is too much, because the
-notion of experience is tied up with the concept of "having experience" or
-"being experienced" in something.
+else we have in the world, exists. Even the word "experience" is too much,
+because the notion of experience is tied up with the concept of "having
+experience" or "being experienced" in something. An experienced athelete is a
+different notion of the word "experience" then the one I am trying to use.
 
 Some other notions about experience, perhaps more ethereal in nature, are thing
 such as the "soul" or the "spirit" or the "body" or the "mind". All of these
@@ -408,7 +439,14 @@ these words mean to them, that even if the context is supplied for one persons
 meaning and use of a certain word, the other will still apply the context that
 they wish to apply to it, and in this way, the distinctions and points that
 the first is trying to make will be lost despite his best efforts to make
-himself unambiguously clear.
+himself unambiguously clear. I may say, "Using this definiton of the soul, I
+argue that the soul is something that we have absolute knowledge of." But then
+an athiest will come along and say, "but the soul doesn't exist," to which I
+will say, "you are using a different defintion for the word soul." To which he
+might rightly argue, "But why are you revalutating the defintion for the word
+soul in this way? You are asking to be misunderstood." And on that point, he is
+correct. To use the word soul to describe this concept would be asking to be
+misunderstood.
 
 There's a part of me that wants to make up a word for this notion that I am
 talking about. It seems peculiar to me that this concept that seems to me to be
@@ -418,9 +456,9 @@ is the only thing that we can truely know doesn't have a name which is
 unambiguous.
 
 So this is the terminology that I use, and that I think is the most fitting. I
-call this thing, the thing that is the only thing that we can truly know, this
-human experience, that exists irrespective of how it gets created, I call, the
-"Inner".
+call this thing, the thing that we have described so far as "human experience",
+that exists irrespective of how it gets created, and that we have absolute
+knowledge of, I call, the "Inner".
 
 Now, of course, giving it a name like "Inner" is leading. It suggests that
 there must be an "Outer". And it does suggest that, and indeed, that is the
@@ -448,3 +486,363 @@ again the a priori notion of inner and knowledge to this notion. It's a
 prejudiced understanding of whatever other associations a human might have with
 the word knowledge that seeks to discover something more here. I merely use
 these words as terms to describe the concepts that we have so far.
+
+So we have this thing now, this inner. I want to make some clarifications.
+
+It could be argued that the inner is not something that we have absolute
+knowledge of. But I've already adressed this point in detailing the fact that I
+am not making any claim about the validity of the inner, only that the inner
+exists. But someone may argue, "I don't have an inner."
+
+How interesting that would be if someone made that point. Indeed, this touches
+on the question about what it means to be conscious. Would an AI that is smart
+enough to have a discussion with someone about these points be able to
+justifiably argue about the fact that it (the AI) doesn't experience an inner?
+
+It's certainly an interesting question to dwell on, but it's not one that I
+want to get caught up in. This article is for those that would be able to agree
+with me that the inner exists, and for those that experience that inner.
+Perhaps I am missing the correct starting point, in that I would not be able to
+relate to a silicon AI that would argue that it does not experience an inner in
+the way I have described it. But it's the best that I can do. While it is a
+thought provoking question whether or not an AI would experience this "inner"
+in the way I have described it, I instead want to make this starting point for
+those being that can agree with me that there exists, with absolute certainty,
+the concept of experience. The question of whether or not some system that has
+the capability to grasp the inner as I am describing it must "have" the inner
+is another topic for another article.
+
+Another clafication I want to make is this. I am not defining the inner as "the
+whole set of things that we have absolute knowledge of." In other words, I
+don't want to say, "aha, we found something else that we have absolute
+knowledge of (I don't know what that may be, but suppose that it exsits,
+whatever it looks like), and so this thing is part of the inner." This is not
+what we are doing. Instead, I am defining the inner as "the human experience,"
+and I am defining absolute knowledge as, "The things we can know, even when
+taking in reasonable doubt" and making the claim, "the human has absolute
+knowledge of the inner." It's a tricky distinction, because in talking about
+the inner, it is tempting to describe it as "those things which we have
+absolute knowledge of" but I don't want to define it this way. Instead, I want
+to define it as the concept of human experience, and then I want to make claim
+we have absoulte knowledge of the inner." So it's a definition, and then a
+claim. And I hope I am doing a good job in justifying that claim. I wish to
+bring up all objections to that claim, and clarify that the objections either
+miss the mark on what is meant by inner, or miss the mark in that they are not
+actually objections to the claim but misunderstandings about the scope of the
+claim. But still, my whole point with this clarification is that the inner is a
+concept, and absolute knowledge is a concept, and I am making a claim that has
+to be justified about the inner and our absolute knowledge of it.
+
+So I have labeled what I am calling the "inner" as the sort of kaleidoscope of
+experince that any human being will have at any moment in time. It's the thing
+that someone can point to and say, "I cannot be absolutely sure about
+some things, but I am sure of the fact that I have experience, and I choose to
+call that thing the inner".
+
+So the question now is, are there other things to which any human being can
+have absolute knowledge? We have ruled out the possiblity that "there is a real
+world" as some sort of absolute knowledge, because the brain in a vat
+experiment could discredit that. And it's also not just the brain in a vat
+experiment that discredit's the absolute certianty of that, also. It is also
+entirely possible that our entire experience is like some highly potent and
+highly engaging hallucination. It's possible that everything we experience is
+the result of some dis illusioned mental disorder that we have, and that
+everything we think is real is really some sort of elaborate dream world.
+Again, similar to the brain in the vat, this notion is rather absurd, and
+should not be taken to be a substitute for the sense of a "real world," but it
+illustrates the point that there is some possiblity that there is something
+other than the real world.
+
+So at this point, we have defined what I mean by "inner", and we have made a
+statement about the absolute knowledge of the existance of the inner. So here I
+wish to make another statement, and then go on further to justify this
+statement.
+
+The only thing we can have absolute knowledge of is the inner.
+
+Now, this statement is a little stronger than the original statement, but we
+have less confidence in it. Our first claim, "I have experience" makes a claim
+about the existance of something with which we have absolute knowledge. This
+claim is stronger, it makes a claim about the uniqueness of the things we have
+absolute knowledge of.
+
+Now, at this point, I can see a reason to object to this claim. In fact, I want
+to make a very clear objection to this claim myself because I want to go about
+treading as carefully as we can in this most precious domain. This objection
+is, how can we make a claim about the uniqueness of the things we have absolute
+knowledge of? We can get behind the idea that the inner is a thing with which
+we have absolute knowledge, and we can use that as our irrefutable starting
+point, a claim with which we can have absolute confidence, but the only way to
+determine that it's the only thing that we have absolute knowledge of would
+mean that one would have to scrape through all of the things that it's possible
+to have knowledge of, and determine that each of of the things that isn't the
+inner is not absolute. And since there are some level of infinite number of
+things that are knowable, and we don't have a way to classify them in some sort
+of rigourous framework, then we must raise the objection that we can never
+prove the fact that this inner is the only thing that we have absolute
+knowledge of. In other words, we have less confidence in our statement about
+the uniqueness of the inner as our only absolute knowledge.
+
+So I pause at this point, and raise this objection here, because this is how I
+wish to continue talking about these topics. This is the next "stop" on our
+journey. We begin with the inner as our nucleous, as our most confident
+statement, first defining it then making the claim that we have absolute
+knowledge of it's existance. In the way that I have defined inner, and the way
+we think about absolute knowledge, and as far as I can tell this is the most
+irrefutable claim that we can make. But the next claim, the claim about the
+uniqueness of the inner as the only thing that we have absolute knowledge of,
+is something of an extension out from that. It says, "this is how I wish to
+proceed with our thinking. This is our next stop on the journey"
+
+So, to raise the confidence in our uniqueness claim, I wish to make the
+opposite claim, that "there is something else besides the inner that we can
+have absolute knowledge of," and see where that takes us. Mathemeticians will
+recognize the "reducto ad absurdum" and I wish to use this thinking. But I do
+want to be clear, I am not being mathematically rigourous, I am only using this
+way of thinking to increase our confidence in our uniqueness claim. That is,
+the more absurd it seems to take the opposite claim, the more confidence we
+gain in our uniqueness claim, but I am not suggesting that this is any sort of
+proof of correctness. I am merely doing this as an exercise to justify our
+uniqueness claim as the next stop on our journey.
+
+So first let's return to the example of placing your hand on the stove, and
+feeling heat. One may argue, "When I place my hand on the stove, I feel "the
+heat of the inner", which must mean that there is some "outer notion" of that
+heat." So we are claiming that the "real heat" is something that we have
+absolute knowledge of.
+
+So now at this point, we have to ask, what is real heat? In what way are we
+going to define "real heat?" that is seperate from the "inner (perceived) heat"
+
+From a raw physics perspective, we can use at least two (and definitely more,
+but lets stick to two for now) models for defining what this "real heat" is. We
+could say, Temperature is represnted as a field, where every point in space
+and time is given a numeric value. Heat is represented by the gradient (the
+sharpness to which the temperature changes when you move across space) of that
+temperature. When there is a high enough change in the temperature between my
+hand and the stove, my nerves are able to detect that, and then they send that
+information as "heat sensation" to the inner. In this way, we have defined what
+"real heat" is.
+
+The second way to look at this is to talk about the atom theory of
+thermodynamics. The atom theory says that there are atoms that are in constant
+motion. Every atoms position across time can be given by a parametric equation
+that, given an exact moment in time, gives the location of the atom. From these
+parametric equations, we can determine the kinetic energy of the stove atoms,
+and the kinetic energy of the hand atoms. When the stove atoms collide with the
+hand atoms, the difference in the kinetic energy of the these two types of
+atoms is felt by the nerves in the hand, and through the increase of the
+kinetic energy of the hand atoms, the heat is felt and experienced by the
+inner. In this way, we have defined what "real heat" is.
+
+Now, I must ask, which of these two theories is correct? This question
+illustrates the point. In both theories, to the extent that we are able to make
+measurements with thermometers and such, we have equivelent ways of measuring
+the experience of the heat on the hand.
+
+One may argue, "One of the theories must be correct, and the other must be
+wrong." But how do we determine which theroy is correct and which one is wrong?
+You say, "We perform experiment and test which one holds the most true." But,
+and I hate that I keep coming back to this point, who is to say that we aren't
+performing the experiment in a virtual world. Another perfectly valid theory
+is, "When you place your hand on the stove, a goblin turns a "heat" knob on the
+brain in the vat module, and this goblin is so good at doing this, that your
+feeling of the heat always comes at the exact time that you place the hand on
+the stove."
+
+So essentially, I am simply hammering the same point. We can come up with many
+theroies about where the heat comes from, but the only thing we can know for
+certian is the experience of feeling heat, and then later, the memory of that
+perception.
+
+And at this point, you may argue, "but there is a correct notion of heat, but
+we just can't know it." But then I say, "How do you know that there is a
+correct notion of heat?" I'm not making the opposite claim, I am not saying
+that there is no correct notion of heat (and the usage of all the negatives
+makes me really have to double check my words). But I am saying that we don't
+know, without prejudice, whether there is or isn't a "correct" notion of the
+way to think about "real heat". If we take the stance that, "There is no
+correct notion of heat," then we are done and we say that we don't have
+absolute knowledge about the "real heat", and if we take the stance that "There
+is a correct notion of heat, but we just can't know it," then we don't have
+absolute knowledge of what the heat is, because that is built in to the
+statement. In both cases, there is something that we don't have absolute
+knowledge of about the heat that we perhaps suppose that we have absolute
+knowledge of. And notice, I don't have to choose which choice I took, I only
+had to show that in both cases, we don't have absolute knowledge about the
+"real heat"
+
+And there still might be more objection to the second clause of the claim.
+Someone might want to say, "There is a correct notion of heat, and we can
+know it." To that I say, "Okay, how can we know it?" Everything we know about
+the heat, to this point, has to do with our experience with heat through the
+senses. Reading a thermometer has to do with seeing light with the eyes, and
+the experience of seeing has to do with the inner. Feeling the heat with the
+hand has to do with perceiving the sensation in our experience, so that has to
+do with the inner. As of this moment in time, human beings have only been able
+to experience the world as the inner, and we have already talked about the
+potential, as absurd as it may be, that the inner does not represent what we
+think it does. So until some way is discovered to experience the world beyond
+the experience of our inner (and what a strange notion that is), we can't
+really say that we know what the correct notion of heat is (if there is such a
+thing as correct).
+
+And I also would like to add, I think this notion that "there is a correct
+version of real heat, and it can be absolutely known by humans" is something of
+a prejudice. I say, the only thing we ever know about anything is through the
+senses. To claim that you have superceded the senses in your knowledge of the
+world is rather absurd, but I would very much like to know how you did it and
+how it could be reproduced.
+
+But still, even if that could be done, it would still be a part of the human
+experience. So now that "supreceding the senses and becoming aware of naked
+reality" is just a part of the inner. So in this sense, the absolute knowledge
+of the external heat would be a part of the inner in this (rather implausible
+and hitherto un-actualized) model of the world. We really have reduced our
+point to the absurd.
+
+So enough on the hand on the stove. We have argued the point that we can't
+have absolute knowledge about the existance of an external heat. Either there
+is no such thing as absolute external heat, or we have no way of knowing what
+the absolute external heat is. We have an absolute knowledge about the internal
+perception of the heat, but we cannot have absolute knowledge about the
+external existance of the heat.
+
+So let's talk about something else that some may consider to be absolute
+knowledge.
+
+Many might argue, "The principles of mathematics are something that one can
+have absolute knowledge of."
+
+Now, this is a much trickier notion to unpack. First, it's important to
+distinguish what we mean when we say "the principles of mathematics."
+
+Many people talk about the basic tenets of mathematics by saying, "Say I have
+two apples in my left and, and two apples in my right hand. If I throw all of
+the apples in a basket, then there will always be four apples in the basket."
+
+So there are two concepts at play here. The first notion, and the one that we
+don't mean when we say "the principles of mathematics," is the notion of the
+actual apples in the actual basket. This is the same thing as not having
+absolute knowledge of the "external world." We can't have absolute knowledge
+about the four apples in the basket, so we can't make a claim about the
+absolute knowledge of this way of thinking about mathematics.
+
+But, some may argue, Mathematics is an abstract concept. You say, "We might not
+have absolute knowledge about the four apples in the basket, but we do have
+absolute knowledge about the fact that two of something plus two of something
+is four of something. That's an abstract concept, it doesn't have anything to
+do with the real world, so you can't use the brain in the vat to explain this
+one away."
+
+And to that I say, no I can't. But I also say, "What is an abstract concept?"
+Or in other words, "Are "abstract concepts" really different than the inner?"
+
+This is actually a rather tricky question. In fact, I wish to hold on unpacking
+this whole concept until we get further down in all of this. The short answer
+here is, abstract concepts are those notions of the inner which help us make
+sense of what happens in the outer. But we haven't talked about the outer yet,
+and to flesh out that discussion here would be a duplication of effort. So we
+will leave it at that for now.
+
+But I think we can unpack this in a way without resorting to the concept of the
+outer (which is something we should be able to do if this is really the correct
+progression of steps along our journey). We could go back to the sensory
+deprivation chamber again. We could generate a math problem, go into the
+deprivation chamber, sort out the math problem in our head, apart from any
+external influence, and emerge with an answer. Now, it's not exactly clear what
+is going on when one "sorts through a math problem in a sensory deprivation
+chamber," but in some degree, it is similar to "creating a fantastical world
+with fantastical creatures and navigating this world in the creativity of the
+mind" and we have already defined that as part of the inner. In the same way
+that the fantastical fairy world is a part of the experience of the human
+being, the working out of the math problem is also a part of the experience of
+the human being.
+
+But many might argue that math is something that exists even without the human
+to think it up. But would you also say that the fairy world exists apart from
+the human experience? For the latter, I would think not. So why would
+mathematics exist apart from someone to think about it?
+
+To illustrate my point, there are at least two (and many more) ways of
+structurally generating the natural numbers.
+
+The first is the set theoretic encoding of the natural numbers. Set theory
+starts with notions of the existance of things such as the null set, and then
+things such as "if A is a set, then there is a set that contains A as it's sole
+element." Then there are also axioms pertaining to things like set union and
+set intersection. With these axioms, we are able to rigourously and
+unambiguously define the rules for creating sets.
+
+With this set theory, we can now encode the natural numbers. We can say, "There
+are a lot of sets, let's try and make some sense of some of them by applying
+labels to them." So we start by labeling the null set 0. Then, we use the
+"contains" axiom to say, "another set is the set containing the null set". We
+label this set 1.
+
+From here, we then say, the set containing 0 and 1 we will call 2. And the set
+containing 0 and 1 and 2 we will call 3. And so on. In order to continue this
+processes, we will define a SUCC function that takes a set like this, and
+generates the next set. SUCC will be the union of all the elements of a set
+with the set itself. So SUCC({0,1}) = {0,1,{0,1}} = {0,1,2} = 3.
+
+Defining sets in this way, we have now encoded what we consider the "intuitive"
+definition of the natural numbers within the rigourous bounds of set theory. We
+could then come up with defintions of addition, subtraction, multiplication,
+and so on, which would be set theoretic notions, but defined in a way to be
+consistent with how our intuition for how numbers should behave would go. 
+
+So if mathematics is real, or not part of the inner, this would be the way of
+defining numbers.
+
+But then we have another way of describing numbers. We can use the lambda
+calculus to encode the real numbers.
+
+We can define a lambda to be one of three things. It can be either a free
+variable, the function from one variable to a lambda, or application of one
+lambda to another. Using this, and a notion of what it means to "apply an
+expression to a function" (beta reduction, in lambda calculus terms), we can
+create an encoding of the natural numbers.
+
+So we can say "give me a function f, and a variable x, and I will apply that
+function to x 0 times." We will label this lambda experssion (\f -> \x -> x) 0.
+Then, we will have another expression, being "give me a function f and a
+variable x and apply f to x 1 time" (\f -> \x -> f x) to be the definiton of 1.
+Then two would be (\f -> \x -> f (f x)). We can define a SUCC function as the
+lambda (\n -> \f -> \x -> f (n f x)) or "the function that takes a church
+lambda and applies (f x) n times, before defining f one more time"
+
+We can then define lambda's for things like addition, subtraction,
+multiplication, and etc, in the ways that cause the labels of the lambda's to
+make intuitive sense.
+
+In this way, if numbers are real, they would be encoded in the lambda calculus
+in this way.
+
+The point I am making here is, if you were to take the notion that numbers are
+somehow not part fo the inner, you would be faced with the conundrum that there
+are many equivilent ways to define them. And at this point, we have a similar
+argument about external heat. We could say, "Numbers are a part of the inner,"
+and so, numbers are not our counterexample to the claim about the uniqueness of
+the inner, or we could say, "Numbers are not part of the inner" but then we
+can't have absolute knowledge about which representation of numbers is the
+correct one, so again they are not a counter example to the claim about the
+uniqueness of the inner.
+
+Now, as I said, I do not have a rigorous proof about the claim of uniqueness of
+the inner as absolute knowledge, but these examples I think show that we can
+accept this claim with confidence. It could be left as an exercise to the
+reader to find examples more things that could be considered "not inner" and
+"absolutely knowable."
+
+So let's recap what we have worked through so far.
+
+We want to go on a philosophical journey, in hope of discovering something
+perhaps useful about "truth" or "ethics". In deciding a starting point for that
+journey, we want to pick the place that we can be most sure of. It seems that
+the place that we can be most sure of is that there is such a thing as human
+experience, and that the human has absolute knowledge of it. We call this the
+"inner" and it is the nucleous of our journey. The first stop out from this
+nucleous is the claim that the inner is the only thing that we can have
+absolute knowledge of. Our confidence in this claim is a degree off of the
+absoluteness of our first claim, but still seems reasonable.
