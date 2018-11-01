@@ -1265,3 +1265,7 @@ attempt to talk about these places about our experience which we don't
 understand, and I am merely presenting the point that some sort of faith or
 belief in the notion that there is no such thing as a real world leads to
 absurdity both in the ontological sense, and in the pragmatic sense.
+
+So where am I going with this? The next claim is this.
+
+There are aspects of our inner which we don't understand.
