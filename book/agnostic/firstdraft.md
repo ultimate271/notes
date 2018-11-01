@@ -1097,7 +1097,8 @@ it's input into our brain, thus deceiving us about the nature of the real
 world. But the current proposition we are talking about, about the real world
 not even existing, is something else. What this says is, "Any notion about the
 outer world existing is completely wrong, and everything that you experience is
-merely the activation of your senses.
+merely the conjuring of your imagination, whatever that may mean in this
+context.
 
 I also want to say something here as well. A question that might come up in
 this whole disscussion about the inner being the only thing that exists is,
@@ -1144,4 +1145,123 @@ have a greater speculation is speaking lies."
 
 This is the imbeciles way of approaching this problem. He says, "We can never
 truly know anything past our own experience, our inner, so any forray into that
-world is baseless." And at face value, there seems to be a point here. But 
+world is baseless." And at face value, there seems to be a point here. But is
+it really abosulute knowledge we are striving for? You would say, "Of course it
+is," but at this point, the only thing we have been able to conclude is that
+absolute knowledge of anything besides your own experience is impossible. So
+maybe we will say, "We would like to strive for absolute knowledge, but since
+such a thing is impossible, perhaps we should look to something else."
+
+But what is this something else? Many at this point like to fall back to
+probabilities, saying that any truth proposition has some percentage of truth
+to it. Some would like to say, "The odds that X proposition is true is some
+percentage, which is close enough to true that it should be taken as fact." But
+this leaves something to be desired. Firstly, how do we evaluate the
+probability of something like "there is a real world?" In order to have a
+probabilistic representation, we would have to have some statistics to draw a
+distribution on top of.
+
+For instance, take the classic example of flipping a coin. This is a proper use
+of probability here. We take some arbitrarily large number of trials, and based
+upon the statistics of those trial, along with some instinctual knowledge about
+the coin, we say that there is a 50% probability that the coin comes up heads,
+and a 50% probability that the coin comes up tails. In this way, we are able to
+express our degree of certainty about the outcome of any particular coin toss.
+
+But what is the trial to be put to statistical analysis here, in the case of
+asking the question about whether the real world exists or not? It's quite
+extrapolitive to think that the rigourous realm of probability theory could be
+used to describe such an elusive concept. What would a "success" in this case
+look like? Perhaps, in your pursuit of this, you would like to determine
+whether or not there is a world other than the world of imagination, and you
+use your ability to trancend reality as the gauge that you use to judge this.
+And the times that you trancend (whatever that means), you count as a success,
+and the times that you are met with some unexpected sensation that you feel has
+to attribute itself to reality, you count as a failure, and this is the gauge
+you use to determine the statistical variance of such a claim as "there exists
+a real world."
+
+This example is rather tongue in cheek, of course. Such a claim can't be put
+under the scrutiny of repeated trials. So probabilty theory is not adequete to
+talk about these sorts of claims, since the rigour of such a theory simply
+doesn't apply to such ethereal concepts.
+
+So how are we going to proceed here? We would like to talk about these most
+interesting things, the things that are outside the things we can know for
+certain, but we can't know them for certain, and we don't have an obvious way
+to talk about them.
+
+So to proceed, let's say this. We could take the stance that there is nothing
+that exists besides our own experience, or we could say that there is something
+like a "real world" that does truly exist regardless of our perception of it.
+So let's say this.
+
+There is a real world.
+
+So why would we take a stance like this? Well, firstly, when looking into our
+own experience, we have made this observation that experience seems to be
+divided into "the imagination" and "the perception," and when we tried to
+explain those experiences that fall into the preception category as if they
+were a part of the imagination category, we were led down a rabit hole of
+making a bunch of suppossitions that don't seem to match with what would seem
+to be correct.
+
+But this is not adequete to say that something isn't correct. There are many
+things that we would think are not true, that are counter-intuitive in some
+way, but upon deeper inspection, turn out to be correct, in whatever way
+"correct" means in the context of the thing being discussed. There are many
+mathematical theorems that seem incorrect, but in the context of rigourous
+mathematical proof, turn to actual go against that intuition.
+
+But as yet, we have not gotten to a point where we can comfortably say, "even
+though this notion of there not existing a real world seems incorrect, we have
+found ourselves in a position where we have to accept it." We have not gotten
+to the position where we have to accept it, and it seems rather unclear in what
+direction we would dive in order to continue to argue about this claim. So this
+claim fits in the realm of things that seem counter-intuitive becasue it is
+simply not the case.
+
+However, there is another reason why this sort of truth claim could be placed
+to the side as auxillery to more pertinant philosophical questions. That reason
+comes to us by asking the question, "What may be gained by believing the notion
+that there is no such thing as the real world?"
+
+In other words, what would be gained by an archetypical "leap of faith" in this
+direction? The result would be a way of life that leads someone to dive ever
+further and further inward to attempt to discover the seed of his imagination
+that has spawned the real world. It would be an attempt by this person to
+escape, or trancend, his experience of the real world, so that he might have
+further mastery of his own consciousness, and be able to generate and
+manipulate his imagination is such a way as to create his own world. In fact,
+they might be so driven by such a compulsion, that they might even commit
+suicide, under the supposition that the concept of the body is simply some
+construct of the inner, and that by destroying it, they will be able to free
+their consciousness from it's state of non-being, and proceed to imagine a
+world much greater than the one he is currently stuck in.
+
+So I want to clarify a point here. I'm not saying that, because the belief in
+this idea leads one down this sort of path of self-destructive behavior
+(self-destructive in what would be commonly considered any other more sane
+system of belief), it means that the idea is neccesarily false. I am not
+equating the utility in the belief of something with the claim that such a
+thing actually exists. But what I am saying is that, since such a claim seems
+to have little basis in explaining the aspects of our experience which we don't
+understand, compounded with the fact that it has little pragmatic benefit to
+the person who would cling to such a belief, it makes it all the more less
+attractive to believe such a thing.
+
+Now I want to backpedel here yet again. I have introduced notions of belief and
+faith, or at least, I have introduced those words, and I want to dispel any
+sort of trancendent value to these words. I am using these words because they
+are the most useful to describe the sort of way of thinking about these
+concepts that we don't understand, and I am using these words because they are
+best illustrating my point. However, and mostly what I am doing here is
+assuring that we have correct expectations about where we are going, my next
+claims are not going to be about faith or belief. I am not here to make an
+argument about faith or belief in anything, nor am I here to make the insidious
+claim that "even the athiest has faith that there is no god" or any other such
+nonsense and self indulgant rabble. I am merely using these words to further
+attempt to talk about these places about our experience which we don't
+understand, and I am merely presenting the point that some sort of faith or
+belief in the notion that there is no such thing as a real world leads to
+absurdity both in the ontological sense, and in the pragmatic sense.
