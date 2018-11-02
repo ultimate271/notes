@@ -1086,8 +1086,9 @@ in such a way to cause you to think that you are experiencing these ideas
 through the means of someone elses work, but really it's the work of your own
 consciousness which is generating the experience of reading these words, and it
 is doing so in such a way so that you think that you are reading someone elses
-words, but really it creating that someone else (me) and the words that I have
-said simply as a presupposition to the experience of reading these words.
+words, but really it creating that someone else, some author, and the words
+that I have said simply as a presupposition to the experience of reading these
+words. What a strange notion indeed.
 
 And another thing I want to say is that there is a distinction between the
 proposition I am making here and the brain in the vat experiment. The brain in
@@ -1196,15 +1197,14 @@ that exists besides our own experience, or we could say that there is something
 like a "real world" that does truly exist regardless of our perception of it.
 So let's say this.
 
-There is a real world.
+Something exists seperate from the inner.
 
 So why would we take a stance like this? Well, firstly, when looking into our
 own experience, we have made this observation that experience seems to be
-divided into "the imagination" and "the perception," and when we tried to
-explain those experiences that fall into the preception category as if they
-were a part of the imagination category, we were led down a rabit hole of
-making a bunch of suppossitions that don't seem to match with what would seem
-to be correct.
+divided into "the imagination" and "the actual" and when we tried to explain
+those experiences that fall into the actual category as if they were a part of
+the imagination category, we were led down a rabit hole of making a bunch of
+suppossitions that don't seem to match with what would seem to be correct.
 
 But this is not adequete to say that something isn't correct. There are many
 things that we would think are not true, that are counter-intuitive in some
@@ -1234,15 +1234,19 @@ escape, or trancend, his experience of the real world, so that he might have
 further mastery of his own consciousness, and be able to generate and
 manipulate his imagination is such a way as to create his own world. In fact,
 they might be so driven by such a compulsion, that they might even commit
-suicide, under the supposition that the concept of the body is simply some
-construct of the inner, and that by destroying it, they will be able to free
-their consciousness from it's state of non-being, and proceed to imagine a
-world much greater than the one he is currently stuck in.
+suicide, or mass murder (which is justified by the belief that the people he's
+killing are simply a part of his own imagination), or torture (perhaps under
+the belief that his imagination will reveal the reason for conjuring up the
+people he's torturing if he tortures them enough) all under the supposition
+that the concept of the real is simply some construct of the inner, and that by
+destroying it, or by subjecting it to any of these treatments, they will be
+able to free their consciousness from it's state of non-being, and proceed to
+imagine a world much greater than the one he is currently stuck in.
 
 So I want to clarify a point here. I'm not saying that, because the belief in
-this idea leads one down this sort of path of self-destructive behavior
-(self-destructive in what would be commonly considered any other more sane
-system of belief), it means that the idea is neccesarily false. I am not
+this idea leads one down this sort of path of self-destructive and even violent
+behavior (self-destructive in what would be commonly considered any other more
+sane system of belief), it means that the idea is neccesarily false. I am not
 equating the utility in the belief of something with the claim that such a
 thing actually exists. But what I am saying is that, since such a claim seems
 to have little basis in explaining the aspects of our experience which we don't
@@ -1266,6 +1270,142 @@ understand, and I am merely presenting the point that some sort of faith or
 belief in the notion that there is no such thing as a real world leads to
 absurdity both in the ontological sense, and in the pragmatic sense.
 
+So that leads us back to the claim, we stated earlier.
+
+Something exists seperate from the inner. Let us call it the outer.
+
+Now, if we are to take this as a given (and again, I emphasize how vitally
+important it is to take great caution when presenting the sort of bedrock about
+the nature of human existance) on the basis that to believe otherwise seems to
+lead to absurdity, then we have a corralary, based upon what we already have
+deduced.
+
+It is impossible to have absolute knowledge of the outer.
+
+This is a rather straight forward application of logic to our statement about
+the uniqueness of the inner as the only thing that we can have absolute
+knowledge of, with the fact that the outer is defined as seperate from the
+inner.
+
+So lets talk about what we haven't said with these statements.
+
+Firstly, we have not made any sort of claim that the inner, and the experiences
+that we encounter in it, have any neccesary coorespondance to the outer. In
+fact, just with the statements we have made so far, the two could be entirely
+unrelated. However, in the reasoning and logic that we used to come to conclude
+that there is such a thing as the outer would lead us to suggest that it
+interfaces with the inner in some way, and that the outer is the most
+reasonable explanation to use to begin to explain certain aspects about the
+inner. Notably, if we return to our example with sensory deprivation tank, it
+gives cause for those things we have labeled as "actual" experiences.
+
+But here, at this point, we have merely stated that the outer exists. So I want
+to make clear, at any point further along the journey, this step is up for
+scrutiny. We may be inclined to return back to this step when we get to a
+certain point, and say something different about the existance of reality. In
+fact, it could be the topic of an entirely different book, giving explantions
+and justifications for the contrary explanation which we have decided to
+disregard in a sense because it seemed to lead to absurdity. But that is not
+the path that I feel is most fruitful to venture down, and does not flesh out
+the rest of where I want this journey to take us. So the clarity I want to make
+is that we are making a deliberate decision to take this route at our
+crossroads, and it is justified by where this step in the crossroads leads us
+to.
+
+Something else we have not said with this statement is anything about the
+nature of the outer. Taking only these statements as our basis, the outer could
+take any form, either conceivable to us or not, and based upon our first
+correlary, we can never know with absolute knowledge what this form is. It
+could be anything from the brain in the vat, to the scientific conception of
+the real world, to the ritualistic shamanism of our native ancestors, and
+everything between these. The only thing we can truly know is our own
+experience.
+
+And I want to caution about applying some sort of probabilistic notion about
+reality to our conception at this stage. It could be argued that, with such a
+high degree of certainty, we can say that something resembling the real world
+actually exists, that we're not a brain in a vat because such a notion is so
+astromocically unlikely to be true that the probabilty of it approaches the
+infinitesmal, and because of that we can then make the next step in saying that
+"we are not brains in a vat because the probabilty of such a thing is so low
+that we can neglect it."
+
+This isn't the purpose of the journey. The purpose is not to validate a current
+way of thinking. The purpose of our journey here is to stimulate thinking. We
+must take every caution at every step to ensure that we are not inserting our
+own biases into the equation. We could have some hidden pschological motive for
+"wanting" some particular form of the outer to be the "correct" form, and even
+though we might argue that some contrary form of the outer is so improbable
+that it might as well be zero defeats the whole point of attempting to
+understand the very framework on which all thought is based.  Going down a line
+such as this in our journey would merely serve to confirm whatever bias we
+would like to confirm.
+
+Also, it could be argued that this is exactly what I am doing with the steps I
+have chosen to take on this journey. I have some way of thinking about the
+world that I wish to confirm, and that by creating this journey as I have
+created it, I am only confirming my own bias. Well, perhaps so. But I am really
+attempting my best to take each step along the journey with the utmost caution,
+and to make each step along the journey as reasonable and unbiased as seems
+best to me. So if anything, my bias here is to discover something like an
+unbiased way of thinking, which in itself is something of a bias. So in that
+way, there is something of a bias here, but in spite of that I still want to go
+on this journey in as unbiased a way as possible, without polluting it with any
+more bias than is neccassary to actually take steps here. So lets take the
+steps along the way that can be most agreed upon, and create the basework with
+the utmost caution. And if it's any consolation, there will be ample room to
+apply whatever bias you want into my journey later down, and in fact it is
+something that I will do myself after we get to a certain point. Just please, I
+ask, hold on to your bias until we get there.
+
+
+
 So where am I going with this? The next claim is this.
 
 There are aspects of our inner which we don't understand.
+
+So this statement almost seems self-evident by the fact that a text such as
+this one even deserves any sort of existance. Something like this wouldn't be
+interesting to someone if there wasn't something about their experience of the
+world that they didn't understand.
+
+But before we expound on this, let's say something. We are here making a
+distinction between knowledge and understanding. And here again we run into the
+issue of having preconceived notions of what knowledge may mean, so to best
+illustrate the distinction I am trying to make, I would like to use a variation
+of the hand on the stove example.
+
+Suppose we were born into a world where there exists a stove. When we first
+encounter the stove, we place our hand on it, and it immediately feels hot, so
+we retract the hand. We had knowledge of the heat of the stove. Eventually it
+comes into our understanding that "stoves are hot."
+
+Suppose also in this hypothectical world that the stove is never turned off. It
+is always turned on, so therefore it is always hot. So it becomes something of
+a maxim for us to come up with a manner of thinking that leads us to think that
+"the stove is always hot." And perhaps, being the good scientists that we wish
+to be, we test this hypothesis, and check it at multiple times in the day,
+across multiple days, and by altering the variables in all of the ways that
+seem best fit to do so, we continue to test our hypothesis, and have rather
+high confidence in our supposition that "the stove is always hot."
+
+Now, continue to suppose in this hypothetical world that, one day while we are
+sleeping, someone comes to the stove, and turns it off. Perhaps the knob which
+turns it off is behind some panel that we didn't know existed, so this person
+removes the panel, turns off the stove, and places the panel back in it's
+proper place.
+
+When we wake up, and we continue on with our experiments about the stove being
+hot, we place our hand on the stove, and while we expect the stove to be hot
+again, and we expect our experience of feeling the heat in our hand to repeat
+itself, we instead don't feel that, and we feel rather that the stove is quite
+lukewarm and we feel no heat.
+
+So this is howw I wish to draw the distinction. We could say that, when we
+place our hand on the stove, we have absolute knowledge about the experience of
+feeling a lukewarm stove. Our experience is absolutely known to us. However, we
+don't understand that experience. We have an expectiation about the stove being
+hot, and when it is not hot, that expectation is subverted, and now we have
+encountered some aspect of our inner which we don't understand.
+
+In fact, I think to tell it in this way is misleading.
