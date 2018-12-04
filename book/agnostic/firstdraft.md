@@ -1240,7 +1240,7 @@ the belief that his imagination will reveal the reason for conjuring up the
 people he's torturing if he tortures them enough) all under the supposition
 that the concept of the real is simply some construct of the inner, and that by
 destroying it, or by subjecting it to any of these treatments, they will be
-able to free their consciousness from it's state of non-being, and proceed to
+able to free their consciousness to it's state of non-being, and proceed to
 imagine a world much greater than the one he is currently stuck in.
 
 So I want to clarify a point here. I'm not saying that, because the belief in
@@ -1408,4 +1408,4 @@ don't understand that experience. We have an expectiation about the stove being
 hot, and when it is not hot, that expectation is subverted, and now we have
 encountered some aspect of our inner which we don't understand.
 
-In fact, I think to tell it in this way is misleading.
+In fact, I think to tell it in this way is misleading. 
