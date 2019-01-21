@@ -121,3 +121,100 @@ a bottle, and I must travel to the center of the universe and bring it forth
 into existance, and to attempt to do so in any other way is missing that truth.
 I feel so strongly that simply writing it out here is only the way in which I
 wrap the universe in the bottle.
+
+--
+
+So it has been some time since I last wrote here, and I think it's not because
+I have a lack of things that I want to say about this topic, but more because I
+think I still haven't entirely grasped exactly what it is that I want to be the
+point of the work.
+
+So I think, in an effort to continue writing this work, I want this work to
+come around to the idea of universal consciousness, and I want to link this
+idea to both Christianity, in the ideas of original sin most notably, as well
+as things like the golden rule, and the concept of compassion, but I also want
+to link it to something else. And this something else I think is the main point
+of where I want to get, but I'm not sure what this something else is.
+
+I think, the biggest thing about "the agnostic truth" is that there is
+something which is a reality. Or maybe the better way of putting it is, the
+theory that there is such a thing as reality is so much more compelling than
+any alternative that we ought to act under the assumption that the experiences
+we have are predicated by a reality. Or in other words, the conclusion to be
+drawn is that the inner is in some way inextricably linked to reality, and any
+attempt to divorce the inner from reality represents a fundamental
+misunderstanding about the nature of our existance. Another conclusion that I
+would suspect could be drawn is that the every aspect of the inner is
+invariably attached to reality, and that no aspect of the inner is without some
+doing in reality.
+
+Now, it's very difficult to talk about these things without getting
+confobulated, because again I run into the problem of talking about the inner,
+and talking about the difference between "reality" and "our experiences of the
+inner which coorespond to what we consider to be direct coalations to reality."
+But I think this sort of distinction between two different kinds of "inner"
+experiences, one being the feelings of reality, and the other being the
+feelings of our imaginations, is a mistake, and really, our imaginations are
+actually just something to do with the state of our mind.
+
+And the tricky thing in talking about all of this is in making the distinction
+between the inner and reality. Because, if we are never actually able to talk
+about the naked truth of what reality is, then every way that we talk about it
+is neccisarily some interpretation of our inner. And if that is the case, what
+I am attempting to do is to create some distinction between reality and our
+perception of reality, but really what's happening is that I am only making a
+distinction between the inner and another aspect of the inner, which as I said
+before, isn't really something that happens.
+
+So it becomes a tricky topic to talk about. The reason it becomes tricky is
+because, suppose you were to speak out a dream to someone. In this dream, you
+were riding a horse, and the horse bucked up and then it started flying, and it
+went through the clouds, and over rainbows, before you got close to the sun,
+and the heat of the sun caused you to wake up in a sweat.
+
+Now, we can imagine a future where we have neural imaging so advanced, that we
+can scan your memory centers, and with that information recreate with 3-d
+models the work of the dream. Then we make a distinction. What we will say is,
+"The neural pathways and synapses are the reality, the outer, and the
+description and representation of the dream as you felt it in that moment is
+the inner."
+
+But the problem is, the process of observing computers, operating MRI machines,
+and so on, all of that is a part of the inner. What this does is make the
+assumption about the reality that the scans you are making, and the models that
+they create, and everything else, that those things are "reality" when really,
+those things are also a part of the subjective experience. Or in other words, I
+can't seem to get around any way of talking about reality which doesn't rely on
+the assumption that there is a reality to talk about.
+
+But I think that's not the problem. I have gotten through this where I have
+written so far about the book. We have to take it as an assumption, a
+presuppostion, that the outer exists. Then, the computers, and the models, and
+so on, would be one method of interpreting what the outer is like. Or in other
+words, those things would be ways of interpreting the inner in a way which, we
+would hope, faithfully represents what the outer is like.
+
+So I think this is what the agnostic truth is. It is "the outer", and the
+agnostic truth is that the outer is something that exists, and that is revealed
+to us through our experiences.
+
+But something still seem disconcordant to me still.
+
+I suppose I will write out what it is that I am dancing around.
+
+Reality is something that exists. It just is. It is like a video game, where
+the models of the ground, and the trees, and everything else are rendered and
+put into storage, and when it is there, it is there, and it just exists. On top
+of that, consciousness permeates all of reality. All things in reality share
+some level of consciousness. Unlike reality, we have not found a desirable way
+to measure consciousness, but it exists in some fashion. The way in which
+consciousness binds to reality is unclear, but in the view of universal
+consciousness, it could be thought that the reason that we only feel like we
+are "us" is because consciousness only binds to our neural network, and the
+matter around that has a much diminished level of consciousness, that it feels
+entirely seperate to, and distinct from, "us".
+
+I will expand on this later, but I think I have hit through to something here.
+
+I want to continue with the idea of linking together minds in a way which would
+combine in some sense, their consciousness.
