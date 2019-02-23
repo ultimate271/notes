@@ -362,7 +362,7 @@ better for everyone if I stay out of your life."
 
 "Eh..." Cain let it trail off. "It's hard to say. The only way to know would be
 for me to live with them again, but it seems that satisfying that curiosity has
-not bearing on our lives from here on, and there is nothing to gain from that.
+no bearing on our lives from here on, and there is nothing to gain from that.
 So I suppose the answer is no, because I would banish myself again before I
 killed them. But if banishment weren't an option, I just might. Which is why
 they don't ever want to see me, because I tell them I might kill them, and they

@@ -628,12 +628,18 @@ established this. I can see what I am saying is not making sense to you. That's
 okay. It doesn't have to make sense. All I'm saying is that the fruit of the
 tree of Knowledge is a difficult thing to grapple with, so our parents are most
 likely acting under the assumption that if you didn't know about it at all,
-then perhaps you can remain pure."
+then perhaps you can remain pure. Or maybe they were planning to tell you about
+it when you were older, similar to how they told you about me. I don't know."
 
-At this, Seth could only cry. He cried a little, and then he cried a lot. "I
-don't understand." Seth said through tears. "I don't know who to trust now. Are
-you telling me the truth, or are our parents? How will I ever know? How should
-I know who to trust?"
+------------------------
+--SOMETHING GOES HERE --
+------------------------
+
+All of a sudden, Seth started to cry. He started to cry a little, then he
+staretd to cry a lot. "I don't understand." Seth said through tears. "I don't
+know who to trust now. Are you telling me the truth, or are our parents? How
+will I ever know? Is no one telling me the truth? How should I know who to
+trust?"
 
 Cain placed his hand on Seth's shoulder, and said, "Listen Seth, when you
 discover the truth, it won't be from Mom and Dad, and it won't be from me. When
@@ -659,6 +665,8 @@ attempting to tell you the truth as best I am able, to save you the headache of
 having to discover everything I did on your own. It's up to you to decide if
 whether or not what I say resonates with you on a deeper level, but even if it
 doesn't, you will have stronger convictions of yourself either way."
+
+
 
 Seth was visibly upset. Still, he asked, "Will I ever see you again?"
 
@@ -802,4 +810,5 @@ but suffice it to say, both individuals were deeply impacted by their encounter
 with the other.
 
 Here ends the dialogue of Seth and Cain.
+
 
