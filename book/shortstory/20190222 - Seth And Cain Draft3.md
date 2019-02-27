@@ -6,27 +6,28 @@ murdered his brother. However, there is a much more interesting story to be
 told between the brothers Seth and Cain. Although they did not interact with
 eachother, they had one encounter. In this encounter, the result was not a
 murder, but instead, a mutual understanding. Because of this, this story does
-not get as much attention as the Cain and Abel story, but without the Cain and
-Seth story, the lineage of Seth would not be as prominant, nor as full force as
+not get as much attention as the Cain and Abel story, but without the Seth and
+Cain story, the lineage of Seth would not be as prominant, nor as full force as
 it became. It is because of this encounter that things began to take the shape
 they did as Seth and his descendents began to populate the human race.
 
-It's difficult to know exactly what when on between these two men in the cabin
+It's difficult to know exactly what went on between these two men in the cabin
 that they had their conversation. In fact, because it was just the two of them,
-and neither one kept a transcript of the exact words that went down, we can
+and neither one kept a transcript of the exact words that were said, we can
 only speculate through vision what might have been said. However, we will not
 let this obstacle deter us in our pursuit of the truth, and we will find in our
 minds eye the conversation that Seth and Cain had on that day.
 
-Our story begins with the birth of a child. This childs name is Seth. The child
-is born to the world, and in the world of this child, there are his parents,
-and himelf. As the child begins to grow, he begins to learn how to tend to the
-gardens. He becomes skilled at it. He also learns how to defend himself when
-creatures attack. In fact, when he was merely eleven, he saw a bear coming to
-attack his father as his father was weighed down by the farm equipment, and
-could not defend himself. Seth grabbed the nearest sharp farmming tool, and
-attacked the bear relentlessly with it. He did not kill the bear, but he warded
-it off enough for his father to free himself from the equipment.
+Our story begins with the birth of a child. This child's name is Seth. The
+child is born to the world, and in the world of this child, there are his
+parents, and himelf. As the child begins to grow, he begins to learn how to
+tend to the gardens. He becomes skilled at it. He also learns how to defend
+himself when creatures attack. In fact, when he was merely eleven, he saw a
+bear coming to attack his father as his father was weighed down by the farm
+equipment, and could not defend himself. Seth grabbed the nearest sharp
+farmming tool, and attacked the bear relentlessly with it. He did not kill the
+bear, but he warded it off enough for his father to free himself from the
+equipment.
 
 As Seth grows up, he asks questions about the world around them. Adam and Eve
 are able to educate him as best they are able. They tell Seth that the cannot
@@ -46,7 +47,7 @@ eating something, you should not believe them, but instead you should know that
 those words come from the devil himself."
 
 This all seemed reasonable to Seth. THere were no contradictions in the story,
-and Seth had every reason to believe them.
+and Seth had every reason to believe them. They were his parents after all.
 
 Then, one day, Seth asked his parents. "So is it just us in the world? Or is
 there someone else?" At this, Adam and Eve both gave a long pause, until
@@ -87,9 +88,10 @@ Cain that there was no need to kill things as he was."
 
 "Yes," Adam continued, "Cain and Abel got into a disagreement, and in that
 disagreement, Cain killed Abel. It was horrible, it was wrong. When your mother
-and I learned of this, and when we saw the body of your brother, well, what
-more could we do except exile him from our house. It pains us greatly to say
-it, but we can't have someone so violent as that living under our roof."
+and I learned of this, and when we saw the body of your brother, being carried
+by Cain, well, what more could we do except exile him from our house. It pains
+us greatly to say it, but we can't have someone so violent as that living under
+our roof."
 
 "That is when we had you, Seth," Eve finished the story. "You seem to be the
 best of both of your brothers. You can work the fields, and you can defend
@@ -134,19 +136,11 @@ if he could find his brother Cain, not if it would be worthwhile. The way his
 parents dodged the question made him think that it was possible.
 
 However, he did not know how he would find him. What would he even look like?
-He felt uneasy about the way his parents talked about Cain. If he had just so
-happen to have been born first, would he have been outcast like Cain was? How
-terrible that must be. It was the most terrible thing that Seth could think of.
-Perhaps his brother Cain was a murderous monster, but that seemed so foreign to
-him that he couldn't help but think that there must be some other reasoning
-from Cain.
-
-But still, Seth did not know how he would find Cain.
-
-Fortunately for Seth, Cain found Seth.
+He felt uneasy about the way his parents talked about Cain. Seth had no idea
+how he might find Cain. Fortunately for Seth, Cain found Seth.
 
 One day, when Seth was working in the fields, at the very edge of the farm, he
-say a man coming from the forest hail him down.
+saw a man coming from the forest hail him down.
 
 "Ahoy there!" the man yelled down from the distance. "Do I see a friendly face
 in my sights."
@@ -175,12 +169,11 @@ dad told me about you. They told me that you killed our brother and ran away,
 never to show your face here again. Tell me, why are you approaching me? Do you
 mean to kill me too?"
 
-Cain eyed his brother. "Interesting, so they had another son?" He trailed his
-gaze off in to the distance. "Tell me, Seth, I would like to know what Mom and
+Cain eyed his brother. "Tell me, Seth, I would like to know what Mom and
 Dad have told you. Can we go into the cabin, and discuss this?"
 
 Seth thought for a moment. Then he said, "How can I trust you? How do I know
-that you're not going to kill me as soon as we get into the cavern?"
+that you're not going to kill me as soon as we get into the cabin?"
 
 Cain gently grabbed Seth's hand in his own. It was soft, and delicate, compared
 with his own. "Because if I wanted to kill you, I could do it right now."
@@ -189,20 +182,23 @@ At that moment, Seth realized that he was completely helpless to Cain. Cain had
 drawn his sword, and had it poised to slice Seth at the blink of an eye.
 
 Cain withdrew his sword. "Please, I don't want to scare you, I am merely making
-a point. Now, can we go somewhere more comfortable to talk?"
+a point. Now, can we go somewhere more comfortable to talk?" Cain holstered his
+weapon.
 
 Seth, having survived that first encounter with potential death at the mercy of
 Cain's sword, let out a sigh of relief. Seth led Cain to a cottage towards the
 edge of the farm, near the border of the farm and the forest. In the cottage,
-Cain prepared some tea, and a snack for Cain to eat while they sat down. Cain
-was the first to break the silence between them.
+Seth prepared some tea, and they sat down. Cain was the first to break the
+silence between them.
 
 "So do you gather the crops for mother and father? Is that your day to day
 life?"
 
 Seth stumbled a bit at his reply. This was the first human he had ever talked
-too besides his parents. He said, "Yes, I do manage the farms. I think I do all
-right. Dad seems pleased with the crops we bring."
+too besides his parents, and he wasn't sure how to confront Cain of all people.
+
+"Yes, I do manage the farms," Seth replied,  "I think I do all right. Dad seems
+pleased with the crops we bring."
 
 "Good, that's good." Cain replied. "And you can defend yourself. I saw you
 fight off a bear that was going to attack dad."
@@ -216,7 +212,7 @@ was no longer in my power to do anything about it. I watched as the bear
 approached father, and also as you gathered a tool to defend yourself and fight
 it off."
 
-"And you were just going to stand there and let it kill dad? What sort of
+"And you were just going to stand there and let the bear kill dad? What sort of
 monster would do that?"
 
 "I'm not a monster." Cain sneered. "I saw you were able to handle the
@@ -226,35 +222,38 @@ been in a moral dilema, but you were there, so my dilema was solved."
 "So that's what someone elses life means to you? It's just a moral dilema?"
 Seth was visibly upset.
 
-"No." Cain said resolutely. "Not at all." Cain trailed off. "What do you know
-about Abel?"
+"No." Cain said resolutely. "Not at all." Cain trailed off. Seth could see in
+Cain's eyes a deep memory of something truly life forming.
+
+Cain broke the silence again. "What do you know about Abel?"
 
 Seth recoiled at the sudden shift in topic. "I don't know much, just that he
-was a great farmer, and taht you killed."
+was a great farmer, and that you killed him."
 
 Cain laughed. "Well, one of those is true. Abel was a great farmer."
 
 Seth looked back at his brother with an accusatory glance. "And you mean to
 tell me it wasn't you that killed him?"
 
-Cain looked out the window. "If I'm being entirely repentive, then yes, I would
-say that I killed him. But the horrors of the wild killed Abel more than
-anything else. I was merely naive enough to assume he could handle it."
+Cain looked out the window. "If I'm being entirely honest to God, then yes, I
+would say that I killed him. But the horrors of the wild killed Abel more than
+anything else. I was merely uneducated enough to assume he could handle it."
 
 Seth looked curious now. "Tell me your story then. I want to know about my
 brother Abel. What was he like before you killed him?"
 
 Cain chuckled, "You see, I have told you that I did not kill him, but yet you
-still accuse me? That is actually a good quality in a man, you will do well in
+still accuse me? I would normally be insulted, but I will hold off in this
+case. Your stubborness can be a good quality in a man. You will do well in
 life. Much better than Abel could have. I will tell you about him.
 
-"He was a farming man. He spent all his time out in the farms, plant seeds,
-tilling soil, and pruning crops. Every waking moment of his was spent tending
-to, or thinking about, the crops. When he was not farming, he was either
-eating, or he was sleeping. Even in the night, he would wake up, and check on
-his crops. He attended to them with a obsessive level of attention. And the
-harvests were the best you could ever dream of. He grew the most full, and
-bountiful bread you could ask for..."
+"He was a farming man. He spent all his time out in the farms, planting seeds,
+tilling soil, and pruning crops. Every waking moment of his time was spent
+tending to, or thinking about, the crops. When he was not farming, he was
+either eating, or he was sleeping. Even in the night, he would wake up, and
+check on his crops. He attended to them with a obsessive level of attention.
+And the harvests were the best you could ever dream of. He grew the most full,
+and bountiful bread you could ask for..."
 
 Cain started to drift off.
 
@@ -283,7 +282,7 @@ hunt game, and yes, it does provide food for the family. But also, my hunting
 keeps the family safe. For when you are working on the farms, I am out and
 protecting the borders from the wild things that would come and destroy your
 crops. You might not see it, but by killing the animals, I am protecting you
-and teh family from certain doom.'
+and the family from certain doom.'
 
 "Abel did not like this explanation, and he spoke against it. He said, 'I don't
 believe you. I think our family will be able to get along just fine if you
@@ -323,16 +322,16 @@ thing I knew to do. I brought our brothers corpse to our parents and told them
 what had happened.
 
 "Mom and dad were very upset with me. They blamed me for his death, because
-they argued that I could have easily save Abel from being trampled by the bear.
-WHen I tried to explain that I was making a point to Abel, and that I couldn't
-forsee that he was so weak as to die to a bear attack, they wouldn't have any
-of it. They instead told me to stop lying to them, and admit that I killed
-them.
+they argued that I could have easily saved Abel from being trampled by the
+bear.  WHen I tried to explain that I was making a point to Abel, and that I
+couldn't forsee that he was so weak as to die to a bear attack, they wouldn't
+have any of it. They instead told me to stop lying to them, and admit that I
+killed him.
 
-"It's a strange thing, being told that you are lying when you are confessing
-the absolute truth to the best of your ability. I could not convince them. They
-were convinced that I had killed Abel, and that I was making up a story to
-cover it up.
+"It's a strange thing, being told that you are lying during the moment of your
+deepest and most dark confession. I could not convince them. They were
+convinced that I had killed Abel, and that I was making up a story to cover it
+up.
 
 "So I was exiled. I left, and I promised them that I would never set foot on
 their farm again. I suppose I have broken that promise by stepping here today,
@@ -349,7 +348,7 @@ Cain replied again, "As I see it, I can't dwell on what happened in the past. I
 could not have known that he was so weak that he could die to a bear, and so
 now I understand that not all humans are created with the same facilities as
 everyone else. I understand that about you now as well. If only I had known
-that about Abel at that point, I would not have told him to fight that bear,
+that about Abel at that point, I would have told him to not fight that bear,
 but I could not have known that at the time. And regardless, had I not forced
 him into that fight, he would have eventually run into some sort of wild
 creature and failed to fight it and die. After all, I could not always be
@@ -375,9 +374,10 @@ heart. Does the heart of a devil beat in the same way as the heart of a human?
 I think not. I am no devil. I am but a man, just as you."
 
 Seth looked a little cautious. "How can I be certain that you aren't a devil?
-Maybe you are a kind of devil that is able to trick humans into thinking they
-are a man. You are the kind of devil that is able to show that it is entirely
-like a human, but really, on the inside, it's a devil."
+Maybe you are a special kind of "Trickster Devil" that is able to perfectly
+emualte the human stature. Maybe you're the kind of devil that is so good at
+imitating humans that it can prented to be may brother Cain. How can I know
+that you're not."
 
 Cain looked visibly confused. He wasn't sure what Seth was saying. "Listen,
 Seth. You seem to be convinced I am a devil. Of all the things you should be
@@ -395,10 +395,11 @@ Cain laughed, "Yes, and that made you very uncomfortable, didn't it?"
 Seth chuckled a little bit. "Yeah, it did make me very uncomfortable. Like,
 that's not cool man. I don't know what our parents tried to teach you when you
 were growing up, but I know what my parents taught me growing up, and that is,
-you don't just go pulling swords on people to make points. So I suppose that,
+you don't just go pulling swords on people to win arguments. So I suppose that,
 if you are my brother, you wouldn't go around just pointing swords at people.
-That is something a devil would do. So I think I have argued myself into saying
-that I do believe, in spite of everything t hat you say, that you are a devil."
+That is something a devil would do." Seth paused, "So I think I have argued
+myself into saying that I do believe, in spite of everything that you say,
+that you are a devil."
 
 Cain just laughed. "So be it then. I am a devil!" Cain was laughing rather
 loudly now. "Oh, imagine that. I left my home, and when I return, I am a devil!
@@ -411,7 +412,7 @@ Seth rolled his eyes. "Okay stop, I get it. You're not the devil."
 devil.
 
 "So it started soon after I had to witness Abel's unfortunate death. I went in
-to the woods after being banish by my parents, and I killed a deer. As I was
+to the woods after being banished by my parents, and I killed a deer. As I was
 eating the deer, a hawk flew above me, and said, 'Caw CAW! Can I get a piece of
 that? Caw CAW!' and so of course, I replied, 'Only after I'm done with it.' And
 the hawk replied 'Caw, After your done, Caw, works for me, Caw'
@@ -462,17 +463,17 @@ declared to me.
 
 "'I am the devil! You will worship me, and pledge your alegiance to me!'
 
-"Of course, I told him, 'Fuck off devil man! You can't hurt me.' At which point
-the devil ran off. I captured him in my hand, and grabbed him, and I said, "You
-are mine! I have caught you! The devil could not get away. I told him, 'A
-coward, you are. Worthy of your position as devil, you are not.' So I killed
-him, and took his place.
+"Of course, I told him, 'Fuck off devil man! You can't hurt me.' At which
+point, and much to my surprise, the devil started to run away in terror. He was
+srceaming and yelling. I did not expect that, but I immediately took chase to
+him, and got him in a choke hold. I told him, 'A coward, you are. Worthy of
+your position as devil, you are not.' So I killed him, and took his place.
 
 "Now, what you see before you is your brother re-incarnated as the actual devil
 himself. That is my story."
 
 Seth was listening intently to the story, and when Cain was done, he asked. 
-"So does taht mean you are the devil?"
+"So does that mean you are the devil?"
 
 Cain laughed. "Oh Seth. Let me tell you how much I wish my story were true."
 Cain let out another big laugh. "Oh, if that story were true, then that would
