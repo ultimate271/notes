@@ -561,3 +561,113 @@ Cain finished and Seth shook his head.
 
 "Good, so let's begin," Cain started.
 
+"So mom and dad lived in a beutiful forest. In their time and travels since
+then, they have forgetten where this forest was, and no longer know exactly
+where they came from. But they have some memories of living in this forest.
+
+"So while they were living there, our parents were experimenting with new
+sources of food. As they were experimenting, they ate many of the fruits of the
+forest there.
+
+"In the forest, though, there was one tree that was covered in mushrooms. It
+had mushrooms at it's base, mushrooms grew from the trunk, and mushrooms grew
+even in the branchs in the leaves.  Eve, our mother, one day saw a serpent
+slither towards the tree. As soon as she saw it she was captivated by it. All
+of the mushrooms were growing in such beautiful abundance. It was one of the
+most beautiful things she had ever seen.
+
+"Of course, she was curious about the mushrooms, and ate of them. Immeditaly,
+she started convincing herself of the means by which she came to the tree. She
+claims that, after eating the mushrooms, she heard the voice of the devil, and
+it was sweet and alluring, and with that voice she lured Adam in to eating the
+mushrooms with her.
+
+"When they had both eaten the mushrooms, they both started to realize what they
+were and who they are. They started to understand the world for what it is, and
+not for what they wanted it to be. However, their minds could not comprehend
+the truth that the mushrooms were trying to tell them, so instead they told
+stories about how the mushrooms made them feel.
+
+"In time, they have told their stories among themselves (as they have no one
+else to talk to about it) for so long now that they are no longer sure which
+parts of the story are made up, and which parts of the story are a true account
+of what happened. Instead, they just make the claim that everything they
+remember about what happened is the true account.
+
+"But let me tell you something Seth. I have eaten these mushrooms as well, and
+I can tell you for certain that the experiences you feel while under the
+influence of these mushrooms, while very unknown and vast and impactful, is not
+real in the same sense that the chairs we are sitting on is real. When you eat
+the mushrooms, you start to see and become fantastical things, and these
+fantastical things, while they are significant to the person eating the
+mushrooms, are not real in the way that our parents would like you to believe."
+
+Seth processed the words for a moment. "But that seems so wrong to me. Mom and
+Dad assure me that their account of what happened is the most true account that
+they can tell. Do you mean to say that they are lying to me?"
+
+Cain analyzed Seth's question. "No," Cain said, "I'm not saying that they are
+lying. What I am saying is that they are only giving you part of the story
+without the rest of the bits. Perhaps they think you are not old enough, or
+perhaps they've told the story so much that they don't know what's real
+anymore. Or maybe they told the story perfectly but you misunderstood exactly
+what it meant. Whatever the case may be, you have some incorrect assumptions
+about the world that our parents would have you believe."
+
+"But why?" Seth retorted, "Why would my parents want me to believe one thing
+when they know it's not true? That doesn't make any sense."
+
+Cain paused a moment. "You're right Seth, you wouldn't think it makes sense.
+But tell me this. When I told you my name, you knew who I was. That means that
+either mom or dad must have told you about me. But I'm guessing that you didn't
+always know about me? Am I right? Was there a time when mom and dad told you a
+different story than the one that was true about something that you as a child
+could not be possibly aware of?"
+
+Seth was hit by the sudden realization. His parents had lied to him about being
+the only people on earth. There was this man, Cain, who was sitting in front of
+Seth now. And his parents told him for twelve years that he didn't exist.
+
+Cain was reading the expression on Seth's face. "I can see by the way you've
+reacted to my question that the answer to it is yes they did. Think back on it
+Seth, back when our parents used to tell you some alternate story about me. Was
+that a good thing for you at the time? You were young. I good was it for you to
+think that you were the only child ever to have been born into existance. Why,
+that probably gave you quite the energy boost. You see, our parents did only
+what they thought was best for you. They did the same for me as well, and
+well..." Cain trailed off.
+
+Seth replied, "They lied to you about the stories they told as well?"
+
+"No," Cain replied, "No, they fed me the mushrooms when I was a child."
+
+Seth looked back at Cain. "I don't understand. How is that like what's
+happening to me at all?"
+
+Cain looked back at Seth. "Oh, you naive boy. You are thinking about eating
+like the fruit or the crops. Eating these mushrooms is not like eating of
+bread, or of berries. No, eating mushrooms is a journey. It's a journey through
+the mind.
+
+"I can take it now, but as a child, I was fed these mushrooms regularly. As I
+started to come to an age where I could do things, it became difficult for me
+to understand what was real, and what was not. Our parents thought I was
+becoming delusional, as I started to come up with ways to test using emperical
+evidence which statements were real and which ones were not. My sense of
+reality was so twisted that I couldn't understand what was happening in front
+of me.
+
+"Now, I haven't eaten mushrooms in a long time. In fact, the last time I ate
+mushrooms was after I was exiled for killing Abel. That was before you were
+born. They are a transformative tool, but it must be used wisely."
+
+Cain finished his tale.
+
+"Did Abel also eat the mushrooms?" Seth asked.
+
+"No." Cain replied, "No, Abel was what my parents called "unfallen". With me,
+they thought having a child that knew the wisdom of the mushrooms would be
+beneficial. When they saw that it wasn't the case, they had Abel, and kept him
+free from the mushrooms.
+
+
