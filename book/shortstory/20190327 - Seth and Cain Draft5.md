@@ -1229,8 +1229,13 @@ much greater than me. In fact, I know that I greatly resented him for it at the
 time, which only makes his death by my hand look all the more premeditated.
 Still, Seth, I swear to you I did not plan his death. It is unfortunate that
 you will only ever meet one of your brothers in your life time, I wish you
-could have known Abel."
+could have known Abel..."
 
+Cain trailed off. After a long pause, he finally broke the silence between
+them.
+
+"So that's my story," Cain told Seth. "Consider me the devil if you would like,
+but that is my tale of woe."
 
 ## 5. Cain's Demons
 
