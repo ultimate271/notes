@@ -895,9 +895,9 @@ and our father managed the sheep.
 "I was in love with our mother. By the time I was becoming a teenager, I was
 beginning to realize that I was developing sexual feelings for my mother... our
 mother. Of course, I understood that what I was experiencing was simply
-hormones, but regardless, the feeling was there. I knew that if I were ever to
-be able to think clearly, I would have to remove myself from my mother. That is
-what I did.
+natural human instinct, but regardless, the feeling was there. I knew that if I
+were ever to be able to think clearly, I would have to remove myself from my
+mother. That is what I did.
 
 "It was when I was about your age that I, too went on a pilgramage. However,
 for my pilgramage, I decided to pack with me seven times seventy days worth of
@@ -918,21 +918,21 @@ him Abel.'
 "Of course, I looked amicably upon the prospect of a little brother. A sibling
 seemed nice, and he could be useful in helping out around the farms. Still,
 though, I was excited to tell my parents about my pilgramage, and after they
-introduced me to Abel, and putting him to sleep, we talked all about it."
+introduced me to Abel, and put him to sleep, we talked all about it."
 
 At this point, Cain's demeanor changed. He voice changed from a happy tone to a
 more somber one.
 
-"Well, they did not take to kindly to the words I had to say. You see, to me,
+"Well, they did not take to kindly to my discovered wisddom. You see, to me,
 their story about how they were "created" by some benelovent being named
-"Yahweh" seemed rather far-fetched to me, and the concept of a "perfect garden
-named Eden" was something that seemed to me more like a fairy story than it was
+"Yahweh" seemed rather far-fetched, and the concept of a perfect garden
+named "Eden" was something that seemed to me more like a fairy story than it was
 an actual place. Especially as I walked around and saw all the varied kinds of
 terrain that the world has to offer, I see very little reason why I should
 believe that everything was just poofed somehow magically into existance.
 
 "When I explore the world, I see cultures. I see other things, which look like
-they've bee put here by other people. I see things like pyrmids, built out of
+they've been put here by other people. I see things like pyrmids, built out of
 sand blocks so symetrical that you can't even slide your finger nails between
 them. I've seen hanging gardens in babylon, and I've seen a combination of a
 clock and a compass at stonehenge. On my journies, I saw all sorts of amazing
@@ -940,10 +940,12 @@ beasts and creatures of the land and also I fished and found many sorts of
 different kinds of fish, all of which I could skin and eat for nourishment.
 
 "As I was doing all of this, I thought, 'There is simply no way that all of
-this was created and has existed for only a short number of years. There is
-evidence here of more than thousands of years of evolutionary and archeological
-history to be explored and unpacked. The story my parents tell me about their
-God and their creator has to be incorrect.'
+this was created by a single diety. This was the work of the masses, of people
+cooperating to finish a task. These things are the result of years and years of
+evolutionary history and continued growing intellegence. There is evidence here
+of more than thousands of years of evolutionary and archeological history to be
+explored and unpacked. The story my parents tell me about their God and their
+creator has to be incorrect.'
 
 "I explained all of this to mother and father, but they would not listen. They
 told me things like 'Those ideas are only Satan's demons trying to take a hold
@@ -958,7 +960,10 @@ questions.
 rather sore subject amongst my parents, so I reasoned that in some way I must
 be faulty or possessed for having these doubts of their lord creator.
 
-"Ha, to think," Cain put in an aside for a moment, "To think I actually felt
+"I returned to working on the farms with mother, and Father raised Abel to mend
+to the sheep.
+
+"To think," Cain put in an aside for a moment, "To think I actually felt
 guilty for questioning the stories I was being told. It sounds so absurd to me
 now."
 
@@ -972,7 +977,7 @@ jealous of the attention he was receiving, particularly from my father.
 
 "I don't know what mom and dad have told you about Abel and my own upbringing,
 but I must say that despite the tragic end that we met together, we got along
-rather well. Sure, we had our quablles, as you might expect brothes to do, but
+rather well. Sure, we had our quablles, as you might expect brothers to do, but
 we actually got along quite well.
 
 "You see, ever since I had returned from my pilgramage, I began to protest our
@@ -1016,21 +1021,24 @@ crop, as I always do, and Abel brought the fattest sheep from his flock.
 "When we had all placed our sacrifices on the alter and burned them, my father
 then made the statement, 'Oh, great lord in heaven, please accept Abel's
 sacrifice, as this lamb is the fattest lamb of his stock, and very deep is this
-sacrifice to you. Shine favorably upon Abel's sacrifice this evening.'
+sacrifice to him. Shine favorably upon Abel's sacrifice this evening.'
 
 "Of course, when he said all of this, I was slightly taken aback, but not
 overly so, because I thought the whole ritual was a silly ordeal anyway. But
 then, our father turned to me, and said, 'And to my son Cain, please bestow
-your Holy Spirit upon him so that he may return to your light, oh Lord."
+your Holy Spirit upon him so that he may see the transgressions of his ways and
+return to your everlasting and eternal light, oh Lord."
 
-Cain paused for a moment, and when Seth looked closely, he could see that his
+Cain paused for a moment. When Seth looked closely, he could see that Cain's
 ears were beginning to turn red. Seth also noticed that Cain's facial demeanor
-became more upset at this point in time.
+became more furled at this point in time.
 
 "Well," Cain continued, "I decided that I had enough of such nonsense, and
-decided to speak back right then and there. I said, 'Father, please spare me
-your mysticism. I do not believe in your God, and I do not believe it is wise
-to waste our spoils in this manner. I don't want to hear anything more about a
+decided to speak back right then and there. In the present, this only evokes
+memories of resentment and hartred, but I will continue to speak of the
+experience as I best remember it. I said, 'Father, please spare me your
+mysticism. I do not believe in your God, and I do not believe it is wise to
+waste our spoils in this manner. I don't want to hear anything more about a
 "Holy Spirit" and I don't want to hear you go on about the "Divine Trinity". If
 you don't appreciate my work around here, perhaps I should return on my
 pilgramage, and leave this place for good.'
@@ -1046,21 +1054,21 @@ you a truly and deeply lost."
 
 "To that I replied, 'If you reject the world as it reveals itself to you day
 by day, and if choose instead to supplant it with an invisible man named
-Yahweh, then you are truly and deeply lost.'
+Yahweh, then I am the one that sees you as deeply lost.'
 
 "Let me tell you how satisfying it was to see the confused look on father's
 face. He didn't know how to reply.
 
-"Unfortunately for me, Abel made a reply. Abel got between me and Father,
+"Unfortunately for me, Abel spoke up. Abel got between me and Father,
 and began insulting me about what I was saying. So I turned to Abel, and I told
-him, 'Abel, I don't want to hurt you, but this is between me and my father
+him, 'Abel, I don't want to hurt you, but this is between me and father
 right now. Do not get in the middle of this.'
 
 "Abel, instead of backing off like a reasonable man would, stood resolutely
 between me and father. Abel continued to yell back at me, saying, 'You godless
 prick! How dare you defile not only your father's beliefs but my own as well!
-Do not ever dare to call my sacrifice of my fattest lamb worthless! Find the
-Lord Yahweh and call him your creator or get away from this place!'
+Find the Lord Yahweh and call him your creator or get away from this place! Do
+not ever dare to call my sacrifice of my fattest lamb worthless!'
 
 "Of course," Cain continued, "I did not take to this outburst all too kindly,
 and retorted with something like, 'Of course your fattest lamb is not a
@@ -1077,13 +1085,13 @@ yourself is not by staging outbursts like this. Please, son, come to your
 senses.'
 
 "And so, with that, my good sense returned to me. In that moment, when my
-mother spoke out to me like that, I realized, I was being a complete asshole
-in that moment, and everything that had led to those events was my doing.
-Regardless of the fact that I thought all of the stories about the Garden of
-Eden and the Devil and the Angelic War and everything else were all nonsense,
-the way that I was attempting to express that idea to my parents was not
-productive towards the life I wanted to live. I saw with utmost clarity, as if
-I had a third eye, and was looking on to the alter from the outside, that I was
+mother spoke out to me like that, I realized, I was being a complete asshole,
+and everything that had led to those events was my doing.  Regardless of the
+fact that I thought all of the stories about the Garden of Eden and the Devil
+and the Angelic War and everything else were all nonsense, the way that I was
+attempting to express that idea to my parents was not productive towards the
+life I wanted to live. I saw with utmost clarity, as if I had been given a
+third eye, and was looking on to the alter from the outside, that I was
 conducting myself in a manner which was counterproductive to my overall well
 being.
 
@@ -1097,7 +1105,7 @@ favorably upon his than mine.'
 Abel. I saw that he had hardened his heart towards me. I began to attempt to
 apologize, but before I could get barely any words out, Abel inturrupted me
 with, 'Don't think for a moment that defiling the Lord's place of sacrifice is
-in any way okay.'
+ever acceptable.'
 
 "When Abel said this, I looked to Abel, then I looked back to both of my
 parents. It was at this point that I asked them, 'Could you leave Abel and I
@@ -1120,9 +1128,9 @@ exists.'
 
 "Well, once I said this, Abel got even more upset. He saw through what I was
 trying to do, and replied, 'Is that what you think my God is? You think Yahweh
-is just some sort of trinket that you can choose to believe in or not believe
-in as a bargaining chip for my anger? You insult this holy place with your
-blaspheming words.'
+is just some sort of bargaining chip that you can just choose to believe or
+disbelieve in at your whimsy? You insult this holy place with your blaspheming
+words.'
 
 "Abel went on and on with such drabble. I continued to attempt to defuse the
 situation, but it only got worse. Eventually, in something of a last ditch
@@ -1155,12 +1163,13 @@ instinct, and what's done is done." Cain bowed his head for a moment of silence
 before resuming his conversation. "As Abel fell back from the force of my
 punch, the base of his skull landed on the corner of the alter before bouncing
 off and hitting the floor. It all happened in such a short span of time. By the
-time I saw him falling back, I glanced over to see the alter, and by the time I
-realized his head was on a direct path to the corner, I looked over to see his
-head already colliding with the alter and smearing it with drips of liquid
-blood. The sound of the "thud" I heard when his skull hit the alter was the
-most innocuous yet dreadful sounds I have ever heard in my life. It was as if
-his head was a watermelon and the alter was an icepick that gutted the insides.
+time I saw him falling back, I glanced over to see the alter. When I realized
+his head was on a direct path to the corner, I looked over to see his head
+already colliding with the alter and smearing it with drips of liquid blood.
+The sound of the "thud" I heard when his skull hit the alter was the most
+innocuous yet dreadful sounds I have ever heard in my life. It was as if his
+head was a watermelon and the alter was an icepick that gutted the insides
+before it dropped to the floor.
 
 "Immediately, I saw blood start to drain from the wound that was just made. I
 knelt down next to him, turned Abel on to his back, and put his head in my
@@ -1181,17 +1190,16 @@ body of my dead brother to the alter, and I said, 'perhaps, if God is there, he
 will accept my brother Abel as a sacrifice.'"
 
 Cain smiled before he continued. "Let me tell you, Seth, if there is a God, he
-very clearly does not take kindly to sacrifices of your own family members. We
-probably could have guessed that one, but now we know for sure."
+very clearly does not have a keen sense of humor.
 
 Cain continued with his story. "After I had placed our brother on the alter, I
 made my way back to the house where mother and father had retreated. When I
 arrived, Father asked me, 'Where is Abel?' to which I replied, 'I don't know.
 Am I my brother's keeper?'
 
-"My father looked at my hand and said, 'Oh, Cain, what have you done? Your
-brother's blood cries out to me from the earth! It appears that in your rage
-you have slewn your brother!'
+"My father looked at my hand covered with blood and said, 'Oh, Cain, what have
+you done? Your brother's blood cries out to me from the earth! It appears that
+in your rage you have slewn your brother!'
 
 "To this, I said, 'Father, please believe me when I say that Abel's rage, not
 mine, was his undoing. If he should have only been more calm, I would not have
@@ -1265,7 +1273,7 @@ I know, then I will have an easier time believing you are not the devil. So
 describe her to me so that you may ease my conscious."
 
 "Very well," Cain began. "Well, what is there to say? I have not seen her in
-over twenty years, but I suppose I can reveal to you the thing I do remember
+over twenty years, but I suppose I can reveal to you the things I do remember
 about her.
 
 "When I go back in to my earliest memories, I have this strange feeling of
@@ -1278,23 +1286,18 @@ mother.
 would wake up before sunrise, and eat some breakfast with eggs and toast, and
 after eating we would go out in the sunrise and tend the fields. In the spring
 times, we would plant and rotate crops, and in the fall times we would
-harvest."
-
-Cain paused for a moment, as he stopped his words, and formed a picture of Eve
-in his head to get a clearer picture.
+harvest.
 
 "Her hair is the most beautiful color, and when you look in to her eyes, it's
 as if you can see all the greatest patterns of the world unfold within her
 iris. She is loving to her children and her husband, yet stern in her
-discipline. At least, that's what I remember."
-
-Cain stopped again, and erased the mental image from his mind.
+discipline. At least, that's what I remember.
 
 "But beyond her appearances, she was quite a lovely human being. Always
 charming, wise, and educated. She knew how to handle herself in the world, and
 I always admired her for that."
 
-Cain paused yet again, before continuing, "Of course, towards the end of our
+Cain paused before continuing, "Of course, towards the end of our
 relationship, I started to disagree with her about the nature of the universe,
 and that created some strange tension in our bond. But even in that time, she
 still put out this aura of love and kindness that I hold inside of myself still
@@ -1317,34 +1320,40 @@ since Seth was getting to know Cain, he simply remained silent.
 
 "Very well, let me work this out for you," Cain began. "So the first fact is
 that, during your journies, you found me. Unlike the story our mom tells about
-the snake in the garden, I did not come seeking out you, you found me.
+the snake in the garden, I did not come seeking out you, you found me."
 
-"Second fact, I am indifferent to whether or not you think I am the devil. If I
-were, in fact, a devil, I would very much want you to believe that I was not
-the devil. But as far as I care, you can believe that I am prince Lucifer, and
-I don't care one way or the other.
+Seth nodded his head.
+
+"Second fact," Cain continued, "I am indifferent to whether or not you think I
+am the devil. If I were, in fact, a devil, I would very much want you to
+believe that I was not the devil. But as far as I care, you can believe that I
+am prince Lucifer, and walk out of this room right now, and I wouldn't care one
+way or the other."
+
+Seth nodded his head again.
 
 "Third fact, I have nothing that I want to persuade you of. I would like to
-continue to share stories, because you and I both being human beings, are
-social creatures, but I am indifferent to whether or not you listen and believe
-what I say or not. You can call me a liar and a blashphemer, a devil worshiper,
-or any other host of vile names, and I would remain indifferent to your stance.
-Call me whatever you want. The devil would care that it is being called the
-devil, but I do not."
+continue to share stories, because you and I both being human beings, and there
+is no greater joy than sharing stories with another human being, but if you
+were to freak out on me and become a threat to me in some way, I would just as
+soon have you leave. You can call me a liar and a blashphemer, a devil
+worshiper, or any other host of vile names, and I would simply ask you to
+remove yourself from my presence. Call me whatever you want. The devil would
+care that it is being called the devil, but I do not."
 
 Seth weighed all of the things that Cain was saying in his head. Eventually,
 after all of the whirlwind of thoughts went through Seth's mind, he asked Cain,
 "So let's suppose you are simply my older brother Cain, no demonic possession
-involved. How did it feel to kill your brother?"
+involved. What did you do after you went in to exile?"
 
 Cain paused, and smiled. Cain looked towards Seth, and saw a change in his
-eyes, he went from looking through Cain to look at Cain, and Cain noticed. Cain
-noticed that Seth was now looking at him as if he were a person, and no longer
-as if he were the devil.
+eyes, he went from looking through Cain to looking at Cain, and Cain noticed.
+Cain noticed that Seth was now looking at him as if he were a person, and no
+longer as if he were the devil.
 
 "At first it was rough," Cain answered. "But in time, you come to live with it.
-The first three to five years or so were tough. I had to live off the berries
-of the land and of the beasts of the forest, it took me time to find a good
+The first three to five years were tough. I had to live off the berries
+of the land and off the beasts of the forest, it took me time to find a good
 place to settle. There were moments where I thought to myself, 'If only I
 hadn't have killed him, I wouldn't be in this predicament at all.' But you
 quickly learn that such thoughts don't aid in survival, and you keep making a
@@ -1352,10 +1361,73 @@ life for yourself one step at a time."
 
 There was a pause in the room.
 
-"Does that answer your question?"
+"I would spend hours in a day searching for bushes with adequete berries to
+eat, and when I would find them I would only find a handful before I had to
+resume searching.
 
-"I guess." Seth wasn't sure if his question really was answered, but he felt as
-though he didn't want to pry further.
+"There were days I became severly depressed. Looking back on it, it's only
+natural that such at thing would happen. I had killed my brother and been
+exiled from my family. Not only were those things severe in and of themselves,
+but also, I was simply alone now. As much as I disagree with my parents, I
+think they got one thing right. If there are other human beings on this good
+green planet earth, I have not found them.
+
+"So of course I was depressed. I was alone in the world, and committed the
+same, and I would argue worse, orginal sin as both my parents talk about, and
+without some female to reproduce with, I had very little purpose or drive to
+continue my seemingly endless struggle to survive.
+
+"But I carried on, as you can see. I am here. After some years, I decided to
+move on from my struggles, and to make a habitat for myself where I can live
+comfortably. It's not much, but it allows me a place to store my tools and
+equipment, and it also gives me a place to shelter myself in my sleep. The
+facts of my regretable past no longer weighed me down. Instead, I was able to
+see myself in the present, and in the present I knew I could build myself a
+hut, and so I did."
+
+Seth looked back at Cain.
+
+"There is not much more to say beyond that." Cain concluded.
+
+There was another pause in the room before Seth asked another question.
+
+"So tell me what you learned on your pilgramage. What did you learn that made
+you doubt the stories that mother and father have told you.
+
+
+## 6. Cain's Eden
+
+
+
+## Some quotes.
+
+I have slewn my brother, and so have I added to the original sin of man. I will
+forever be remembered as the first to murder another.
+
+
+## To Delete
+Cain paused for a moment, before smiling and making a relpy to Seth. "Aha, I
+have told you, it was twenty years ago, and in that twenty years I have spent
+much of my mental efforts towards repressing that memory. It does me no good to
+stir that memory up and conversely does me harm. But since you ask, I can
+conjure up that dreadful memory from the depths of the hell of my soul where I
+thought it belonged, and I can hopefully relive those moments as if I were
+there again in the flesh and blood.
+
+"So, as I told you, the day was like any other. 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 After some pause, Cain began, "So, are you convinced now that I am not the
 devil?"
@@ -1379,13 +1451,3 @@ curtosey of allowing me to share with you the things I experinced while I was
 on my pilgramage?"
 
 Seth replied, "Of course. Recite anything your heart desires to tell me."
-
-## 6. Cain's Eden
-
-
-## Some quotes.
-
-I have slewn my brother, and so have I added to the original sin of man. I will
-forever be remembered as the first to murder another.
-
-
