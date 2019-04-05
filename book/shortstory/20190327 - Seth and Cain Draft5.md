@@ -50,11 +50,10 @@ Our story begins with the birth of a child named Seth. Seth was born to a man
 named Adam and a woman named Eve. As far as Seth was aware, he was an only
 child. Or at least, he thought he was the first child.
 
-Seth grew up as any child of the time might. Of course, as an infant, Seth
-developed as regularly as infants might. He learned how to do everything that
-he needed to know how to do at the right times, and as he grew to learn to walk
-and talk and reason with his parents, he started to learn about the world
-around him.
+As an infant, Seth developed as regularly as infants might. He learned how to
+do things like babble when he needed to babble, and then he learned to walk
+when he needed to walk. Eventually, he learned to talk and reason, and from
+there he began to learn about the world around him.
 
 Some of the earliest memories that Seth has are of learning to herd the sheep,
 and harvest the crops at the farm of his parents. His father did most of the
@@ -98,14 +97,14 @@ Seth paused for a moment before he replied. "I haven't thought about it much,
 but now that you mention it, I have always assumed you had a mother and father
 just like I do. Are you here to tell me that this is not the case?"
 
-Eve slowly nodded her head in agreement. "Yes, Seth. Your father and I agreed
-that when you were old enough, we would tell you the story of how we came to
-be. I have decided that you are old enough, and so I will tell you know the
-story of the Garden of Eden."
+Eve slowly nodded her head. "Yes, Seth. Your father and I agreed that when you
+were old enough, we would tell you the story of how we came to be. I have
+decided that you are old enough, and so I will tell you know the story of the
+Garden of Eden."
 
 Eve took her seat and began to settle in with her tea. She began her story.
 
-"So as I said, both me, and your father were not born in the same way that you
+"So as I said, both me and your father were not born in the same way that you
 were. Your father and I, well, we are both the first male and the first female
 ever to exist on this planet earth."
 
@@ -114,13 +113,13 @@ continued.
 
 "You see, the earliest that your father or I can remember is to a faraway
 place, some place full of light, and glorious sound, that fills your every
-sense with pure joy. The first thing both of us remember after that is being in
-a garden together, with the bodies we have now, standing next to eachother,
-naked.
+essence with pure joy. After that, the first thing both of us remember
+consciously was being in a garden together, with the bodies we have now,
+standing next to eachother, naked.
 
 "I was greatly confused when I first saw your father. Mind you, at the time I
 did not know that he would be your father. In fact, I remember both him and I
-being greatly confused. The first thing I remember was your father asked me,
+being greatly confused. The first thing I remember was your father asking me,
 'Who are you?' to which I replied, 'I don't know, and who are you?' and he
 replied, 'I don't know'
 
@@ -166,7 +165,7 @@ completely entranced.
 Eve continued her story. "Well, one day, your father and I were visited by an
 angel, the angel Raphael. He told us the dangers of one who fought against
 Yahweh in the wars of the angels in heaven. His name was Lucifer, also called
-satan, and he was said to have been outcast to a place called Pandemonium,
+Satan, and he was said to have been outcast to a place called Pandemonium,
 along with all the other traitorous angels that fell with him. We asked him
 questions about the garden, about our creator Yahweh, and also some other
 things, and Raphael answered our questions as best he was able.
@@ -179,7 +178,7 @@ lives fearless of this fallen angel that Raphael told us about.
 
 "Oh, if only I had listened to your father, things might not have turned out
 this way. I tell you, one day, when I was gathering berries in the shrubs of
-the garden, I saw slither by my feet a snake. Now, snakes were nothing new to
+the garden, I saw a snake slither by my feet. Now, snakes were nothing new to
 me at the time, I had seen a snake before, but then this snake walked up to me
 on it's four legs and looked me squarely in the eyes. Then I tell you, Seth,
 the snake began to speak to me. It said,
@@ -274,8 +273,8 @@ till the ground for nourishment, and gather the livestock for sustenance. You
 are to labor for your living, and pay your dues for your transgression. Leave
 this garden, and never return.'
 
-"So Yahweh spoke to us. Shortly after that, we were address by the archangel
-Michael. He came to us, and annonced to us, 'I am teh archangel Micheal. I am
+"So Yahweh spoke to us. Shortly after that, we were addressed by the archangel
+Michael. He came to us, and annonced to us, 'I am the archangel Micheal. I am
 here to escort you from the Garden of Eden and in to the land of the living.
 This will be your last moments here, and you are never to return.
 
@@ -315,7 +314,7 @@ join him in bed.
 ## 2. The truth, retold
 
 Seth awoke that morning feeling rejuvinated and ready to return to his parents.
-When he did, the welcomed him back with open arms as they always do and they
+When he did, they welcomed him back with open arms as they always do and they
 continued to live out their lives. Much of their days were spent tending to the
 livestock or cultivating the farms, and as Seth continued to age, he began to
 understand that he would be the successor of all that his parents owned. As
@@ -326,11 +325,11 @@ aid of his parents.
 And so he learned from each of them how to maintain all of the land that Yahweh
 had given them.
 
-Years went buy. In those years, Seth had many more conversations with both his
-father and his mother about various. Most times, the conversations were about
-what had occurred in the day, or in the state of the farms. Seth had also heard
-the Garden of Eden story from his father, in that, and his father's version was
-much like his mothers.
+Years went by. In those years, Seth had many more conversations with both his
+father and his mother about various topics. Most times, the conversations were
+about what had occurred in the day, or in the state of the farms. Seth had also
+heard the Garden of Eden story from his father. His father's version was much
+like his mother's.
 
 Then, when Seth was twelve years of age, after he and his father had finished
 herding the sheep and the livestock for the day, his father paused as he and
@@ -350,7 +349,7 @@ Seth was confused. "But I don't have brothers. What are you talking about? I am
 your only child, am I not?"
 
 Adam looked deeply into Seth's eyes. "No, I tell you, you are not. The reason
-you do not know your brothers is because I great tragedy took place before you
+you do not know your brothers is because a great tragedy took place before you
 were born. Let me now tell you of the tragedy of Cain and Abel."
 
 So Adam began the story of Cain and Abel as he understood it.
@@ -361,7 +360,7 @@ first child was your brother Cain.
 
 "Cain was a great child, and your mother loved him very much. From the moment
 he was suckling her breast, he was with her as she was farming. His first word
-was, 'Crop' and he learned when he was two how to handle the farm equipment
+was 'Crop' and he learned when he was two how to handle the farm equipment
 with the help of his mother. He was born and raised greatly by his mother, and
 he became a great farmer because of it.
 
@@ -405,14 +404,16 @@ bitter young man, and all the while he continued to curse both us and his
 brother for his position in life.
 
 "It was one harvest, when we were gathering the goods from both the crops and
-the livestock at the same time and making a sacrifice to yahweh, that your
-brother finally acted out. During the sacrifice, I said, 'Thank the lord for
-our son Abel, that he has gathered these sheep here today to give thanks and
-sacrifice to our lord Yahweh.'
+the livestock to make a sacrifice to Yahweh that your brother finally acted
+out. During the sacrifice, I said, 'Thank the lord for our son Abel, that he
+has gathered these sheep here today to give thanks and sacrifice to our lord
+Yahweh.'
 
 "To this, Cain replied, 'But what of my sacrifice of wheat and barley? Does
-Yahweh not appreciate those things as well?' And Seth, I told him, 'But we do
-not need your sacrifice, your brother's is more than adequate.'
+Yahweh not appreciate those things as well?' And Seth, I told him, 'Well your
+sacrifice is surely looked upon with favor to the Lord, but I wanted to
+recognize Abel's sacrifice specifically this year, as he has been working hard
+and has become quite successful in the fields.'
 
 "At this, something inside of Cain changed. I saw it happen in real time. He
 began yelling at me. He grew menacing, and began shouting at me. I would tell
@@ -428,15 +429,15 @@ Seth nodded. Adam continued his story.
 brother. Cain had gotten upset with Abel before, but not like this. This was
 something else entirely.
 
-"Your mother, seeing that what was happening to Cain was surely not healthy,
-attempting to interfere. She stepped between Abel and Cain, and told your
+"Your mother, seeing that what was happening to Cain,
+attempted to interfere. She stepped between Abel and Cain, and told your
 brother Cain, 'Young man, you must lower your voice and cease threatening your
-brother Abel in this way this instant. You are not to speak to him like that at
+brother Abel in this way. You are not to speak to him like that at
 any point, much less in the presence of our lord Yahweh in a time of sacrifice.
 Confess remorse for your actions and pray to the Lord for forgiveness so that
-we may resume our ceremony.'
+we may resume our ceremony.' So your mother said, or something of the sort.
 
-"Of course, your mother's decision to interfere was the correct what, but then
+"Of course, your mother's decision to interfere was the correct one, but then
 what happened next surprised both of us. Cain began to yell at his mother. He
 called her terrible names, and began to defile her with his words as he
 blasphemed the Lord God in front of his mother and everyone there. Again, you
@@ -533,8 +534,9 @@ truly posssessed by the lord Lucifer himself to do the things that he did. It
 is tragic that the Devil has found his way in to our lives so long after our
 fall in the Garden of Eden, but alas, we must continue to show our faith in
 Yahweh that this is all part of his great plan. If you ever see your brother,
-you should assume that he is dangerous and cunning. It is not worth the risk to
-interact with him."
+you should assume that he is dangerous and cunning. It is even possible that he
+has been entirely possessed by the lord Lucifer himself. It is not worth the
+risk to interact with him."
 
 Seth pondered this for some time. Suddenly, as they made their way back to the
 cottage, Seth realized that he was dreadfully tired, and was nearly ready to
@@ -607,11 +609,11 @@ entire conversation to eachother. After that conversation, Adam turned his eyes
 to Seth, and said, "Son, I must tell you, your mother and I are in favor of
 this pilgramage. However, we must also warn you that such a thing is very
 dangerous, and without the proper precautions, you will be trampled by the wild
-beasts of the forest, and be left starving by the lack of reliable nutrition.
+beasts of the forest, and be left starving by the lack of reliable nutrition."
 
-"Still," Adam continued, "we want to encourage you on this pilgramage, if it is
-truly what you want to do. Nothing but good things can come of this, if we are
-to take the proper steps to ensure your safety."
+"Still," Adam continued, "we want to encourage you on this pilgramage,
+if it is truly what you want to do. Nothing but good things can come of this,
+if we are to take the proper steps to ensure your safety."
 
 Adam turned back to Eve, and Eve then spoke up. "Oh, my son, Seth, how much you
 have grown. Yes, it is at this age that you should go out and see the world for
@@ -645,10 +647,10 @@ grass. He made his way with the sun at his back to begin his pilgramage.
 After a few days of walking, making camp, eating, and continuing on, Seth began
 to grow weary of his journey. So far, all of the scenery had been the same, and
 he felt that he was possibly wasting his time doing nothing at all. But he
-continued to walk forward anyone, resolving not to give up on the first few
-days. He had packed out over eighty days worth of food, so he decided he would
-turn around as he approached forty days out, and he was not near the turning
-point yet.
+continued to walk forward anyway, resolving not to give up his pilgramage after
+only a few days. He had packed out over eighty days worth of food, so he
+decided he would turn around as he approached forty days out, and he was not
+near the turning point yet.
 
 After a couple of weeks, though, Seth grew disheartened, and nearly turned
 around and made his return journey right then. However, the thought of
@@ -661,10 +663,13 @@ he had just arrived at.
 
 The landscape in front of Seth was swamp as far as Seth could see.
 
-This was the most alive, and vibrant, swamp that Seth had ever seen. In the
-water, he saw that there was algea growing with seaweed, along with all sorts
-of minnows and amphibous creatures. He saw frogs hopping on lilypads, and toads
-eating insects with their long tongues.
+This was the most alive, and vibrant, swamp that Seth had ever seen. In fact,
+it was the only swamp Seth had ever seen. In the water he saw that there was
+algea growing with seaweed, along with all sorts of minnows and amphibous
+creatures. He saw frogs hopping on lilypads, and toads eating insects with
+their long tongues. On the ground he saw all sorts of leaves, with reptiles and
+birds walking and flying about. And in the trees he could see certain kinds of
+maginificent birds of prey each in their own nest.
 
 Out in the distance of the swamp, Seth was also able to make out something that
 looked to him like a small hut.
@@ -722,17 +727,16 @@ where the voice was coming from.
 Seth was not sure what to do. "I come in peace," Seth yelled. "I am here on a
 pilgramage. I mean you no harm."
 
-Seth heard silence return to him. Seth looked around, first to his left, then
-to his right, and he saw no one. Then, Seth looked in front of himself, and saw
-a person in front of him.
+Seth heard silence return to him. Seth looked around again and again saw no
+one. Then, Seth looked in front of himself, and saw a person in front of him.
 
 "Hello friend," the man approached Seth. "If you come in peace, then I must
 cordially invite you to join me in my humble abode."
 
 Seth was frozen in place. He was not sure how to respond. Seth looked at the
-features of this person that was approaching him. He was tall, well built, but
-scarred. He could tell that this man had been in some hardships in his days.
-Perhaps he had fought some wild animals.
+features of this person that was approaching him. He was tall and well built,
+but also with many scars. The largeness of the man reminded him of his father,
+but this man was larger than even his own father.
 
 Seth eventually came to himself, and mustered up a response. "Yes, I would like
 that. I saw your hut from the hill up there, and was trying to find it. I am
@@ -768,12 +772,13 @@ have given you."
 Seth received the drink, and drank of it as well.
 
 Having now received some bread and enjoyed some beer, Seth was startled back to
-reality as Cain broke the silence between the two of them.
+reality as the stranger broke the silence between the two of them.
 
 "So I have offered you my food and drink, but I have not gotten your name. What
 name do you go by, my friend."
 
-In between bites, Seth replied, "My name is Seth. What might your name be."
+In between bites, Seth replied, "My name is Seth. I come from the fields over
+the way. What might your name be?"
 
 The stranger looked back at Seth, "What a nice name that is, Seth. My name is
 not near so nice. My name is Cain."
@@ -804,9 +809,9 @@ persuade me with your lies or your trickery. Do not attempt any sorcery around
 me, because I am aware of your presence, and will not be convinced by your
 words."
 
-Cain stared back at a resolute Cain. After some seconds, Cain started laughing.
+Cain stared back at a resolute Seth. After some seconds, Cain started laughing.
 At first, the laugh was a small chuckle, but after a couple more seconds, the
-laughter transformed into a full on belly laugh. Seth stared incredulously back
+laughter transformed into a full belly laugh. Seth stared incredulously back
 at Cain as he watched Cain laugh.
 
 "Oh, the incarnation of the prince Lucifer himself." Cain muttered between fits
@@ -820,14 +825,14 @@ parents... have led you so far astray. What can I say our do to convince you
 that I am not the incarnation of the fallen angel Satan himself?"
 
 Seth turned back to his brother. "Father told me to be wary of your deception.
-There is no way for me to know for sure that you are not the prince of
-darkness, so I must act under the assumption that whatever you have me do could
+There is no way for me to know for sure that you are not the Prince of
+Darkness, so I must act under the assumption that whatever you have me do could
 be to my demise."
 
 Cain chuckled again. "Ah, the principle to be called Pascal's wager, but in
 reverse. I see your mental gymnastics has outdone itself, my young brother
 Seth. How old are you now? It's been nearly twenty years since I was exiled
-from my parents, so that makes you know older than fifteen, if I had to guess."
+from my parents, so that makes you no older than fifteen, if I had to guess."
 
 Cain looked in to Seth's eyes, and Seth looked away, "Is it fifteen exactly
 then? Fifteen years old. That would make sense. That is the age I went on my
@@ -868,8 +873,8 @@ them. One of them, he was told, was dead, but the other was sitting right there
 in front of Seth, ready to tell his story to Seth. Seth wasn't even entirely
 sure what it meant to be possessed by the Lord of Darkness Lucifer himself, and
 when he examined the man that sat across from him, he did not see what looked
-like anything other than a man eager for the ear of another man. After thinking
-through what had happened so far, Seth eventually made a reply.
+like anything other than a man eager to share his tale. After thinking through
+what had happened so far, Seth eventually made a reply.
 
 "Why did you kill Abel?" Seth asked.
 
@@ -945,7 +950,7 @@ cooperating to finish a task. These things are the result of years and years of
 evolutionary history and continued growing intellegence. There is evidence here
 of more than thousands of years of evolutionary and archeological history to be
 explored and unpacked. The story my parents tell me about their God and their
-creator has to be incorrect.'
+creator must be incorrect.'
 
 "I explained all of this to mother and father, but they would not listen. They
 told me things like 'Those ideas are only Satan's demons trying to take a hold
@@ -1084,11 +1089,15 @@ senses. I understand that you are confused and lost now, but the way to find
 yourself is not by staging outbursts like this. Please, son, come to your
 senses.'
 
-"And so, with that, my good sense returned to me. In that moment, when my
-mother spoke out to me like that, I realized, I was being a complete asshole,
-and everything that had led to those events was my doing.  Regardless of the
-fact that I thought all of the stories about the Garden of Eden and the Devil
-and the Angelic War and everything else were all nonsense, the way that I was
+"My first instinct was to begin yelling at my mother, telling her that the
+devil wasn't real in the way she thought she was, and that her story in no way
+could be literally true in the way she thought it was. It was when my father
+had to stop me from raising a fist to my mother that I came to my senses.
+
+In that moment, I realized I was being an unreasonable asshole, and everything
+that had led to those events was my doing.  Regardless of the fact that I
+thought all of the stories about the Garden of Eden and the Devil and the
+Angelic War and everything else were all nonsense, the way that I was
 attempting to express that idea to my parents was not productive towards the
 life I wanted to live. I saw with utmost clarity, as if I had been given a
 third eye, and was looking on to the alter from the outside, that I was
@@ -1134,7 +1143,7 @@ words.'
 
 "Abel went on and on with such drabble. I continued to attempt to defuse the
 situation, but it only got worse. Eventually, in something of a last ditch
-effort, I said, 'Listen, Abel, I can see that you are clearly upset, for right
+effort, I said, 'Listen, Abel, I can see that you are clearly upset. For right
 now we are going to have to agree to disagree. Tensions are high, and I can see
 you are passionate, so how about we each take a deep breath and we'll each
 believe whatever we believe for the time being, and we'll come back to this at
