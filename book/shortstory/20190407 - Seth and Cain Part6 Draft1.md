@@ -84,9 +84,10 @@ that we are something so undomesticated?"
 
 Cain replied, "Oh, I think that the mushrooms that Mother and Father ate did a
 great deal as far as seperating our perception of existance from our bodies to
-our minds. Seth, let me tell you what I found on my pilgramage.
+our minds." Cain looked at Seth and could see that he still wasn't
+understanding. "Seth, let me tell you what I found on my pilgramage.
 
-"When I was about the same age as you are now, as I told you, I decided to go
+"When I was about the same age as you are now," Cain began, "I decided to go
 on a pilgramage, much as you have. When I was on that pilgramage, I wandered in
 to a forest. In that forest I lived for nearly one hundred days, and for one
 hundred days I explored the leaves and the shrubs of the ground for
@@ -103,16 +104,69 @@ mushrooms of knowledge from.
 
 "So I gathered some of the mushrooms, and I ate of them."
 
-Cain paused for a short moment before continuing. "Seth, let me tell you, what
-happened next was the most profound thing I have ever experienced."
+"But why?" Seth inturrupted. "You knew of their dangers, you knew the story
+that mother and father told you. Why would you risk it?"
+
+"Risk it?" Cain replied. "When I came upon these mushrooms, I didn't see a
+risk. Instead, I saw a potential source of food. Of course, I was aware that
+these mushrooms resembled the description that mother and father had told us
+about, but that was the only thing that was detering me from eating them. I
+don't think I have layed the scene out well enough for you to understand, Seth.
+
+"I was hungry and was looking for sources of food. I had food in my cart, but
+not near enough to last me the full seven times seventy days, so I knew that I
+had to find other sources of food. I had slain a couple of beasts of the land
+and eaten of them, but I could tell that these beasts were not clean, and I
+became sickly after eating of them.
+
+"I investigated the ground around me, and even though mother had taught me
+many things about how the land behaves at their farms, I knew little about what
+sorts of plants grew in the wild. Some plants I would gather and bring with me,
+and even upon just touching them, they would give me a rash, so I knew that
+eating of the plants haphazardly was certainly dangerous.
+
+"It was around this point that I came upon the mushrooms. Having been
+dissapointed by two sources of food so far, I could feel my belly growling for
+anything that might satiate my hunger. When I stumbled upon the mushrooms, let
+me tell you, at first I was wary, because I did not know if these fungus would
+satisfy my digestive systems or not. But it was actually our parents story
+which led me to convince myself to eat them.
+
+"The way I reasoned was this. I thought, 'If mother and father have already
+eaten of these mushrooms, then that means that they are at the very least
+digestable, and they won't kill me or make me ill if I eat them.' So that was
+the first train of thought.
+
+"Then I thought, 'Well, even if Yahweh did instruct my mother and father never
+to eat of the mushrooms of awakening, I personally have never received such
+instructions, and I am hungry now with something edible sitting in front of me.
+It would be foolish to neglect it over something like a strange story that
+mother and father told me in what seemed like at the time decades ago.' And
+that was my next train of thought.
+
+"Finally, I reasoned, 'If mother and father have both eaten these mushrooms,
+whatever happened as a result has already happened. We have already disobeyed
+Yahweh's command, so it would actually be unwise *not* to eat of the mushrooms
+anymore, because they contain the seeds of knowledge that both our mother and
+father can never escape.'
+
+"With these three trains of logic in my head, I decided that it would be better
+to eat of the mushrooms than to starve alone in the forest."
+
+Cain looked at Seth. He wasn't sure if Seth was understanding now, or if the
+incredulous look on his face just went away, but either way he decided to
+continue.
+
+"Seth, let me tell you," Cain resumed, "what happened next was the most
+profound thing I have ever experienced."
 
 Cain stopped talking and there was silence. Seth was sitting in anticipation,
 and eventually said, "Well? Continue your story. What were the mushrooms like?"
 
-At this, Cain looked at Seth, and then he said, "It was the most profound
-experience I have ever had." Cain began.
+At this, Cain looked at Seth, and then he said, "It is impossible to describe
+with words what the experience was like, but I will attempt it." Cain began.
 
-"Immediately after I ate them, I resumed walking in the forest, as I returned
+"Immediately after I ate them, I resumed walking in the forest, and I returned
 to the place where I had made camp.
 
 "That day, I had already gathered some firewood, and I had some meat prepared
@@ -125,17 +179,120 @@ that I may eat it, I began to hear a voice from the fire.
 language that you and I use today. It was like something else, an entirely new
 language that I could somehow understand, but I can't recite to you now.
 
-"After the flames had revealed themselves to me as such, I decided to sacrifice
-my food to the God Yahweh, because that seemed appropiate at the time.
+"After the flames had revealed themselves to me as such, I was able to step
+back and see the creator of the universe in the flames. It seemed to me that
+the flames were just as alive as the trees, or the beasts, or anything else
+that is alive on the ground. And not just the flames, but everything. The trees
+around me spoke to me as though they were born out of the goddess of nature
+herself, and the waters of the lake engulfed me as I felt the movements of the
+currents and the fish come to life in a similar way. Everything that I saw, and
+everything that I looked at, seemed to be the most beautiful, the most well
+placed, and the most intricate thing that I had ever seen in my life. And in it
+all, in the patterns and in the essence of all the things that persisted around
+me, I began to see our Lord and Creator.
 
-"After I did that, though, the next day, after I had gone to sleep, and
-experienced the most profound dream that I don't remember of my life, I woke up
-with a renewed sense of clarity and purpose. I was no longer the only human
-being on this planet to be born of a Mother and Father, I saw myself as part of
-something much larger than either myself, or Mother and Father, or any of it.
-We were the beginning of a new kind of animal, and by eating the mushrooms, I
-was able to understand that Yahweh could not exist in the way that my parents
-think he does, but he exists in a totally different and psychological way."
+"And let me tell you, Seth, when you actually see the energy that created all
+of this vast and expansive universe, when you get to touch, even if only for a
+moment, the source of all that comes to life in this world, that thing that you
+feel is like Yahweh in some ways, but not at all like Yahweh in the ways that
+you think are important. Yahweh is not a being. He is not alive like you or I
+are alive. God, and I don't mean Yahweh, I mean the real and true God that I
+experienced after eating those mushrooms, that God is something that is inside
+of everything. God is more like the patterns and rules which govern this
+universe.
+
+Cain paused before continuing. "That night when I went to sleep, I had the most
+profound dream I have ever experienced in my life. It was so vivid yet surreal.
+I was something like the master of my entire being, and I was able to see
+myself from the third person, as if I had a third eye and was able to gaze upon
+myself from that third eye. I could will something to move in my dream the same
+way I can will my index finger to move, and by doing so I had fine grained
+control over every aspect of the dream. I was connected on a deep and visceral
+level to everything that existed in the dream, but I understood at the same
+time that I was not having a dream, and instead I was having a vision that felt
+so real that it was impossible to distinguish where reality stopped and where
+fantasy began.
+
+"Unfortunately, I don't remember many details of exactly what sorts of vision I
+had. Surely, as people become more sophisticated, they will be able to eat of
+these things, as well as whatever else is out there in the world to eat and
+partake of in this way, and they will be able to do things like draw or animate
+the things that they see. But Seth, I am nothing but a lowly farmer, I know
+nothing of painting or drawing. I am having enough difficulty speaking to you
+right now, because speech is something that I have not practiced in twenty
+years. But trust me when I say that from this experience, along with everything
+else that I found on my pilgramage, that I began to accept the fact that our
+parents are lying to us, and that the world is a much more intrecate and
+fascinating place than they would have you or I believe."
+
+Cain stopped for a moment to let Seth take it all in.
+
+"So you can only imagine," Cain resumed, "that when I returned to mother and
+father with this new conception of what Yahweh was, they didn't take too kindly
+to it. I tried to tell them, I tried to explain to them what I saw as my idea
+of how we should conduct ourselves in the universe, but both mother and father
+were too closed off to the idea.
+
+"I believe that "Yahweh" is something that mother and father both created each
+in their own image, so that he may aid them and guide them to a place where
+they may live. But when I talked to them about this, they didn't want to hear
+it. The didn't even want to conjecture. Mother and father were so hopelessly
+attached to the twisted and perverted reality that they created for themselves
+that when I tried to talk to them about that which is truly divine and
+transcendent, they rejected what I had to say.
+
+"You know how the rest goes from there..." Cain trailed off. "And let me tell
+you, Seth, I wish I had the answers to your questions, but I don't. I wish I
+could tell you where the universe came from, but I am not wise enough to answer
+that question. In fact, there may never be one wise enough to answer that
+question. But I do know that, for whatever reason, you and I both exist, and
+our parents exist, and we have the capability to ask these questions. Where
+this capability originates from, I don't know. It's even impossible to say
+whether or not we will ever know.
+
+--
+
+But what I do know is that we have that, and
+as long as we have that, we can still strive to one day reach for the hand of
+God.
+
+"But," Cain's voice was getting more excited now, "in that uncertainty, that's
+how we develop as human beings. Every one of us, we are each like our own
+divine landscape, and on this landscape, inside of all of us, there are
+players, actors of a drama. 
+
+--
+
+"So you ate the mushrooms of awakening that come from the devil?" Seth asked.
+"Maybe you _are_ possessed then."
+
+Cain chuckled, "Oh, back to this game again? Well if I'm possessed by the devil
+because I ate the mushrooms that I found on the ground, then both of our
+parents are as well. And on some level, you must have eaten something before
+that has been prepared poorly. You certainly wouldn't say that the devil is at
+work when you get food poisoning, but it could be said to resemble demonic
+possession. Why should the eating of mushrooms be any more insidious than the
+eating of wheat or barley which has spoiled?"
+
+Seth listened to his brother Cain and Seth immediately recognized that by
+accusing his brother of demonic possession again, he was regressing in the
+conversation. Seth returned to the present and looked at his brother Cain again
+before interjecting again.
+
+"And
+
+was
+regressing in the conversation. 
+
+After I did that, though, the next day, after I had gone to
+sleep and experienced the most profound dream that I don't remember of my life,
+I woke up with a renewed sense of clarity and purpose. I was no longer the only
+human being on this planet to be born of a Mother and Father, I saw myself as
+part of something much larger than either myself, or Mother and Father, or any
+of it.  We were the beginning of a new kind of animal, and by eating the
+mushrooms, I was able to understand that Yahweh could not exist in the way that
+my parents think he does, but he exists in a totally different and
+psychological way."
 
 At this, Cain gave pause, and Seth interjected. "That seems like an awfully
 strange thing to say. As far as I understand, the diety Yahweh is an actually
