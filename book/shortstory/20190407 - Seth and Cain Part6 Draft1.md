@@ -17,9 +17,9 @@ Seth began, "I suppose I do, as I see no reason for mother and father to lie to
 both me and you as you suggest."
 
 Cain chuckled. "Of course not. You still haven't seen the pattern of their
-discussions, have you? You see, everything you understand to be true when you
-are born later turns out to be a lie. It's in how we respond to that lie that
-defines who we are as people."
+discussions, have you? You see, many things that you take as fundamental truths
+when you are young you will come to understand as lies when you mature. It's in
+how we respond to these lies that defines who we are as individuals."
 
 Seth looked back at his older brother. He wasn't sure what to make of this
 whole conversation.
@@ -27,10 +27,9 @@ whole conversation.
 "Think about it," Cain continued. "Mother and Father both have told you stories
 about the world that they originally lied to you about. They hid the story of
 how I killed your brother from you until you were much older. They also hid the
-story of the Garden of Eden from you, and even though that one is false, they
-had you believe something else before they told you that. Mother and Father
-have always lied to you about various stories, why would it be so strange that
-they have more lies that they have yet to reveal to you?"
+story of the Garden of Eden from you. Mother and Father have always lied to you
+about various stories, why would it be so strange that they have more lies that
+they have yet to reveal to you?"
 
 Seth thought about it for a moment, and eventually conceded that Cain was
 making quite a good point. After all, his parents had every reason to lie to
@@ -52,19 +51,19 @@ come to be, and how did this universe come to be?"
 Cain looked back at Seth, and laughed. "Well, I would not presume to know how
 the universe came to be. If we could answer that question, we could answer a
 great deal many others that I have on my mind. But I can tell you how I believe
-our parents came to be.
+our parents came to be...
 
 "Look at us, Seth. Compare our anatomy with the anatomy of a monkey. You and I,
 and Mother and Father, we are all very similar in the fact that our shape and
-form is rather similar to that of an ape. Yes, it is true that we have less
+form is rather similar to that of a primate. Yes, it is true that we have less
 hair on our bodies, and we compensate for this by covering ourselves with
 clothing, but it is undeniable that the shape of our bodies, not only the way
 we carry our four limbs but also our internal structure of organs and tissue,
-we share many similarities with monkies, and in particular, chimpanzees."
+has many similarities with monkies, and in particular, chimpanzees."
 
 Seth was listening to his brother intently, but he wasn't sure where this was
 going. Sure, Chimpanzee's were fascinating animals, and Seth had encountered a
-couple in his time, but he was'nt sure why his brother Cain was talking about
+couple in his time, but he wasn't sure why his brother Cain was talking about
 them now. Still curious, though, Seth let his brother continue.
 
 "Because of our striking similarities to chimpanzee's, my current working
@@ -77,15 +76,17 @@ mushrooms that we can do it."
 
 Cain paused as he let his statement sink in for a moment. Seth sat in silence.
 
-Seth eventually broke the silence. "But that is silliness. Are you going to sit
-there and tell me that we are no different than Chimpanzees? Clearly we are
-much smarter and much more sophisticated than those beasts. How can you claim
-that we are something so undomesticated?"
+Seth unsure if Cain was finished or just getting started eventually broke the
+silence. "But that is silliness. Are you going to sit there and tell me that we
+are no different than Chimpanzees? Clearly we are much smarter and much more
+sophisticated than those beasts. How can you claim that we are something so
+undomesticated?"
 
 Cain replied, "Oh, I think that the mushrooms that Mother and Father ate did a
 great deal as far as seperating our perception of existance from our bodies to
-our minds." Cain looked at Seth and could see that he still wasn't
-understanding. "Seth, let me tell you what I found on my pilgramage.
+our minds. We are much more than a Chimpanzee could ever hope to become." Cain
+looked at Seth and could see that he still wasn't understanding. "Seth, let me
+tell you what I found on my pilgramage.
 
 "When I was about the same age as you are now," Cain began, "I decided to go
 on a pilgramage, much as you have. When I was on that pilgramage, I wandered in
@@ -100,7 +101,7 @@ their story, from the Garden of Eden.
 "As I stood there, I thought, 'perhaps I have accidentally wandered in to the
 Garden that Mother and Father talk about in their stories, and I have
 accidentally stumbled upon the tree that my mother gathered the original
-mushrooms of knowledge from.
+forbidden mushrooms from.
 
 "So I gathered some of the mushrooms, and I ate of them."
 
@@ -113,11 +114,11 @@ these mushrooms resembled the description that mother and father had told us
 about, but that was the only thing that was detering me from eating them. I
 don't think I have layed the scene out well enough for you to understand, Seth.
 
-"I was hungry and was looking for sources of food. I had food in my cart, but
-not near enough to last me the full seven times seventy days, so I knew that I
-had to find other sources of food. I had slain a couple of beasts of the land
-and eaten of them, but I could tell that these beasts were not clean, and I
-became sickly after eating of them.
+"I was hungry and was looking for food. I had food in my cart, but not near
+enough to last me the full seven times seventy days, so I knew that I had to
+find other sources of food. I had slain a couple of beasts of the land and
+eaten of them, but I could tell that these beasts were not clean, and I became
+sickly after eating of them.
 
 "I investigated the ground around me, and even though mother had taught me
 many things about how the land behaves at their farms, I knew little about what
@@ -129,7 +130,7 @@ eating of the plants haphazardly was certainly dangerous.
 dissapointed by two sources of food so far, I could feel my belly growling for
 anything that might satiate my hunger. When I stumbled upon the mushrooms, let
 me tell you, at first I was wary, because I did not know if these fungus would
-satisfy my digestive systems or not. But it was actually our parents story
+agree with my digestive systems or not. But it was actually our parents story
 which led me to convince myself to eat them.
 
 "The way I reasoned was this. I thought, 'If mother and father have already
@@ -148,7 +149,7 @@ that was my next train of thought.
 whatever happened as a result has already happened. We have already disobeyed
 Yahweh's command, so it would actually be unwise *not* to eat of the mushrooms
 anymore, because they contain the seeds of knowledge that both our mother and
-father can never escape.'
+father can never escape.' And that was my third argument.
 
 "With these three trains of logic in my head, I decided that it would be better
 to eat of the mushrooms than to starve alone in the forest."
@@ -167,17 +168,13 @@ At this, Cain looked at Seth, and then he said, "It is impossible to describe
 with words what the experience was like, but I will attempt it." Cain began.
 
 "Immediately after I ate them, I resumed walking in the forest, and I returned
-to the place where I had made camp.
-
-"That day, I had already gathered some firewood, and I had some meat prepared
-which I had removed from my bag and restored.
-
-"As I returned to my camp, I set up a fire, and as I was cooking my meat so
-that I may eat it, I began to hear a voice from the fire.
-
-"I don't remember what the voice said to me, but it was not anything like the
-language that you and I use today. It was like something else, an entirely new
-language that I could somehow understand, but I can't recite to you now.
+to the place where I had made camp. That day, I had already gathered some
+firewood, and I had some meat prepared which I had removed from my bag and
+restored. As I returned to my camp, I set up a fire, and as I was cooking my
+meat so that I may eat it, I began to hear a voice from the fire. I don't
+remember what the voice said to me, but it was not anything like the language
+that you and I use today. It was like something else, an entirely new language
+that I could somehow understand, but I can't recite to you now.
 
 "After the flames had revealed themselves to me as such, I was able to step
 back and see the creator of the universe in the flames. It seemed to me that
@@ -192,14 +189,15 @@ all, in the patterns and in the essence of all the things that persisted around
 me, I began to see our Lord and Creator.
 
 "And let me tell you, Seth, when you actually see the energy that created all
-of this vast and expansive universe, when you get to touch, even if only for a
-moment, the source of all that comes to life in this world, that thing that you
-feel is like Yahweh in some ways, but not at all like Yahweh in the ways that
-you think are important. Yahweh is not a being. He is not alive like you or I
-are alive. God, and I don't mean Yahweh, I mean the real and true God that I
-experienced after eating those mushrooms, that God is something that is inside
-of everything. God is more like the patterns and rules which govern this
-universe.
+of this vast and expansive universe, when you get to touch it, even if only for
+a moment, the source of all that comes to life in this world, that thing that
+you feel is like Yahweh in some ways, but not at all like Yahweh in the ways
+that you think are important. Yahweh is not a being. He is not alive like you
+or I are alive. God, and I don't mean the God that our parents told us about,
+I mean the real and true God that I experienced after eating those mushrooms,
+that God is something that is inside of everything. God is better described
+better by the patterns and rules which govern this universe than as a
+benevolent and omniscient architect like our parents would have you believe."
 
 Cain paused before continuing. "That night when I went to sleep, I had the most
 profound dream I have ever experienced in my life. It was so vivid yet surreal.
@@ -231,15 +229,135 @@ Cain stopped for a moment to let Seth take it all in.
 father with this new conception of what Yahweh was, they didn't take too kindly
 to it. I tried to tell them, I tried to explain to them what I saw as my idea
 of how we should conduct ourselves in the universe, but both mother and father
-were too closed off to the idea.
+were too closed off to the idea."
 
-"I believe that "Yahweh" is something that mother and father both created each
-in their own image, so that he may aid them and guide them to a place where
-they may live. But when I talked to them about this, they didn't want to hear
-it. The didn't even want to conjecture. Mother and father were so hopelessly
-attached to the twisted and perverted reality that they created for themselves
-that when I tried to talk to them about that which is truly divine and
-transcendent, they rejected what I had to say.
+Cain paused at this point for a long time, and Seth took everything that Cain
+was saying and processesd it as best he could.
+
+Seth was wrestling with his brothers words. It was already difficult enough for
+Seth to convince himself to even concede that his brother was a simple human
+being just as he was, but the way his brother was talking made Seth wary of his
+choice. Seth wanted to interject, but his mind was so muddled with ideas that
+he couldn't come up with the right thing to say. Eventually, in an attempt to
+understand his brother, he asked the question, "So if you say that you met, or
+touched, or came in contact with, the essence and being of the universe, why
+not just call that thing God? Why make all of this fuss? Why insist that the
+'God' or 'Yahweh' that our parents talk about isn't real, but then continue to
+go on about the beauty and trancendence of this other essence that you claim is
+indistinguishable from reality? It's as if you reject God, but then fill in the
+empty spot with something that is just like God. Why belabor yourself like
+this?"
+
+Cain considered Seth's question, and then began his response. "I can't speak
+for you, I, as any human being, can only speak for myself. But, I can say, in
+speaking for myself, I have learned something very important. Each individual
+must find God himself. No one can be shown God. No one can be taken to God.
+Each individual must find God in himself, and in seeking it out, and listening
+very closly for it, they will find that which resonates most deeply to them,
+when the word God is used.
+
+"But our parents would like to turn this process on its head. 'Yahweh' is
+something that mother and father both created each in their own image, so that
+he may aid them and guide them to a place where they may live. 'Yahweh' is the
+version of God which resonate most strongly with our parents. But when 'Yahweh'
+is described to me, it does not resonate with me, and so, I must go out and
+find something that does.
+
+"And when I found it, or rather, when the mushrooms revealed to me the closest
+thing that I have found and experienced that resemebles God as our parents
+describe him, I discovered that what I thought our parents were saying when
+they said 'Yahweh' was something totally different than what I actually
+experienced in that moment. 'Yahweh' or 'God' was something that I felt. But he
+wasn't a diety, he was something more like the aura that surrounds everything.
+God revealed himself to me as something like a ghost or a spirit which
+permeates everything. Perhaps that would be better labeled as the Holy Spirit.
+
+"Regardless of the exact nature of my religious experience, something I learned
+vicerally in the aftermath of that experience was that each of us, as an
+individual, must grapple with the anatomy of our souls, and no two human beings
+will every be exactly alike when it comes to projecting our subconscious into
+our conscious thought.
+
+"Our parents would label their God 'Yahweh' and I would label God something
+more like 'The doings of the Universe'.
+
+"And if I had my way, such a distinction would not matter. But to mother and
+father, it matters..."
+
+Cain mostly trailed off at that point. Seth remained silent. This time, he felt
+as though the words of his brother really resonated. Seth also felt at times
+that there must be something more to understand about Yahweh than what he heard
+from his parents. He felt as though he hadn't spent the time to develop his
+sense of the universe enough to bring to life his own conception of what his
+parents called 'God' in his own mind. He was beginning to realize that he was
+merely accepting his parents words on their own merit, and he began to
+understand that he would have to fully capture and encapsulate his own sense of
+what "God" might mean to him. The hollow shell of an archetype that Seth had
+called to this point "God" seemed to implode in on itself, and in it's place
+there were only the cogs and gears at work in Seth's mind that were attempting
+to put in the place something more of substance where that hollow shell used to
+be. But the image was not complete, it wasn't even really begun, and the idea
+of defining God seemed to Seth to be the most overwhelming thing that any man
+could attempt to do. In just a few short moments, Seth was starting to realize
+that even though his pilgramage was approaching it's completion, the work and
+insight that was gained from this journey would take years, even decades, to
+fully process and integrate into his daily living.
+
+Seth contemplated all of this in silence before all of it finally overfilled
+his thoughts, and he burst out at his brother in a long stream of unbridled
+thought.
+
+"So what if 'Yahweh' isn't God, or God isn't 'Yahweh'? You say you have
+experineced him, but I have not. I only know the 'Yahweh' that our parents have
+told us, but now you are telling me this isn't enough? If it's not enough, then
+tell me, Cain, what more can you tell me to make it enough? If understanding
+'Yahweh' is not the only thing required to discovering God, then what more need
+I to do to discover God?"
+
+Cain listened to his brothers question, then replied, "Well, one suggestion I
+would have would be for you to also eat of the mushrooms that I ate of, and for
+you to see Yahweh for yourself." Cain paused, then continued, "But I do think I
+must give a word of warning, the experince from the mushrooms, although I have
+described it in ways that make it sound nothing but profound and insightful, is
+also very tumultuous. If you are not in the right mindset, I fear the
+experience could lead to great pain. You must not eat the mushrooms
+whimsically."
+
+Cain finished before Seth replied. "Alas, I would like to eat of the mushrooms
+of awakening, as you have and as our parents have, but I feel very strongly
+about obeying Yahweh's word. I understand you, Cain, I think I finally
+understand what you are trying to say." Seth paused for a moment and
+re-orginized his eye contact on to Cain. "I must find for myself what I think
+God is, and while I know that my current projection of 'Yahweh' is incomplete,
+I also feel very strongly that disobeying the word of the Lord is possibly the
+greatest shortcoming a man can fall to, so I see no reason to risk disobeying
+the Lord by eating the mushrooms when we were told explicitly by him not to eat
+of them."
+
+Cain waited as Seth finished, and then made his reply. "I will be honest when I
+say to you, if you feel that you should not eat the mushrooms, then it is wise
+that you should not eat the mushrooms. I would otherwise be tempted to try and
+convince you otherwise, but I fear that going in to a mushroom trip with that
+sort of mindset could only lead to troubling things.
+
+"But," Cain continued, "If you do not wish to eat of the mushrooms, than I can
+offer you no more advice to revealing that which is most like 'God' to you as I
+discovered him. I am afraid that I have told you all that I have to help you,
+and it's up to you and your essence as a human being to determine the rest."
+
+Seth listened to his brother and knew that what he was saying was true. Seth
+understood that, and felt lost. How could he find God? How would he know when
+he found him? What kinds of steps even went in to something like that?
+
+Suddenly, as if struck by lightning, Seth got an idea. He began to speak his
+idea to his brother. He said, "Cain, you must return with me to the farm.
+
+But when I
+talked to them about this, they didn't want to hear it. The didn't even want to
+conjecture. Mother and father were so hopelessly attached to the twisted and
+perverted reality that they created for themselves that when I tried to talk to
+them about that which is truly divine and transcendent, they rejected what I
+had to say.
 
 "You know how the rest goes from there..." Cain trailed off. "And let me tell
 you, Seth, I wish I had the answers to your questions, but I don't. I wish I
