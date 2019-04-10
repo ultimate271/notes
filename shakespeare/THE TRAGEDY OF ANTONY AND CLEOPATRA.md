@@ -1,6 +1,6 @@
 # THE TRAGEDY OF ANTONY AND CLEOPATRA
 
-DRAMATIS PERSONAE
+# DRAMATIS PERSONAE
 
   MARK ANTONY,         Triumvirs
   OCTAVIUS CAESAR,         "
@@ -42,7 +42,8 @@ DRAMATIS PERSONAE
 
 SCENE: The Roman Empire
 
-ACT I. SCENE I. Alexandria. CLEOPATRA'S palace
+# ACT I.
+## SCENE I. Alexandria. CLEOPATRA'S palace
 
 Enter DEMETRIUS and PHILO
 
@@ -124,7 +125,7 @@ Enter DEMETRIUS and PHILO
     Thus speaks of him at Rome; but I will hope
     Of better deeds to-morrow. Rest you happy!            Exeunt
 
-SCENE II. Alexandria. CLEOPATRA'S palace
+## SCENE II. Alexandria. CLEOPATRA'S palace
 
 Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
 
@@ -339,7 +340,7 @@ Enter CHARMIAN, IRAS, ALEXAS, and a SOOTHSAYER
     Our quick remove from hence.
   ENOBARBUS. I shall do't.                                Exeunt
 
-SCENE III. Alexandria. CLEOPATRA'S palace
+## SCENE III. Alexandria. CLEOPATRA'S palace
 
 Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
 
@@ -472,7 +473,7 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
     And I, hence fleeting, here remain with thee.
     Away!                                                 Exeunt
 
-SCENE IV. Rome. CAESAR'S house
+## SCENE IV. Rome. CAESAR'S house
 
 Enter OCTAVIUS CAESAR, reading a letter; LEPIDUS, and their train
 
@@ -573,7 +574,7 @@ Enter OCTAVIUS CAESAR, reading a letter; LEPIDUS, and their train
   CAESAR. Doubt not, sir;
     I knew it for my bond.                                Exeunt
 
-SCENE V. Alexandria. CLEOPATRA'S palace
+## SCENE V. Alexandria. CLEOPATRA'S palace
 
 Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
 
@@ -672,7 +673,8 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
     He shall have every day a several greeting,
     Or I'll unpeople Egypt.                               Exeunt
 
-ACT II. SCENE I. Messina. POMPEY'S house
+# ACT II.
+## SCENE I. Messina. POMPEY'S house
 
 Enter POMPEY, MENECRATES, and MENAS, in warlike manner
 
@@ -741,7 +743,7 @@ Enter POMPEY, MENECRATES, and MENAS, in warlike manner
     Our lives upon to use our strongest hands.
     Come, Menas.                                          Exeunt
 
-SCENE II. Rome. The house of LEPIDUS
+## SCENE II. Rome. The house of LEPIDUS
 
 Enter ENOBARBUS and LEPIDUS
 
@@ -1041,7 +1043,7 @@ Enter ENOBARBUS and LEPIDUS
     Whilst you abide here.
   ENOBARBUS. Humbly, sir, I thank you.                    Exeunt
 
-SCENE III. Rome. CAESAR'S house
+## SCENE III. Rome. CAESAR'S house
 
 Enter ANTONY, CAESAR, OCTAVIA between them
 
@@ -1100,7 +1102,7 @@ Enter ANTONY, CAESAR, OCTAVIA between them
     You must to Parthia. Your commission's ready;
     Follow me and receive't.                              Exeunt
 
-SCENE IV. Rome. A street
+## SCENE IV. Rome. A street
 
 Enter LEPIDUS, MAECENAS, and AGRIPPA
 
@@ -1119,7 +1121,7 @@ Enter LEPIDUS, MAECENAS, and AGRIPPA
   BOTH. Sir, good success!
   LEPIDUS. Farewell.                                      Exeunt
 
-SCENE V. Alexandria. CLEOPATRA'S palace
+## SCENE V. Alexandria. CLEOPATRA'S palace
 
 Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
 
@@ -1281,7 +1283,7 @@ Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
     Bring me word how tall she is.- Pity me, Charmian,
     But do not speak to me. Lead me to my chamber.        Exeunt
 
-SCENE VI. Near Misenum
+## SCENE VI. Near Misenum
 
 Flourish. Enter POMPEY and MENAS at one door, with drum and trumpet; at
 another, CAESAR, ANTONY, LEPIDUS, ENOBARBUS, MAECENAS, AGRIPPA, with
@@ -1444,7 +1446,7 @@ soldiers marching
   MENAS. Come, let's away.                                Exeunt
 
 ACT_2|SC_7
-                           SCENE VII.
+## SCENE VII.
              On board POMPEY'S galley, off Misenum
 
      Music plays. Enter two or three SERVANTS with a banquet
@@ -1619,7 +1621,8 @@ ACT_2|SC_7
   ENOBARBUS. Hoo! says 'a. There's my cap.
   MENAS. Hoo! Noble Captain, come.                        Exeunt
 ACT_3|SC_1
-                     ACT III. SCENE I.
+# ACT III. 
+## SCENE I.
                      A plain in Syria
 
        Enter VENTIDIUS, as it were in triumph, with SILIUS
@@ -1670,7 +1673,9 @@ ACT_3|SC_1
                                                           Exeunt
 
 ACT_3|SC_2
-                            SCENE II. Rome. CAESAR'S house
+## SCENE II.
+
+            Rome. CAESAR'S house
 
         Enter AGRIPPA at one door, ENOBARBUS at another
 
@@ -1761,7 +1766,7 @@ ACT_3|SC_2
   ANTONY. Farewell!                       Trumpets sound. Exeunt
 
 ACT_3|SC_3
-                          SCENE III.
+## SCENE III.
               Alexandria. CLEOPATRA'S palace
 
          Enter CLEOPATRA, CHARMIAN, IRAS, and ALEXAS
@@ -1837,7 +1842,7 @@ ACT_3|SC_3
   CHARMIAN. I warrant you, madam.                         Exeunt
 
 ACT_3|SC_4
-                          SCENE IV.
+## SCENE IV.
                   Athens. ANTONY'S house
 
                  Enter ANTONY and OCTAVIA
@@ -1885,7 +1890,7 @@ ACT_3|SC_4
     Your heart has mind to.                               Exeunt
 
 ACT_3|SC_5
-                           SCENE V.
+## SCENE V.
                    Athens. ANTONY'S house
 
              Enter ENOBARBUS and EROS, meeting
@@ -1916,7 +1921,7 @@ ACT_3|SC_5
   EROS. Come, sir.                                        Exeunt
 
 ACT_3|SC_6
-                          SCENE VI.
+## SCENE VI.
                    Rome. CAESAR'S house
 
              Enter CAESAR, AGRIPPA, and MAECENAS
@@ -2038,7 +2043,7 @@ ACT_3|SC_6
     Be ever known to patience. My dear'st sister!         Exeunt
 
 ACT_3|SC_7
-                          SCENE VII.
+## SCENE VII.
                   ANTONY'S camp near Actium
 
                 Enter CLEOPATRA and ENOBARBUS
@@ -2158,7 +2163,7 @@ ACT_3|SC_7
     Each minute some.                                     Exeunt
 
 ACT_3|SC_8
-                          SCENE VIII.
+## SCENE VIII.
                       A plain near Actium
 
              Enter CAESAR, with his army, marching
@@ -2171,7 +2176,7 @@ ACT_3|SC_8
     Upon this jump.                                       Exeunt
 
 ACT_3|SC_9
-                           SCENE IX.
+## SCENE IX.
                   Another part of the plain
 
                   Enter ANTONY and ENOBARBUS
@@ -2182,7 +2187,7 @@ ACT_3|SC_9
     And so proceed accordingly.                           Exeunt
 
 ACT_3|SC_10
-                           SCENE X.
+## SCENE X.
                  Another part of the plain
 
         CANIDIUS marcheth with his land army one way
@@ -2245,7 +2250,7 @@ ACT_3|SC_10
     Sits in the wind against me.                          Exeunt
 
 ACT_3|SC_11
-                         SCENE XI.
+## SCENE XI.
               Alexandria. CLEOPATRA'S palace
 
                Enter ANTONY With attendants
@@ -2338,7 +2343,7 @@ ACT_3|SC_11
     We scorn her most when most she offers blows.         Exeunt
 
 ACT_3|SC_12
-                         SCENE XII.
+## SCENE XII.
                    CAESAR'S camp in Egypt
 
    Enter CAESAR, AGRIPPA, DOLABELLA, THYREUS, with others
@@ -2391,7 +2396,7 @@ ACT_3|SC_12
   THYREUS. Caesar, I shall.                               Exeunt
 
 ACT_3|SC_13
-                           SCENE XIII.
+## SCENE XIII.
                Alexandria. CLEOPATRA'S palace
 
         Enter CLEOPATRA, ENOBARBUS, CHARMIAN, and IRAS
@@ -2653,7 +2658,8 @@ ACT_3|SC_13
     Some way to leave him.                                  Exit
 
 ACT_4|SC_1
-                      ACT IV. SCENE I.
+# ACT IV.
+## SCENE I.
               CAESAR'S camp before Alexandria
 
       Enter CAESAR, AGRIPPA, and MAECENAS, with his army;
@@ -2679,7 +2685,7 @@ ACT_4|SC_1
     And they have earn'd the waste. Poor Antony!          Exeunt
 
 ACT_4|SC_2
-                          SCENE II.
+## SCENE II.
                Alexandria. CLEOPATRA's palace
 
       Enter ANTONY, CLEOPATRA, ENOBARBUS, CHARMIAN, IRAS,
@@ -2747,7 +2753,7 @@ ACT_4|SC_2
     And drown consideration.                              Exeunt
 
 ACT_4|SC_3
-                          SCENE III.
+## SCENE III.
              Alexandria. Before CLEOPATRA's palace
 
                  Enter a company of soldiers
@@ -2792,7 +2798,7 @@ ACT_4|SC_3
   SOLDIERS. Content. 'Tis strange.                        Exeunt
 
 ACT_4|SC_4
-                           SCENE IV.
+## SCENE IV.
                Alexandria. CLEOPATRA's palace
 
          Enter ANTONY and CLEOPATRA, CHARMIAN, IRAS,
@@ -2859,7 +2865,7 @@ ACT_4|SC_4
     Then, Antony- but now. Well, on.                      Exeunt
 
 ACT_4|SC_5
-                          SCENE V.
+## SCENE V.
                   Alexandria. ANTONY'S camp
 
         Trumpets sound. Enter ANTONY and EROS, a SOLDIER
@@ -2892,7 +2898,7 @@ ACT_4|SC_5
     Corrupted honest men! Dispatch. Enobarbus!            Exeunt
 
 ACT_4|SC_6
-                         SCENE VI.
+## SCENE VI.
                  Alexandria. CAESAR'S camp
 
        Flourish. Enter AGRIPPA, CAESAR, With DOLABELLA
@@ -2949,7 +2955,7 @@ ACT_4|SC_6
     My latter part of life.                                 Exit
 
 ACT_4|SC_7
-                          SCENE VII.
+## SCENE VII.
              Field of battle between the camps
 
          Alarum. Drums and trumpets. Enter AGRIPPA
@@ -2984,7 +2990,7 @@ ACT_4|SC_7
     SCARUS. I'll halt after.                              Exeunt
 
 ACT_4|SC_8
-                         SCENE VIII.
+## SCENE VIII.
                Under the walls of Alexandria
 
         Alarum. Enter ANTONY, again in a march; SCARUS
@@ -3038,7 +3044,7 @@ ACT_4|SC_8
     Applauding our approach.                              Exeunt
 
 ACT_4|SC_9
-                         SCENE IX.
+## SCENE IX.
                       CAESAR'S camp
 
       Enter a CENTURION and his company; ENOBARBUS follows
@@ -3089,7 +3095,7 @@ ACT_4|SC_9
     He may recover yet.                     Exeunt with the body
 
 ACT_4|SC_10
-                          SCENE X.
+## SCENE X.
                     Between the two camps
 
             Enter ANTONY and SCARUS, with their army
@@ -3106,7 +3112,7 @@ ACT_4|SC_10
     And look on their endeavour.                          Exeunt
 
 ACT_4|SC_11
-                         SCENE XI.
+## SCENE XI.
                     Between the camps
 
                 Enter CAESAR and his army
@@ -3117,7 +3123,7 @@ ACT_4|SC_11
     And hold our best advantage.                          Exeunt
 
 ACT_4|SC_12
-                         SCENE XII.
+## SCENE XII.
                   A hill near Alexandria
 
                   Enter ANTONY and SCARUS
@@ -3184,7 +3190,7 @@ ACT_4|SC_12
     Under this plot. She dies for't. Eros, ho!              Exit
 
 ACT_4|SC_13
-                          SCENE XIII.
+## SCENE XIII.
                Alexandria. CLEOPATRA's palace
 
       Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
@@ -3204,7 +3210,7 @@ ACT_4|SC_13
                                                           Exeunt
 
 ACT_4|SC_14
-                          SCENE XIV.
+## SCENE XIV.
                      CLEOPATRA'S palace
 
                    Enter ANTONY and EROS
@@ -3394,7 +3400,7 @@ ACT_4|SC_14
     I have led you oft; carry me now, good friends,
     And have my thanks for all.           Exeunt, hearing ANTONY
 ACT_4|SC_15
-                         SCENE XV.
+## SCENE XV.
                    Alexandria. A monument
 
       Enter CLEOPATRA and her maids aloft, with CHARMIAN
@@ -3514,7 +3520,8 @@ ACT_4|SC_15
                    Exeunt; those above hearing off ANTONY'S body
 
 ACT_5|SC_1
-                       ACT V. SCENE I.
+# ACT V.
+## SCENE I.
                   Alexandria. CAESAR'S camp
 
       Enter CAESAR, AGRIPPA, DOLABELLA, MAECENAS, GALLUS,
@@ -3618,7 +3625,7 @@ ACT_5|SC_1
     What I can show in this.                              Exeunt
 
 ACT_5|SC_2
-                         SCENE II.
+## SCENE II.
                 Alexandria. The monument
 
       Enter CLEOPATRA, CHARMIAN, IRAS, and MARDIAN
