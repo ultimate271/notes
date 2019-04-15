@@ -4,6 +4,8 @@
 [Author]: # {sanderson}
 
 # CHAPTER 1
+
+## Prince Raoden wakes up to find himself transformed 
 Prince Raoden of Arelon awoke early that morning, completely unaware that he
 had been damned for all eternity. Still drowsy, Raoden sat up, blinking in the
 soft morning light. Just outside his open balcony windows he could see the
@@ -67,7 +69,7 @@ splotches could mean only one thing.
 
 The Shaod had come upon him.
 
-
+## Raoden's thoughts as he enters Elantris
 The Elantris city gate boomed shut behind him with a shocking sound of
 finality. Raoden slumped against it, thoughts numbed by the day’s events.
 
@@ -109,7 +111,7 @@ his body. He couldn’t let it take his mind as well.
 So, using his pride like a shield against despair, dejection, and—most
 important—self-pity, Raoden raised his head to stare damnation in the eyes.
 
-
+##
 Before, when Raoden had stood on the walls of Elantris to look down—both
 literally and figuratively—on its inhabitants, he had seen the filth that
 covered the city. Now he stood in it.
