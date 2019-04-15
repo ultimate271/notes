@@ -4,6 +4,11 @@
 [Author]: # {sanderson}
 
 # CHAPTER 2
+
+## Sarene (fionce to Raoden and present princess of Teod) discovers that she is now princess of Arelon and a widow
+_King Iaoden of Arelon_
+_Ketol: His attendent_
+
 Sarene stepped off of the ship to discover that she was a widow. It was
 shocking news, of course, but not as devastating as it could have been. After
 all, she had never met her husband. In fact, when Sarene had left her homeland,
@@ -99,7 +104,7 @@ Ketol paused. “Uh … His Majesty asked that you be brought to him immediately
 “Then I won’t spend long at the funeral tent,” Sarene said, walking toward her
 carriage.
 
-
+## Sarene visits the funeral of Raoden, but doesn't get to see the body
 Sarene surveyed the busy funeral tent with a critical eye, waiting as Ketol and
 a few of the packmen cleared a way for her to approach the casket. She had to
 admit, everything was irreproachable—the flowers, the offerings, the praying
@@ -158,7 +163,7 @@ keep you out of trouble.”
 Sarene smiled. “Now, there’s an impossible task. Come on, we need to go meet my
 new father.”
 
-
+## Sarene think about things as she approaches the city
 Sarene leaned against the carriage window, watching the city pass as she rode
 toward the palace. She sat in silence for the moment, a single thought crowding
 everything else out of her mind.
@@ -276,7 +281,7 @@ open. Friendless or not, she had arrived, and Teod was depending on her. She
 had to prepare Arelon for the war that was coming—a war that had become
 inevitable the moment Elantris fell.
 
-
+## Sarene meets her new in-laws, the king and queen Iadon and Eshen of Arelon
 Sarene’s new father, King Iadon of Arelon, was a thin man with a shrewd face.
 He was conferring with several of his administrators when Sarene entered the
 throne room, and she stood unnoticed for nearly fifteen minutes before he even
@@ -334,7 +339,7 @@ time.”
 Sarene allowed herself to be pulled through one of the room’s side doors.
 “Merciful Domi,” she muttered to herself. “What have I gotten myself into?”
 
-
+## Serene talks to his Father through the Seon network (or something) and agrees that she should stay in spite of the untimely death
 “… And you’ll love it when the roses come in. I have the gardeners plant them
 so you can smell them without even leaning out the window. I wish they weren’t
 so big, though.”

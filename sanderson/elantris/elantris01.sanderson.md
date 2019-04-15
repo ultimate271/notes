@@ -3,6 +3,8 @@
 [Descriptor]: # {01}
 [Author]: # {sanderson}
 # PROLOGUE
+
+## We are introduced to Elantris and the Shaod
 Elantris was beautiful, once. It was called the city of the gods: a place of
 power, radiance, and magic. Visitors say that the very stones glowed with an
 inner light, and that the city contained wondrous arcane marvels. At night,

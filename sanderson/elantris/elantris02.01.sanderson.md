@@ -5,7 +5,7 @@
 
 # CHAPTER 1
 
-## Prince Raoden wakes up to find himself transformed 
+## Prince Raoden wakes up to find himself transformed as a Shaod
 Prince Raoden of Arelon awoke early that morning, completely unaware that he
 had been damned for all eternity. Still drowsy, Raoden sat up, blinking in the
 soft morning light. Just outside his open balcony windows he could see the
@@ -111,7 +111,7 @@ his body. He couldn’t let it take his mind as well.
 So, using his pride like a shield against despair, dejection, and—most
 important—self-pity, Raoden raised his head to stare damnation in the eyes.
 
-##
+## In Elantris, Raoden gives a boy some bread, which leads to violence. He learns that this place is for the eternally damned. They are already dead.
 Before, when Raoden had stood on the walls of Elantris to look down—both
 literally and figuratively—on its inhabitants, he had seen the filth that
 covered the city. Now he stood in it.
@@ -368,7 +368,9 @@ heartbeat,” he realized for the first time.
 Galladon looked at Raoden as if he had made an utterly idiotic statement.
 “Sule, you’re dead. Kolo?”
 
-_______
+## Galladon, a Dula, and Raoden make acquaintence
+
+___Section Break___
 
 
 They didn’t burn the boy. Not only did they lack the proper implements to make
