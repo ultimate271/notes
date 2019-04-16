@@ -4,6 +4,24 @@
 [Author]: # {sanderson}
 
 # CHAPTER 3
+_Relevent Places_
+_Arelon: The main place outside Elantris we have been talking about so far_
+_Kae: A city in Arelon_
+
+_Relevent People(all new players)_
+_Hrathen: High Priest of Herethi religion from Fjordell_
+_Fjon: Former Arteth of Arelon_
+_Wyrn: The highest priest (head pope) of Holy Jaddeth_
+_Dilaf: Newly appointed Arteth of Arelon; An Arelish man (which may become relevent)_
+
+_Relevent Proper Names_
+_Holy Jaddeth of the Derethi religon_
+_Dathreki Mountains: New landscape that may or may not be relevent_
+_Fjordell Empire: A newly introduced empire, I assume spearheading the Derethi religion_
+_Arteth: Lesser Priest_
+_Odiv/Hroden: Servent/Master_
+
+## Hrathen arrives at the chapel of Arelon to take control of the situation
 None of Arelon’s people greeted their savior when he arrived. It was an
 affront, of course, but not an unexpected one. The people of Arelon—especially
 those living near the infamous city of Elantris—were known for their godless,
@@ -108,7 +126,7 @@ absence, my lord? The other arteths are so inexperienced.”
 “These are pivotal times, Arteth,” Hrathen said. “I’ll be remaining in Arelon
 to personally direct the work here. May Jaddeth grant me success.”
 
-
+## Hrathen reveals his Holiness Wyrn's orders to absolve Fjon of his transgressions
 He had hoped for an office with a better view, but the chapel, majestic as it
 was, held no second floor. Fortunately, the grounds were well kept, and his
 office—Fjon’s old room—overlooked nicely trimmed hedges and carefully arranged
@@ -212,7 +230,7 @@ words it held—condemning Arteth Fjon as a traitor and an apostate—would neve
 be read, and the poor, pleasant arteth would never know just how much danger he
 had been in.
 
-
+## Hrathen meets Artheth (lesser priest) Dilaf, who is appointed as Odiv and Hroden (servent and master) to Hrathen
 “With your leave, my lord gyorn,” said the bowing priest, a minor dorven who
 had served under Fjon for over a decade. Hrathen waved his hand, bidding the
 man to leave. The door shut silently as the priest backed from the room.
@@ -374,7 +392,7 @@ Fourth, Emperor of Fjorden, Prophet of Shu-Dereth, Ruler of Jaddeth’s Holy
 Kingdom, and Regent of all Creation.
 
 
-
+## Epilogue: Hrathen fantisizes about an indealized future
 The time had finally come. Only two nations resisted. Fjorden had regained its
 former glory, glory lost hundreds of years ago when the First Empire collapsed.
 Once again, Arelon and Teod were the only two kingdoms who resisted Fjordell

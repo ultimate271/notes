@@ -4,10 +4,17 @@
 [Author]: # {sanderson}
 
 # CHAPTER 2
+_Relevent Characters_
+_Princess Sarene of Teod_
+_King Iaoden of Arelon_
+_Ketol King's attendent_
+_Queen Eshen of Arelon_
+_King of Teod: Father of Sarene_
+
+_Relevent places_
+_Teod: Another place, hoping to make peace with Arelon_
 
 ## Sarene (fionce to Raoden and present princess of Teod) discovers that she is now princess of Arelon and a widow
-_King Iaoden of Arelon_
-_Ketol: His attendent_
 
 Sarene stepped off of the ship to discover that she was a widow. It was
 shocking news, of course, but not as devastating as it could have been. After
