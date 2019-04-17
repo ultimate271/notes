@@ -4,6 +4,35 @@
 [Author]: # {sanderson}
 
 # CHAPTER 5
+_People(From chapter 2)_
+_Princess Sarene of Teod_
+_Ashe: The Seon of Sarene_
+_King Iaoden of Arelon_
+_Queen Eshen of Arelon_
+_Gyorn Hrathen of Fjordell (From Chapter 3)_
+_Wyrn Wulfden the Fourth (Mentioned in Chapter 3)_
+
+_New People_
+_Kiin: Uncle to Sarene_
+_Daora: Wife of Kiin and therefore aunt to Sarene_
+_Kaise(Female): Cousin to Sarene_
+_Daorn(Male): Cousin to Sarene_
+_Lukel(Male): Older step-cousin to Sarene (son of Daora)_
+_Jalla: Lukel's newlywed Fjordell wife_
+_Adien: Another step-cousin to Sarene (also son of Daora and brother to Lukel)_
+
+
+_Places_
+_Kae: Capital of Arelon_
+_Fjorden: Center of Derethi_
+
+_Religion stuff_
+_Derethi: The opposing religion_
+_Gyorn(Cardinal): A very high up in the Derethi religion_
+_Shu-Dereth/Shu-Korath/Shu-Keseg:Sects of Derethi_
+
+
+## Sarene contemplates her move as Hrathen puts the heat on King Iaden
 “Merciful Domi,” Sarene asked with surprise, “where did he come from?”
 
 The gyorn strode into the king’s throne room with the arrogance characteristic
@@ -188,6 +217,7 @@ Sarene shrugged. “He expects women to be foolish, so I’ll be foolish. It’s
 easier to manipulate people when they assume you can’t gather enough wits to
 remember your own name.”
 
+## Sarene reunites with her uncle Kiin
 “’Ene?” a sudden voice bellowed. “Is that you?” The deep, scratchy voice was
 oddly familiar. It was as if the speaker had a sore throat, though she had
 never heard someone with a sore throat yell so loudly.
@@ -279,7 +309,7 @@ home, and you never came to visit?”
 “Right now, you need to meet the monster of a woman who finally managed to
 capture your uncle.”
 
-
+## Sarene meets her uncle's family
 Kiin’s wife was hardly a monster. In fact, she was one of the most beautiful
 mature women Sarene had ever seen. Daora had a strong face with sharp,
 statuesque features and a well-styled head of auburn hair. She was not what
@@ -418,7 +448,7 @@ because his mind is only half awake.”
 “Kaise, little girls who say such things about their brothers often end up in
 bed without supper,” Daora informed. “Daorn, get moving.”
 
-
+## Sarene catches up with her uncle's family over dinner as they discuss stuff
 “You don’t look like a princess,” Kaise said. The girl sat primly on her chair
 beside Sarene. The dining room had a homey, studylike feel, filled with dark
 wood paneling and relics from Kiin’s traveling days.
@@ -607,6 +637,7 @@ knew every important event that had happened in Teod’s court during the last
 fifty years, and she knew nothing of Kiin being officially stripped of his
 title.
 
+## Ashe returns and is ready to inform Sarene about Hrathen
 Before she could ponder any more on the incongruity, Ashe floated in through a
 window. In the excitement of the dinner, Sarene had almost forgotten that she’d
 sent him to follow the Gyorn Hrathen.

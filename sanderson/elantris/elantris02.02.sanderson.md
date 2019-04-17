@@ -9,6 +9,7 @@ _Princess Sarene of Teod_
 _King Iaoden of Arelon_
 _Ketol King's attendent_
 _Queen Eshen of Arelon_
+_Ashe: The Seon of Sarene_
 _King of Teod: Father of Sarene_
 
 _Relevent places_
