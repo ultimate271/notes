@@ -4,6 +4,9 @@
 [Author]: # {sanderson}
 
 # CHAPTER 1
+_Proper People_
+_Prince Raoden of Arelon: Shaod and new resident of Elantris_
+_Galloden of Duladel: Shaod and Arelon by blood_
 
 ## Prince Raoden wakes up to find himself transformed as a Shaod
 Prince Raoden of Arelon awoke early that morning, completely unaware that he
@@ -497,6 +500,7 @@ stood up. “So, what should I call you?”
 Raoden paused. Probably best if people don’t know I’m royalty, for now. “‘Sule’
 works just fine for me.”
 
+## Galladon Ends by proclaming to give Raoden the grand tour of Elantris
 Galladon chuckled. “The private type, I see. Well, let’s go then. It’s time for
 you to get the grand tour.”
 

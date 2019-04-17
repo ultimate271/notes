@@ -4,6 +4,23 @@
 [Author]: # {sanderson}
 
 # CHAPTER 4
+_Proper People(From Chapter 1)_
+_Prince Raoden of Arelon: Shaod and new resident of Elantris_
+_Galloden of Duladel: Shaod and Arelon by blood_
+_King Ioden of Arelon_
+
+_Gang Leaders of Elantris_
+_Shaor(He): Ruler of the market section_
+_Karata(She): Ruler of the palace section_
+_Aanden(He): Ruler of university section_
+
+_Derethi: The opposing religion of Elantris_
+_Shu-Keseg: Another religion_
+_AonDor Magic_
+_Seon_
+_Aon: This mythos equivilent of Valar it seems_
+
+## Galladon tells Raoden about the sections of Elantris, and the things hunger drives men to do
 The woman screamed until she grew too tired, calling for help, for mercy, for
 Domi. She clawed at the broad gate, her fingernails leaving marks in the film
 of slime. Eventually, she slumped to the ground in a quiet heap, shaking from
@@ -174,7 +191,7 @@ work.”
 
 “It doesn’t have to be.”
 
-
+## Raoden lets his mind wander
 Ten years wasn’t long enough. Even in Arelon’s thick humidity, it should have
 taken longer for the city to deteriorate so much. Elantris looked as if it had
 been abandoned for centuries. Its wood was decaying, its plaster and bricks
@@ -265,9 +282,9 @@ not crumble after just a decade of neglect. The filth should not have piled up
 so quickly—not with so few inhabitants, most of whom were incapacitated. It was
 as if Elantris were intent on dying, a city committing suicide.
 
-_______
 
 
+## Galladon reveals some facts of gang life in the market region
 “The market section of Elantris,” Galladon said. “This place used to be one of
 the most magnificent marketplaces in the world—merchants came from across
 Opelon to sell their exotic goods to the Elantrians. A man could also come here
@@ -321,9 +338,8 @@ gamble that you might get in a lucky blow.”
 
 Raoden shivered at the thought. “Show me where the other gangs live.”
 
-_______
 
-
+## Galladon goes over the palace and university gang sections
 The university and the palace bordered one another. According to Galladon,
 Karata and Aanden had a very uneasy truce, and guards were usually posted on
 both sides to keep watch. Once again, Raoden’s companion led him to a
@@ -472,7 +488,7 @@ something occurred to Raoden. “Where do you live, Galladon?”
 Galladon thought for a moment, eyeing Raoden uncertainly. Then, with a shrug,
 he waved Raoden to follow him down the unstable stairs. “Come.”
 
-
+## Galladon reveals his ability as an Aon to Raoden
 “Books!” Raoden said with excitement.
 
 “Should never have brought you here,” Galladon muttered. “Now I’ll never get
