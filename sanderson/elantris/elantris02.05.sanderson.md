@@ -21,7 +21,6 @@ _Lukel(Male): Older step-cousin to Sarene (son of Daora)_
 _Jalla: Lukel's newlywed Fjordell wife_
 _Adien: Another step-cousin to Sarene (also son of Daora and brother to Lukel)_
 
-
 _Places_
 _Kae: Capital of Arelon_
 _Fjorden: Center of Derethi_
@@ -30,7 +29,6 @@ _Religion stuff_
 _Derethi: The opposing religion_
 _Gyorn(Cardinal): A very high up in the Derethi religion_
 _Shu-Dereth/Shu-Korath/Shu-Keseg:Sects of Derethi_
-
 
 ## Sarene contemplates her move as Hrathen puts the heat on King Iaden
 “Merciful Domi,” Sarene asked with surprise, “where did he come from?”
