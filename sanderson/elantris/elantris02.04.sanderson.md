@@ -14,11 +14,12 @@ _Shaor(He): Ruler of the market section_
 _Karata(She): Ruler of the palace section_
 _Aanden(He): Ruler of university section_
 
+_Other Names Mentioned_
 _Derethi: The opposing religion of Elantris_
 _Shu-Keseg: Another religion_
 _AonDor Magic_
 _Seon_
-_Aon: This mythos equivilent of Valar it seems_
+_Aon: The mystical ancient characters behind the Aonic language_
 
 ## Galladon tells Raoden about the sections of Elantris, and the things hunger drives men to do
 The woman screamed until she grew too tired, calling for help, for mercy, for
