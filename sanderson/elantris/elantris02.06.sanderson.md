@@ -4,6 +4,19 @@
 [Author]: # {sanderson}
 
 # CHAPTER 6
+_Relevent People_
+_Gyorn Hrathen: High Priest of Herethi religion from Fjordell_
+_Dilaf: His slave_
+
+_Svrakiss: Pagans of the Herethi religion_
+
+_Other notes_
+_King Iadon of Arelon_
+_Princess Sarene of Teod_
+_Jaddeth, Divine Ruler of the Herethi religion_
+_Kae, Capital of Arelon_
+
+## Dilaf and Hrathen discuss the king and the princess before talking of revolt
 “There is no hope for the king, I’m afraid.” Hrathen folded his arms across his
 breastplate thoughtfully as he looked back at the throne room. “Your Grace?”
 Dilaf asked.
@@ -114,6 +127,7 @@ rose above the city like a mountain. “Take me up there. I wish to view the
 fallen lords of Arelon.”
 
 
+## Hrathen and Dilaf look out and analyze their target
 When Hrathen had first arrived at the Outer City of Kae, he had noted how
 indefensible it was. Now, standing atop the wall of Elantris, Hrathen could see
 that he had actually underestimated how pathetic Kae’s fortifications were.
@@ -200,6 +214,7 @@ Hrathen turned to Dilaf. “The first step in taking control of a nation, Arteth
 is the simplest. You find someone to hate.”
 
 
+## Hrathen and Dilaf discuss psychological manipulation
 “Tell me of them, Arteth,” Hrathen requested, entering his room inside the
 chapel. “I want to know everything you know.”
 
