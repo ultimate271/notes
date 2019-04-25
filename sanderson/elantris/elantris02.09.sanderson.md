@@ -4,6 +4,18 @@
 [Author]: # {sanderson}
 
 # CHAPTER 9
+_Previous People_
+_Gyorn Hrathen: High Priest of Herethi religion from Fjordell_
+_Dilaf: His slave_
+
+_Duke Telrii_
+
+_Nobels of Elantris_ 
+_Idan_
+_Ramear_
+_Waren_
+
+## Hrathen and Dilaf discuss Sarene
 If Dilaf had been a dog, he would have been growling. Probably frothing at the
 mouth as well, Hrathen decided. The arteth was even worse than he usually was
 after visiting Elantris’s wall.
@@ -83,7 +95,7 @@ he reserved for only the most sacred of times. Right or wrong, he didn’t want
 the blood of an entire kingdom—even a heretical one—on his hands. He must
 succeed.
 
-
+## Hrathen discusses plans with the nobles of Elantris
 Fortunately, his loss to the Teoish girl hadn’t been as complete as she
 probably assumed. When Hrathen arrived at the meeting place—a large suite in
 one of Kae’s finest inns—many of the nobles he had invited were waiting for

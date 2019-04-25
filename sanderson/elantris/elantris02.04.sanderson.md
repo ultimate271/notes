@@ -18,7 +18,7 @@ _Other Names Mentioned_
 _Derethi: The opposing religion of Elantris_
 _Shu-Keseg: Another religion_
 _AonDor Magic_
-_Seon_
+_Seon: The devices for communication_
 _Aon: The mystical ancient characters behind the Aonic language_
 
 ## Galladon tells Raoden about the sections of Elantris, and the things hunger drives men to do

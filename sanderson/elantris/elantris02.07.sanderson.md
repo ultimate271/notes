@@ -4,6 +4,22 @@
 [Author]: # {sanderson}
 
 # CHAPTER 7
+_Proper People(From Chapter 1)_
+_Prince Raoden of Arelon: Shaod and new resident of Elantris_
+_Galloden of Duladel: Shaod and Arelon by blood_
+
+_New Character_
+_Mareshe: Another new member of Elantris_
+
+_Gang Leaders of Elantris_
+_Shaor(He): Ruler of the market section_
+_Karata(She): Ruler of the palace section_
+_Aanden(He): Ruler of university section_
+
+_Other Names Mentioned_
+_AonDor: The system of magic of the Aon's_
+
+## Raoden attempts magic and contemplates it's dissapearence
 Raoden stabbed the air with his finger. The air bled light. His fingertip left
 a glowing white trail behind it as he moved his arm, as if he were writing with
 paint on a wall—except without the paint, and without the wall.
@@ -155,7 +171,7 @@ attacked him on his first day.
 
 “Come,” he said to Galladon. “There is something we need to do.”
 
-
+## Raoden and Galloden encounter Gyorn Hrathen preaching near Elantris
 The square was much as it had been the day before: grime, moaning unfortunates,
 tall unforgiving gates. The sun was almost three-quarters finished with its
 trek through the sky. It was time for new inductees to be cast into Elantris.
@@ -224,7 +240,7 @@ Raoden nodded, watching the gate expectantly.
 
 “I intend to wait.”
 
-
+## Raoden "saves" an old man from Shaor's gang
 The newcomer was an older man, perhaps in his late forties, with a gaunt face
 and nervous eyes. As the gate slammed shut, Raoden climbed down from the
 rooftop, pausing just inside the courtyard. Galladon followed, a worried look
@@ -329,7 +345,7 @@ threatening to draw his attention away from his plans.
 I have to keep moving, Raoden repeated to himself. Keep working. Don’t let the
 pain take control.
 
-
+## The man introduces himself as Mareshe, and says he is a jeweler.
 “I’m a jeweler,” the man explained. “Mareshe is my name.”
 
 “A jeweler,” Raoden said with dissatisfaction, his arms folded as he regarded

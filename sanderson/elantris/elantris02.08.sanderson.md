@@ -4,6 +4,24 @@
 [Author]: # {sanderson}
 
 # CHAPTER 8
+_People(From chapter 2)_
+_Princess Sarene of Teod_
+_Ashe: The Seon of Sarene_
+_King Iaoden of Arelon_
+_Queen Eshen of Arelon_
+_Gyorn Hrathen of Fjordell (From Chapter 3)_
+
+_People(From Chapter 5)_
+_Kiin: Uncle to Sarene(husband to Daora)_
+_Lukel(Male): Older step-cousin to Sarene (son of Daora)_
+_Kaise(Female): Cousin to Sarene_
+_Daorn(Male): Cousin to Sarene_
+
+_Places_
+_Kae: Capital of Arelon_
+_Fjorden: Center of Derethi_
+
+## Sarene plays innocent as she paints in the throne room
 Sarene decided not to accept her uncle’s offer to stay with him. As tempting as
 it was to move in with his family, she was afraid of losing her foothold in the
 palace. The court was a lifeline of information, and the Arelish nobility were
@@ -97,6 +115,7 @@ some Svordish school of extreme abstractionism.”
 
 “Ah yes. The school of creative misdirection. Very good, my lady.”
 
+## Sarene and Lukel discuss slavery in Arelon
 Two men entered the throne room to present their case to the king. There was
 little to distinguish them; both wore fashionable vests over colorful frilled
 shirts and loose, wide-cuffed trousers. Much more interesting to Sarene was a
@@ -416,7 +435,7 @@ Lukel laughed. “That probably wouldn’t be a good idea, princess or not. Come
 on, Kaise is going to be ecstatic that you’re coming. Father always fixes
 better food when we have company.”
 
-
+## Sarene has lunch with her uncles family, and Kaise and Daorn (the twins) agree to show her Elantris
 Lukel was right.
 
 “She’s here!” Kaise declared with an enthusiastic squeal as she saw Sarene walk
@@ -634,7 +653,7 @@ Kiin smiled. “It’s Lukel’s nickname for them.”
 Sarene studied the two children, with their similar bobs of blond hair and
 their identical determined expressions, and smiled. “Not at all,” she agreed.
 
-
+## Sarene intrurrupts Gyorn Hrathen as he preaches to the Elantrian people
 The wall of Elantris stood over Kae like a disapproving sentry. Walking at its
 base, Sarene finally realized how truly formidable it was. She had once visited
 Fjordell, and had been impressed by many of that nation’s fortified cities—but
