@@ -164,7 +164,7 @@ completely entranced.
 
 Eve continued her story. "Well, one day, your father and I were visited by an
 angel, the angel Raphael. He told us the dangers of one who fought against
-Yahweh in the wars of the angels in heaven. His name was Lucifer, also called
+Yahweh in the wars of the angels in heaven. His name was Lucifer, now called
 Satan, and he was said to have been outcast to a place called Pandemonium,
 along with all the other traitorous angels that fell with him. We asked him
 questions about the garden, about our creator Yahweh, and also some other
@@ -183,9 +183,9 @@ me at the time, I had seen a snake before, but then this snake walked up to me
 on it's four legs and looked me squarely in the eyes. Then I tell you, Seth,
 the snake began to speak to me. It said,
 
-"'Ahh, hello there. It is a rare day that a snake such as myself runs across
-such a beautiful creature as you. The sight of you gives me the greatest
-pleasure any snake could ever know.'
+"'It is a rare day that a snake such as myself runs across such a beautiful
+creature as you. The sight of you gives me the greatest pleasure any snake
+could ever know.'
 
 "Of course, I was startled at this. You see, Seth, while I had seen a snake
 before, I had never seen a snake actually _talk_ to me before.
@@ -207,8 +207,8 @@ them.'
 
 "The snake then began to slither away towards the center of the garden where
 the mushrooms were, and me, still entranced by the idea of a talking snake,
-followed it. You see, Seth, I reasoned that I could follow it, but I didn't
-have to actually eat the mushrooms.
+followed it. I had no reason to disbelieve that the snake was telling the
+truth.
 
 "So I followed the snake to the center of the garden. When I got there, there
 was a great tree, and wrapped around the tree, the snake had coiled itself all
@@ -217,8 +217,8 @@ head, and said to me, 'Eve, from words of Yahweh himself, I instruct you to eat
 of the mushrooms of awakening, so that you may awake from your sleep and gain
 the knowledge of all that there is to know in this world!'
 
-"Of course, I had no reason to disbelieve that the snake was not sent by
-Yahweh, so I gathered some mushrooms from the base of the tree, and ate them.
+"Again, I had no reason to disbelieve that the snake was not sent by Yahweh, so
+I gathered some mushrooms from the base of the tree, and ate them.
 
 "'Good' the snake replied. 'Now, take some and go to your husband Adam. Yahweh
 requests that he eat of the mushrooms of awakening just as you have.'
@@ -239,7 +239,7 @@ he told me what he had learned earlier that day.
 
 "He said, 'Oh, no, my innocent, naive, wife. The snake that told you to eat of
 the mushrooms of awakening did not come from Yahweh. I have only just now
-finished speaking with Raphael. He came down to me and found me to tell me that
+finished speaking with Raphael. He came down again and found me to tell me that
 Satan himself has entered the garden disguised as a snake, and that we need to
 be aware that as long we do not obey his commands he is powerless against us.
 But now, you have already obeyed his words, and so now he has power over us.'
@@ -254,8 +254,8 @@ your father then said, 'I do not want to fall, but I fear that now that you
 have fallen it is only a matter of time before I do as well. I do not resent
 you for being deceived by the serpent, if I were in your place I may have done
 the same. And if that were so, I know you would have the decency to share in
-the fall with me. Therefore, I will fall with you, so that we may both
-participate in this together.'
+the fall with me. Your burden is not yours alone own to bear, I must take it
+with you.'
 
 "With that, your father took the mushrooms from my hands as I was sobbing, and
 ate of them. After he did, we looked at eachother, and saw that the other was
@@ -311,7 +311,7 @@ the bed that was in the cottage. She left, and extinguished the candles as she
 did. She made her way back to the main house, where Adam was waiting for her to
 join him in bed.
 
-## 2. The truth, retold
+## 2. The Cain of Adam
 
 Seth awoke that morning feeling rejuvinated and ready to return to his parents.
 When he did, they welcomed him back with open arms as they always do and they
@@ -888,7 +888,7 @@ devil attempting to lure me in to some sort of trap."
 
 "Very well then," Cain returned. "Devil or no, I will tell you my tale of woe."
 
-## 4. What Cain knows of Abel
+## 4. The Abel of Cain
 "So as you know, my young brother Seth," Cain began his story, "I was the first
 born of our parents, so named Adam and Eve. Our mother... I remember she was so
 beautiful to look upon... she raised me in the farms. By the time I was
@@ -1321,35 +1321,6 @@ her. Does this satisfy you?"
 Seth looked in to the eyes of Cain. Cain looked back at Seth. Cain could tell
 that Seth was still wary.
 
-"How about this. Let me reason with you, and show you why I am not the devil.
-What do you say, will you follow my train of logic?"
-
-Seth looked back at Cain. Minutes ago, he would have said absolutely not, but
-since Seth was getting to know Cain, he simply remained silent.
-
-"Very well, let me work this out for you," Cain began. "So the first fact is
-that, during your journies, you found me. Unlike the story our mom tells about
-the snake in the garden, I did not come seeking out you, you found me."
-
-Seth nodded his head.
-
-"Second fact," Cain continued, "I am indifferent to whether or not you think I
-am the devil. If I were, in fact, a devil, I would very much want you to
-believe that I was not the devil. But as far as I care, you can believe that I
-am prince Lucifer, and walk out of this room right now, and I wouldn't care one
-way or the other."
-
-Seth nodded his head again.
-
-"Third fact, I have nothing that I want to persuade you of. I would like to
-continue to share stories, because you and I both being human beings, and there
-is no greater joy than sharing stories with another human being, but if you
-were to freak out on me and become a threat to me in some way, I would just as
-soon have you leave. You can call me a liar and a blashphemer, a devil
-worshiper, or any other host of vile names, and I would simply ask you to
-remove yourself from my presence. Call me whatever you want. The devil would
-care that it is being called the devil, but I do not."
-
 Seth weighed all of the things that Cain was saying in his head. Eventually,
 after all of the whirlwind of thoughts went through Seth's mind, he asked Cain,
 "So let's suppose you are simply my older brother Cain, no demonic possession
@@ -1377,86 +1348,146 @@ resume searching.
 "There were days I became severly depressed. Looking back on it, it's only
 natural that such at thing would happen. I had killed my brother and been
 exiled from my family. Not only were those things severe in and of themselves,
-but also, I was simply alone now. As much as I disagree with my parents, I
-think they got one thing right. If there are other human beings on this good
-green planet earth, I have not found them.
+but also, I was simply alone now. And not only was I alone, but I had no God to
+pray to, and family to return to.
+
+"Exile is different than pilgramage. When you go on a pilgramage, you know you
+have a place to return to. When you are exiled, I was not sure if I would find
+a place to settle and make a life for myself, or if I would die, alone and in
+the wild. It's a much more terrifying kind of existance.
 
 "So of course I was depressed. I was alone in the world, and committed the
 same, and I would argue worse, orginal sin as both my parents talk about, and
-without some female to reproduce with, I had very little purpose or drive to
+especially without female companionship, I had very little purpose or drive to
 continue my seemingly endless struggle to survive.
 
 "But I carried on, as you can see. I am here. After some years, I decided to
-move on from my struggles, and to make a habitat for myself where I can live
-comfortably. It's not much, but it allows me a place to store my tools and
-equipment, and it also gives me a place to shelter myself in my sleep. The
+move on from my struggles as a nomad, and to make a habitat for myself where I
+can live comfortably. It's not much, but it allows me a place to store my tools
+and equipment, and it also gives me a place to shelter myself in my sleep. The
 facts of my regretable past no longer weighed me down. Instead, I was able to
 see myself in the present, and in the present I knew I could build myself a
 hut, and so I did."
 
 Seth looked back at Cain.
 
-"There is not much more to say beyond that." Cain concluded.
+"I don't think it's possible to use words to describe the kinds of things
+I was feeling when I was exiled," Cain continued. "In the future, our children
+and our childrens children might come up with words like depression or anxiety
+or they might come up with acronyms like Post Tramatic Stress Disorder to
+describe the sorts of things that I was going through, but you have to remember
+that I have no way to label these things, and had to question my whole reason
+for being alive after I was exiled.
 
-There was another pause in the room before Seth asked another question.
+"To think, Seth," Cain trailed on, "that after thirty some years of living,
+believing that you will become the successor to the land that your parents have
+cultivated with your brother Abel, only to have that all turned up side down
+within one fist fight, let me tell you that even words like Depression and PTSD
+do not even begin to describe the sorts of psychological phenomenon that I went
+through that day.
 
-"So tell me what you learned on your pilgramage. What did you learn that made
-you doubt the stories that mother and father have told you.
+"The only way I can describe it is that it was like a whole whirlwind of
+whisps, all colors of the rainbow, were circling around me in perfect unison,
+and then because I wanted to keep that rainbow for myself, I grabbed a knife,
+and I cut off the whisps at the stem and grasped them in my hands. But when I
+did that, the colors went away, and the whisps died, and all you have left is
+the dead whisps in your hand, and the only thing you want is for them to reveal
+color again, but you know that they never will again. That is one way I can
+describe the feeling that I felt in that moment.
+
+Cain paused before continuing with another example. "It was like the bottom of
+an infinite sheet of glass shattered underneath from me, and where I was once
+standing on what I thought was solid ground I have come to realize is extremely
+fragile glass that shatters as soon as I touch it. I want to grab on to the
+hole that I fell through, but everywhere you grab, it's as if the glass
+shatters in your hands, and cuts you, and the more you try to get back to
+standing on top of the glass so you can stop drowning, the sharper the glass
+gets, and the more you hurt yourself, and the more you question the entire
+reason to exist in the first place.
+
+"I started to reason that maybe standing on top of the glass is no more
+interesting than drowning under it, and I thought maybe drowning under the
+glass would give me some kind of realease. I wouldn't save myself the pain of
+drowning (once that starts it's impossible to escape) but if nothing else
+perhaps I could escape the constant struggle I was experiencing in trying to
+simply find my feet and return to solid ground. I was hurt, and I found myself
+evaluating whether or not it was worth bearing the burden of that pain for the
+sake of maintaining my life.
+
+"Of course, I didn't actually fall through a sheet of glass in actuality, but
+imagary like this is the only way I know how to describe it. It was a very dark
+time in my life."
+
+Seeing that Seth was still interested Cain continued. "The stress I felt was
+not only psychological, but also physical. I lost my desire to eat. I attempted
+to hunt food, but I found no motivation to chase wounded animals. It felt like
+too much work. I was exhausted and hurt at all times. My feet transformed from
+the soft feet of a comfortable farmer to the bruised and scarred feet of a time
+traveled forest dweller. I felt defeated and bruised, and at times I fantasized
+about curling in a ball and entering a state of homeostasis.
+
+"The food I did gather I had no desire to eat, and I had to force myself to eat
+just to stay alive.  There were times I thought I would throw up by eating a
+simple berry, but I resisted the sensations of vomiting and proceeded to shove
+as much healthy food into my mouth as my stomach could stand to bear.
+
+"Of course, there were times when my appetite would not cooperate no matter how
+much I tried to concentrate, and the inevitable purge of all food that I had
+been attempting to eat would arrive and I could do nothing but watch as my hard
+earned work attempting to eat something, anything, to sustain the most basic
+levels of energy that all humans need to survive was being hurled violently
+from my stomach and out my throat on to the ground below. I could do nothing
+but be disgusted at the good nutrition that was being wasted on the ground
+below me.
+
+"I made the mistake once of attempting to eat the vomit, just because it was
+there and available, and I felt I didn't have the energy to lift a spear to
+hunt a boar. While I was able to pick out most of a rather large chunk of
+undigested meat that was still good to eat out of the remains of the stomach
+acid on the ground, the next day I became violently ill. I got the shivers, and
+could not stop shaking. I grew astoundingly weak, and it took the most
+gargantuan of efforts to do even the simplest of tasks like standing up off of
+the ground.
+
+"There were times, such as that one, where I thought I might die, but in all
+instances, what I found, no matter how close to death I came, I was always able
+to find a way to navigate myself in a direction where death would not find me."
+
+Cain paused again for a moment to think about where he wanted to take the rest
+of the conversation. He thought for a moment about his mindset during this
+portion of his exile, and he knew where he wanted to take the conversation.
+
+Cain: Well, it seems as though time is still moving along as it always has, and
+it still seems that I exist, so as long as I exist I have made the decision
+that my direction that I choose to walk will always be dictated by working
+towards the best kind of existance that I can conceive of in that moment. It's
+what I've been doing so far, and so far it seems to have worked pretty well.
+
+Cain and Seth paused for a moment to examine the hut around them. The
+homeliness, the craftsmanship, and the cleanliness that went in to the
+construction of the building became the forefront thought on the minds of both
+Seth and Cain in that moment.
+
+Cain: Well, obviously, I overcame my depression in this way. The levels of
+anxiety that I faced, though extreme, and at times, absolutely paralyzing,
+ultimately did not kill me. I am now a stronger man as a result of having
+survived the things that I have.
+
+Cain: Do not misunderstand me, I would not wish the feelings that I went
+through on anyone. Such psychological deconstruction and existential dread is
+so severe that on the twisted or warped would wish such a thing on any human
+being. Things like depression and anxiety are awful, and now that I have worked
+past them I see that there is a way of living my life which isn't framed around
+avoiding those things.
+
+Cain: But such a journey takes time, and, well, I hope at least that there has
+been at least some evidence of the time I have taken on that journey.
+
+Cain and Seth stopped at that point in the conversation. Seth was getting very
+cozy in the cottage of Cain, and was beginning to sip on his tea.
 
 
-## 6. Cain's Eden
+## 6. The Eden of Cain
 
+## Epilogue
 
-
-## Some quotes.
-
-I have slewn my brother, and so have I added to the original sin of man. I will
-forever be remembered as the first to murder another.
-
-
-## To Delete
-Cain paused for a moment, before smiling and making a relpy to Seth. "Aha, I
-have told you, it was twenty years ago, and in that twenty years I have spent
-much of my mental efforts towards repressing that memory. It does me no good to
-stir that memory up and conversely does me harm. But since you ask, I can
-conjure up that dreadful memory from the depths of the hell of my soul where I
-thought it belonged, and I can hopefully relive those moments as if I were
-there again in the flesh and blood.
-
-"So, as I told you, the day was like any other. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-After some pause, Cain began, "So, are you convinced now that I am not the
-devil?"
-
-Seth thought for a moment. "If you are the devil, it seems as though at the
-present moment you mean no harm to me, so I am making the choice to believe you
-are not the devil."
-
-"That's good, I like that," Cain agreed.
-
-Cain broke the pause that followed. "So I suppose you are ready to listen to
-the rest of my story now?"
-
-"The rest of your story? You are not done?" Seth thought Cain have finished the
-story.
-
-"Done? Of course not. My altercation with Abel was but one incident in my life.
-I told you of much that I learned whilst on my pilgramage. It has been twenty
-years since I have seen the face of another human being. Would you spare me the
-curtosey of allowing me to share with you the things I experinced while I was
-on my pilgramage?"
-
-Seth replied, "Of course. Recite anything your heart desires to tell me."
