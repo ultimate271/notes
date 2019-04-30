@@ -46,6 +46,8 @@ Enjoy.
 
 ## 1. The Eden of Eve
 
+![The Eden Of Eve](Part1Resolve.png "Part 1")
+
 Our story begins with the birth of a child named Seth. Seth was born to a man
 named Adam and a woman named Eve. As far as Seth was aware, he was an only
 child. Or at least, he thought he was the first child.

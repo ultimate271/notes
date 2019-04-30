@@ -35,11 +35,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="390.00938"
-     inkscape:cy="497.47934"
+     inkscape:zoom="3.6203867"
+     inkscape:cx="256.00003"
+     inkscape:cy="335.63622"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer9"
+     inkscape:current-layer="g4837"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -54,7 +54,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -68,7 +68,8 @@
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="Part1"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        inkscape:groupmode="layer"
        id="layer2"
@@ -183,13 +184,155 @@
          d="m 37.238322,116.03959 17.91812,0.20316 -8.95906,-17.674251 z"
          id="path10215"
          inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cccc" />
+         sodipodi:nodetypes="cccc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#57f6a5;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path10217"
          cx="46.01223"
          cy="110.24308"
-         r="7.3368134" />
+         r="7.3368134"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Part2"
+     id="g4839"
+     inkscape:groupmode="layer">
+    <g
+       style="display:inline;opacity:1"
+       inkscape:label="boxPart2"
+       id="g4805"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <rect
+         y="40.807735"
+         x="55.184517"
+         height="52.916664"
+         width="66.523811"
+         id="rect4801"
+         style="opacity:0;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#00009c;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="133.49098"
+         x="29.547276"
+         height="64.819992"
+         width="64.781403"
+         id="rect4803"
+         style="fill:#cb7575;fill-opacity:0;fill-rule:evenodd;stroke:#0f0f46;stroke-width:1.27080679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="lblPart2"
+       id="g4811"
+       inkscape:groupmode="layer">
+      <text
+         id="text4809"
+         y="131.52287"
+         x="40.159462"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#106daa;fill-opacity:1;stroke:#d5f0fd;stroke-width:0.15875;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="fill:#106daa;fill-opacity:1;stroke:#d5f0fd;stroke-width:0.15875;stroke-opacity:1;"
+           y="131.52287"
+           x="40.159462"
+           id="tspan4807"
+           sodipodi:role="line">Cain Of Adam</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnSethPart2"
+       id="g4815"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <circle
+         r="7.331502"
+         cy="151.52718"
+         cx="45.167767"
+         id="circle4813"
+         style="opacity:1;fill:none;fill-opacity:0.99065396;stroke:#57f6a5;stroke-width:0.39099634;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="txtSethPart2"
+       id="g4821"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <text
+         transform="scale(0.84257235,1.1868417)"
+         id="text4819"
+         y="133.37808"
+         x="69.063828"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1"
+           y="133.37808"
+           x="69.063828"
+           id="tspan4817"
+           sodipodi:role="line">Seth</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnEvePart2"
+       id="g4825"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4823"
+         d="m 36.238709,189.13766 h 17.838366 l -8.919183,-17.6085 z"
+         style="fill:none;fill-opacity:1;stroke:#969cff;stroke-width:0.38988733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="txtEvePart2"
+       id="g4831"
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
+      <text
+         transform="scale(0.84257235,1.1868417)"
+         id="text4829"
+         y="157.28517"
+         x="68.570633"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#969cff;fill-opacity:1;stroke:#969cff;stroke-width:0.3826071;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#969cff;fill-opacity:1;stroke:#969cff;stroke-width:0.3826071;stroke-opacity:1"
+           y="157.28517"
+           x="68.570633"
+           id="tspan4827"
+           sodipodi:role="line">Adam</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnPart2Resolve"
+       id="g4837"
+       inkscape:groupmode="layer">
+      <path
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path4833"
+         d="m 36.65367,208.65744 17.91812,-0.20316 -8.95906,17.67425 z"
+         style="fill:none;stroke:#969cff;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="96"
+         inkscape:export-xdpi="96"
+         r="7.3368134"
+         cy="214.31116"
+         cx="45.427578"
+         id="circle4835"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#57f6a5;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="display:inline;fill:none;stroke:#ff96b4;stroke-width:0.5286113;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 40.164151,217.95109 10.524133,0.11934 -5.262067,-10.38091 z"
+         id="path10215-5"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
     </g>
   </g>
 </svg>

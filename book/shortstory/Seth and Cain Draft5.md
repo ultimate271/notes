@@ -46,6 +46,8 @@ Enjoy.
 
 ## 1. The Eden of Eve
 
+![](Part1Resolve.png)
+
 Our story begins with the birth of a child named Seth. Seth was born to a man
 named Adam and a woman named Eve. As far as Seth was aware, he was an only
 child. Or at least, he thought he was the first child.
@@ -313,6 +315,8 @@ join him in bed.
 
 ## 2. The Cain of Adam
 
+![](Part2Resolve.png)
+
 Seth awoke that morning feeling rejuvinated and ready to return to his parents.
 When he did, they welcomed him back with open arms as they always do and they
 continued to live out their lives. Much of their days were spent tending to the
@@ -550,6 +554,8 @@ With that, Adam closed the door as he left the cottage, and made his way back
 to the house, where Eve was waiting for him to join her in bed.
 
 ## 3. Seth's Demons
+
+![](Part3Resolve.png)
 
 When Seth awoke the next morning, he walked outside to find his mother working
 on the farms.
@@ -889,6 +895,9 @@ devil attempting to lure me in to some sort of trap."
 "Very well then," Cain returned. "Devil or no, I will tell you my tale of woe."
 
 ## 4. The Abel of Cain
+
+![](Part4Resolve.png)
+
 "So as you know, my young brother Seth," Cain began his story, "I was the first
 born of our parents, so named Adam and Eve. Our mother... I remember she was so
 beautiful to look upon... she raised me in the farms. By the time I was
@@ -1257,6 +1266,9 @@ them.
 but that is my tale of woe."
 
 ## 5. Cain's Demons
+
+![](Part5Resolve.png)
+
 Seth wasn't sure what to say at this point. He spent a good ammount of time
 simply sitting in the hut of his older brother and absorbing the information he
 was hearing.
@@ -1489,5 +1501,9 @@ cozy in the cottage of Cain, and was beginning to sip on his tea.
 
 ## 6. The Eden of Cain
 
+![](Part6Resolve.png)
+
 ## Epilogue
+
+![](Part1Resolve.png)
 

@@ -1,0 +1,10 @@
+---
+geometry:
+- top=30mm
+- left=20mm
+- heightrounded
+documentclass:
+- book
+classoption:
+toc: yes
+...
