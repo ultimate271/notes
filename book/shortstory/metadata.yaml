@@ -1,5 +1,5 @@
 ---
 geometry:
 - margin = 1.3in
+documentclass: book
 ...
-

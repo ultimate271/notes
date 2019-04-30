@@ -16,7 +16,8 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="Workmap.svg">
+   sodipodi:docname="Workmap.svg"
+   enable-background="new">
   <defs
      id="defs2">
     <linearGradient
@@ -27,6 +28,16 @@
          offset="0"
          id="stop5981" />
     </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter3808">
+      <feBlend
+         inkscape:collect="always"
+         mode="multiply"
+         in2="BackgroundImage"
+         id="feBlend3810" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -35,11 +46,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6203867"
-     inkscape:cx="256.00003"
-     inkscape:cy="335.63622"
+     inkscape:zoom="1.28"
+     inkscape:cx="505.70454"
+     inkscape:cy="483.85635"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4837"
+     inkscape:current-layer="g3778"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
@@ -333,6 +344,127 @@
          sodipodi:nodetypes="cccc"
          inkscape:export-xdpi="96"
          inkscape:export-ydpi="96" />
+    </g>
+  </g>
+  <g
+     style="display:inline;filter:url(#filter3808)"
+     inkscape:label="Part2"
+     id="g3806"
+     inkscape:groupmode="layer">
+    <g
+       style="display:inline;opacity:1"
+       inkscape:label="boxPart2"
+       id="g3772"
+       inkscape:groupmode="layer">
+      <rect
+         y="147.8813"
+         x="56.424751"
+         height="52.916664"
+         width="66.523811"
+         id="rect3768"
+         style="opacity:0;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#00009c;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0" />
+      <rect
+         y="136.49648"
+         x="31.372162"
+         height="64.819992"
+         width="64.781403"
+         id="rect3770"
+         style="fill:#cb7575;fill-opacity:0;fill-rule:evenodd;stroke:#0f0f46;stroke-width:1.27080679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="lblPart2"
+       id="g3778"
+       inkscape:groupmode="layer">
+      <text
+         id="text3776"
+         y="134.52837"
+         x="41.851025"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa10aa;fill-opacity:1;stroke:#fdd5f5;stroke-width:0.15875;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#aa10aa;fill-opacity:1;stroke:#fdd5f5;stroke-width:0.15875;stroke-opacity:1"
+           y="134.52837"
+           x="41.851025"
+           id="tspan3774"
+           sodipodi:role="line">Cain Of Adam</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnSethPart2"
+       id="g3782"
+       inkscape:groupmode="layer">
+      <circle
+         r="7.331502"
+         cy="154.53267"
+         cx="46.992653"
+         id="circle3780"
+         style="opacity:1;fill:none;fill-opacity:0.99065396;stroke:#57f6a5;stroke-width:0.39099634;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="txtSethPart2"
+       id="g3788"
+       inkscape:groupmode="layer">
+      <text
+         transform="scale(0.84257235,1.1868417)"
+         id="text3786"
+         y="135.91043"
+         x="71.229675"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1"
+           y="135.91043"
+           x="71.229675"
+           id="tspan3784"
+           sodipodi:role="line">Seth</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnEvePart2"
+       id="g3792"
+       inkscape:groupmode="layer">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3790"
+         d="m 38.063595,174.29817 h 17.838366 l -8.919183,17.6085 z"
+         style="fill:none;fill-opacity:1;stroke:#917af6;stroke-width:0.38988733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="txtEvePart2"
+       id="g3798"
+       inkscape:groupmode="layer">
+      <text
+         transform="scale(0.84257235,1.1868417)"
+         id="text3796"
+         y="159.81752"
+         x="68.224335"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#917af6;fill-opacity:1;stroke:#917af6;stroke-width:0.3826071;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="fill:#917af6;fill-opacity:1;stroke:#917af6;stroke-width:0.3826071;stroke-opacity:1"
+           y="159.81752"
+           x="68.224335"
+           id="tspan3794"
+           sodipodi:role="line">Adam</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="icnPart2Resolve"
+       id="g3804"
+       inkscape:groupmode="layer">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3800"
+         d="m 38.478556,211.66294 17.91812,-0.20316 -8.95906,17.67425 z"
+         style="fill:none;stroke:#917af6;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="7.3368134"
+         cy="217.31665"
+         cx="47.252464"
+         id="circle3802"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#57f6a5;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
