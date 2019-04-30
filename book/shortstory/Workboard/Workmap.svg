@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Workmap.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5983"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop5981" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="390.00938"
+     inkscape:cy="497.47934"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer9"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline"
+     sodipodi:insensitive="true" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="Part1"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="boxPart1"
+       style="display:inline;opacity:1"
+       sodipodi:insensitive="true">
+      <rect
+         style="opacity:0;fill:#0000ff;fill-opacity:1;fill-rule:evenodd;stroke:#00009c;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="rect3716"
+         width="66.523811"
+         height="52.916664"
+         x="55.184517"
+         y="40.807735" />
+      <rect
+         style="fill:#cb7575;fill-opacity:0;fill-rule:evenodd;stroke:#0f0f46;stroke-width:1.27080679;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect5987"
+         width="64.781403"
+         height="64.819992"
+         x="30.131927"
+         y="29.422905" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="lblPart1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#aa10aa;fill-opacity:1;stroke:#fdd5f5;stroke-width:0.15875;stroke-opacity:1"
+         x="42.908321"
+         y="27.4548"
+         id="text6264"><tspan
+           sodipodi:role="line"
+           id="tspan6262"
+           x="42.908321"
+           y="27.4548"
+           style="fill:#aa10aa;fill-opacity:1;stroke:#fdd5f5;stroke-width:0.15875;stroke-opacity:1">Eden Of Eve</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="icnSethPart1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <circle
+         style="opacity:1;fill:none;fill-opacity:0.99065396;stroke:#57f6a5;stroke-width:0.39099634;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path6267"
+         cx="45.752419"
+         cy="47.459106"
+         r="7.331502" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="txtSethPart1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1"
+         x="69.757713"
+         y="45.693199"
+         id="text6272"
+         transform="scale(0.84257235,1.1868417)"><tspan
+           sodipodi:role="line"
+           id="tspan6270"
+           x="69.757713"
+           y="45.693199"
+           style="fill:#57f6a5;fill-opacity:1;stroke:#57f6a5;stroke-width:0.3826071;stroke-opacity:1">Seth</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="icnEvePart1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ff96b4;stroke-width:0.38988733px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 36.823361,67.224607 H 54.661727 L 45.742544,84.833103 Z"
+         id="path6275"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer7"
+       inkscape:label="txtEvePart1"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:15.30428314px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff96b4;fill-opacity:1;stroke:#ff96b4;stroke-width:0.3826071;stroke-opacity:1"
+         x="69.264519"
+         y="69.600288"
+         id="text6280"
+         transform="scale(0.84257235,1.1868417)"><tspan
+           sodipodi:role="line"
+           id="tspan6278"
+           x="69.264519"
+           y="69.600288"
+           style="fill:#ff96b4;fill-opacity:1;stroke:#ff96b4;stroke-width:0.3826071;stroke-opacity:1">Eve</tspan></text>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer8"
+       inkscape:label="icnPart1Resolve"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <path
+         style="fill:none;stroke:#ff96b4;stroke-width:0.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 37.238322,116.03959 17.91812,0.20316 -8.95906,-17.674251 z"
+         id="path10215"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <circle
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#57f6a5;stroke-width:0.89999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path10217"
+         cx="46.01223"
+         cy="110.24308"
+         r="7.3368134" />
+    </g>
+  </g>
+</svg>
