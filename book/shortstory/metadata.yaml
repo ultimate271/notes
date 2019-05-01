@@ -1,5 +1,21 @@
 ---
+title: 'The Dialogue of Seth and Cain'
+author: 'Gerald B. Orbweaver'
 geometry:
 - margin = 1.3in
-documentclass: book
+documentclass:
+- report
+classoption:
+- twoside
+- titlepage
+fontsize: 12pt
+customchapters: true
+chapternumbers: true
+chapterdelimiter: ': '
+
+
+#include-before: |
+#    \frontmatter
+#include-after: |
+#    \mainmatter
 ...

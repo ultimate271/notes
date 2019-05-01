@@ -1,8 +1,15 @@
-pandoc -o "SethAndCain.pdf" ^
-    "src\001.md" ^
-    "src\002.md" ^
-    "src\003.md" ^
-    "src\004.md" ^
-    "src\005.md" ^
-    "src\006.md" ^
-    "metadata.yaml"
+cd src
+pandoc -o "..\bin\SethAndCain.pdf" ^
+    "001.md" ^
+    "002.md" ^
+    "003.md" ^
+    "004.md" ^
+    "005.md" ^
+    "006.md" ^
+    "007.md" ^
+    "008.md" ^
+    "..\metadata.yaml" ^
+    --template="template.latex"
+cd ..
+
+
