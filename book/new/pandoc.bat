@@ -3,8 +3,7 @@ setlocal
 
 for %%I in (.) do set CurrDirName=%%~nxI
 
-echo (Starting) [Executing pandoc.bat for %CurrDirName%]
-echo                                                             ...
+echo --- [BATCH FILE pandoc.bat IN %CurrDirName% BEGIN] ---
 
 cd src
 
@@ -14,7 +13,9 @@ for %%I in (*.md) do (
     call set "SrcList=%%SrcList%% ""%%I"""
     echo   SRC : %%I
 )
+echo                                                             !
 echo (Update) [Checking Metadata]
+echo                                                             ...
 if exist "metadata.yaml" (
     call set "SrcList=%%SrcList%% ""metadata.yaml"""
     echo   FOUND: metadata.yaml
@@ -28,6 +29,7 @@ if exist "template.latex" (
     echo   MISSING: template.latex
 )
 
+echo                                                             ...
 echo (Complete) [Retrieving Source]
 echo                                                             !
 echo (Starting) [Executing pandoc]
@@ -36,13 +38,15 @@ echo pandoc -o "..\bin\something.pdf" "file001.md" "file323.md" "metadata.yaml" 
 
 pandoc -o "..\bin\%CurrDirName%.pdf" %SrcList%
 
+echo                                                             ...
 echo (Complete) [Executing pandoc]
 echo                                                             !
 echo   OUT : %CurrDirName%.pdf copied to bin folder
+echo                                                             !
 
 cd ..
 
-echo (Complete) [Executing pandoc.bat for %CurrDirName%]
-echo                                                             !
+echo --- [BATCH FILE pandoc.bat END] ---
 endlocal
+
 
