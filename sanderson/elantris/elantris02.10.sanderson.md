@@ -4,6 +4,25 @@
 [Author]: # {sanderson}
 
 # CHAPTER 10
+_Proper People(From Chapter 7)_
+_Prince Raoden of Arelon: Shaod and new resident of Elantris_
+_Galloden of Duladel: Shaod and Arelon by blood_
+_Mareshe: Another new member of Elantris_
+
+_More Newcomers_
+_Maare(She):Simple Housewife_
+_Riil(He):Workman_
+_Saolin: Soldier in Count Eondel's legion_
+
+_Ien: Seon of Raoden_
+
+_Gang Leaders of Elantris_
+_Shaor(He): Ruler of the market section_
+_Karata(She): Ruler of the palace section_
+_Aanden(He): Ruler of university section_
+
+
+## Raoden and Galloden recruit three more newcomers
 “Sule, I don’t think this is a good idea.” Galladon’s whisper was
 unenthusiastic as he crouched next to Raoden.
 
@@ -115,6 +134,7 @@ men. The other two gangs could only watch with frustration as all three dashed
 away.
 
 
+## Raoden and Mareshe make introductions with the three newcomers
 “What can you do?” Raoden asked.
 
 The woman shrugged. “Maare is my name, my lord. I was a simple housewife. I
@@ -258,6 +278,7 @@ The four nodded, and Mareshe began to explain the limitations of life in
 Elantris as he divided the food. Raoden watched for a moment, then turned away
 to think.
 
+## Raoden and Galloden discuss life and the universe on Elantris
 “Sule, my hama would love you. She always complained that I don’t get enough
 exercise.” Raoden looked up as Galladon strode into the room.
 
@@ -374,6 +395,7 @@ going to be done anytime soon. Come on, there’s something I want to do.”
 “Only if they spot us.”
 
 
+## Raoden and Galloden spy on Aanden before exchanging stories of their pasts
 Raoden recognized Aanden. It was difficult to see—the Shaod brought profound
 changes—but Raoden had a knack for faces. The so-called Baron of Elantris was a
 short man with a sizable paunch and a long drooping mustache that was obviously
@@ -554,6 +576,7 @@ was something more, something he wasn’t ready to share yet.
 
 “All right,” Raoden said appreciatively. “I believe you.”
 
+## Raoden's old Seon, Ien, approaches Raoden, but does not recognize him
 Galladon nodded curtly, his expression saying he was very glad the matter was
 settled. Whatever he was hiding, it wouldn’t come out this day. So, instead,
 Raoden took the opportunity to ask a question that had been bothering him since
