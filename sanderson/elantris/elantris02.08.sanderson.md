@@ -9,9 +9,7 @@ _Princess Sarene of Teod_
 _Ashe: The Seon of Sarene_
 _King Iaoden of Arelon_
 _Queen Eshen of Arelon_
-_Gyorn Hrathen of Fjordell (From Chapter 3)_
 
-_People(From Chapter 5)_
 _Kiin: Uncle to Sarene(husband to Daora)_
 _Lukel(Male): Older step-cousin to Sarene (son of Daora)_
 _Kaise(Female): Cousin to Sarene_

@@ -4,6 +4,22 @@
 [Author]: # {sanderson}
 
 # CHAPTER 11
+_People(From chapter 2)_
+_Princess Sarene of Teod_
+_Ashe: The Seon of Sarene_
+_King Iaoden of Arelon_
+_Queen Eshen of Arelon_
+
+_Kiin: Uncle to Sarene(husband to Daora)_
+_Lukel(Male): Older step-cousin to Sarene (son of Daora)_
+_Kaise(Female): Cousin to Sarene_
+_Daorn(Male): Cousin to Sarene_
+
+_Places_
+_Kae: Capital of Arelon_
+_Fjorden: Center of Derethi_
+
+##
 Only five men responded to Kiin’s request. Lukel scowled at the meager turnout.
 “Raoden had as many as thirty men at his meetings before he died,” the handsome
 merchant explained. “I didn’t expect them all to come running, but five? That’s
