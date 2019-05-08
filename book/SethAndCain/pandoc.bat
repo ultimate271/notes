@@ -41,7 +41,13 @@ pandoc -o "..\bin\%CurrDirName%.pdf" %SrcList%
 echo                                                             ...
 echo (Complete) [Executing pandoc]
 echo                                                             !
+echo                                                             ...
 echo   OUT : %CurrDirName%.pdf copied to bin folder
+
+copy "..\bin\%CurrDirName%.pdf" "..\bin\out.pdf"
+
+echo                                                             ...
+echo   OUT : bin\out.pdf copied to bin folder
 echo                                                             !
 
 cd ..
