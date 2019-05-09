@@ -9,9 +9,14 @@ classoption:
 - twoside
 - titlepage
 fontsize: 12pt
+
+################################################################################
+### Custom Chapters ###########################################################
+################################################################################
+
 customchapters: true
-chapternumbers: true
-chapterdelimiter: ': '
+# chapternumbers: true
+# chapterdelimiter: ': '
 
 
 #include-before: |

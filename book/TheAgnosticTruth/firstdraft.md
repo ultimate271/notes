@@ -850,11 +850,11 @@ expression to a function" (beta reduction, in lambda calculus terms), we can
 create an encoding of the natural numbers.
 
 So we can say "give me a function f, and a variable x, and I will apply that
-function to x 0 times." We will label this lambda experssion (\f -> \x -> x) 0.
+function to x 0 times." We will label this lambda experssion (\\f -> \\x -> x) 0.
 Then, we will have another expression, being "give me a function f and a
-variable x and apply f to x 1 time" (\f -> \x -> f x) to be the definiton of 1.
-Then two would be (\f -> \x -> f (f x)). We can define a SUCC function as the
-lambda (\n -> \f -> \x -> f (n f x)) or "the function that takes a church
+variable x and apply f to x 1 time" (\\f -> \\x -> f x) to be the definiton of 1.
+Then two would be (\\f -> \\x -> f (f x)). We can define a SUCC function as the
+lambda (\\n -> \\f -> \\x -> f (n f x)) or "the function that takes a church
 lambda and applies (f x) n times, before defining f one more time"
 
 We can then define lambda's for things like addition, subtraction,
