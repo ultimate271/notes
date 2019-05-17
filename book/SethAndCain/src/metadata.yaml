@@ -9,6 +9,9 @@ classoption:
 - twoside
 - titlepage
 fontsize: 12pt
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
 
 ################################################################################
 ### Custom Chapters ###########################################################
