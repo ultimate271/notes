@@ -1,0 +1,31 @@
+---
+title: 'The Dialogue of Seth and Cain (Draft)'
+author: 'Gerald B Orbweaver'
+geometry:
+- margin = 1.3in
+documentclass:
+- report
+classoption:
+- twoside
+- titlepage
+#- twocolumn
+#- landscape
+fontsize: 12pt
+header-includes:
+    - \usepackage{setspace}
+    - \doublespacing
+
+################################################################################
+### Custom Chapters ###########################################################
+################################################################################
+
+customchapters: true
+# chapternumbers: true
+# chapterdelimiter: ': '
+
+
+#include-before: |
+#    \frontmatter
+#include-after: |
+#    \mainmatter
+...
