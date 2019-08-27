@@ -1,6 +1,6 @@
 ---
 title: 'The Dialogue of Seth and Cain (Draft)'
-author: 'Gerald B. Orbweaver'
+author: 'Gerald B Orbweaver'
 geometry:
 - margin = 1.3in
 documentclass:
@@ -8,6 +8,8 @@ documentclass:
 classoption:
 - twoside
 - titlepage
+#- twocolumn
+#- landscape
 fontsize: 12pt
 header-includes:
     - \usepackage{setspace}
